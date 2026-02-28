@@ -72,7 +72,6 @@ One row per survey respondent (US tenure-track faculty, fields with ≥ 100 part
 | `mid_init_venue_db_id` | Mid-ranked aspiration venue ID |
 | `low_init_venue_db_id` | Low-ranked aspiration venue ID |
 | `venue_bug` | True if Science was not displayed correctly (exclude from analyses) |
-| `hash` | Anonymized respondent token |
 | `gender` | `gm` (men) / `gf` (women) / NaN (not reported) |
 | `aa_area` | Academic area from affiliation database |
 | `clusters_20` | Field cluster assignment (k=20) |
