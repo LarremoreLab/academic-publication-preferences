@@ -1,0 +1,421 @@
+venue_db_id,name,jcr_jif
+1647091,The Lancet,98.4
+1647092,Nature,50.5
+1647094,Science,44.7
+1647096,PLOS ONE,2.9
+1647097,JAMA,63.1
+1647098,Bulletin of the American Physical Society,
+1647100,Journal of the American Chemical Society,14.4
+1647101,Journal of Biological Chemistry,4.0
+1647102,AGU Fall Meeting Abstracts,
+1647104,Journal of Physics: Conference Series,
+1647105,Scientific Reports,3.8
+1647107,Journal of the Acoustical Society of America,2.1
+1647108,PNAS,9.4
+1647110,Cancer Research,12.5
+1647112,Journal of Applied Physics,2.7
+1647113,Journal of Chemical Physics,3.1
+1647116,Gastroenterology,25.7
+1647118,Physical Review Letters,8.1
+1647119,Proceedings of SPIE,
+1647121,Applied Physics Letters,3.5
+1647122,Analytical Chemistry,6.7
+1647123,The FASEB Journal,4.4
+1647125,The New England Journal of Medicine,96.2
+1647127,Angewandte Chemie,
+1647129,The Astrophysical Journal,4.8
+1647130,AGUFM,
+1647138,EGU General Assembly Conference Abstracts,
+1647140,Biochemical and Biophysical Research Communications,2.5
+1647144,Journal of Geophysical Research,
+1647149,Japanese Journal of Applied Physics,1.5
+1647150,Monthly Notices of the Royal Astronomical Society,4.7
+1647152,Angewandte Chemie International Edition,16.1
+1647159,Biophysical Journal,3.2
+1647164,Biochemistry,2.9
+1647165,MRS Proceedings,
+1647166,Astronomy and Astrophysics,5.4
+1647169,Annals of the New York Academy of Sciences,4.1
+1647172,Inorganic Chemistry,4.3
+1647173,Chemical Communications,4.3
+1647177,Chemical Physics Letters,2.8
+1647179,Physics Letters B,4.3
+1647183,IEEE Access,3.4
+1647185,Environmental Science & Technology,10.8
+1647186,Science of The Total Environment,8.2
+1647191,Conference on Lasers and Electro-Optics,
+1647193,EGUGA,
+1647196,FEBS Letters,3.0
+1647197,Applied Surface Science,6.3
+1647203,Physical Review A,2.6
+1647204,Astronomische Nachrichten,1.1
+1647209,Journal of Bacteriology,2.7
+1647210,Review of Scientific Instruments,1.3
+1647212,Optics Express,3.2
+1647216,Physics Today,2.8
+1647218,Electronics Letters,0.7
+1647223,Nuclear Instruments and Methods in Physics Research,1.5
+1647224,New Scientist,
+1647231,The Journal of Physical Chemistry,
+1647233,Langmuir,3.7
+1647235,Nucleic Acids Research,16.6
+1647236,Physics Letters,
+1647237,Journal of Physical Chemistry C,3.3
+1647240,Proceedings of the American Mathematical Society,0.8
+1647242,American Mathematical Monthly,0.4
+1647243,Nature Communications,14.7
+1647245,Physical Review,
+1647248,Journal of Virology,4.0
+1647249,Vacuum,3.8
+1647251,The Journal of Pediatrics,3.9
+1647258,Macromolecules,5.1
+1647261,Physical Chemistry Chemical Physics,2.9
+1647262,ACS Applied Materials & Interfaces,8.3
+1647264,Journal of Physical Chemistry B,2.8
+1647273,Geophysical Research Letters,4.6
+1647274,Thin Solid Films,2.0
+1647275,Journal of Magnetism and Magnetic Materials,2.5
+1647278,IEEE Transactions on Magnetics,2.1
+1647285,Applied optics,
+1647288,Journal of the Physical Society of Japan,1.5
+1647291,Solid State Communications,2.1
+1647303,Nuclear Instruments & Methods in Physics Research Section B-beam Interactions With Materials and Atoms,1.4
+1647306,Monthly Weather Review,2.8
+1647313,Journal of Colloid and Interface Science,9.4
+1647314,Materials Science and Engineering A-structural Materials Properties Microstructure and Processing,6.1
+1647315,Journal of Crystal Growth,1.7
+1647320,The Journal of Neuroscience,4.4
+1647326,Journal of Dairy Science,3.7
+1647328,Optics Letters,3.1
+1647336,Journal of Physics: Condensed Matter,2.3
+1647340,Nuclear Physics A,1.7
+1647346,Journal of Physical Chemistry A,2.7
+1647350,Journal of High Energy Physics,5.0
+1647351,Physica Status Solidi B-basic Solid State Physics,1.5
+1647352,Journal of Molecular Structure,4.0
+1647367,Physical Review C,3.2
+1647369,Optics Communications,2.2
+1647373,Journal of Molecular Biology,4.7
+1647376,Physical Review B,3.2
+1647405,Frontiers in Psychology,2.6
+1647431,Dalton Transactions,3.5
+1647432,Acta Physica Sinica,0.8
+1647456,Molecular and Cellular Biology,3.2
+1647459,Advanced Materials,27.4
+1647461,Transactions of the American Mathematical Society,1.2
+1647462,IEEE Transactions on Nuclear Science,1.9
+1647465,Bulletin of the American Astronomical Society,
+1647481,Biochemical Society Transactions,3.8
+1647486,Physica A: Statistical Mechanics and its Applications,2.8
+1647487,The Astronomical Journal,5.1
+1647496,Physical Review E,2.2
+1647500,Nuclear Physics B,2.5
+1647501,arXiv: High Energy Physics - Phenomenology,
+1647507,Microscopy and Microanalysis,2.9
+1647510,"Eos, Transactions American Geophysical Union",
+1647511,APS March Meeting Abstracts,
+1647518,Virology,2.8
+1647542,Journal of Cell Biology,7.4
+1647544,Journal of Fluid Mechanics,3.6
+1647560,eLife,6.4
+1647567,Lunar and Planetary Science Conference,
+1647588,AAS,
+1647595,Physical Review D,4.6
+1647607,Cell,45.5
+1647609,American Journal of Physics,0.8
+1647610,Nanoscale,5.8
+1647612,Physics of Plasmas,2.0
+1647620,Geochimica et Cosmochimica Acta,4.5
+1647624,Experimental Cell Research,3.3
+1647628,Journal of Mathematical Physics,1.2
+1647650,Bulletin of the American Meteorological Society,6.9
+1647657,Advances in Space Research,2.8
+1647704,Advanced Functional Materials,18.5
+1647722,Current Biology,8.1
+1647723,Physica Scripta,2.6
+1647736,Nanotechnology,2.9
+1647751,arXiv: Astrophysics,
+1647757,IEEE Photonics Technology Letters,2.3
+1647774,Genetics,3.3
+1647775,Journal of Physics A: Mathematical and General,
+1647789,EPL,1.8
+1647796,Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy,4.3
+1647807,The EMBO Journal,9.4
+1647810,Astrophysics and Space Science,1.8
+1647843,Journal of Lightwave Technology,4.1
+1647852,Earth and Planetary Science Letters,4.8
+1647854,Iau Symposia,
+1647867,Epj Web of Conferences,
+1647872,Nano Letters,9.6
+1647873,Biochimica Et Biophysica Acta - Biomembranes,2.8
+1647875,Journal of Physics and Chemistry of Solids,4.3
+1647896,arXiv: High Energy Physics - Theory,
+1647905,Chemical Physics,2.0
+1647908,ACS Nano,15.8
+1647914,Nuclear Physics B: Proceedings Supplements,
+1647927,Physics of Fluids,4.1
+1647936,The European Physical Journal A,2.6
+1647941,Journal of Computational Physics,3.8
+1647945,Geophysical Journal International,2.8
+1647966,Acta Materialia,8.3
+1647977,Publications of the Astronomical Society of the Pacific,3.3
+1648013,Quarterly Journal of the Royal Meteorological Society,3.0
+1648025,Soft Matter,2.9
+1648032,Journal of Theoretical Biology,1.9
+1648036,ACS omega,3.7
+1648037,LPI,
+1648043,Journal of Materials Chemistry C,5.7
+1648051,Journal of the Optical Society of America,1.4
+1648057,IEEE Transactions on Geoscience and Remote Sensing,7.5
+1648076,IEEE Journal of Quantum Electronics,2.2
+1648085,Small,13.0
+1648088,Journal of Vacuum Science and Technology A,2.4
+1648094,Journal of Physics B,1.5
+1648115,The Physics Teacher,0.5
+1648126,Proceedings of the International Astronomical Union,
+1648135,IEEE Transactions on Plasma Science,1.3
+1648194,Atmospheric Chemistry and Physics,5.2
+1648204,Il Nuovo Cimento,
+1648236,Icarus,2.5
+1648244,Nuclear Instruments and Methods,
+1648260,Canadian Journal of Physics,1.1
+1648271,European Physical Journal C,4.2
+1648306,Scripta Materialia,5.3
+1648317,Journal of The Optical Society of America B-optical Physics,1.8
+1648339,Classical and Quantum Gravity,3.6
+1648385,International Journal of Solids and Structures,3.4
+1648387,Journal of Physics C: Solid State Physics,
+1648416,International Journal of Modern Physics B,2.6
+1648425,Biochimica Et Biophysica Acta - Bioenergetics,3.4
+1648455,arXiv: General Relativity and Quantum Cosmology,
+1648460,ASPC,
+1648466,Journal of the Atmospheric Sciences,3.0
+1648474,Journal of Physical Chemistry Letters,4.8
+1648523,Journal of Visualized Experiments,1.2
+1648536,Neuron,14.7
+1648553,New Journal of Physics,2.8
+1648557,Chaos Solitons & Fractals,5.3
+1648576,International Journal of Modern Physics,1.4
+1648581,Applied Spectroscopy,2.2
+1648597,Science Education,3.1
+1648612,Computer Physics Communications,7.2
+1648625,Acta Astronautica,3.1
+1648640,Journal of Physics A,2.0
+1648651,Journal of Climate,4.8
+1648662,The Physics of fluids,
+1648669,Annals of Physics,3.0
+1648676,Solar Physics,2.7
+1648689,Journal of Vacuum Science and Technology B,
+1648694,Nuclear Fusion,3.5
+1648701,Astrophysics and space science library,
+1648720,American Astronomical Society Meeting Abstracts,
+1648820,Communications in Mathematical Physics,2.2
+1648866,Modern Physics Letters A,1.5
+1648874,Planetary and Space Science,1.8
+1648904,PLOS Genetics,4.0
+1648909,Cognitive Science,2.3
+1648954,Journal of Statistical Physics,1.3
+1649011,Hyperfine Interactions,
+1649014,Journal of Low Temperature Physics,1.1
+1649027,Viruses,3.8
+1649053,PLOS Computational Biology,3.8
+1649124,Advances in Mathematics,1.5
+1649149,Nature Genetics,31.7
+1649175,Symmetry,2.2
+1649183,Proceedings of the Royal Society of London,
+1649210,Journal of Spacecraft and Rockets,1.3
+1649239,Entropy,2.1
+1649243,Journal of Cosmology and Astroparticle Physics,5.3
+1649250,Physica D: Nonlinear Phenomena,2.7
+1649258,Science Advances,11.7
+1649348,Journal of Instrumentation,1.3
+1649349,Modern Physics Letters B,1.8
+1649368,Chemical Reviews,51.4
+1649476,International Cosmic Ray Conference,
+1649508,Molecular Cell,14.5
+1649589,Journal of Physics B: Atomic and Molecular Physics,
+1649695,Plasma Physics and Controlled Fusion,2.1
+1649748,The Astrophysical Journal Letters,8.8
+1649772,Journal of Chemical Theory and Computation,5.7
+1649773,Genes & Development,7.5
+1649776,APS Division of Fluid Dynamics Meeting Abstracts,
+1649800,Journal Of Geophysical Research: Atmospheres,3.8
+1649839,Radio Science,1.6
+1649842,Journal of Physics G,3.4
+1649856,IEEE Antennas and Wireless Propagation Letters,3.7
+1649868,Virus Research,2.5
+1649892,Journal of Microscopy,1.5
+1649996,General Relativity and Gravitation,2.1
+1650078,Liquid Crystals,2.4
+1650112,Physics Education,
+1650124,Journal Of Geophysical Research: Space Physics,2.6
+1650137,Meteoritics & Planetary Science,2.2
+1650158,Atmosphere,2.5
+1650203,Acta Metallurgica,
+1650283,Annales Geophysicae,1.7
+1650375,Computers in Biology and Medicine,7.0
+1650379,International Journal of Fracture,2.2
+1650393,Astrophysical Journal Supplement Series,8.6
+1650461,Communications in Nonlinear Science and Numerical Simulation,3.4
+1650468,Journal of Physics E: Scientific Instruments,
+1650477,Nature Neuroscience,21.2
+1650484,Journal of atmospheric and terrestrial physics,
+1650525,Nature Methods,36.1
+1650527,Chaos,2.7
+1650708,International Journal of Mass Spectrometry,1.6
+1650766,Nuclear physics,
+1650810,Space Science Reviews,9.1
+1650905,Siam Review,10.8
+1650914,The Journal of Membrane Biology,2.3
+1650953,Annals of Mathematics,5.7
+1651000,arXiv e-prints,
+1651168,Nature Physics,17.6
+1651169,Educational Researcher,5.4
+1651185,Publications of the Astronomical Society of Japan,2.2
+1651306,HST Proposal,
+1651330,Mathematical biosciences,1.9
+1651363,Nature Materials,37.2
+1651426,Physics Reports,23.9
+1651435,Review of Educational Research,8.3
+1651463,Cognition,2.8
+1651487,Results in physics,4.4
+1651507,Advanced Optical Materials,8.0
+1651563,Journal of Statistical Mechanics: Theory and Experiment,2.2
+1651580,Zeitschrift Für Physik C Particles And Fields,
+1651725,Bulletin of Mathematical Biology,2.0
+1651738,European Journal of Physics,0.6
+1651754,Physical review applied,3.8
+1651784,Journal of Atmospheric and Oceanic Technology,1.9
+1651795,Journal of Atmospheric and Solar-Terrestrial Physics,1.8
+1651822,Journal of Plasma Physics,2.1
+1651832,Philosophical Magazine,1.5
+1651889,SIAM Journal on Scientific Computing,3.0
+1652083,Nature Nanotechnology,38.1
+1652114,Chinese Physics C,3.6
+1652120,International Journal of Modern Physics D,1.8
+1652148,arXiv: Astrophysics of Galaxies,
+1652156,Journal of Research in Science Teaching,3.6
+1652395,Progress of theoretical physics. Supplement,
+1652423,Physical review research,3.5
+1652537,Photosynthesis Research,2.9
+1652563,Inventiones Mathematicae,2.6
+1652723,Plasma Sources Science and Technology,3.3
+1652803,Nature Photonics,32.3
+1652828,Nature Chemical Biology,12.9
+1652949,Letters in Mathematical Physics,1.3
+1653127,Journal of the Royal Society Interface,3.7
+1653449,Physical Review Materials,3.1
+1653470,Nature Chemistry,19.2
+1653903,ACS Photonics,6.5
+1653905,"G3: Genes, Genomes, Genetics",2.1
+1653919,SIAM Journal on Computing,1.2
+1654033,APS Division of Nuclear Physics Meeting Abstracts,
+1654260,Vibrational Spectroscopy,2.7
+1654270,Reviews of Modern Physics,45.9
+1654289,Journal of Rheology,3.0
+1654300,Physical review fluids,2.5
+1654390,International Journal of Science Education,2.2
+1654407,Frontiers in Physics,1.9
+1654432,Law and contemporary problems,
+1654577,Monthly Notices of the Royal Astronomical Society: Letters,
+1655204,Publications of the Astronomical Society of Australia,4.5
+1655713,Europhysics News,
+1656503,Science China-earth Sciences,6.0
+1656536,Geoscientific Model Development,4.0
+1656828,Chandra Proposal,
+1657067,Astroparticle Physics,4.2
+1657068,Journal of Physics G: Nuclear Physics,
+1657549,Reviews of Geophysics,25.2
+1657570,Reports on Progress in Physics,19.0
+1657823,New Astronomy,1.9
+1657873,Physical Review X,11.6
+1658820,Progress in Particle and Nuclear Physics,14.5
+1658979,Research in Science Education,2.2
+1659084,Frontiers,1.8
+1659120,Space Weather-the International Journal of Research and Applications,3.8
+1659145,"Physics of fluids. B, Plasma physics",
+1659204,Chinese Journal of Chemical Physics,1.2
+1659313,Journal Of Geophysical Research: Planets,3.9
+1659452,Science & education,2.1
+1659852,Optica,8.4
+1659927,Astrobiology,3.5
+1660020,Universe,2.5
+1660414,Journal of the British Interplanetary Society,
+1660528,Ocean Modelling,3.1
+1660531,Journal of open source software,
+1660597,Nature Astronomy,12.9
+1660690,Journal of Advances in Modeling Earth Systems,4.4
+1661029,Annales Henri Poincaré,1.4
+1661406,New Astronomy Reviews,11.7
+1661484,Communications in Computational Physics,2.6
+1662312,Physical review accelerators and beams,1.5
+1662459,Astronomy & astrophysics. Supplement series,
+1662995,Nonlinear Processes in Geophysics,1.7
+1663024,Granular Matter,2.3
+1663221,Journal of Science Education and Technology,3.3
+1663313,Cognitive Psychology,3.0
+1663368,Nature Human Behaviour,21.4
+1663830,NOAO Proposal,
+1663873,Earth and Space Science,2.9
+1664165,Experimental Astronomy,2.7
+1664529,Journal of the American Association of Variable Star Observers (JAAVSO),
+1664737,Annual Review of Fluid Mechanics,25.4
+1664745,American Astronomical Society Meeting Abstracts #235,
+1664954,CBE- Life Sciences Education,4.6
+1665245,Annual Review of Astronomy and Astrophysics,26.3
+1665385,Research notes of the AAS,
+1666244,Siam Journal on Applied Dynamical Systems,1.7
+1666520,Matter,17.3
+1667976,SciPost physics,4.6
+1669388,Frontiers in Astronomy and Space Sciences,2.6
+1669469,Journal of Astronomy and Space Sciences,0.6
+1669586,European Physical Journal A,
+1670664,International Journal of Astrobiology,1.7
+1670849,noao,
+1671642,Quantum,5.1
+1672728,Physics of the Dark Universe,5.0
+1673134,The Journal of the Learning Sciences,3.0
+1673704,Interdisciplinary Sciences: Computational Life Sciences,3.9
+1673842,Solid state physics,
+1674138,"Journal of Astronomical Telescopes, Instruments, and Systems",1.7
+1674341,Proceedings of 36th International Cosmic Ray Conference — PoS(ICRC2019),
+1675755,Physical Review Physics Education Research,2.6
+1675865,American Astronomical Society Meeting Abstracts #229,
+1676321,Quantum science and technology,5.6
+1677485,Proc SPIE,
+1677699,Cognition and Instruction,2.3
+1678559,The planetary science journal,3.8
+1680051,Advanced quantum technologies,4.4
+1680828,JACS Au,8.5
+1681751,Applied Network Science,1.3
+1681860,Astronomy and Computing,1.9
+1682459,JHEP reports,9.5
+1682908,PRX quantum,9.3
+1684730,Journal of Complex Networks,2.2
+1685137,Journal of college science teaching,
+1685680,International Journal of Astronomy and Astrophysics,
+1686720,Structural Dynamics,2.3
+1688233,International Journal of STEM Education,5.6
+1688457,EPJ Data Science,3.0
+1688865,Physical Review Special Topics-physics Education Research,
+1689104,Nature Computational Science,12.0
+1691039,"Geoscientific instrumentation, methods and data systems",1.8
+1693640,"Physical Review. D. Covering Particles, Fields, Gravitation, and Cosmology",
+1695926,PNAS nexus,2.2
+1696383,CourseSource,
+1696940,Earth Moon and Planets,
+1697155,JOSAB,
+1697694,Nuclear Instruments & Methods in Physics Research Section A-accelerators Spectrometers Detectors and Associated Equipment,
+1697976,Journal of Astronomical Instrumentation,1.5
+1700931,Proc. SPIE,
+1704966,European Journal of Physics Education,
+1706544,PASP,
+1707949,AVS quantum science,4.2
+1708323,JVST,
+1708460,American Astronomical Society,
+1708487,Atmospheric Chemistry and Physics (Web),
+1709292,SciPost physics core,2.6
+1709647,The Open astronomy journal,
+1710061,International Journal of Modern Physics A,
+1710962,Biophysical reports,2.4
+1711431,Open Journal of Astrophysics,

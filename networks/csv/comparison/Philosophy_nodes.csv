@@ -1,0 +1,395 @@
+venue_db_id,name,jcr_jif
+1647091,The Lancet,98.4
+1647092,Nature,50.5
+1647093,British Medical Journal (BMJ),93.6
+1647094,Science,44.7
+1647096,PLOS ONE,2.9
+1647097,JAMA,63.1
+1647101,Journal of Biological Chemistry,4.0
+1647105,Scientific Reports,3.8
+1647107,Journal of the Acoustical Society of America,2.1
+1647108,PNAS,9.4
+1647117,Journal of Clinical Oncology,42.1
+1647118,Physical Review Letters,8.1
+1647125,The New England Journal of Medicine,96.2
+1647128,Circulation,35.5
+1647129,The Astrophysical Journal,4.8
+1647133,Journal of the American College of Cardiology,21.7
+1647159,Biophysical Journal,3.2
+1647164,Biochemistry,2.9
+1647169,Annals of the New York Academy of Sciences,4.1
+1647178,Pediatrics,6.2
+1647179,Physics Letters B,4.3
+1647181,Annals of Internal Medicine,19.6
+1647203,Physical Review A,2.6
+1647219,American Journal of Cardiology,2.3
+1647240,Proceedings of the American Mathematical Society,0.8
+1647243,Nature Communications,14.7
+1647245,Physical Review,
+1647254,American Journal of Psychiatry,15.1
+1647280,PsycTESTS Dataset,
+1647287,Stroke,7.8
+1647325,American Heart Journal,3.7
+1647350,Journal of High Energy Physics,5.0
+1647373,Journal of Molecular Biology,4.7
+1647380,Journal of Clinical Investigation,13.3
+1647405,Frontiers in Psychology,2.6
+1647409,World Literature Today,0.3
+1647410,American Political Science Review,5.9
+1647457,British Journal of Psychiatry,8.7
+1647461,Transactions of the American Mathematical Society,1.2
+1647500,Nuclear Physics B,2.5
+1647506,BMJ Open,2.4
+1647539,Lecture Notes in Mathematics,
+1647607,Cell,45.5
+1647628,Journal of Mathematical Physics,1.2
+1647710,The Journal of Asian Studies,1.3
+1647722,Current Biology,8.1
+1647727,Isis,1.0
+1647839,Social Science & Medicine,4.9
+1647841,ACM Conference on Human Factors in Computing Systems (CHI),
+1647863,Harvard Law Review,3.5
+1647878,Journal of Symbolic Logic,0.5
+1647960,Michigan Law Review,2.1
+1648033,The Journal of Modern History,0.7
+1648039,Yale Law Journal,5.2
+1648093,Journal of Personality and Social Psychology,6.4
+1648119,Mind,1.8
+1648146,BioScience,7.6
+1648157,Behavioral and Brain Sciences,16.6
+1648217,Teachers College Record,1.3
+1648361,Renaissance Quarterly,1.2
+1648402,Nature Medicine,58.7
+1648434,American Journal of Agricultural Economics,4.2
+1648464,Language,1.9
+1648473,Columbia Law Review,3.4
+1648479,Mathematische Annalen,1.3
+1648491,Psychological Medicine,5.9
+1648524,American Sociological Review,7.1
+1648556,The Journal of Hellenic Studies,0.7
+1648574,The Journal of Philosophy,1.6
+1648635,Journal of the American Academy of Religion,0.8
+1648727,Heliyon,3.4
+1648737,The Journal of Politics,3.5
+1648813,Pacific Journal of Mathematics,0.7
+1648820,Communications in Mathematical Physics,2.2
+1648890,Psychological Bulletin,17.3
+1648893,The Journal of Aesthetics and Art Criticism,1.0
+1648909,Cognitive Science,2.3
+1648927,Ethics,4.6
+1649041,Archives of General Psychiatry,
+1649056,The American Economic Review,10.5
+1649107,The Philosophical Review,2.8
+1649239,Entropy,2.1
+1649246,Virginia Law Review,2.4
+1649258,Science Advances,11.7
+1649267,California Law Review,2.2
+1649318,Synthese,1.3
+1649355,Journal of Business Ethics,5.9
+1649602,Deutsche Zeitschrift für Philosophie,0.2
+1649607,Philosophy,0.8
+1649806,American Journal of Philology,0.6
+1649884,Philosophy and Phenomenological Research,1.3
+1649921,Analysis,1.1
+1649987,Journal of Social Psychology,1.8
+1649999,BioEssays,3.2
+1650047,Hastings Center Report,2.3
+1650086,Ecological Economics,6.6
+1650268,Journal of Medical Ethics,3.3
+1650301,British Journal of Social Work,1.8
+1650345,Philosophy of Science,1.4
+1650354,Psychological Review,5.1
+1650477,Nature Neuroscience,21.2
+1650524,The Heythrop Journal,0.1
+1650527,Chaos,2.7
+1650616,Academy of Management Journal,9.5
+1650682,"Journal of Experimental Psychology: Learning, Memory and Cognition",2.2
+1650725,Acta Psychologica,2.1
+1650892,Philosophical Studies,1.1
+1650949,Classical quarterly,0.2
+1650953,Annals of Mathematics,5.7
+1650978,Monthly Review,1.0
+1651058,The Philosophical Quarterly,1.1
+1651063,Lingua,1.1
+1651074,Journal of Pragmatics,1.8
+1651083,American Journal of Bioethics,17.0
+1651135,Israel Journal of Mathematics,0.8
+1651169,Educational Researcher,5.4
+1651313,The Monist,0.6
+1651333,American Behavioral Scientist,2.3
+1651367,The Modern Schoolman,
+1651424,Journal of Teacher Education,3.1
+1651435,Review of Educational Research,8.3
+1651463,Cognition,2.8
+1651581,University of Chicago Law Review,1.9
+1651701,Journal of the History of Philosophy,0.7
+1651712,Public Choice,1.6
+1651834,The American Journal of Economics and Sociology,0.9
+1651835,Boston studies in the philosophy of science,
+1652016,Memory & Cognition,2.2
+1652112,Books,
+1652119,American Speech,1.0
+1652122,Journal for the Scientific Study of Religion,2.3
+1652360,Signs,1.7
+1652386,British Journal of Aesthetics,0.7
+1652391,Foundations of Physics,1.2
+1652581,Linguistics,1.3
+1652596,Kant-Studien,0.9
+1652852,Hypatia: A Journal of Feminist Philosophy,1.0
+1652885,International Journal of American Linguistics,0.2
+1652949,Letters in Mathematical Physics,1.3
+1652960,Phoenix (Toronto),0.0
+1652993,LSE Research Online Documents on Economics,
+1653030,Philosophy East and West,0.4
+1653031,The British Journal for the Philosophy of Science,3.2
+1653184,Language in Society,2.0
+1653213,American Educational Research Journal,3.5
+1653385,Religious Studies,0.5
+1653390,Australasian Journal of Philosophy,1.0
+1653402,Philosophical Books,
+1653407,International Philosophical Quarterly,0.3
+1653521,Greece & Rome,0.1
+1653606,Political Studies,2.5
+1653705,Journal of Evaluation in Clinical Practice,2.1
+1653761,Oxford Bibliographies Online Datasets,
+1653865,Stanford Law Review,
+1653873,Trends in Cognitive Sciences,16.7
+1654039,Erkenntnis,0.8
+1654085,Journal of the History of Ideas,0.6
+1654088,AMA journal of ethics,
+1654239,Educational Philosophy and Theory,1.5
+1654254,Nursing Ethics,2.9
+1654533,Critical Inquiry,2.0
+1654545,History of Political Economy,1.2
+1654712,Bioethics,1.7
+1654724,The Journal of Aesthetic Education,0.4
+1654750,Studia Logica,0.6
+1655010,Canadian Journal of Linguistics,0.5
+1655110,Teaching Philosophy,0.6
+1655135,The Philosophers’ Magazine,0.2
+1655137,Review of Religious Research,1.5
+1655221,Educational Theory,1.0
+1655230,IEEE Transactions on Professional Communication,1.6
+1655281,Archiv für Geschichte der Philosophie,0.5
+1655330,Southern Journal of Philosophy,0.8
+1655387,American Journal of Political Science,5.0
+1655920,Journal of Linguistics,0.8
+1656065,Noûs,1.8
+1656420,Religion,0.9
+1656435,The qualitative report,1.6
+1656474,Environmental and Resource Economics,3.2
+1656506,Canadian Journal of Philosophy,1.7
+1656573,Journal of Curriculum Studies,2.3
+1656614,Numen,0.7
+1656662,Dialectica,
+1656709,Cambridge Quarterly of Healthcare Ethics,1.5
+1656796,Journal of Value Inquiry,0.6
+1656802,Journal of clinical and translational science,2.1
+1656941,Studies in History and Philosophy of Science,1.4
+1656952,Philosophia,0.5
+1657102,Duke Law Journal,1.8
+1657140,Inquiry: An Interdisciplinary Journal of Philosophy,1.0
+1657182,Proceedings of the American Catholic Philosophical Association,
+1657291,Theoria,0.3
+1657417,Journal of Memory and Language,2.9
+1657497,Review of Metaphysics,0.2
+1657555,Inquiry,1.7
+1657794,Science and Engineering Ethics,2.7
+1657800,Journal of Philosophy of Education,0.8
+1657833,Metaphilosophy,0.4
+1658084,Studies in language companion series,
+1658116,Journal of Phonetics,1.9
+1658231,Metascience,
+1658402,Proceedings of the Aristotelian Society for the Systematic Study of Philosophy,
+1658503,Philosophy of the Social Sciences,0.6
+1658633,Theory and Decision,0.9
+1658887,Sociology of Religion,2.4
+1658996,Philosophy & Social Criticism,0.6
+1659213,Representations,0.9
+1659280,Environmental Ethics,1.1
+1659533,Educational studies,1.3
+1659714,Mathematical Logic Quarterly,0.4
+1659769,The Cambridge Quarterly,0.1
+1659805,Journal of clinical orthopaedics and trauma,
+1659851,Ancient Philosophy,
+1659942,Journal of Verbal Learning and Verbal Behavior,
+1660214,Studies in Philosophy and Education,0.9
+1660339,Language and Speech,1.1
+1660343,British Journal for the History of Philosophy,0.8
+1660469,Harvard Educational Review,2.6
+1660615,Philosophical Psychology,1.4
+1660643,Biology and Philosophy,1.7
+1660738,Journal of Social Philosophy,1.1
+1660839,The Bulletin of Symbolic Logic,0.7
+1661065,American Catholic Philosophical Quarterly,0.3
+1661109,Journal of Applied Philosophy,0.7
+1661351,Process studies,
+1661529,Folia Linguistica,0.6
+1661645,Theory and Society,1.6
+1661713,Journal of Business Communication,
+1661835,Ethical Theory and Moral Practice,1.0
+1661877,Philosophy and medicine,
+1661890,Roczniki Teologiczne,
+1661977,Journal of Philosophical Logic,0.7
+1662005,Human Studies,0.8
+1662166,European Journal of Philosophy,0.7
+1662253,American Indian Culture and Research Journal,1.2
+1662372,Philosophy Compass,2.1
+1662443,Journal for General Philosophy of Science,1.2
+1662505,Hermes,0.2
+1662667,Constellations,1.2
+1662850,Southwest philosophy review,
+1662912,Pacific Philosophical Quarterly,0.7
+1663052,Journal of Sociolinguistics,1.5
+1663094,Journal of Technical Writing and Communication,
+1663141,Social Theory and Practice,
+1663154,Journal of Contemporary Religion,0.8
+1663250,Literary and Linguistic Computing,
+1663267,Utilitas,1.2
+1663468,English for Specific Purposes,3.2
+1663590,Philosophia Mathematica,0.8
+1663628,Oxford Journal of Legal Studies,1.4
+1663629,Russell,0.3
+1663657,Topoi-an International Review of Philosophy,1.3
+1663692,Linguistic Inquiry,1.6
+1663943,Mind & Language,1.8
+1664037,The Owl of Minerva,
+1664200,Apeiron,0.4
+1664362,Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences,
+1664371,Semantics and Linguistic Theory,
+1664668,Law and philosophy library,
+1664675,Economics and Philosophy,1.2
+1664770,Law and Philosophy,0.8
+1664853,Social Epistemology,1.4
+1664959,Journal of Speculative Philosophy,0.3
+1665075,The Journal of Medical Humanities,1.2
+1665123,Reviews in Mathematical Physics,1.4
+1665218,History and Philosophy of The Life Sciences,1.6
+1665292,Journal of Bioethical Inquiry,1.8
+1665637,Business and Professional Communication Quarterly,
+1665792,Journal of Consciousness Studies,1.6
+1665931,Studies in History and Philosophy of Modern Physics,
+1665937,Ratio Juris,
+1665943,Journal Of Experimental Zoology Part B: Molecular And Developmental Evolution,1.8
+1666027,Phronesis,0.4
+1666267,Episteme,1.3
+1666554,Ratio,0.6
+1666725,American Philosophical Quarterly,0.8
+1667556,Journal of Moral Philosophy,1.1
+1667646,Natural Language and Linguistic Theory,0.8
+1667651,Journal of English Linguistics,0.9
+1667852,Ajob Neuroscience,
+1668007,Social philosophy & policy,0.3
+1668060,Midwest Studies in Philosophy,0.5
+1668136,Diachronica,0.6
+1668176,Kennedy Institute of Ethics Journal,1.1
+1668301,Linguistics and Philosophy,1.1
+1668357,The Journal of Nietzsche Studies,0.8
+1668592,Technical Communication Quarterly,2.0
+1668657,Synthese Library,
+1668664,English Language and Linguistics,0.9
+1668724,Method & Theory in The Study of Religion,0.5
+1668821,Graduate Faculty Philosophy Journal,
+1669084,Transactions of the Charles S. Peirce Society: A Quarterly Journal in American Philosophy,0.2
+1669205,Journal of Business and Technical Communication,1.8
+1669355,Language and Linguistics Compass,2.8
+1669435,The American journal of jurisprudence,
+1669550,IRB: Ethics & Human Research,
+1669693,Theoretical Medicine and Bioethics,1.1
+1669715,Philosophical Topics,
+1670129,Philosophy & Public Affairs,3.3
+1670259,Journal of Philosophical Research,0.5
+1670275,Notre Dame philosophical reviews,
+1670843,The Journal of Ethics,0.9
+1671228,Theoretical Linguistics,0.6
+1671280,Hume Studies,0.3
+1671441,Accountability in Research,2.8
+1671502,Kantian Review,1.1
+1671561,Transactions of the American Philological Association,0.7
+1671563,Studies in linguistics and philosophy,
+1672028,Journal of Political Philosophy,2.9
+1672117,Phonology,0.7
+1672135,Glossa,0.9
+1672160,Continental Philosophy Review,1.2
+1672386,Eidos,
+1673098,Written Communication,1.9
+1674117,Intellectual History Review,
+1674195,Philosophical Issues,0.6
+1674221,International Journal of Law in Context,0.6
+1674472,Biological Theory,1.9
+1675837,Pluralist,0.2
+1676255,Journal of Semantics,2.0
+1676683,Ramus,0.2
+1676715,Review of Philosophy and Psychology,1.8
+1676751,Areté,
+1676828,Topoi,0.2
+1676841,Criminal Law and Philosophy,0.7
+1676880,Classical Antiquity,0.9
+1676921,Acta analytica,0.3
+1677160,IJFAB: International Journal of Feminist Approaches to Bioethics,
+1677506,Language Variation and Change,1.4
+1677915,Research Ethics Review,2.1
+1678925,Anthropological Linguistics,
+1678969,Philosophical Perspectives,1.6
+1679275,Asian Bioethics Review,1.3
+1679413,Arethusa,0.2
+1679779,Legal Theory,1.2
+1680170,Philosophy in the Contemporary World,
+1680237,Epoché: A Journal for the History of Philosophy,
+1681498,Canadian journal of philosophy. Supplementary volume,
+1681581,Theoría,
+1681601,Jurisprudence,0.7
+1681627,Morphology,1.5
+1681745,Journal of Academic Ethics,2.2
+1682638,Language Acquisition: A Journal of Developmental Linguistics,1.3
+1683230,European journal for philosophy of science,1.5
+1683309,Proceedings of Sinn und Bedeutung,
+1683770,Thought: A Journal of Philosophy,
+1683947,The Leibniz Review,
+1684035,Studia Leibnitiana,
+1684586,Contemporary Buddhism,0.6
+1685015,Journal of Ethics & Social Philosophy,
+1685657,Journal of East Asian Linguistics,0.5
+1686265,Studia Philosophica Wratislaviensia,
+1686686,History of Philosophy Quarterly,
+1686921,Syntax,0.7
+1686981,Archives internationales d'histoire des idées,
+1688101,Journal of the American Philosophical Association,0.8
+1688120,Analytic Philosophy,0.6
+1688382,Linguistics vanguard,1.1
+1690765,Res philosophica,0.3
+1691128,Technical Communication: Journal of the Society for Technical Communication,
+1691362,Critical philosophy of race,1.3
+1691904,Natural Language Semantics,0.9
+1692215,Philosopher's Imprint,
+1692332,Ergo,0.5
+1692756,"History, philosophy and theory of the life sciences",
+1693319,Oxford Studies in Ancient Philosophy,
+1695012,Contemporary Aesthetics,
+1695254,University of Massachusetts Occasional Papers in Linguistics,
+1695331,Max Weber studies,
+1695812,International Journal for the Study of Skepticism,0.1
+1696877,Analiza i Egzystencja,
+1697923,Professional Ethics,
+1698256,Anais de filosofia clássica,
+1699375,Plato,0.0
+1700561,The International Encyclopedia of Ethics,
+1701354,Studies in universal logic,
+1702364,Semantics and Pragmatics,1.1
+1702961,Estetika,0.8
+1703707,Linguistic Analysis,
+1703810,Journal of philosophy,
+1704823,Citizen science,
+1706049,Philosophy of medicine,
+1706957,Journal of Social Ontology,
+1707256,Snippets,2.9
+1707776,"The Baltic International Yearbook of Cognition, Logic and Communication",
+1707908,Feminist philosophy quarterly,
+1708946,Journal of Global Buddhism,
+1709081,Iowa State University Summer Symposium on Science Communication,
+1710521,Philosophers' Imprint,1.4
+1711054,Phonology yearbook,
+1711988,Journal of modern philosophy,
+1712261,Journal of legal philosophy,
+1712723,International Journal of Feminist Approaches To Bioethics,0.3
+1712979,HOPOS: The Journal of the International Society for the History of Philosophy of Science,0.4

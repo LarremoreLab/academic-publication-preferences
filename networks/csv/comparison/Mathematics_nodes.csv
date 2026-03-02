@@ -1,0 +1,656 @@
+venue_db_id,name,jcr_jif
+1647091,The Lancet,98.4
+1647092,Nature,50.5
+1647093,British Medical Journal (BMJ),93.6
+1647094,Science,44.7
+1647095,Notes and Queries,0.1
+1647096,PLOS ONE,2.9
+1647097,JAMA,63.1
+1647098,Bulletin of the American Physical Society,
+1647101,Journal of Biological Chemistry,4.0
+1647102,AGU Fall Meeting Abstracts,
+1647103,Blood,21.0
+1647105,Scientific Reports,3.8
+1647108,PNAS,9.4
+1647109,The Medical Journal of Australia,6.7
+1647110,Cancer Research,12.5
+1647112,Journal of Applied Physics,2.7
+1647113,Journal of Chemical Physics,3.1
+1647114,The Journal of Urology,5.9
+1647116,Gastroenterology,25.7
+1647117,Journal of Clinical Oncology,42.1
+1647118,Physical Review Letters,8.1
+1647119,Proceedings of SPIE,
+1647121,Applied Physics Letters,3.5
+1647125,The New England Journal of Medicine,96.2
+1647128,Circulation,35.5
+1647129,The Astrophysical Journal,4.8
+1647143,American Journal of Obstetrics and Gynecology,8.7
+1647144,Journal of Geophysical Research,
+1647145,Medicine and Science in Sports and Exercise,4.1
+1647150,Monthly Notices of the Royal Astronomical Society,4.7
+1647157,International Journal of Radiation Oncology Biology Physics,6.4
+1647159,Biophysical Journal,3.2
+1647161,Neurology,7.7
+1647163,Chest,9.5
+1647169,Annals of the New York Academy of Sciences,4.1
+1647174,IFAC Proceedings Volumes,
+1647177,Chemical Physics Letters,2.8
+1647179,Physics Letters B,4.3
+1647181,Annals of Internal Medicine,19.6
+1647183,IEEE Access,3.4
+1647186,Science of The Total Environment,8.2
+1647188,Annals of the Rheumatic Diseases,20.3
+1647192,Value in Health,4.9
+1647195,Sustainability,3.3
+1647200,Journal of The Franklin Institute-engineering and Applied Mathematics,3.7
+1647201,Communications in computer and information science,
+1647203,Physical Review A,2.6
+1647212,Optics Express,3.2
+1647213,International Journal of Environmental Research and Public Health,
+1647216,Physics Today,2.8
+1647217,Annals of Oncology,56.7
+1647226,Cancer,6.1
+1647227,The Journal of Physiology,4.7
+1647230,The Journal of Allergy and Clinical Immunology,11.4
+1647233,Langmuir,3.7
+1647235,Nucleic Acids Research,16.6
+1647236,Physics Letters,
+1647238,Methods in molecular biology,
+1647240,Proceedings of the American Mathematical Society,0.8
+1647242,American Mathematical Monthly,0.4
+1647243,Nature Communications,14.7
+1647245,Physical Review,
+1647246,Sensors,3.4
+1647248,Journal of Virology,4.0
+1647253,American Journal of Ophthalmology,4.1
+1647266,Pediatric Research,3.1
+1647267,Radiotherapy and Oncology,4.9
+1647273,Geophysical Research Letters,4.6
+1647287,Stroke,7.8
+1647290,Applied sciences,2.5
+1647293,"International Conference on Acoustics, Speech, and Signal Processing",
+1647295,Journal of Materials Science,3.5
+1647296,Alzheimers & Dementia,13.0
+1647297,Medical Physics,3.2
+1647320,The Journal of Neuroscience,4.4
+1647328,Optics Letters,3.1
+1647329,European Journal of Cancer,7.6
+1647336,Journal of Physics: Condensed Matter,2.3
+1647350,Journal of High Energy Physics,5.0
+1647361,Conference on Decision and Control,
+1647362,Urology,2.1
+1647366,Applied and Environmental Microbiology,3.9
+1647367,Physical Review C,3.2
+1647371,Transportation Research Record,1.6
+1647373,Journal of Molecular Biology,4.7
+1647376,Physical Review B,3.2
+1647377,Journal of the Neurological Sciences,3.6
+1647393,Journal of Hypertension,3.3
+1647402,Annalen der Physik,2.2
+1647438,Journal of the National Cancer Institute,9.9
+1647439,Journal of Physics D,3.1
+1647443,Journal of Mathematical Analysis and Applications,1.2
+1647456,Molecular and Cellular Biology,3.2
+1647461,Transactions of the American Mathematical Society,1.2
+1647475,American Journal of Clinical Pathology,2.3
+1647486,Physica A: Statistical Mechanics and its Applications,2.8
+1647496,Physical Review E,2.2
+1647500,Nuclear Physics B,2.5
+1647506,BMJ Open,2.4
+1647523,Industrial & engineering chemistry,
+1647539,Lecture Notes in Mathematics,
+1647542,Journal of Cell Biology,7.4
+1647543,Journal of the American Statistical Association,3.0
+1647544,Journal of Fluid Mechanics,3.6
+1647554,Journal of Sound and Vibration,4.3
+1647557,British Journal of Cancer,6.4
+1647560,eLife,6.4
+1647565,AIAA Journal,2.1
+1647576,Clinica Chimica Acta,3.2
+1647596,Journal of Nutrition,3.7
+1647606,The American Journal of Clinical Nutrition,6.5
+1647607,Cell,45.5
+1647612,Physics of Plasmas,2.0
+1647614,arXiv: Combinatorics,
+1647628,Journal of Mathematical Physics,1.2
+1647638,Ecology,4.4
+1647647,IEEE Transactions on Automatic Control,6.2
+1647649,The American Naturalist,2.4
+1647668,IEEE Transactions on Microwave Theory and Techniques,4.1
+1647690,Applied Mathematics and Computation,3.5
+1647697,School Science and Mathematics,0.8
+1647707,Journal of Biomechanics,2.4
+1647718,American Journal of Epidemiology,5.0
+1647732,Procedia Computer Science,
+1647733,Journal of Neurophysiology,2.1
+1647775,Journal of Physics A: Mathematical and General,
+1647803,Water Resources Research,4.6
+1647807,The EMBO Journal,9.4
+1647837,Neurocomputing,5.5
+1647846,IFAC-PapersOnLine,
+1647858,Proceedings of the IEEE,23.2
+1647871,World Neurosurgery,1.9
+1647878,Journal of Symbolic Logic,0.5
+1647887,Journal of Algebra,0.8
+1647904,arXiv: Probability,
+1647927,Physics of Fluids,4.1
+1647937,IEEE Transactions on Information Theory,2.2
+1647941,Journal of Computational Physics,3.8
+1647945,Geophysical Journal International,2.8
+1647989,Nature Biotechnology,33.1
+1647996,Transfusion,2.5
+1648002,American Journal of Human Genetics,8.1
+1648013,Quarterly Journal of the Royal Meteorological Society,3.0
+1648032,Journal of Theoretical Biology,1.9
+1648047,Computer Vision and Pattern Recognition (CVPR),
+1648048,Discrete Mathematics,0.7
+1648057,IEEE Transactions on Geoscience and Remote Sensing,7.5
+1648089,Physics in Medicine and Biology,3.3
+1648090,Linear Algebra and its Applications,1.0
+1648117,IEEE Transactions on Signal Processing,4.6
+1648145,Theoretical Computer Science,0.9
+1648193,Journal of Finance,7.6
+1648203,Journal of Political Economy,6.9
+1648209,Vision Research,1.5
+1648217,Teachers College Record,1.3
+1648241,BMC Genomics,3.5
+1648243,Journal of Computational and Applied Mathematics,2.1
+1648271,European Physical Journal C,4.2
+1648294,Computers & mathematics with applications,2.9
+1648301,European Journal of Neuroscience,2.7
+1648303,Bioinformatics,4.4
+1648311,Nonlinear Analysis-theory Methods & Applications,1.3
+1648326,IEEE Transactions on Communications,7.2
+1648339,Classical and Quantum Gravity,3.6
+1648341,IEEE Transactions on Biomedical Engineering,4.4
+1648372,International Symposium on Information Theory,
+1648390,Proceedings of The Royal Society B: Biological Sciences,3.8
+1648392,Computer Methods in Applied Mechanics and Engineering,6.9
+1648393,Oecologia,2.3
+1648396,International Journal for Numerical Methods in Engineering,2.7
+1648435,Mathematics of Computation,2.2
+1648440,Contemporary mathematics,
+1648448,Automatica,4.8
+1648479,Mathematische Annalen,1.3
+1648480,Statistics in Medicine,1.8
+1648487,Conference on Neural Information Processing Systems (NeurIPS),
+1648489,Communications in Algebra,0.6
+1648514,Communications in Statistics,0.6
+1648518,Biometrika,2.4
+1648536,Neuron,14.7
+1648537,Journal of Forensic Sciences,1.5
+1648553,New Journal of Physics,2.8
+1648557,Chaos Solitons & Fractals,5.3
+1648574,The Journal of Philosophy,1.6
+1648597,Science Education,3.1
+1648634,Forensic Science International,2.2
+1648637,Mathematische Zeitschrift,1.0
+1648640,Journal of Physics A,2.0
+1648644,Journal of Differential Equations,2.4
+1648669,Annals of Physics,3.0
+1648694,Nuclear Fusion,3.5
+1648713,Journal of Educational Psychology,5.6
+1648716,Crelle's Journal,1.2
+1648721,Technometrics,2.3
+1648806,BMC Bioinformatics,2.9
+1648813,Pacific Journal of Mathematics,0.7
+1648820,Communications in Mathematical Physics,2.2
+1648825,"Cancer Epidemiology, Biomarkers & Prevention",3.7
+1648833,IEEE Communications Letters,3.7
+1648860,IEEE Transactions on Wireless Communications,8.9
+1648898,Canadian Journal of Forest Research,1.7
+1648916,Journal of Applied Probability,0.7
+1648922,Journal of the London Mathematical Society,1.0
+1648934,International Journal of Control,1.6
+1648942,Applied Mathematical Modelling,4.4
+1648954,Journal of Statistical Physics,1.3
+1648984,IEEE transactions on image processing,10.8
+1648986,Applied Economics,1.8
+1649012,Biometrics,1.4
+1649031,Ecological Modelling,2.6
+1649053,PLOS Computational Biology,3.8
+1649056,The American Economic Review,10.5
+1649094,Elementary School Journal,1.2
+1649124,Advances in Mathematics,1.5
+1649148,Discrete Applied Mathematics,1.0
+1649149,Nature Genetics,31.7
+1649160,Oikos,3.1
+1649168,Nonlinear Dynamics,5.2
+1649183,Proceedings of the Royal Society of London,
+1649239,Entropy,2.1
+1649250,Physica D: Nonlinear Phenomena,2.7
+1649258,Science Advances,11.7
+1649262,Monatshefte für Mathematik,0.8
+1649318,Synthese,1.3
+1649331,Journal of Computational Chemistry,3.4
+1649369,Statistics & Probability Letters,0.9
+1649376,Journal of Functional Analysis,1.7
+1649407,Archiv der Mathematik,0.5
+1649424,Mathematische Nachrichten,0.8
+1649447,IEEE Transactions on Pattern Analysis and Machine Intelligence,20.8
+1649451,Mathematical proceedings of the Cambridge Philosophical Society,0.6
+1649538,Topology and its Applications,0.6
+1649569,Lancet Infectious Diseases,36.4
+1649594,Mathematics Magazine,
+1649614,Journal of Optimization Theory and Applications,1.6
+1649623,The American Statistician,1.8
+1649636,International Conference on Machine Learning (ICML),
+1649663,Mechanical Systems and Signal Processing,7.9
+1649695,Plasma Physics and Controlled Fusion,2.1
+1649713,IEEE International Conference on Computer Vision (ICCV),
+1649741,Information Processing Letters,0.7
+1649751,Mathematics and Computers in Simulation,4.4
+1649761,Journal of Pure and Applied Algebra,0.7
+1649766,Journal of Animal Ecology,3.5
+1649821,IEEE Signal Processing Letters,3.2
+1649827,Proceedings of The London Mathematical Society,1.5
+1649937,Journal of Statistical Planning and Inference,0.8
+1649950,Processes,2.8
+1649981,Springer proceedings in mathematics & statistics,
+1649996,General Relativity and Gravitation,2.1
+1650005,Reliability Engineering & System Safety,9.4
+1650022,Bulletin of The London Mathematical Society,0.8
+1650028,The Computer Journal,1.5
+1650055,Natural Hazards,3.3
+1650107,Philosophical Transactions of the Royal Society A,4.3
+1650126,Trends in Ecology and Evolution,16.7
+1650206,Computational Statistics & Data Analysis,1.5
+1650248,Journal of Number Theory,0.6
+1650279,IEEE Transactions on Medical Imaging,8.9
+1650308,Zeitschrift für Angewandte Mathematik und Physik,1.7
+1650318,Multiple Sclerosis Journal,4.8
+1650343,Econometrica,6.6
+1650361,IEEE Transactions on Electromagnetic Compatibility,2.0
+1650375,Computers in Biology and Medicine,7.0
+1650407,Trends in Neurosciences,14.6
+1650431,Mathematical and Computer Modelling,
+1650477,Nature Neuroscience,21.2
+1650525,Nature Methods,36.1
+1650527,Chaos,2.7
+1650656,Bulletin of The Australian Mathematical Society,0.6
+1650692,Duke Mathematical Journal,2.3
+1650790,Neural Networks,6.0
+1650868,Electronic Notes in Theoretical Computer Science,
+1650877,American Journal of Mathematics,1.7
+1650891,Communications in Statistics - Simulation and Computation,0.8
+1650905,Siam Review,10.8
+1650953,Annals of Mathematics,5.7
+1651011,International Mathematics Research Notices,0.9
+1651122,Annals of Statistics,3.2
+1651135,Israel Journal of Mathematics,0.8
+1651138,"Proceedings of The Royal Society A: Mathematical, Physical and Engineering Sciences",2.9
+1651147,Siam Journal on Applied Mathematics,1.9
+1651169,Educational Researcher,5.4
+1651173,Information & Computation,0.8
+1651182,Journal of Approximation Theory,0.9
+1651223,SIAM Journal on Numerical Analysis,2.8
+1651228,Indiana University Mathematics Journal,1.2
+1651231,Bulletin of the American Mathematical Society,2.0
+1651246,Canadian Journal of Mathematics,0.6
+1651262,Journal of Econometrics,9.9
+1651282,Journal of Economic Theory,1.4
+1651300,Stochastic Processes and their Applications,1.1
+1651330,Mathematical biosciences,1.9
+1651350,Annali di Matematica Pura ed Applicata,1.0
+1651351,Nature Cell Biology,17.3
+1651393,Genome Research,6.2
+1651403,Siam Journal on Mathematical Analysis,2.2
+1651412,Comptes Rendus Mathematique,0.8
+1651424,Journal of Teacher Education,3.1
+1651425,Systems & Control Letters,2.1
+1651426,Physics Reports,23.9
+1651427,Canadian mathematical bulletin,0.5
+1651435,Review of Educational Research,8.3
+1651446,Acta Mathematica Hungarica,0.6
+1651506,iScience,4.6
+1651529,"Journal of Combinatorial Theory, Series A",0.9
+1651591,Fundamenta Mathematicae,0.5
+1651693,IEEE transactions on cybernetics,9.4
+1651711,Mathematical Programming,2.2
+1651725,Bulletin of Mathematical Biology,2.0
+1651732,Journal of Statistical Computation and Simulation,1.1
+1651789,Applicable Analysis,1.1
+1651822,Journal of Plasma Physics,2.1
+1651830,Acta Arithmetica,0.5
+1651874,International Journal of Mathematical Education in Science and Technology,0.7
+1651880,Studia Mathematica,0.7
+1651889,SIAM Journal on Scientific Computing,3.0
+1651925,Journal of Multivariate Analysis,1.4
+1651966,Archive for Rational Mechanics and Analysis,2.6
+1651978,European Journal of Combinatorics,1.0
+1651997,Siam Journal on Control and Optimization,2.2
+1652012,Royal Society Open Science,2.9
+1652156,Journal of Research in Science Teaching,3.6
+1652253,Bell System Technical Journal,
+1652263,Discrete and Continuous Dynamical Systems,1.1
+1652289,Numerische Mathematik,2.1
+1652317,Proceedings of the Edinburgh Mathematical Society,0.7
+1652319,Journal of Graph Theory,0.9
+1652324,Annals of Mathematical Statistics,
+1652329,Applied Numerical Mathematics,2.2
+1652351,Inverse Problems,2.0
+1652405,Manuscripta Mathematica,0.5
+1652412,Journal of Applied Statistics,1.2
+1652430,Rocky Mountain Journal of Mathematics,0.7
+1652462,Journal of Geometry and Physics,1.6
+1652471,College Mathematics Journal,
+1652495,Annals of Probability,2.1
+1652508,Fundamenta Informaticae,0.4
+1652536,Nonlinearity,1.6
+1652563,Inventiones Mathematicae,2.6
+1652575,Rendiconti Del Circolo Matematico Di Palermo,0.9
+1652615,Parallel Computing,2.0
+1652626,Electronic Journal of Combinatorics,0.7
+1652636,Linear & Multilinear Algebra,0.9
+1652768,Journal of Financial Economics,10.4
+1652815,Geometriae Dedicata,0.5
+1652843,Community Mental Health Journal,1.8
+1652846,Journal of the American Medical Informatics Association,4.7
+1652949,Letters in Mathematical Physics,1.3
+1653000,Teaching and Teacher Education,4.0
+1653020,Applied statistics,1.0
+1653057,Journal of Economic Dynamics and Control,1.9
+1653112,Ecology Letters,7.6
+1653127,Journal of the Royal Society Interface,3.7
+1653213,American Educational Research Journal,3.5
+1653263,Communications on Pure and Applied Mathematics,3.1
+1653321,Quarterly of Applied Mathematics,0.9
+1653327,Frontiers in Ecology and Evolution,2.4
+1653339,The Review of Economic Studies,5.9
+1653412,Journal of Electronic Imaging,1.0
+1653453,Quarterly Journal of Mathematics,0.6
+1653548,Ergodic Theory and Dynamical Systems,0.8
+1653673,Graduate texts in mathematics,
+1653692,Compositio Mathematica,1.3
+1653770,"Journal of Combinatorial Theory, Series B",1.2
+1653808,Journal of Computer and System Sciences,1.1
+1653919,SIAM Journal on Computing,1.2
+1654005,Journal of Financial and Quantitative Analysis,3.7
+1654050,Aequationes Mathematicae,0.9
+1654134,Illinois Journal of Mathematics,0.6
+1654154,Journal of the Royal Statistical Society,1.5
+1654192,Annales de l'Institut Fourier,0.8
+1654204,Journal of Scientific Computing,2.8
+1654210,Neural Computation,2.7
+1654270,Reviews of Modern Physics,45.9
+1654300,Physical review fluids,2.5
+1654346,Bit Numerical Mathematics,
+1654390,International Journal of Science Education,2.2
+1654440,Numerical Algorithms,1.7
+1654448,Journal of Machine Learning Research,4.3
+1654474,Algorithmica,0.9
+1654486,Discrete and Continuous Dynamical Systems-series B,1.3
+1654488,Journal of Mathematical Biology,2.2
+1654521,Proceedings of symposia in pure mathematics,
+1654558,Ars Combinatoria,
+1654750,Studia Logica,0.6
+1654770,"IEEE Transactions on Acoustics, Speech, and Signal Processing",
+1654827,Annals of the Institute of Statistical Mathematics,0.8
+1654957,The Mathematical Intelligencer,0.4
+1655037,Communications in Partial Differential Equations,2.1
+1655039,Studies in logic and the foundations of mathematics,
+1655119,Journal of the ACM,2.3
+1655129,Journal of Algebra and Its Applications,0.5
+1655145,Nagoya Mathematical Journal,0.8
+1655176,International Conference on Learning Representations (ICLR),
+1655225,The Journal of Portfolio Management,1.1
+1655298,Journal of Symbolic Computation,0.6
+1655336,Mathematika,0.8
+1655443,Annals of Pure and Applied Logic,0.6
+1655499,Economics of Education Review,1.8
+1655568,Review of Financial Studies,6.8
+1655579,Integral Equations and Operator Theory,0.8
+1655600,SIAM Journal on Discrete Mathematics,0.9
+1655616,Contemporary Clinical Trials,2.0
+1655747,BMC Medical Research Methodology,3.9
+1655770,Calculus of Variations and Partial Differential Equations,2.1
+1655828,Michigan Mathematical Journal,0.8
+1655831,Algebra Universalis,0.6
+1655843,Probability Theory and Related Fields,1.5
+1655893,Theoretical Population Biology,1.2
+1655897,Mathematical Biosciences and Engineering,
+1655915,Numerical Methods for Partial Differential Equations,2.1
+1655966,Journal for Research in Mathematics Education,3.5
+1656041,Discrete and Computational Geometry,0.6
+1656043,Graphs and Combinatorics,0.6
+1656068,Mathematica Scandinavica,0.3
+1656079,Journal of Engineering Mathematics,1.4
+1656098,Commentarii Mathematici Helvetici,1.1
+1656205,Banach Center Publications,
+1656240,International Statistical Review,1.7
+1656264,Frontiers in Education,1.9
+1656275,Educational Studies in Mathematics,3.4
+1656415,International Journal of Computer Vision,11.6
+1656426,Bulletin of The Korean Mathematical Society,0.6
+1656522,Notre Dame Journal of Formal Logic,0.6
+1656534,Statistical Methods in Medical Research,1.6
+1656599,European Journal of Communication,1.8
+1656644,Frontiers in Computational Neuroscience,2.1
+1656673,Quantitative Finance,1.5
+1656794,Creative Education,
+1656802,Journal of clinical and translational science,2.1
+1656846,Machine Learning,4.3
+1656883,Numerical Functional Analysis and Optimization,1.4
+1656904,SIAM Journal on Matrix Analysis and Applications,1.5
+1656905,International Journal of Mathematics,0.6
+1656918,Journal of Geometric Analysis,1.2
+1657109,Journal of Differential Geometry,1.3
+1657150,Annales Scientifiques De L Ecole Normale Superieure,1.3
+1657187,Siam Journal on Optimization,2.6
+1657208,Urban Education,1.7
+1657312,Commentationes Mathematicae Universitatis Carolinae,0.2
+1657431,Algebra and Logic,0.4
+1657502,Advances in Applied Mathematics,1.0
+1657649,Journal de Mathématiques Pures et Appliquées,2.1
+1657689,Journal of Elasticity,1.8
+1657873,Physical Review X,11.6
+1657877,Annals of Applied Probability,1.4
+1657963,Notices of the American Mathematical Society,
+1658095,Journal of the royal statistical society series b-methodological,
+1658269,Acta Mathematica,4.9
+1658379,Uspehi matematičeskih nauk,
+1658381,Journal of Computational and Graphical Statistics,1.4
+1658387,Mathematical Research Letters,0.6
+1658431,Educational Evaluation and Policy Analysis,2.4
+1658497,Journal of Biopharmaceutical Statistics,1.2
+1658531,Journal of Geometry,0.7
+1658553,Zeitschrift für mathematische Logik und Grundlagen der Mathematik,
+1658588,Random Structures and Algorithms,0.9
+1658639,Environmetrics,1.5
+1658663,Journal D Analyse Mathematique,0.8
+1658721,Rendiconti del Seminario Matematico della Università di Padova,0.5
+1658733,Clinical Trials,2.2
+1658873,Topology,
+1659084,Frontiers,1.8
+1659223,Journal of Logic and Computation,0.7
+1659319,International Journal of Number Theory,0.5
+1659368,Algebraic & Geometric Topology,0.6
+1659383,Electronic Journal of Probability,1.3
+1659436,Journal of Theoretical Probability,0.8
+1659479,Mathematical Modelling and Numerical Analysis,
+1659541,Journal of The Korean Mathematical Society,0.7
+1659545,Statistical Science,3.9
+1659652,Plasma Physics,
+1659681,Ramanujan Journal,0.6
+1659714,Mathematical Logic Quarterly,0.4
+1659730,Bernoulli,1.5
+1659859,The Journal of Information and Computational Science,
+1660181,Teaching Statistics,1.2
+1660361,Archive for Mathematical Logic,0.4
+1660455,Scandinavian Journal of Statistics,0.8
+1660469,Harvard Educational Review,2.6
+1660486,Studies in Educational Evaluation,2.6
+1660701,ACM Transactions on Mathematical Software,2.7
+1660736,"Annales de l'Institut Henri Poincaré C, Analyse non linéaire",1.8
+1660747,Numerical Linear Algebra With Applications,1.8
+1660780,Significance,
+1660869,American Journal of Education,2.0
+1661029,Annales Henri Poincaré,1.4
+1661137,Hokkaido Mathematical Journal,0.6
+1661248,Statistics and Computing,1.6
+1661255,Combinatorica,1.0
+1661484,Communications in Computational Physics,2.6
+1661494,Electronic Journal of Statistics,1.0
+1661746,Computational Statistics,1.0
+1661794,Optimization Methods & Software,1.4
+1661902,Analysis Mathematica,0.6
+1661903,Journal of Algebraic Combinatorics,0.6
+1661977,Journal of Philosophical Logic,0.7
+1662046,Izvestiya: Mathematics,0.8
+1662072,"Combinatorics, Probability & Computing",0.9
+1662116,PRIMUS,
+1662125,Social Networks,2.9
+1662250,Publicacions Matematiques,0.8
+1662289,Potential Analysis,1.0
+1662395,The Annals of Applied Statistics,1.3
+1662477,Applied and Computational Harmonic Analysis,2.6
+1662575,Advances in Computational Mathematics,1.7
+1662652,Operator theory,
+1662727,Annals of Global Analysis and Geometry,0.6
+1663061,Zdm – Mathematics Education,2.0
+1663221,Journal of Science Education and Technology,3.3
+1663286,Journal of The Royal Statistical Society Series B-statistical Methodology,3.1
+1663368,Nature Human Behaviour,21.4
+1663425,Educational Policy,1.6
+1663519,Journal of Group Theory,0.4
+1663541,Journal of Fourier Analysis and Applications,1.2
+1663740,Geometry & Topology,1.7
+1663821,Journal of the American Mathematical Society,3.5
+1663871,Educational Psychologist,14.3
+1664126,Revista Matematica Iberoamericana,1.3
+1664277,Order,0.6
+1664340,Journal of the European Mathematical Society,2.5
+1664397,Algebras and Representation Theory,0.5
+1664430,Electronic Communications in Probability,0.5
+1664622,Communications in Mathematical Sciences,1.2
+1664636,Constructive Approximation,2.3
+1664709,Biostatistics,1.8
+1664760,Logical Methods in Computer Science,0.6
+1664787,Geometric and Functional Analysis,2.4
+1664905,DIMACS series in discrete mathematics and theoretical computer science,
+1665310,The Journal of Mathematical Behavior,1.0
+1665650,Progress in mathematics,
+1665842,Nonlinear Differential Equations And Applications Nodea,1.1
+1665876,Journal of Nonlinear Science,2.6
+1665925,Journal of Computational Neuroscience,1.5
+1666244,Siam Journal on Applied Dynamical Systems,1.7
+1666334,Electronic Journal of Linear Algebra,0.6
+1666837,Multiscale Modeling & Simulation,1.9
+1667162,Journal de Theorie des Nombres de Bordeaux,0.3
+1667283,Journal of Fixed Point Theory and Applications,1.4
+1667386,Sequential Analysis,0.6
+1667544,Integers,
+1667939,Algebra & Number Theory,0.9
+1668014,Selecta Mathematica-new Series,1.2
+1668549,Transformation Groups,0.4
+1668766,Siam Journal on Imaging Sciences,2.1
+1669236,Annals of Combinatorics,0.6
+1669295,Journal of Agricultural Biological and Environmental Statistics,1.4
+1669819,Cell systems,9.0
+1670454,Journal of Classification,1.8
+1670650,Annali della Scuola normale superiore di Pisa. Classe di scienze,1.2
+1670896,Journal of Official Statistics,0.5
+1671271,Monte Carlo Methods and Applications,0.8
+1671511,SIAM journal on scientific and statistical computing,
+1671636,Bayesian Analysis,4.9
+1671807,Theory and Applications of Categories,0.4
+1671885,Mathematics Education Research Journal,1.4
+1671975,Academia letters,
+1672003,Advances in Theoretical and Mathematical Physics,1.0
+1672319,Journal of The Institute of Mathematics of Jussieu,1.1
+1672769,The Mathematics Enthusiast,0.3
+1673134,The Journal of the Learning Sciences,3.0
+1673313,Moscow Mathematical Journal,0.6
+1673382,"Homology, Homotopy and Applications",0.8
+1673427,"Journal of Logic, Language and Information",0.7
+1673453,Journal of Topology,0.8
+1673683,Journal of Statistics Education,
+1674120,Ars Mathematica Contemporanea,0.6
+1674169,ICME-13 monographs,
+1674178,The Journal of Computers in Mathematics and Science Teaching,
+1674569,Foundations of Computational Mathematics,2.5
+1674602,Journal of Mathematics Teacher Education,2.1
+1674819,Finance and Stochastics,1.1
+1675947,Research Synthesis Methods,5.0
+1676101,Expositiones Mathematicae,0.8
+1676265,Beiträge Zur Algebra Und Geometrie / Contributions To Algebra And Geometry,0.4
+1676793,"Groups, Geometry, and Dynamics",0.6
+1676888,Publications Mathématiques de l'IHÉS,6.0
+1676962,spatial statistics,2.1
+1677537,Journal of Algebraic Geometry,0.9
+1677699,Cognition and Instruction,2.3
+1678272,Research in Mathematics Education,1.3
+1679677,European journal of mathematics,0.5
+1679999,AERA Open,3.5
+1680399,Stat,0.7
+1681559,Advances in Nonlinear Analysis,3.2
+1682225,Siam Journal on Financial Mathematics,1.4
+1682359,Statistics Education Research Journal,
+1682863,Mathematical thinking and learning,
+1682870,SIAM/ASA Journal on Uncertainty Quantification,2.1
+1682879,Journal of Symplectic Geometry,0.6
+1682908,PRX quantum,9.3
+1683379,Journal of Topology and Analysis,0.5
+1684937,Journal of combinatorial theory,
+1685472,Journal of curriculum and teaching,
+1685991,Advances in Calculus of Variations,1.3
+1686009,Documenta Mathematica,0.9
+1686166,Journal of survey statistics and methodology,1.6
+1686578,Research in number theory,0.6
+1687045,Journal of Integer Sequences,0.3
+1688077,Health Services and Outcomes Research Methodology,1.6
+1688445,The Journal of Combinatorics,0.4
+1688457,EPJ Data Science,3.0
+1688851,Astérisque,1.0
+1689104,Nature Computational Science,12.0
+1689375,Association for Women in Mathematics series,
+1689685,Journal of K-theory,
+1690588,Journal of Homotopy and Related Structures,0.7
+1690646,The Australasian Journal of Combinatorics,
+1693466,L'enseignement mathématique,0.4
+1693679,New ICMI studies series,
+1694742,Journal of Mathematical Logic,0.9
+1694981,Random matrices : theory and applications,0.9
+1695509,Inverse Problems in Engineering,
+1695886,Annals of Mathematical Logic,
+1695926,PNAS nexus,2.2
+1696071,Algebraic geometry,1.2
+1697155,JOSAB,
+1698119,EdWorkingPapers.com,
+1699702,Bolyai Society mathematical studies,
+1701103,Harvard Data Science Review,
+1702008,Algebraic combinatorics,
+1702672,Journal of biostatistics and epidemiology,
+1702936,ETNA. Electronic Transactions on Numerical Analysis [electronic only],
+1703186,International journal of research in undergraduate mathematics education,1.2
+1704060,Results in applied mathematics,1.4
+1704215,The art of discrete and applied mathematics,
+1705010,Quantum Topology,1.0
+1705311,Computability,0.3
+1705347,Physics Letters A,2.3
+1705428,The New York Journal of Mathematics,0.4
+1705520,Annals of K-theory,0.5
+1706480,International Journal of Numerical Analysis and Modeling,1.3
+1706567,IEEE Trans.,
+1706777,Annals of PDE,2.4
+1706903,Analysis and Geometry in Metric Spaces,0.9
+1707052,Discrete analysis,1.0
+1707298,Annales Fennici Mathematici,0.9
+1707367,Journal of the Ramanujan Mathematical Society,0.3
+1708696,Journal of applied and numerical optimization,
+1709109,Journal of Statistics and Data Science Education,1.5
+1709233,Annales Academiae Scientiarum Fennicae. Series A1. Mathematica,
+1709831,Enumerative combinatorics and applications,
+1709906,Tunisian journal of mathematics,0.8
+1709984,Foundations of data science,1.7
+1710396,The SMAI journal of computational mathematics,
+1710543,Journal of The Royal Statistical Society Series A-statistics in Society,
+1710911,Combinatorial theory,
+1712009,Nordic Journal of Philosophical Logic,
+1712656,"Journal of data science, statistics, and visualisation",
+1712742,Matematicheskii Sbornik,
+1712766,Compositionality,
+1712934,Memoir /,
+1713015,"Forum of Mathematics, Sigma",1.2
+1713032,"Forum of Mathematics, Pi",2.8

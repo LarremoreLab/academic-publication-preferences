@@ -1,0 +1,731 @@
+venue_db_id,name,jcr_jif
+1647091,The Lancet,98.4
+1647092,Nature,50.5
+1647093,British Medical Journal (BMJ),93.6
+1647094,Science,44.7
+1647096,PLOS ONE,2.9
+1647097,JAMA,63.1
+1647101,Journal of Biological Chemistry,4.0
+1647105,Scientific Reports,3.8
+1647108,PNAS,9.4
+1647118,Physical Review Letters,8.1
+1647120,The American Historical Review,1.9
+1647125,The New England Journal of Medicine,96.2
+1647138,EGU General Assembly Conference Abstracts,
+1647144,Journal of Geophysical Research,
+1647148,Journal of the American Medical Association,
+1647178,Pediatrics,6.2
+1647179,Physics Letters B,4.3
+1647181,Annals of Internal Medicine,19.6
+1647203,Physical Review A,2.6
+1647216,Physics Today,2.8
+1647239,The English Historical Review,0.5
+1647243,Nature Communications,14.7
+1647245,Physical Review,
+1647295,Journal of Materials Science,3.5
+1647376,Physical Review B,3.2
+1647389,The Quarterly Review of Biology,3.7
+1647402,Annalen der Physik,2.2
+1647405,Frontiers in Psychology,2.6
+1647407,The Journal of American History,1.1
+1647410,American Political Science Review,5.9
+1647434,Annals of The American Academy of Political and Social Science,2.5
+1647436,Hahr-hispanic American Historical Review,0.6
+1647444,French Studies,0.2
+1647467,American Anthropologist,2.6
+1647555,American Journal of Sociology,4.4
+1647561,Speculum,1.2
+1647590,Contemporary Sociology,0.3
+1647607,Cell,45.5
+1647608,Anthropology News,
+1647609,American Journal of Physics,0.8
+1647638,Ecology,4.4
+1647649,The American Naturalist,2.4
+1647666,American Journal of Public Health,9.6
+1647709,Social Forces,3.3
+1647710,The Journal of Asian Studies,1.3
+1647727,Isis,1.0
+1647774,Genetics,3.3
+1647827,Evolution,3.1
+1647839,Social Science & Medicine,4.9
+1647852,Earth and Planetary Science Letters,4.8
+1647874,The Economic Journal,3.8
+1647893,The Journal of Higher Education,2.6
+1647911,"Annales. Histoire, Sciences Sociales",
+1647981,Slavic Review,1.3
+1648000,Bulletin of the School of Oriental and African Studies,0.3
+1648033,The Journal of Modern History,0.7
+1648068,Physics World,0.5
+1648075,Publications of the Modern Language Association of America,0.7
+1648098,Journal of the American Oriental Society,0.5
+1648140,Church History,0.3
+1648157,Behavioral and Brain Sciences,16.6
+1648193,Journal of Finance,7.6
+1648203,Journal of Political Economy,6.9
+1648212,世界,
+1648217,Teachers College Record,1.3
+1648226,Journal of Southern History,0.8
+1648228,The Journal of Ecclesiastical History,0.3
+1648232,Epidemiology,4.7
+1648277,The Journal of Religion,0.4
+1648280,Industrial and Labor Relations Review,2.9
+1648308,The Economic History Review,1.4
+1648310,American Journal of Physical Anthropology,2.6
+1648361,Renaissance Quarterly,1.2
+1648390,Proceedings of The Royal Society B: Biological Sciences,3.8
+1648399,American Journal of Archaeology,0.9
+1648401,Antiquity,1.9
+1648413,The Journal of Economic History,2.5
+1648465,National Bureau of Economic Research,
+1648501,Palgrave Macmillan Books,
+1648524,American Sociological Review,7.1
+1648544,"Palaeogeography, Palaeoclimatology, Palaeoecology",2.6
+1648556,The Journal of Hellenic Studies,0.7
+1648559,Journal of General Internal Medicine,4.3
+1648561,Quaternary International,1.9
+1648591,Historische Zeitschrift,0.3
+1648634,Forensic Science International,2.2
+1648635,Journal of the American Academy of Religion,0.8
+1648667,Pacific Affairs,1.4
+1648684,Art Bulletin,0.4
+1648737,The Journal of Politics,3.5
+1648767,Pacific Historical Review,0.4
+1648774,Africa,1.2
+1648781,"Times literary supplement, TLS",
+1648826,Man,
+1648881,The Americas,0.6
+1648893,The Journal of Aesthetics and Art Criticism,1.0
+1648909,Cognitive Science,2.3
+1648915,Environmental Entomology,1.8
+1648944,Classical Philology,0.7
+1648975,William and Mary Quarterly,1.1
+1648979,Religious Studies Review,0.1
+1649005,American Antiquity,2.7
+1649008,The Annals of Iowa,
+1649031,Ecological Modelling,2.6
+1649056,The American Economic Review,10.5
+1649142,Frontiers in Public Health,3.0
+1649165,Technology and Culture,0.8
+1649185,Urban Studies,4.2
+1649193,History: Reviews of New Books,
+1649224,Journal of Roman Studies,0.8
+1649251,The Antiquaries Journal,0.2
+1649258,Science Advances,11.7
+1649260,The Canadian historical review,0.3
+1649305,The German Quarterly,0.2
+1649322,Business History Review,1.3
+1649342,Journal of American Folklore,0.5
+1649412,The Library Quarterly,1.6
+1649417,Frontiers in Marine Science,2.8
+1649528,Bulletin Monumental,0.5
+1649529,Canadian journal of history,0.1
+1649549,Medical History,0.9
+1649558,The Sixteenth century journal,
+1649564,American Literature,0.6
+1649621,International Migration Review,2.3
+1649646,World Development,5.4
+1649652,Classical World,0.2
+1649664,Current Anthropology,2.1
+1649768,Journal of Interdisciplinary History,0.3
+1649778,The China Quarterly,2.5
+1649796,The New England Quarterly,0.1
+1649806,American Journal of Philology,0.6
+1649813,Albion,
+1649820,International journal of engineering & technology,
+1649831,Journal of American Studies,0.2
+1649845,Quaternary Science Reviews,3.2
+1649901,Journal of the History of Medicine and Allied Sciences,0.9
+1649907,Western Historical Quarterly,0.4
+1650069,American Ethnologist,1.9
+1650104,Rencontres,
+1650126,Trends in Ecology and Evolution,16.7
+1650168,Molecular Phylogenetics and Evolution,3.6
+1650221,Journal of Sports Sciences,2.3
+1650235,The Review of Economics and Statistics,7.6
+1650341,The Russian Review,0.6
+1650343,Econometrica,6.6
+1650345,Philosophy of Science,1.4
+1650383,Canadian Historical Review,
+1650451,Journal of Archaeological Science,2.6
+1650452,Slavic and East European Journal,0.0
+1650454,Physics Procedia,
+1650513,Journal of Marriage and Family,2.7
+1650514,The Historian,0.3
+1650584,Journal of Biogeography,3.4
+1650590,British Journal of Sociology,2.7
+1650668,Journal of Social History,0.6
+1650681,Quarterly Journal of Economics,11.1
+1650696,German Studies Review,0.2
+1650707,Historia,0.4
+1650709,Pennsylvania Magazine of History and Biography,0.0
+1650744,Social Problems,3.0
+1650784,Indiana Magazine of History,
+1650806,Journal of the Society of Architectural Historians,0.6
+1650861,Catholic Historical Review,0.2
+1650911,International Journal of Middle East Studies,1.3
+1650922,International Journal of African Historical Studies,0.3
+1650949,Classical quarterly,0.2
+1650962,History,0.6
+1651007,The Journal of African History,1.0
+1651061,African Studies Review,0.8
+1651089,Journal of Near Eastern Studies,0.6
+1651111,Images,0.2
+1651169,Educational Researcher,5.4
+1651206,Journal of Latin American Studies,0.7
+1651282,Journal of Economic Theory,1.4
+1651292,Bulletin of the History of Medicine,0.9
+1651294,Nuncius,0.4
+1651295,The Jewish Quarterly Review,0.4
+1651316,The 81st Annual Meeting of the Society for American Archaeology,
+1651333,American Behavioral Scientist,2.3
+1651341,Gesnerus-swiss Journal of The History of Medicine and Sciences,
+1651435,Review of Educational Research,8.3
+1651469,Journal of Economic Issues,1.0
+1651545,Journal of the Royal Anthropological Institute,1.2
+1651575,Endeavour,0.5
+1651579,Journal of Human Evolution,3.1
+1651592,The British Journal for the History of Science,0.7
+1651594,Radiocarbon,2.0
+1651597,Proceedings of the Annual Meeting of the Cognitive Science Society,
+1651604,German History,0.5
+1651626,Journal of British Studies,0.7
+1651660,Journal of The History of The Behavioral Sciences,0.6
+1651687,The papers of the Bibliographical Society of America,0.4
+1651701,Journal of the History of Philosophy,0.7
+1651706,Journal of Historical Geography,1.3
+1651718,Western American Literature,0.2
+1651742,Survival,1.5
+1651757,The Medieval Review,
+1651866,Business History,1.0
+1651869,The Journal of Military History,0.1
+1651932,Civil War History,0.2
+1651948,Journal of Communication,6.1
+1651973,History of Education Quarterly,0.7
+1651990,Journal of Human Lactation,2.1
+1652059,Population Studies-a Journal of Demography,2.5
+1652077,The Journal of Popular Culture,0.2
+1652081,Canadian Journal of African Studies,0.9
+1652111,Ethnic and Racial Studies,2.1
+1652119,American Speech,1.0
+1652122,Journal for the Scientific Study of Religion,2.3
+1652161,The Public Historian,0.2
+1652171,Journal of Modern African Studies,1.3
+1652174,Vigiliae Christianae,0.3
+1652278,Victorian Studies,0.2
+1652326,Shofar,0.2
+1652350,Reviews in American History,0.2
+1652360,Signs,1.7
+1652368,Western Folklore,0.1
+1652416,The International Journal of Maritime History,0.2
+1652420,Annals of The Association of American Geographers,
+1652447,Appalachian Heritage,0.0
+1652452,American Quarterly,0.5
+1652464,Population and Development Review,4.6
+1652499,Revue d'histoire moderne et contemporaine,
+1652534,The History Teacher,
+1652565,The Historical Journal,0.8
+1652570,Nature Reviews Genetics,39.1
+1652585,Quaternary Research,1.7
+1652648,Ethnohistory,0.3
+1652719,Labour/Le Travail,0.5
+1652725,Canadian-American Slavic studies =,
+1652755,Society for Historical Archaeology,
+1652768,Journal of Financial Economics,10.4
+1652791,International Organization,8.2
+1652801,American Scientist,0.5
+1652845,Renaissance and Reformation,0.2
+1652853,The Journal of American Culture,0.1
+1652867,Journal of European Studies,0.6
+1652960,Phoenix (Toronto),0.0
+1652993,LSE Research Online Documents on Economics,
+1652997,Higher Education,3.6
+1653031,The British Journal for the Philosophy of Science,3.2
+1653059,Journal of Ethnic and Migration Studies,2.8
+1653086,Byzantinische Zeitschrift,0.2
+1653125,European History Quarterly,0.4
+1653184,Language in Society,2.0
+1653186,Monumenta Nipponica,0.0
+1653187,Womens Studies International Forum,1.5
+1653213,American Educational Research Journal,3.5
+1653228,Klio,
+1653241,Yale Review,0.1
+1653251,Journal of Anthropological Research,1.0
+1653301,Central European History,0.4
+1653313,Bulletin of Latin American Research,0.8
+1653339,The Review of Economic Studies,5.9
+1653348,Museum International,0.4
+1653351,Journal of the Early Republic,0.8
+1653396,Nationalities papers,1.3
+1653410,Journal of Vertebrate Paleontology,1.6
+1653415,The Holocene,1.6
+1653450,Journal of Development Studies,1.8
+1653493,Enterprise and Society,0.7
+1653499,Journal of the American Society for Information Science,
+1653521,Greece & Rome,0.1
+1653523,Harvard Theological Review,0.5
+1653525,Social history of medicine,0.6
+1653636,Revue Suisse De Zoologie,0.5
+1653646,Journal of Southeast Asian Studies,0.4
+1653694,Global and Planetary Change,4.0
+1653761,Oxford Bibliographies Online Datasets,
+1653806,Europe-Asia Studies,1.2
+1653880,Eighteenth-Century Studies,0.4
+1653881,Modern Fiction Studies,0.5
+1653909,Demography,3.6
+1654003,The European Legacy,0.2
+1654004,Journal of the Association for Information Science and Technology,
+1654028,Integrative and Comparative Biology,2.2
+1654085,Journal of the History of Ideas,0.6
+1654116,Social Education,
+1654232,Journal of Archaeological Science: Reports,1.5
+1654270,Reviews of Modern Physics,45.9
+1654299,Telos,0.1
+1654315,Urban History,0.4
+1654326,The 80th Annual Meeting of the Society for American Archaeology,
+1654428,Agroforestry Systems,2.0
+1654437,Online,
+1654533,Critical Inquiry,2.0
+1654536,American Indian Quarterly,
+1654548,Journal of Japanese Studies,0.2
+1654565,Black Scholar,0.5
+1654571,Comparative Studies in Society and History,1.1
+1654605,Itinerario,0.3
+1654636,International Journal of The History of Sport,0.8
+1654637,Nineteenth-Century Literature,0.2
+1654769,Journal of Roman Archaeology,0.7
+1654802,New West Indian Guide,0.3
+1654804,Historical Research,0.6
+1654834,Environmental History,0.6
+1654846,California History,0.1
+1654886,"Journalism: Theory, Practice & Criticism",2.7
+1654899,Journal of Contemporary History,0.7
+1655033,International review of social history,
+1655045,Southern California quarterly,
+1655087,Iranian Studies,0.7
+1655109,Cartographic Journal,1.0
+1655136,The 84th Annual Meeting of the Society for American Archaeology,
+1655171,Huntington Library Quarterly,0.2
+1655283,International Migration,1.6
+1655307,"Media, Culture & Society",2.3
+1655326,Journal of Field Archaeology,1.5
+1655387,American Journal of Political Science,5.0
+1655403,Women's Studies,0.3
+1655439,Journal of The American Planning Association,3.3
+1655454,Modern Asian Studies,1.0
+1655483,Asian Affairs,1.0
+1655502,French History,0.3
+1655568,Review of Financial Studies,6.8
+1655588,American Journal of Legal History,0.6
+1655606,West European Politics,4.5
+1655636,China Review International,
+1655652,Archives of Natural History,0.3
+1655675,Middle Eastern Studies,0.5
+1655720,Studies in Higher Education,3.7
+1655727,Austrian History Yearbook,0.3
+1655736,New Media & Society,4.5
+1655801,History workshop journal,1.0
+1655926,Development and Change,3.0
+1655949,ELH,0.2
+1655999,Law and Social Inquiry-journal of The American Bar Foundation,1.4
+1656014,Social Science Journal,1.8
+1656055,Archaeometry,1.5
+1656057,Diplomatic History,0.4
+1656099,Past & Present,1.8
+1656164,The 82nd Annual Meeting of the Society for American Archaeology,
+1656209,Art History,0.3
+1656211,Gender & Society,7.2
+1656222,Ab imperio,0.4
+1656273,Womens History Review,0.5
+1656420,Religion,0.9
+1656434,Journal of Islamic Studies,0.9
+1656460,Society & Natural Resources,2.2
+1656514,African American Review,0.3
+1656542,Latin American Perspectives,0.9
+1656561,Armed Forces & Society,1.2
+1656570,Archaeologia ;,
+1656598,Curator: The Museum Journal,1.0
+1656609,Journal of Documentation,1.7
+1656727,Review of African Political Economy,1.4
+1656729,Annals of Science,0.9
+1656773,Social Science History,0.5
+1656784,Gnomon (München),
+1656785,World Politics,4.5
+1656797,Journal of The Economic and Social History of The Orient,0.5
+1656845,Journal of Planning Education and Research,2.8
+1656875,Law and History Review,0.8
+1656879,Anthropological Quarterly,0.8
+1656914,Journal of Urban Affairs,1.9
+1656927,Melanges De La Casa De Velazquez,0.2
+1656941,Studies in History and Philosophy of Science,1.4
+1656995,Ajs Review-the Journal of The Association for Jewish Studies,0.7
+1657021,Comparative Political Studies,4.2
+1657078,Journal of Urban History,0.5
+1657225,Oral History Review,0.7
+1657289,History of Religions,0.3
+1657331,Labor History,0.7
+1657356,Oceanography,3.2
+1657433,International Labor and Working-class History,0.5
+1657499,European Journal of International Law,1.8
+1657505,Journal of College Student Development,1.6
+1657528,Journal of Cold War Studies,0.7
+1657543,Ethos,0.6
+1657569,Journal of Southern African Studies,0.7
+1657632,Agricultural History,0.4
+1657640,Renaissance Studies,0.3
+1657683,International Studies Quarterly,2.4
+1657690,Calif Hist Q J Calif Hist Soc,
+1657709,New Literary History,0.8
+1657726,Journal of Economic Literature,11.5
+1657836,Transactions of the Royal Historical Society,
+1657859,Nacla Report On The Americas,
+1657865,British Journal of Political Science,4.6
+1657888,Intelligence and national security,0.8
+1657902,Oriente moderno,
+1657961,Soviet studies,
+1658009,Indian Economic and Social History Review,0.3
+1658082,Holocaust and Genocide Studies,0.4
+1658129,History of Education,0.4
+1658139,American Studies,
+1658190,Journal of Economic Perspectives,6.9
+1658200,Feminist Studies,0.5
+1658231,Metascience,
+1658292,History and Theory,1.1
+1658310,Studies in Romanticism,0.4
+1658315,Research in Higher Education,1.9
+1658357,Minerva,3.2
+1658421,Journal of Black Studies,0.7
+1658491,Bulletin of Spanish Studies,0.2
+1658528,Winterthur Portfolio,0.0
+1658574,International History Review,0.5
+1658577,Journal of Health and Social Behavior,6.3
+1658596,The Journal of Peasant Studies,4.4
+1658674,Dissent,0.6
+1658686,Library Trends,0.3
+1658736,Journal of Zoological Systematics and Evolutionary Research,2.0
+1658755,The Michigan historical review,0.1
+1658778,Social History,1.1
+1658831,Presidential Studies Quarterly,1.1
+1658877,Nations and Nationalism,1.5
+1658887,Sociology of Religion,2.4
+1658889,Higher education research and development,2.6
+1658910,Review of International Studies,3.2
+1658915,L'Esprit Créateur,0.1
+1658968,Radical History Review,0.7
+1658992,Journal of Women's History,0.6
+1659084,Frontiers,1.8
+1659165,Gender & History,0.3
+1659194,Social Studies of Science,2.9
+1659195,Imago Mundi,0.3
+1659213,Representations,0.9
+1659235,Sport in Society,1.5
+1659245,The Review of Higher Education,2.9
+1659263,World Archaeology,1.8
+1659276,American Literary History,0.6
+1659392,Harvard Journal of Asiatic Studies,0.5
+1659423,"Science, Technology, & Human Values",3.1
+1659452,Science & education,2.1
+1659583,Journal of Strategic Studies,1.3
+1659603,China Information,2.3
+1659618,Latin American Antiquity,1.1
+1659635,Journal of Pacific History,0.4
+1659639,Journal of African American History,
+1659647,Der Islam,0.5
+1659722,War in History,0.2
+1659817,Journal of Early Christian Studies,0.5
+1659818,Centaurus,0.5
+1659844,Labor: Studies in Working-Class History of the Americas,0.3
+1659933,Historical Archaeology,0.4
+1659980,Modern & Contemporary France,0.3
+1660055,African Studies,1.0
+1660122,Studies in Church History,
+1660169,The Encyclopedia of Ancient History,
+1660274,South Asia-journal of South Asian Studies,0.5
+1660377,Revista de historia económica,
+1660461,Journalism Studies,2.8
+1660469,Harvard Educational Review,2.6
+1660643,Biology and Philosophy,1.7
+1660674,The Journal of Imperial and Commonwealth History,0.6
+1660745,Central Asian Survey,1.1
+1660765,European Review of History: Revue europeenne d'histoire,0.5
+1660827,The journal of law and religion,0.6
+1660863,Southwestern Historical Quarterly,0.2
+1660864,South African Historical Journal,0.4
+1660869,American Journal of Education,2.0
+1660903,Daedalus,2.1
+1661006,International Review for the Sociology of Sport,2.5
+1661035,Climate of The Past,3.8
+1661070,Teaching in Higher Education,2.4
+1661087,Demographic Research,2.1
+1661152,Journal of World History,0.7
+1661187,International Journal of Intelligence and Counterintelligence,0.4
+1661194,The Scottish Historical Review,0.3
+1661315,Modern Italy,0.4
+1661345,Oxford Art Journal,0.1
+1661383,International Security,4.8
+1661518,Slavery & abolition,
+1661537,Archaeological and Anthropological Sciences,2.1
+1661555,Journal of Modern Italian Studies,0.6
+1661788,OAH Magazine of History,
+1661791,"Comparative Studies of South Asia, Africa and The Middle East",0.8
+1661828,History Compass,0.5
+1661976,M/C Journal,
+1662051,Explorations in Economic History,2.6
+1662082,Museum Management and Curatorship,1.4
+1662142,Traditio,0.4
+1662195,"Culture, Medicine and Psychiatry",1.5
+1662253,American Indian Culture and Research Journal,1.2
+1662304,Latin American Research Review,0.7
+1662314,The Classical Journal,0.1
+1662327,The Kiva,0.5
+1662349,Cartographica: The International Journal for Geographic Information and Geovisualization,0.7
+1662505,Hermes,0.2
+1662527,Journal of Sport History,
+1662534,International Journal of Heritage Studies,2.0
+1662664,Church History and Religious Culture,0.2
+1662805,Contemporary South Asia,0.5
+1662951,Cambridge Archaeological Journal,1.6
+1662957,Annual Review of Anthropology,2.8
+1663180,French Historical Studies,0.2
+1663285,Journal of interamerican studies and world affairs,
+1663287,History of Science,1.1
+1663296,Journal of the History of Biology,0.7
+1663343,Greek Roman and Byzantine Studies,0.2
+1663512,Innes Review,0.1
+1663529,Mexican Studies,0.4
+1663566,Japanese Studies,0.4
+1663591,Journal of Medieval History,0.3
+1663644,Kritika,0.3
+1663684,Social Text,1.2
+1663895,South Atlantic Quarterly,2.1
+1663901,American historial review. Clases I,
+1663973,Transatlantica : Revue d'Études Américaines,
+1664067,Russian History-histoire Russe,0.2
+1664148,Soccer & Society,1.0
+1664219,Arqueologia,0.6
+1664234,Contemporary European History,0.8
+1664286,Annual Review of Sociology,8.9
+1664302,Journal of Anthropological Archaeology,2.0
+1664335,Journal of The History of Collections,0.2
+1664362,Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences,
+1664385,Early American Literature,0.3
+1664404,American Jewish History,0.3
+1664409,Journal of American Ethnic History,0.4
+1664508,Early Medieval Europe,0.7
+1664521,GLQ: A Journal of Lesbian and Gay Studies,1.0
+1664572,Journal of Slavic Military Studies,
+1664661,Population Research and Policy Review,2.6
+1664744,Sociology of Sport Journal,2.0
+1664756,The Journal of the Gilded Age and Progressive Era,0.4
+1664858,OUP Catalogue,
+1664982,Cultural Anthropology,1.9
+1664987,Monumenta Serica,0.1
+1665279,Victorian literature and culture,
+1665368,Viator,0.0
+1665372,Journal of the History of Sexuality,0.4
+1665808,Nine,
+1666008,Nineteenth-century Contexts,0.3
+1666014,History in Africa,
+1666022,Citizenship Studies,1.2
+1666118,Public Culture,1.1
+1666119,Economics and Human Biology,2.2
+1666190,Modern Judaism,0.5
+1666371,British Journal of Middle Eastern Studies,0.6
+1666676,Jahrbuch für Geschichte Lateinamerikas,
+1666771,Scandinavian Studies,0.3
+1666829,The Journal of the Civil War Era,0.8
+1666863,Journal of Colonialism and Colonial History,
+1666939,Cambridge Books,
+1666957,Journal of Planning Literature,4.0
+1666958,Sojourn,0.3
+1666959,Journal of Sport & Social Issues,2.5
+1666986,Social Science Japan Journal,1.2
+1667428,Proceedings of the annual conference of CAIS,
+1667742,Positions,0.4
+1667863,Chungara,0.7
+1667932,The Latin Americanist,0.2
+1668061,Rethinking History,0.5
+1668083,Japan Forum,0.6
+1668267,Urban affairs quarterly,
+1668396,Science in Context,
+1668457,Postcolonial Studies,1.2
+1668531,Luso-Brazilian Review,0.3
+1668620,Journal of Modern Jewish Studies,0.4
+1668671,Journal of Legal History,0.6
+1668701,Left History,
+1668779,Women's studies quarterly,
+1668884,Communist and Post-communist Studies,1.1
+1669073,Security Studies,2.2
+1669175,Cold War History,0.4
+1669191,Investigaciones de Historia Económica,0.4
+1669484,Modern China,1.0
+1669525,Peritia,
+1669649,Journal of Early Modern History,0.5
+1669674,"Arizona Quarterly: A Journal of American Literature, Culture, and Theory",0.0
+1669723,Colonial Latin American Review,0.5
+1669750,Ancient Mesoamerica,0.9
+1669976,Ohio Valley History,
+1670015,Osmanlı araştırmaları,0.2
+1670067,Memory Studies,1.4
+1670106,History and Technology,1.0
+1670109,Historia mexicana el colegio de México,
+1670127,Early Science and Medicine,0.5
+1670316,Immigrants & minorities,0.9
+1670350,African Economic History,0.7
+1670365,Transformative Works and Cultures,
+1670734,The Soviet and Post-soviet Review,0.3
+1670742,American Nineteenth Century History,0.1
+1670745,Osiris,0.9
+1670824,European Journal of International Relations,2.7
+1670871,The Journal of European economic history,
+1671082,East European Jewish Affairs,0.2
+1671113,Environment and History,0.8
+1671136,Sociological Theory,4.1
+1671184,Twentieth-century China,0.5
+1671196,The history of the family,1.0
+1671224,Dumbarton Oaks papers,
+1671274,Modern Intellectual History,0.7
+1671561,Transactions of the American Philological Association,0.7
+1671578,Critical Asian Studies,1.7
+1671829,South East Asia Research,0.7
+1671955,The Polish Review,
+1672008,Journal of Austrian Studies,0.1
+1672134,Jewish Social Studies,0.5
+1672301,Perspectives on Science,
+1672352,Historical Methods: A Journal of Quantitative and Interdisciplinary History,1.6
+1672410,Media History,0.4
+1672439,Emotion Review,3.0
+1672636,International Journal of Historical Archaeology,1.0
+1672731,Contemporary Jewry,
+1673074,Iran and the Caucasus,0.1
+1673105,Mediterranean Historical Review,0.5
+1673225,Maine Policy Review,
+1673250,Jewish History,0.2
+1673334,North American Archaeologist,0.7
+1673390,Eighteenth-century Life,0.1
+1673448,Conflict Resolution Quarterly,1.0
+1673601,Environmental History Review,
+1673897,Studies in Gender and Sexuality,
+1673983,Journal of Global History,1.7
+1673995,Folklore,0.2
+1674007,African Archaeological Review,2.0
+1674320,Nottingham medieval studies,
+1674418,Al-Masāq,0.3
+1674422,The Journal of medieval Latin,
+1674591,"French Politics, Culture & Society",
+1674889,Anglo-Saxon England,
+1675131,German Politics and Society,0.5
+1675355,Journal of Archaeological Method and Theory,3.2
+1675356,Religion and American Culture,0.3
+1675743,Archaeology,0.3
+1675784,Medieval Encounters,0.1
+1675827,Proceedings of the Cambridge Philological Society,
+1675847,Prooftexts,0.2
+1676004,Jahrbucher Fur Geschichte Osteuropas,0.1
+1676100,War and society,0.2
+1676115,Journal of Medieval and Early Modern Studies,0.4
+1676317,Journal of African American Studies,0.8
+1676880,Classical Antiquity,0.9
+1677238,South Asian History and Culture,0.9
+1677314,Fronteras de la historia,0.2
+1677377,Arts and Humanities in Higher Education,1.0
+1677423,Journal of Vietnamese Studies,0.6
+1677532,Ming Studies,1.1
+1677809,Le Muséon,0.0
+1677997,South Asian studies,0.5
+1678200,Islamic Law and Society,0.3
+1678206,Buildings & Landscapes: Journal of The Vernacular Architecture Forum,0.2
+1678264,Transgender studies quarterly,1.8
+1678659,Reformation and Renaissance Review,0.1
+1678819,Physics in Perspective,0.1
+1678972,Cultural encounters in late antiquity and the Middle Ages,
+1679264,The Journal of Island and Coastal Archaeology,1.4
+1679413,Arethusa,0.2
+1679441,South Carolina Historical Magazine,
+1679724,Native American and Indigenous Studies,2.5
+1679825,Journal of Folklore Research,0.4
+1679890,Antichthon,0.2
+1679902,Revue Mabillon,
+1679920,Atlantic Studies,0.3
+1679955,Britain and the world,0.1
+1680197,European Review of Economic History,1.2
+1680395,Comparative American Studies,0.1
+1680785,The journal of community informatics,
+1681068,The social history of alcohol and drugs,
+1681111,Laboratorium: Russian Review of Social Research,
+1681138,French Politics,0.6
+1681446,Historical Studies in the Natural Sciences,0.7
+1681451,Postmedieval: A Journal of Medieval Cultural Studies,0.2
+1681748,Women in Judaism: A Multidisciplinary e-Journal,
+1681759,First World War Studies,
+1682035,Early American Studies: An Interdisciplinary Journal,0.2
+1682245,Archaeologies,0.3
+1682436,Historia Agraria,0.4
+1682821,Contributions To Global Historical Archaeology,
+1682885,Middle West Review,
+1683505,Journal of Late Antiquity,0.5
+1683983,Library & Information History,0.1
+1684279,museum and society,
+1684839,Journal of Planning History,0.5
+1685351,The Copenhagen Journal of Asian Studies,
+1685440,Journal of War and Culture Studies,0.5
+1685752,Journal of Tourism History,0.3
+1685835,Late Imperial China,0.6
+1685961,Chinese Historical Review,0.1
+1686196,The Sixties,0.4
+1686383,Journal of African Archaeology,1.0
+1686747,Turcica,
+1687429,Teaching & Learning Inquiry: The ISSOTL Journal,1.7
+1687534,Journal of the Southwest,0.1
+1687550,Journal of Social Archaeology,1.6
+1687722,Historical Reflections,0.3
+1687749,Journal of the Ottoman and Turkish Studies Association,
+1687819,Maine History,
+1688090,Settler colonial studies,1.1
+1688097,Hugoye,
+1688265,California historical quarterly,
+1688774,New York Times,
+1689068,Colonial Latin American Historical Review,
+1689413,International journal of African renaissance studies,0.4
+1690499,Information & Culture,0.6
+1690792,Book History,0.5
+1690975,California archaeology,
+1692661,J19: The Journal of Nineteenth-Century Americanists,0.1
+1692737,Environmental humanities,1.2
+1692756,"History, philosophy and theory of the life sciences",
+1692854,Water History,
+1693403,Starinar,
+1693536,Kronos: journal of Cape history,
+1693768,Journal of the Middle East and Africa,
+1694846,Journal of Chinese history =,0.6
+1695328,The Journal of Caribbean history,
+1695559,Polish American studies,
+1695807,The Journal of American Science,
+1697680,Arms & Armour,0.1
+1698294,Ming Qing Yanjiu,0.1
+1698358,Journal of community archaeology & heritage,
+1698493,Memoirs of the American Academy in Rome,
+1699204,Journal of Early American History,0.2
+1699460,Museum history journal,0.1
+1700888,French Colonial History,0.6
+1701400,Turkish Historical Review,0.2
+1702069,Hebrew Union College Annual,
+1702690,Parks stewardship forum,
+1702773,Autobiografia,
+1702908,Non Plus,
+1703463,New Books Network,
+1703526,"Estudios - Instituto de Investigaciones Históricas, Antropológicas y Arqueológicas",
+1703748,Journal of Persianate Studies,0.2
+1703940,thirdspace: a journal of feminist theory & culture,
+1704321,Washington Post,
+1704901,Modern American history,
+1705153,Libraries,
+1705653,Andean past,
+1705887,Publication of: Routledge,
+1705948,East Asian publishing and society,0.3
+1706020,North Dakota Quarterly,
+1706866,Journal of migration history,0.2
+1708529,The International Encyclopedia of Digital Communication and Society,
+1708991,Online Journal,
+1709324,Native south,
+1710498,Open Information Science,
+1712876,Debates in the digital humanities,

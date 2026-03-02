@@ -1,0 +1,450 @@
+venue_db_id,name,jcr_jif
+1647091,The Lancet,98.4
+1647092,Nature,50.5
+1647093,British Medical Journal (BMJ),93.6
+1647094,Science,44.7
+1647096,PLOS ONE,2.9
+1647097,JAMA,63.1
+1647101,Journal of Biological Chemistry,4.0
+1647103,Blood,21.0
+1647105,Scientific Reports,3.8
+1647108,PNAS,9.4
+1647109,The Medical Journal of Australia,6.7
+1647110,Cancer Research,12.5
+1647112,Journal of Applied Physics,2.7
+1647113,Journal of Chemical Physics,3.1
+1647114,The Journal of Urology,5.9
+1647115,Investigative Ophthalmology & Visual Science,5.0
+1647116,Gastroenterology,25.7
+1647117,Journal of Clinical Oncology,42.1
+1647118,Physical Review Letters,8.1
+1647119,Proceedings of SPIE,
+1647121,Applied Physics Letters,3.5
+1647122,Analytical Chemistry,6.7
+1647123,The FASEB Journal,4.4
+1647125,The New England Journal of Medicine,96.2
+1647128,Circulation,35.5
+1647133,Journal of the American College of Cardiology,21.7
+1647134,American Journal of Nursing,2.5
+1647143,American Journal of Obstetrics and Gynecology,8.7
+1647145,Medicine and Science in Sports and Exercise,4.1
+1647148,Journal of the American Medical Association,
+1647151,Journal of Immunology,3.6
+1647155,The American Journal of Gastroenterology,8.0
+1647157,International Journal of Radiation Oncology Biology Physics,6.4
+1647159,Biophysical Journal,3.2
+1647161,Neurology,7.7
+1647162,Journal of Alloys and Compounds,5.8
+1647163,Chest,9.5
+1647164,Biochemistry,2.9
+1647165,MRS Proceedings,
+1647169,Annals of the New York Academy of Sciences,4.1
+1647177,Chemical Physics Letters,2.8
+1647178,Pediatrics,6.2
+1647180,Brain Research,2.7
+1647181,Annals of Internal Medicine,19.6
+1647185,Environmental Science & Technology,10.8
+1647186,Science of The Total Environment,8.2
+1647188,Annals of the Rheumatic Diseases,20.3
+1647189,International Journal of Molecular Sciences,4.9
+1647194,Radiology,12.1
+1647196,FEBS Letters,3.0
+1647198,Fertility and Sterility,6.6
+1647207,European Heart Journal,37.6
+1647209,Journal of Bacteriology,2.7
+1647213,International Journal of Environmental Research and Public Health,
+1647217,Annals of Oncology,56.7
+1647219,American Journal of Cardiology,2.3
+1647226,Cancer,6.1
+1647227,The Journal of Physiology,4.7
+1647230,The Journal of Allergy and Clinical Immunology,11.4
+1647231,The Journal of Physical Chemistry,
+1647234,Endocrinology,3.8
+1647235,Nucleic Acids Research,16.6
+1647238,Methods in molecular biology,
+1647241,NEJM Journal Watch,
+1647243,Nature Communications,14.7
+1647244,The Journal of Clinical Endocrinology and Metabolism,5.0
+1647245,Physical Review,
+1647247,Critical Care Medicine,7.7
+1647248,Journal of Virology,4.0
+1647251,The Journal of Pediatrics,3.9
+1647254,American Journal of Psychiatry,15.1
+1647259,Journal of Hepatology,26.8
+1647263,Experimental Biology and Medicine,2.8
+1647264,Journal of Physical Chemistry B,2.8
+1647266,Pediatric Research,3.1
+1647277,Archives of internal medicine,
+1647287,Stroke,7.8
+1647290,Applied sciences,2.5
+1647294,Journal of Nervous and Mental Disease,1.6
+1647296,Alzheimers & Dementia,13.0
+1647297,Medical Physics,3.2
+1647299,Molecules,4.2
+1647300,Analytica Chimica Acta,5.7
+1647307,European Journal of Pharmacology,4.2
+1647309,Obstetrics & Gynecology,5.7
+1647320,The Journal of Neuroscience,4.4
+1647323,Archives of Disease in Childhood,4.3
+1647325,American Heart Journal,3.7
+1647329,European Journal of Cancer,7.6
+1647332,Neuroscience Letters,2.5
+1647338,British Journal of Dermatology,11.0
+1647363,Diabetes,6.2
+1647364,The Journal of Infectious Diseases,5.0
+1647373,Journal of Molecular Biology,4.7
+1647374,The Journal of Nuclear Medicine,9.1
+1647375,International Journal of Cardiology,3.2
+1647380,Journal of Clinical Investigation,13.3
+1647387,Journal of the American Dental Association,3.1
+1647390,Journal of Medicinal Chemistry,6.8
+1647391,Life Sciences,5.2
+1647392,Clinical Infectious Diseases,8.2
+1647393,Journal of Hypertension,3.3
+1647405,Frontiers in Psychology,2.6
+1647412,BMJ,
+1647415,The American Journal of Medicine,5.1
+1647425,European Neuropsychopharmacology,6.1
+1647427,Infection and Immunity,2.9
+1647429,Journal of Applied Physiology,3.3
+1647430,Journal of Pharmacology and Experimental Therapeutics,3.1
+1647433,Antimicrobial Agents and Chemotherapy,4.1
+1647437,Annals of Emergency Medicine,5.0
+1647438,Journal of the National Cancer Institute,9.9
+1647441,"Journal of Bone and Joint Surgery, American Volume",4.4
+1647442,Journal of Clinical Microbiology,6.1
+1647445,Atherosclerosis,4.9
+1647446,Journal of Neurochemistry,4.2
+1647447,Journal of The American Dietetic Association,
+1647449,Hepatology,12.9
+1647456,Molecular and Cellular Biology,3.2
+1647457,British Journal of Psychiatry,8.7
+1647458,International Journal of Cancer,5.7
+1647476,Biochemical Pharmacology,5.3
+1647477,Clinical Orthopaedics and Related Research,4.2
+1647482,Procedia - Social and Behavioral Sciences,
+1647494,"Journal of Neurology, Neurosurgery, and Psychiatry",8.7
+1647506,BMJ Open,2.4
+1647517,Vaccine,4.5
+1647518,Virology,2.8
+1647528,Biological Psychiatry,9.6
+1647537,Circulation Research,16.5
+1647538,British Journal of Pharmacology,6.8
+1647542,Journal of Cell Biology,7.4
+1647557,British Journal of Cancer,6.4
+1647560,eLife,6.4
+1647568,Neuroscience,2.9
+1647569,Heart,5.1
+1647570,Oncotarget,
+1647574,Bjog: An International Journal Of Obstetrics And Gynaecology,4.7
+1647580,Archives of Physical Medicine and Rehabilitation,3.6
+1647582,NeuroImage,4.7
+1647584,Psychiatric Services,3.3
+1647596,Journal of Nutrition,3.7
+1647597,Environmental Health Perspectives,10.1
+1647603,Methods in Enzymology,
+1647606,The American Journal of Clinical Nutrition,6.5
+1647607,Cell,45.5
+1647615,Journal of Surgical Research,1.8
+1647618,Academic Medicine,5.3
+1647621,Journal of Experimental Medicine,12.6
+1647630,Medicina Clinica,2.6
+1647634,Clinical Cancer Research,10.0
+1647653,American Journal of Tropical Medicine and Hygiene,1.9
+1647663,Journal of the American Geriatrics Society,4.3
+1647665,Journal of comparative neurology,2.3
+1647666,American Journal of Public Health,9.6
+1647676,American Journal of Physiology,
+1647686,Nursing (Wolters Kluwer),
+1647688,Journal of Molecular and Cellular Cardiology,4.9
+1647691,Military Medicine,1.2
+1647706,Human Reproduction,6.0
+1647707,Journal of Biomechanics,2.4
+1647708,Hypertension,6.9
+1647718,American Journal of Epidemiology,5.0
+1647721,Nutrients,4.8
+1647724,Journal of Trauma-injury Infection and Critical Care,
+1647733,Journal of Neurophysiology,2.1
+1647764,Journal of Dental Research,5.7
+1647770,Oncogene,6.9
+1647788,Molecular Therapy,12.1
+1647790,American Journal of Physiology-heart and Circulatory Physiology,4.1
+1647793,Diabetes Care,14.8
+1647805,BMC Public Health,3.5
+1647806,American Journal of Respiratory and Critical Care Medicine,19.3
+1647807,The EMBO Journal,9.4
+1647808,AORN Journal,0.8
+1647839,Social Science & Medicine,4.9
+1647857,Innovation in Aging,4.9
+1647864,Physiology & Behavior,2.4
+1647943,Journal of the American Academy of Child and Adolescent Psychiatry,9.2
+1647954,Bone,3.5
+1647963,Brain,10.6
+1647983,Injury-international Journal of The Care of The Injured,2.2
+1648002,American Journal of Human Genetics,8.1
+1648005,American Journal of Hypertension,3.2
+1648012,Psychopharmacology,3.5
+1648053,Annals of Neurology,8.1
+1648061,"Arteriosclerosis, Thrombosis, and Vascular Biology",7.4
+1648065,Epilepsia,6.6
+1648084,Gerontologist,4.6
+1648089,Physics in Medicine and Biology,3.3
+1648102,Diabetologia,8.4
+1648111,Journal of Affective Disorders,4.9
+1648116,Archives of neurology,
+1648118,"Pharmacology, Biochemistry and Behavior",3.3
+1648152,Biochimica Et Biophysica Acta - General Subjects,2.8
+1648166,The Cochrane library,
+1648178,The Journal of emergency medicine,1.2
+1648189,Experimental Brain Research,1.7
+1648214,Cardiovascular Research,10.2
+1648232,Epidemiology,4.7
+1648237,Experimental Neurology,4.6
+1648261,The journal of bone and joint surgery,
+1648275,American Journal of Physiology-regulatory Integrative and Comparative Physiology,2.2
+1648303,Bioinformatics,4.4
+1648310,American Journal of Physical Anthropology,2.6
+1648316,Frontiers in Physiology,3.2
+1648318,Journal of Advanced Nursing,3.8
+1648323,Occupational and Environmental Medicine,3.9
+1648366,Magnetic Resonance in Medicine,3.0
+1648398,Frontiers in Neuroscience,3.2
+1648402,Nature Medicine,58.7
+1648418,Neuropharmacology,4.6
+1648434,American Journal of Agricultural Economics,4.2
+1648454,Journal of Arthroplasty,3.4
+1648458,International Journal of Epidemiology,6.4
+1648469,Human Molecular Genetics,3.1
+1648485,Diabetes Research and Clinical Practice,6.1
+1648491,Psychological Medicine,5.9
+1648492,Age and Ageing,6.0
+1648499,Academic Emergency Medicine,3.4
+1648527,Drug and Alcohol Dependence,3.9
+1648529,Journal of School Health,1.8
+1648536,Neuron,14.7
+1648537,Journal of Forensic Sciences,1.5
+1648544,"Palaeogeography, Palaeoclimatology, Palaeoecology",2.6
+1648554,PLOS Pathogens,5.5
+1648558,Journal of Epidemiology and Community Health,4.9
+1648559,Journal of General Internal Medicine,4.3
+1648593,Journal of Pediatric Orthopaedics,1.4
+1648597,Science Education,3.1
+1648620,Heart Rhythm,5.6
+1648626,Journal of Pain and Symptom Management,3.2
+1648632,Nursing Management,
+1648638,American Journal of Physiology-renal Physiology,3.7
+1648671,British Journal of Sports Medicine,11.6
+1648674,American Journal of Physiology-cell Physiology,5.0
+1648695,Nursing Research,2.2
+1648713,Journal of Educational Psychology,5.6
+1648759,Journal of Adolescent Health,5.5
+1648761,Gait & Posture,2.2
+1648795,Clinical Pediatrics,1.0
+1648802,American Journal of Physiology-endocrinology and Metabolism,4.2
+1648806,BMC Bioinformatics,2.9
+1648825,"Cancer Epidemiology, Biomarkers & Prevention",3.7
+1648834,Journal of Bone and Mineral Research,5.1
+1648838,medRxiv,
+1648852,Annals of Pharmacotherapy,2.3
+1648861,International journal of scientific research,
+1648878,BMC Infectious Diseases,3.4
+1648880,American Journal of Sports Medicine,4.2
+1648897,Cell Reports,7.5
+1648928,Health Affairs,8.6
+1648994,Journal of Nursing Administration,1.8
+1648995,Medical Education,4.9
+1649031,Ecological Modelling,2.6
+1649041,Archives of General Psychiatry,
+1649053,PLOS Computational Biology,3.8
+1649072,Journal of Magnetic Resonance Imaging,3.3
+1649080,Journal of Acquired Immune Deficiency Syndromes,2.9
+1649149,Nature Genetics,31.7
+1649211,Journal of Alzheimer's Disease,3.4
+1649212,International Journal Of Legal Medicine,2.2
+1649244,Journal of Clinical Nursing,3.2
+1649252,Preventive Medicine,4.3
+1649270,Phi Delta Kappan,1.3
+1649277,International Journal of Obesity,4.2
+1649348,Journal of Instrumentation,1.3
+1649389,Proteins,3.2
+1649395,European Journal of Nuclear Medicine and Molecular Imaging,8.6
+1649458,Epilepsy & Behavior,2.3
+1649468,Magnetic Resonance Imaging,2.1
+1649482,The Journal of General Physiology,3.3
+1649508,Molecular Cell,14.5
+1649519,American Journal of Preventive Medicine,4.3
+1649559,Supportive Care in Cancer,2.8
+1649569,Lancet Infectious Diseases,36.4
+1649628,Journal of Clinical Epidemiology,7.3
+1649688,Journal of Emergency Nursing,1.8
+1649773,Genes & Development,7.5
+1649860,Journal of Orthopaedic Research,2.1
+1649912,Neuropsychopharmacology,6.6
+1649947,BMC Musculoskeletal Disorders,2.2
+1649963,Journal of the American Heart Association,5.0
+1649989,Brain Behavior and Immunity,8.8
+1650007,Nursing Outlook,4.1
+1650047,Hastings Center Report,2.3
+1650108,Addictive Behaviors,3.7
+1650164,Medical Teacher,3.3
+1650197,Nurse Education Today,3.6
+1650220,North Carolina medical journal,
+1650231,JAMA network open,10.5
+1650256,Children and Youth Services Review,2.4
+1650279,IEEE Transactions on Medical Imaging,8.9
+1650305,Journal of Medical Internet Research,5.8
+1650306,PLOS Biology,7.8
+1650365,Child Abuse & Neglect,3.4
+1650477,Nature Neuroscience,21.2
+1650495,Journal of Wound Ostomy and Continence Nursing,1.7
+1650499,"Journal of Obstetric, Gynecologic, & Neonatal Nursing",1.8
+1650544,The Journals of Gerontology,4.3
+1650600,JAMA Internal Medicine,22.5
+1650623,Obesity,4.2
+1650765,"Diabetes, Obesity and Metabolism",5.4
+1650974,Annals of Epidemiology,3.3
+1650987,Journal of Interpersonal Violence,2.6
+1651036,Science Translational Medicine,15.8
+1651046,Journal of Nursing Education,1.6
+1651066,Journal of Gerontology,
+1651083,American Journal of Bioethics,17.0
+1651161,Nature Immunology,27.7
+1651169,Educational Researcher,5.4
+1651186,Geriatric Nursing,2.5
+1651192,Preventive Veterinary Medicine,2.2
+1651257,Immunity,25.5
+1651284,Advanced Science,14.3
+1651371,Molecular Psychiatry,9.6
+1651406,MCN: The American Journal of Maternal/Child Nursing,1.8
+1651422,Toxins,3.9
+1651423,International Journal of Nursing Studies,7.5
+1651435,Review of Educational Research,8.3
+1651450,Journal of Pediatric Nursing,2.1
+1651538,Journal of Negro Education,
+1651542,Aids Care-psychological and Socio-medical Aspects of Aids/hiv,1.2
+1651548,Healthcare,2.4
+1651621,PLOS Medicine,10.5
+1651823,Health Services Research,3.1
+1651840,Aids and Behavior,2.7
+1651861,Frontiers in Bioscience,
+1652154,Journal of Diagnostic Medical Sonography,0.3
+1652156,Journal of Research in Science Teaching,3.6
+1652228,Journal of Pediatric Health Care,2.5
+1652255,Vaccines,5.2
+1652258,SAGE Open,2.0
+1652293,Nurse Educator,2.4
+1652397,BMC Medical Education,2.7
+1652421,European Journal of Epidemiology,7.7
+1652622,General Hospital Psychiatry,4.1
+1652667,Nutrition and Cancer,2.0
+1652687,The Journal for Nurse Practitioners,1.5
+1652704,Cancer Causes & Control,2.2
+1652705,Journal of Continuing Education in Nursing,1.1
+1652749,Midwifery,2.6
+1652843,Community Mental Health Journal,1.8
+1652846,Journal of the American Medical Informatics Association,4.7
+1653050,Perspectives in Biology and Medicine,0.8
+1653206,Journal of Midwifery & Women's Health,2.1
+1653213,American Educational Research Journal,3.5
+1653289,Adolescence,
+1653338,Journal of Youth and Adolescence,3.7
+1653371,Western Journal of Nursing Research,2.0
+1653527,Respiratory Physiology & Neurobiology,1.9
+1653609,Cancer Prevention Research,2.9
+1653655,Journal of Traumatic Stress,2.4
+1653714,Journal of Nursing Management,3.7
+1653813,Journal of Professional Nursing,2.8
+1653885,Nursing administration quarterly,
+1653932,Journal of Biomedical Informatics,4.0
+1654089,BMC Medicine,7.0
+1654317,Cell Metabolism,27.7
+1654347,JAMA Neurology,20.4
+1654390,International Journal of Science Education,2.2
+1654520,Public Health Nursing,1.7
+1654696,JCI insight,6.3
+1654842,Academic Pediatrics,3.0
+1654984,Pediatric Nursing,
+1655022,Journal of Community Health,3.9
+1655291,Research in Nursing & Health,2.1
+1655390,BMC Oral Health,2.6
+1655751,BMJ Global Health,7.1
+1655847,American Journal of Critical Care,2.7
+1656238,Journal of Clinical and Experimental Neuropsychology,1.8
+1656250,Prehospital Emergency Care,2.1
+1656465,Journal of the Association of Nurses in AIDS Care,1.6
+1656501,Journal of Medical Informatics,
+1656576,Nurse Education in Practice,3.3
+1656655,Journal of Mental Health,2.9
+1656668,Veterinary Research,3.7
+1656689,JAMA Psychiatry,22.5
+1656691,Scientific Data,5.8
+1656940,Microcirculation,1.9
+1657056,Nursing education perspectives,0.9
+1657306,Neuroepidemiology,3.2
+1657405,Journal of Graduate Medical Education,
+1657703,Addiction Biology,3.1
+1657708,Family & Community Health,1.5
+1658100,Health Education & Behavior,2.7
+1658149,Applied Nursing Research,2.7
+1658290,The Clinical Teacher,1.4
+1658577,Journal of Health and Social Behavior,6.3
+1658758,Molecular therapy. Nucleic acids,6.5
+1658781,Journal of School Nursing,1.5
+1658825,Advances in Nursing Science,1.6
+1659052,Rural and Remote Health,2.0
+1659065,Journal of Nursing Care Quality,1.2
+1659078,Environmental Health,5.3
+1659136,Teaching and Learning in Medicine,2.1
+1659808,Quality & Safety in Health Care,
+1659908,Medical science educator,1.9
+1660171,Violence & Victims,1.1
+1660291,Epigenetics,2.9
+1660307,Journal of Veterinary Medical Education,1.1
+1660460,Journal of Nursing Education and Practice,
+1660481,Clinical Gerontologist,2.6
+1660533,Journal of Nursing Scholarship,2.4
+1660922,Journal of Aging and Physical Activity,1.4
+1661381,Clinical Simulation in Nursing,3.4
+1661539,American Journal of Alzheimers Disease and Other Dementias,2.7
+1662340,Prevention Science,3.0
+1662451,Child & adolescent social work journal,1.4
+1662686,Journal of trauma nursing,0.7
+1662758,Sigma Theta Tau International's 28th International Nursing Research Congress,
+1662822,Nursing open,2.0
+1662976,Epigenomics,3.0
+1663029,Advances in Health Sciences Education,3.0
+1663368,Nature Human Behaviour,21.4
+1665672,Journal of Adolescent Research,2.2
+1666301,JMIR medical informatics,3.1
+1666405,Molecular Neurodegeneration,14.9
+1666695,Policing: A Journal of Policy and Practice,1.3
+1667327,Applied Clinical Informatics,2.1
+1667339,Worldviews on Evidence-based Nursing,3.4
+1668598,JCO precision oncology,5.3
+1668645,The Lancet. Public health,25.4
+1672554,Molecular Imaging,2.2
+1673514,Advanced Emergency Nursing Journal,0.8
+1674946,npj digital medicine,12.4
+1675102,Perspectives on medical education,4.8
+1675309,Social Work in Mental Health,1.1
+1675751,IEEE transactions on radiation and plasma medical sciences,4.6
+1675760,Quality in Ageing and Older Adults,0.8
+1677436,Epidemics,3.0
+1680767,The Lancet Digital Health,23.8
+1682108,Clinical and experimental neurology,
+1682169,"Brain, Behavior, & Immunity - Health",3.7
+1684238,Journal of stroke,6.0
+1685397,JAMIA open,2.5
+1686642,PS,
+1687420,American Journal of Public Health Research,
+1689207,Other repository,
+1690423,The Open Cardiovascular Medicine Journal,0.2
+1695567,PubMed,
+1696465,The journal of sports medicine and allied health sciences,
+1696735,Women's health reports,1.6
+1700845,Rwanda journal,
+1702631,Journal of the American Public Health Association,
+1704688,Nature Cardiovascular Research,9.4
+1708956,Other Research,
+1711073,Journals of Gerontology Series A-biological Sciences and Medical Sciences,
+1711876,PLOS water,

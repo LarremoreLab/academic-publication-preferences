@@ -1,0 +1,872 @@
+venue_db_id,name,jcr_jif
+1647091,The Lancet,98.4
+1647092,Nature,50.5
+1647093,British Medical Journal (BMJ),93.6
+1647094,Science,44.7
+1647096,PLOS ONE,2.9
+1647097,JAMA,63.1
+1647098,Bulletin of the American Physical Society,
+1647100,Journal of the American Chemical Society,14.4
+1647101,Journal of Biological Chemistry,4.0
+1647102,AGU Fall Meeting Abstracts,
+1647103,Blood,21.0
+1647105,Scientific Reports,3.8
+1647107,Journal of the Acoustical Society of America,2.1
+1647108,PNAS,9.4
+1647110,Cancer Research,12.5
+1647112,Journal of Applied Physics,2.7
+1647113,Journal of Chemical Physics,3.1
+1647114,The Journal of Urology,5.9
+1647115,Investigative Ophthalmology & Visual Science,5.0
+1647116,Gastroenterology,25.7
+1647117,Journal of Clinical Oncology,42.1
+1647118,Physical Review Letters,8.1
+1647119,Proceedings of SPIE,
+1647121,Applied Physics Letters,3.5
+1647122,Analytical Chemistry,6.7
+1647123,The FASEB Journal,4.4
+1647125,The New England Journal of Medicine,96.2
+1647127,Angewandte Chemie,
+1647128,Circulation,35.5
+1647130,AGUFM,
+1647133,Journal of the American College of Cardiology,21.7
+1647135,Tetrahedron Letters,1.5
+1647139,Journal of Organic Chemistry,3.3
+1647140,Biochemical and Biophysical Research Communications,2.5
+1647143,American Journal of Obstetrics and Gynecology,8.7
+1647144,Journal of Geophysical Research,
+1647145,Medicine and Science in Sports and Exercise,4.1
+1647148,Journal of the American Medical Association,
+1647151,Journal of Immunology,3.6
+1647152,Angewandte Chemie International Edition,16.1
+1647159,Biophysical Journal,3.2
+1647161,Neurology,7.7
+1647164,Biochemistry,2.9
+1647165,MRS Proceedings,
+1647169,Annals of the New York Academy of Sciences,4.1
+1647173,Chemical Communications,4.3
+1647177,Chemical Physics Letters,2.8
+1647180,Brain Research,2.7
+1647181,Annals of Internal Medicine,19.6
+1647185,Environmental Science & Technology,10.8
+1647186,Science of The Total Environment,8.2
+1647189,International Journal of Molecular Sciences,4.9
+1647196,FEBS Letters,3.0
+1647198,Fertility and Sterility,6.6
+1647206,Tetrahedron,2.1
+1647207,European Heart Journal,37.6
+1647209,Journal of Bacteriology,2.7
+1647211,Journal of Chemical Education,2.5
+1647212,Optics Express,3.2
+1647213,International Journal of Environmental Research and Public Health,
+1647216,Physics Today,2.8
+1647219,American Journal of Cardiology,2.3
+1647221,Journal of Agricultural and Food Chemistry,5.7
+1647227,The Journal of Physiology,4.7
+1647230,The Journal of Allergy and Clinical Immunology,11.4
+1647231,The Journal of Physical Chemistry,
+1647233,Langmuir,3.7
+1647234,Endocrinology,3.8
+1647235,Nucleic Acids Research,16.6
+1647238,Methods in molecular biology,
+1647242,American Mathematical Monthly,0.4
+1647243,Nature Communications,14.7
+1647244,The Journal of Clinical Endocrinology and Metabolism,5.0
+1647245,Physical Review,
+1647248,Journal of Virology,4.0
+1647249,Vacuum,3.8
+1647253,American Journal of Ophthalmology,4.1
+1647254,American Journal of Psychiatry,15.1
+1647261,Physical Chemistry Chemical Physics,2.9
+1647264,Journal of Physical Chemistry B,2.8
+1647273,Geophysical Research Letters,4.6
+1647277,Archives of internal medicine,
+1647285,Applied optics,
+1647292,Chemosphere,8.1
+1647296,Alzheimers & Dementia,13.0
+1647299,Molecules,4.2
+1647307,European Journal of Pharmacology,4.2
+1647308,Zootaxa,0.8
+1647309,Obstetrics & Gynecology,5.7
+1647310,Analyst,3.6
+1647312,Advances in Experimental Medicine and Biology,
+1647315,Journal of Crystal Growth,1.7
+1647320,The Journal of Neuroscience,4.4
+1647325,American Heart Journal,3.7
+1647328,Optics Letters,3.1
+1647332,Neuroscience Letters,2.5
+1647334,Biochemical Journal,4.4
+1647346,Journal of Physical Chemistry A,2.7
+1647355,Organic Letters,4.9
+1647363,Diabetes,6.2
+1647364,The Journal of Infectious Diseases,5.0
+1647366,Applied and Environmental Microbiology,3.9
+1647369,Optics Communications,2.2
+1647373,Journal of Molecular Biology,4.7
+1647379,Journal of Economic Entomology,2.2
+1647380,Journal of Clinical Investigation,13.3
+1647383,Naturwissenschaften,2.1
+1647388,Environmental Science and Pollution Research,
+1647389,The Quarterly Review of Biology,3.7
+1647390,Journal of Medicinal Chemistry,6.8
+1647391,Life Sciences,5.2
+1647392,Clinical Infectious Diseases,8.2
+1647393,Journal of Hypertension,3.3
+1647396,Plant Physiology,6.5
+1647398,Archives of Biochemistry and Biophysics,3.8
+1647403,Phytochemistry,3.2
+1647405,Frontiers in Psychology,2.6
+1647411,Acs Symposium Series,
+1647415,The American Journal of Medicine,5.1
+1647417,Fems Microbiology Letters,2.2
+1647425,European Neuropsychopharmacology,6.1
+1647427,Infection and Immunity,2.9
+1647429,Journal of Applied Physiology,3.3
+1647430,Journal of Pharmacology and Experimental Therapeutics,3.1
+1647433,Antimicrobial Agents and Chemotherapy,4.1
+1647438,Journal of the National Cancer Institute,9.9
+1647442,Journal of Clinical Microbiology,6.1
+1647445,Atherosclerosis,4.9
+1647446,Journal of Neurochemistry,4.2
+1647447,Journal of The American Dietetic Association,
+1647456,Molecular and Cellular Biology,3.2
+1647464,Bioorganic & Medicinal Chemistry Letters,2.5
+1647467,American Anthropologist,2.6
+1647476,Biochemical Pharmacology,5.3
+1647481,Biochemical Society Transactions,3.8
+1647488,Journal of Hazardous Materials,12.2
+1647491,Gut,23.0
+1647493,Poultry Science,3.8
+1647495,Analytical Biochemistry,2.6
+1647496,Physical Review E,2.2
+1647498,Frontiers in Immunology,5.7
+1647506,BMJ Open,2.4
+1647511,APS March Meeting Abstracts,
+1647516,Archives of Ophthalmology,
+1647518,Virology,2.8
+1647522,European journal of biochemistry,
+1647525,Water Science and Technology,2.5
+1647528,Biological Psychiatry,9.6
+1647537,Circulation Research,16.5
+1647541,American Journal of Botany,2.4
+1647542,Journal of Cell Biology,7.4
+1647544,Journal of Fluid Mechanics,3.6
+1647548,British Journal of Haematology,5.1
+1647549,Frontiers in Microbiology,4.0
+1647550,Remote Sensing,4.2
+1647560,eLife,6.4
+1647565,AIAA Journal,2.1
+1647568,Neuroscience,2.9
+1647570,Oncotarget,
+1647574,Bjog: An International Journal Of Obstetrics And Gynaecology,4.7
+1647577,Pflügers Archiv: European Journal of Physiology,2.9
+1647584,Psychiatric Services,3.3
+1647585,The Auk,2.0
+1647587,Journal of Pharmaceutical Sciences,3.7
+1647589,Experientia,
+1647596,Journal of Nutrition,3.7
+1647597,Environmental Health Perspectives,10.1
+1647599,Gene,2.6
+1647603,Methods in Enzymology,
+1647606,The American Journal of Clinical Nutrition,6.5
+1647607,Cell,45.5
+1647618,Academic Medicine,5.3
+1647620,Geochimica et Cosmochimica Acta,4.5
+1647621,Journal of Experimental Medicine,12.6
+1647624,Experimental Cell Research,3.3
+1647632,Water Research,11.4
+1647636,British Journal of Ophthalmology,3.7
+1647638,Ecology,4.4
+1647649,The American Naturalist,2.4
+1647662,Journal of the American Oil Chemists' Society,1.9
+1647663,Journal of the American Geriatrics Society,4.3
+1647665,Journal of comparative neurology,2.3
+1647666,American Journal of Public Health,9.6
+1647675,Plant Disease,4.4
+1647676,American Journal of Physiology,
+1647705,Journal of Cell Science,3.3
+1647706,Human Reproduction,6.0
+1647707,Journal of Biomechanics,2.4
+1647708,Hypertension,6.9
+1647711,Journal of Membrane Science,8.4
+1647712,Marine Pollution Bulletin,5.3
+1647713,Aquaculture,3.9
+1647714,Developmental Biology,2.5
+1647717,Clinical Neurophysiology,3.7
+1647721,Nutrients,4.8
+1647722,Current Biology,8.1
+1647728,Journal of the Science of Food and Agriculture,3.3
+1647730,Hydrobiologia (Springer Nature),2.2
+1647733,Journal of Neurophysiology,2.1
+1647747,The Journal of Experimental Biology,2.8
+1647752,Frontiers in Plant Science,4.1
+1647760,Environmental Pollution,7.6
+1647762,Schizophrenia Research,3.6
+1647763,Ophthalmology,13.1
+1647770,Oncogene,6.9
+1647774,Genetics,3.3
+1647787,PeerJ Life & Environment,2.3
+1647790,American Journal of Physiology-heart and Circulatory Physiology,4.1
+1647793,Diabetes Care,14.8
+1647800,Physical therapy,3.5
+1647803,Water Resources Research,4.6
+1647807,The EMBO Journal,9.4
+1647811,Biology of Reproduction,3.1
+1647813,Soil Science Society of America Journal,2.4
+1647820,Journal of Parasitology,1.0
+1647823,Journal of Biochemistry,2.1
+1647826,Journal of Antimicrobial Chemotherapy,3.9
+1647827,Evolution,3.1
+1647835,Mycologia,2.6
+1647839,Social Science & Medicine,4.9
+1647844,New Phytologist,8.3
+1647850,Frontiers in Oncology,3.5
+1647851,Development (The Company of Biologists),3.7
+1647862,American Journal of Pathology,4.7
+1647864,Physiology & Behavior,2.4
+1647865,Zeitschrift für Naturforschung B,0.8
+1647873,Biochimica Et Biophysica Acta - Biomembranes,2.8
+1647891,Open Forum Infectious Diseases,3.8
+1647892,Cell and Tissue Research,3.2
+1647908,ACS Nano,15.8
+1647913,American Biology Teacher,0.3
+1647921,Plant and Soil,3.9
+1647927,Physics of Fluids,4.1
+1647932,European Urology,25.3
+1647939,Toxicon,2.6
+1647949,Biotechnology and Bioengineering,3.5
+1647950,Water,3.0
+1647954,Bone,3.5
+1647967,Applied Physics A,2.5
+1647968,Bioorganic & Medicinal Chemistry,3.3
+1647974,Frontiers in Pharmacology,4.4
+1647989,Nature Biotechnology,33.1
+1647995,Journal of Experimental Botany,5.6
+1648002,American Journal of Human Genetics,8.1
+1648006,Forest Ecology and Management,3.7
+1648012,Psychopharmacology,3.5
+1648015,Toxicology and Applied Pharmacology,3.3
+1648018,Journal of Pediatric Gastroenterology and Nutrition,2.4
+1648020,Plant Systematics and Evolution,1.5
+1648023,Journal of Environmental Management,8.0
+1648032,Journal of Theoretical Biology,1.9
+1648040,Pain,5.9
+1648050,Marine Ecology Progress Series,2.2
+1648054,Phytopathology,2.6
+1648055,Environmental Toxicology and Chemistry,3.6
+1648060,Biosensors and Bioelectronics,10.7
+1648066,Journal of General Virology,3.6
+1648067,Electrophoresis,3.0
+1648078,Physiologia Plantarum,5.4
+1648118,"Pharmacology, Biochemistry and Behavior",3.3
+1648129,Addiction,5.2
+1648141,Microbiology (Microbiology Society),2.6
+1648146,BioScience,7.6
+1648155,Canadian Journal of Zoology,1.0
+1648157,Behavioral and Brain Sciences,16.6
+1648161,Animal Behaviour,2.3
+1648177,Planta,3.6
+1648186,Journal of Fish Biology,1.7
+1648189,Experimental Brain Research,1.7
+1648209,Vision Research,1.5
+1648231,Neurobiology of Aging,3.7
+1648232,Epidemiology,4.7
+1648236,Icarus,2.5
+1648237,Experimental Neurology,4.6
+1648239,Photochemistry and Photobiology,2.6
+1648241,BMC Genomics,3.5
+1648250,Plant and Cell Physiology,3.9
+1648265,Behavioural Brain Research,2.6
+1648267,Annals of Botany,3.6
+1648275,American Journal of Physiology-regulatory Integrative and Comparative Physiology,2.2
+1648284,Journal of Mammalogy,1.5
+1648296,Molecular Microbiology,2.6
+1648298,Environmental Monitoring and Assessment,2.9
+1648301,European Journal of Neuroscience,2.7
+1648303,Bioinformatics,4.4
+1648310,American Journal of Physical Anthropology,2.6
+1648313,Bulletin of Environmental Contamination and Toxicology,2.7
+1648316,Frontiers in Physiology,3.2
+1648322,Graefes Archive for Clinical and Experimental Ophthalmology,2.4
+1648328,Water Air and Soil Pollution,3.8
+1648334,Geology,4.8
+1648351,Canadian journal of botany,
+1648358,Botanical Gazette,
+1648360,Alcoholism: Clinical and Experimental Research,
+1648362,Journal of Anatomy,1.8
+1648370,Biological Conservation,4.9
+1648390,Proceedings of The Royal Society B: Biological Sciences,3.8
+1648393,Oecologia,2.3
+1648398,Frontiers in Neuroscience,3.2
+1648401,Antiquity,1.9
+1648402,Nature Medicine,58.7
+1648409,Journal of Heredity,3.0
+1648410,Annals of The Entomological Society of America,3.0
+1648411,Ecotoxicology and Environmental Safety,6.2
+1648417,The anatomical record,
+1648418,Neuropharmacology,4.6
+1648425,Biochimica Et Biophysica Acta - Bioenergetics,3.4
+1648426,Medical Hypotheses,2.1
+1648429,Taxon,3.0
+1648450,Copeia,
+1648457,Rapid Communications in Mass Spectrometry,1.8
+1648462,Emerging Infectious Diseases,7.2
+1648469,Human Molecular Genetics,3.1
+1648481,General and Comparative Endocrinology,2.1
+1648491,Psychological Medicine,5.9
+1648523,Journal of Visualized Experiments,1.2
+1648527,Drug and Alcohol Dependence,3.9
+1648536,Neuron,14.7
+1648537,Journal of Forensic Sciences,1.5
+1648544,"Palaeogeography, Palaeoclimatology, Palaeoecology",2.6
+1648554,PLOS Pathogens,5.5
+1648561,Quaternary International,1.9
+1648578,Journal of Wildlife Management,1.9
+1648579,Experimental Eye Research,3.0
+1648588,Journal of Medical Virology,6.8
+1648590,Human Genetics,3.8
+1648597,Science Education,3.1
+1648622,The Condor,2.6
+1648630,Journal of Neuroimmunology,2.9
+1648634,Forensic Science International,2.2
+1648641,Marine Biology,2.1
+1648643,Industrial Crops and Products,5.6
+1648646,Journal of Lipid Research,5.0
+1648647,Science Signaling,6.7
+1648648,Cells,5.1
+1648651,Journal of Climate,4.8
+1648653,Frontiers in Genetics,2.8
+1648659,Journal of Neuroscience Research,2.9
+1648660,Canadian Journal of Fisheries and Aquatic Sciences,1.9
+1648661,Limnology and Oceanography,3.8
+1648662,The Physics of fluids,
+1648674,American Journal of Physiology-cell Physiology,5.0
+1648686,Canadian Journal of Microbiology,1.8
+1648688,Biochimie,3.3
+1648703,Parasitology,2.1
+1648706,Molecular Pharmacology,3.2
+1648707,Archives of Microbiology,2.3
+1648713,Journal of Educational Psychology,5.6
+1648724,Ibis,1.8
+1648726,Soil Biology & Biochemistry,9.8
+1648741,Molecular and Cellular Endocrinology,3.8
+1648759,Journal of Adolescent Health,5.5
+1648761,Gait & Posture,2.2
+1648802,American Journal of Physiology-endocrinology and Metabolism,4.2
+1648806,BMC Bioinformatics,2.9
+1648814,Analytical Methods,2.7
+1648849,The journal of experimental zoology,
+1648850,Toxicology,4.8
+1648856,Journal of Investigative Medicine,2.5
+1648878,BMC Infectious Diseases,3.4
+1648896,Journal of Applied Ecology,5.0
+1648897,Cell Reports,7.5
+1648898,Canadian Journal of Forest Research,1.7
+1648900,Animals,2.7
+1648904,PLOS Genetics,4.0
+1648909,Cognitive Science,2.3
+1648915,Environmental Entomology,1.8
+1648920,Plant Journal,6.2
+1648926,The Plant Cell,10.0
+1648936,Molecular Ecology,4.5
+1648955,Molecular Biology of the Cell,3.1
+1648959,Journal of Experimental Marine Biology and Ecology,1.8
+1648968,AGU Spring Meeting Abstracts,
+1648983,Appetite,4.6
+1648989,Applied Ergonomics,3.1
+1648995,Medical Education,4.9
+1649017,Phytotaxa,1.0
+1649021,Brain Research Bulletin,3.5
+1649027,Viruses,3.8
+1649031,Ecological Modelling,2.6
+1649034,Clinical Science,6.7
+1649053,PLOS Computational Biology,3.8
+1649059,Journal of the Marine Biological Association of the United Kingdom,1.1
+1649061,Comparative Biochemistry and Physiology Part A: Physiology,
+1649067,FEBS Journal,5.5
+1649079,Journal of Paleontology,1.3
+1649102,Genomics,3.4
+1649113,Journal of Neuroscience Methods,2.7
+1649117,F1000Research,
+1649145,Journal of Strength and Conditioning Research,2.5
+1649149,Nature Genetics,31.7
+1649150,The Journal of Pain,4.0
+1649160,Oikos,3.1
+1649173,Journal of Coastal Research,
+1649183,Proceedings of the Royal Society of London,
+1649191,Journal of Ecology,5.3
+1649201,Remote Sensing of Environment,11.1
+1649212,International Journal Of Legal Medicine,2.2
+1649215,Journal of Medical Entomology,2.1
+1649230,Toxicological Sciences,3.4
+1649233,Biochimica et Biophysica Acta,
+1649252,Preventive Medicine,4.3
+1649253,Journal of Insect Physiology,2.3
+1649258,Science Advances,11.7
+1649272,Plant Science,4.2
+1649277,International Journal of Obesity,4.2
+1649296,Transactions of The American Fisheries Society,2.0
+1649298,Journal of Leukocyte Biology,3.6
+1649301,Frontiers in Endocrinology,3.9
+1649314,BioTechniques,2.2
+1649351,Ecological Indicators,7.0
+1649354,Ecology and Evolution,2.3
+1649359,Acta Neuropathologica,9.3
+1649368,Chemical Reviews,51.4
+1649382,Heredity,3.1
+1649389,Proteins,3.2
+1649397,Comparative Biochemistry and Physiology A-molecular & Integrative Physiology,2.1
+1649406,Estuarine Coastal and Shelf Science,2.6
+1649422,Philosophical Transactions of the Royal Society B,5.4
+1649467,Journal of Morphology,1.5
+1649482,The Journal of General Physiology,3.3
+1649489,"Agriculture, Ecosystems & Environment",6.0
+1649492,Journal of Medical Microbiology,2.4
+1649508,Molecular Cell,14.5
+1649523,Frontiers in Cell and Developmental Biology,4.6
+1649532,The Biological Bulletin,2.1
+1649566,AGUSM,
+1649569,Lancet Infectious Diseases,36.4
+1649596,Journal of Zoology,1.9
+1649613,Plants,4.0
+1649618,Trends in Biochemical Sciences,11.6
+1649638,Steroids,2.1
+1649641,Cytogenetic and Genome Research,1.7
+1649648,Canadian Journal of Earth Sciences,1.3
+1649660,Journal of Comparative and Physiological Psychology,
+1649664,Current Anthropology,2.1
+1649666,Protein Science,4.5
+1649709,Comparative biochemistry and physiology. B. Comparative biochemistry,
+1649711,Forests,2.4
+1649722,American Midland Naturalist,
+1649724,Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology,1.9
+1649736,Journal of Cerebral Blood Flow and Metabolism,4.9
+1649738,American Journal of Physical Medicine & Rehabilitation,2.2
+1649766,Journal of Animal Ecology,3.5
+1649773,Genes & Development,7.5
+1649788,Journal of Phycology,2.8
+1649792,Molecular Biology and Evolution,11.0
+1649819,Genes,2.8
+1649838,Hearing Research,2.5
+1649845,Quaternary Science Reviews,3.2
+1649896,Psychoneuroendocrinology,3.4
+1649912,Neuropsychopharmacology,6.6
+1649913,Agricultural and Forest Meteorology,5.6
+1649916,Microorganisms,4.1
+1649926,European Journal of Applied Physiology,2.8
+1649957,Plant Cell and Environment,6.0
+1649963,Journal of the American Heart Association,5.0
+1649989,Brain Behavior and Immunity,8.8
+1649997,Plant Molecular Biology,3.9
+1649999,BioEssays,3.2
+1650025,Cerebral Cortex,2.9
+1650038,International Journal for Parasitology,3.7
+1650053,Entomologia Experimentalis Et Applicata,1.4
+1650060,Conservation Biology,5.2
+1650107,Philosophical Transactions of the Royal Society A,4.3
+1650109,Global Change Biology,10.8
+1650119,Biological Journal of The Linnean Society,2.0
+1650126,Trends in Ecology and Evolution,16.7
+1650164,Medical Teacher,3.3
+1650168,Molecular Phylogenetics and Evolution,3.6
+1650221,Journal of Sports Sciences,2.3
+1650225,Journal of Chemical Ecology,2.2
+1650227,Crop Protection,2.5
+1650285,Antonie Van Leeuwenhoek International Journal of General and Molecular Microbiology,1.8
+1650306,PLOS Biology,7.8
+1650348,Infection,5.4
+1650390,Developmental and Comparative Immunology,2.7
+1650407,Trends in Neurosciences,14.6
+1650433,Journal of Nutrition Education and Behavior,2.3
+1650437,Freshwater Biology,2.8
+1650451,Journal of Archaeological Science,2.6
+1650466,Neuroendocrinology,3.2
+1650475,Environmental Microbiology,4.3
+1650477,Nature Neuroscience,21.2
+1650525,Nature Methods,36.1
+1650544,The Journals of Gerontology,4.3
+1650570,Journal of Microbiological Methods,1.7
+1650584,Journal of Biogeography,3.4
+1650593,FEMS Microbiology Ecology,3.5
+1650599,Behavioral Neuroscience,1.6
+1650630,Trends in Genetics,13.6
+1650632,Environmental Research Letters,5.8
+1650636,Genome Announcements,
+1650657,Nature Structural & Molecular Biology,12.5
+1650695,Journal of Wildlife Diseases,1.1
+1650717,Developmental Dynamics,2.0
+1650749,Environmental Management,2.7
+1650769,Ecological Applications,4.3
+1650828,Behavioral Ecology and Sociobiology,1.9
+1650883,Molecular Reproduction and Development,2.7
+1650896,Cancer Discovery,29.7
+1650966,Journal of Natural History,0.8
+1650992,Crustaceana,0.6
+1650995,Stem Cells,4.0
+1651023,MBio,5.1
+1651036,Science Translational Medicine,15.8
+1651040,The International Journal of Biochemistry & Cell Biology,3.4
+1651104,EMBO Reports,6.5
+1651118,Biophysical Chemistry,3.3
+1651154,Archives of Environmental Contamination and Toxicology,3.7
+1651157,Structure,4.4
+1651161,Nature Immunology,27.7
+1651168,Nature Physics,17.6
+1651169,Educational Researcher,5.4
+1651181,Glia,5.4
+1651197,Journal of Neurotrauma,3.9
+1651240,Cold Spring Harbor Symposia on Quantitative Biology,
+1651257,Immunity,25.5
+1651279,Acta Crystallographica Section D-biological Crystallography,
+1651284,Advanced Science,14.3
+1651323,Neurobiology of Disease,5.1
+1651327,Mechanisms of Development,
+1651330,Mathematical biosciences,1.9
+1651332,Immunogenetics,2.9
+1651334,Journal of Evolutionary Biology,2.1
+1651351,Nature Cell Biology,17.3
+1651369,Environmental Biology of Fishes,1.4
+1651371,Molecular Psychiatry,9.6
+1651393,Genome Research,6.2
+1651429,Energy and Environmental Science,32.4
+1651435,Review of Educational Research,8.3
+1651498,2016 International Congress of Entomology,
+1651520,Antibiotics,4.3
+1651535,Biodiversity and Conservation,3.0
+1651557,Botanical Journal of the Linnean Society,2.3
+1651561,Marine Environmental Research,3.0
+1651578,Frontiers in Cellular Neuroscience,4.2
+1651579,Journal of Human Evolution,3.1
+1651585,Marine and Freshwater Research,1.8
+1651595,Developmental Cell,10.7
+1651597,Proceedings of the Annual Meeting of the Cognitive Science Society,
+1651668,Functional Ecology,4.6
+1651677,BMC Plant Biology,4.3
+1651726,Special publication,
+1651743,Hormones and Behavior,2.5
+1651779,Cell Death & Differentiation,13.7
+1651783,Experimental Physiology,2.6
+1651806,Environmental and Experimental Botany,4.5
+1651819,Journal of Assisted Reproduction and Genetics,3.2
+1651854,Polar Biology,1.5
+1651857,Landscape and Urban Planning,7.9
+1651860,Mammalia,0.8
+1651920,Yeast,2.2
+1651926,RNA,4.2
+1651956,Southwestern Naturalist,
+1651961,ACS Chemical Biology,3.5
+1651972,Journal of Molecular Evolution,2.1
+1651976,American Journal of Primatology,2.0
+1651986,North American Journal of Fisheries Management,1.3
+1652012,Royal Society Open Science,2.9
+1652018,ChemElectroChem,3.5
+1652054,American Journal of Human Biology,1.6
+1652071,Development Genes and Evolution,0.8
+1652074,Anatomical Record-advances in Integrative Anatomy and Evolutionary Biology,1.8
+1652123,Biological Control,3.7
+1652144,Bio-protocol,1.0
+1652156,Journal of Research in Science Teaching,3.6
+1652194,Journal of Structural Biology,3.0
+1652206,Journal of Crustacean Biology,1.2
+1652245,Review of Palaeobotany and Palynology,1.7
+1652257,Pathogens,3.3
+1652258,SAGE Open,2.0
+1652290,Microbial Ecology,3.3
+1652305,Journal of Herpetology,0.8
+1652311,Nature Reviews Neuroscience,28.7
+1652354,Psyche,1.6
+1652359,Zoological Journal of the Linnean Society,3.0
+1652390,Glycobiology,3.4
+1652403,Systematic Biology,6.1
+1652427,Journal of Great Lakes Research,2.4
+1652433,Tree Physiology,3.5
+1652463,Ethology,1.3
+1652477,Journal of Neuroendocrinology,3.3
+1652480,Biotropica,1.8
+1652513,Behavioral Ecology,2.5
+1652523,Trends in Microbiology,14.0
+1652537,Photosynthesis Research,2.9
+1652573,Molecular Plant-microbe Interactions,3.2
+1652600,Nature Reviews Molecular Cell Biology,81.3
+1652668,Journal of Vegetation Science,2.2
+1652766,Journal of Microbiology,3.3
+1652773,Biological Invasions,2.8
+1652796,Methods in Cell Biology,
+1652828,Nature Chemical Biology,12.9
+1652835,Trends in Plant Science,17.3
+1652881,Brittonia,0.6
+1652917,Nature Climate Change,29.6
+1652943,Endocrine,3.0
+1652950,Insects,2.7
+1652983,Ecography,5.4
+1652995,BMC Evolutionary Biology,
+1653010,Photodiagnosis and Photodynamic Therapy,3.1
+1653024,Communications biology,5.2
+1653091,Behaviour,1.2
+1653112,Ecology Letters,7.6
+1653127,Journal of the Royal Society Interface,3.7
+1653140,Insect Biochemistry and Molecular Biology,3.2
+1653177,Cell Calcium,4.3
+1653182,Science and Children,
+1653213,American Educational Research Journal,3.5
+1653282,Mammalian Genome,2.7
+1653306,International Journal of Coal Geology,5.6
+1653327,Frontiers in Ecology and Evolution,2.4
+1653360,Ecosphere,2.7
+1653367,Nature Geoscience,15.7
+1653383,Journal of Eukaryotic Microbiology,2.1
+1653406,Optics & Photonics News,
+1653410,Journal of Vertebrate Paleontology,1.6
+1653417,Biology Letters,2.8
+1653431,Collegium Antropologicum,
+1653460,Chemical Senses,2.8
+1653540,Physiological Reports,2.2
+1653609,Cancer Prevention Research,2.9
+1653626,Plant Ecology,1.9
+1653678,Rhodora,0.2
+1653729,Genetic Epidemiology,1.7
+1653750,Nitric Oxide,3.2
+1653825,Hippocampus,2.4
+1653895,Ecological Entomology,2.0
+1653905,"G3: Genes, Genomes, Genetics",2.1
+1653934,Current Opinion in Genetics & Development,3.7
+1653944,Differentiation,2.2
+1653975,ACS Chemical Neuroscience,4.1
+1654028,Integrative and Comparative Biology,2.2
+1654089,BMC Medicine,7.0
+1654176,Cancer Cell,48.8
+1654217,Journal of Neuroinflammation,9.3
+1654281,Human Biology,
+1654282,Behavior Genetics,2.6
+1654301,Cell Research,28.1
+1654317,Cell Metabolism,27.7
+1654331,Journal of Biological Education,1.0
+1654357,Restoration Ecology,2.8
+1654377,The ISME Journal,10.8
+1654379,Australian Journal of Botany,0.9
+1654390,International Journal of Science Education,2.2
+1654398,Landscape Ecology,4.0
+1654411,The Lancet Global Health,19.9
+1654457,Coral Reefs,2.7
+1654488,Journal of Mathematical Biology,2.2
+1654499,Global Biogeochemical Cycles,5.4
+1654513,American Fern Journal,0.7
+1654522,Systematic Botany,0.9
+1654570,Biogeochemistry,3.9
+1654613,DNA Repair,3.0
+1654668,Primates,1.3
+1654721,Microbiology spectrum,3.7
+1654723,Neurobiology of Learning and Memory,2.2
+1654765,Current Opinion in Plant Biology,8.3
+1654986,International Journal of Plant Sciences,1.5
+1655015,Biological Reviews,11.0
+1655035,Cell Stem Cell,19.8
+1655152,Journal of Travel Medicine,9.1
+1655161,Bulletin of Marine Science,1.5
+1655165,Wetlands,1.8
+1655170,Biochemistry and Molecular Biology Education,1.2
+1655179,Stem Cells and Development,2.5
+1655235,Current Opinion in Chemical Biology,6.9
+1655262,Journal of Fungi,4.2
+1655295,Insectes Sociaux,1.4
+1655297,Wildlife Research,1.6
+1655310,Folia Primatologica,1.2
+1655474,Genome Biology and Evolution,3.2
+1655484,Journal of Apicultural Research,1.4
+1655592,Brain Behavior and Evolution,2.1
+1655604,Stem Cell Research,0.8
+1655709,Genome Biology,10.1
+1655731,Human and Ecological Risk Assessment,3.0
+1655775,Journal of Plant Research,2.7
+1655891,Apidologie,2.4
+1655893,Theoretical Population Biology,1.2
+1655950,Brain and behavior,2.6
+1655990,Traffic,3.6
+1656082,Conservation Genetics,2.0
+1656220,Cell Host & Microbe,20.6
+1656298,International Journal of Primatology,1.9
+1656331,Annals of the Missouri Botanical Garden,1.1
+1656449,Annals of Family Medicine,4.4
+1656461,Aging Cell,8.0
+1656538,Palaeontology,2.5
+1656668,Veterinary Research,3.7
+1656691,Scientific Data,5.8
+1656818,Genesis,2.4
+1656848,Urban Forestry & Urban Greening,6.0
+1656972,Physiological Entomology,1.6
+1657096,Cytoskeleton,
+1657107,Legal Medicine,1.3
+1657128,Journal of Avian Biology,1.5
+1657149,Estuaries and Coasts,2.3
+1657199,Ecological Monographs,7.1
+1657212,Health Promotion Practice,1.6
+1657323,Ecosystems,3.4
+1657401,Metallomics,2.9
+1657407,Journal of Freshwater Ecology,1.3
+1657531,Journal of Computational Biology,1.4
+1657568,Brain Structure & Function,2.7
+1657699,Molecular Plant,17.1
+1657703,Addiction Biology,3.1
+1657718,Methods in Ecology and Evolution,6.3
+1657827,Chromosome Research,2.4
+1657840,RNA Biology,3.6
+1657873,Physical Review X,11.6
+1657910,The journal of college science teaching,
+1657937,Journal Of Geophysical Research: Biogeosciences,3.7
+1658086,ENeuro,2.7
+1658108,Annual Review of Microbiology,8.5
+1658276,BMC Biology,4.4
+1658360,Disease Models & Mechanisms,4.0
+1658386,Harmful Algae,5.5
+1658557,Nucleus,2.7
+1658759,Population Ecology,1.1
+1658979,Research in Science Education,2.2
+1659118,Biology Open,1.8
+1659136,Teaching and Learning in Medicine,2.1
+1659262,mSphere,3.7
+1659306,Stem cell reports,5.9
+1659363,Marine Ecology,1.5
+1659466,Journal of transport and health,3.2
+1659504,Animal Conservation,2.8
+1659512,Current Topics in Developmental Biology,
+1659520,Aquatic Microbial Ecology,1.6
+1659582,Evolutionary Ecology,1.8
+1659715,Ticks and Tick-borne Diseases,3.1
+1659848,Advances in Physiology Education,1.7
+1660091,"Genes, Brain and Behavior",2.4
+1660092,Journal of The North American Benthological Society,
+1660113,Journal of geoscience education,
+1660124,Nature Ecology and Evolution,13.9
+1660175,Nature plants,15.8
+1660291,Epigenetics,2.9
+1660314,Evolutionary Applications,3.5
+1660390,Herpetologica,1.3
+1660396,Physiological and Biochemical Zoology,1.8
+1660521,"Gender, Work and Organization",3.9
+1660591,Journal of Arachnology,1.0
+1660937,"Proceedings of the Royal Society of London. Series B, Containing papers of a biological character",
+1661172,Symbiosis,2.1
+1661324,Northeastern Naturalist,0.5
+1661356,Nature microbiology,20.5
+1661660,ACS Infectious Diseases,4.0
+1661831,Evolutionary Anthropology,4.6
+1661847,MSystems,5.0
+1661921,Molecular metabolism,7.0
+1661931,Southeastern Naturalist,0.6
+1662466,Evolution and Human Behavior,3.0
+1662595,Ethology Ecology & Evolution,1.3
+1662921,Botanical sciences,1.1
+1662966,Cell death discovery,6.1
+1663105,Urban Ecosystems,2.5
+1663241,Stress,2.6
+1663251,Current Zoology,1.6
+1663368,Nature Human Behaviour,21.4
+1663470,Ecohealth,2.2
+1663494,Limnology and Oceanography-methods,2.1
+1663820,"Proceedings of the National Academy of Sciences, India, Section B: biological sciences",
+1663871,Educational Psychologist,14.3
+1663965,Microbiome,13.8
+1664085,American Journal of Lifestyle Medicine,1.5
+1664113,Plant Diversity,4.6
+1664243,Annual Review of Immunology,26.9
+1664331,Evolution & Development,2.6
+1664480,Molecular Systems Biology,8.5
+1664531,Wildlife Biology,1.7
+1664752,PhytoKeys,1.3
+1664845,Marine Biology Research,1.0
+1664954,CBE- Life Sciences Education,4.6
+1665018,Neotropical Ichthyology,2.0
+1665244,Annual Review of Neuroscience,12.1
+1665488,Environmental Science and Technology Letters,8.9
+1665762,Amber Waves,
+1665917,Agricultural and Forest Entomology,1.6
+1665925,Journal of Computational Neuroscience,1.5
+1665943,Journal Of Experimental Zoology Part B: Molecular And Developmental Evolution,1.8
+1666142,Journal of Microbiology & Biology Education,1.6
+1666193,Natural Areas Journal,1.0
+1666381,Earth’s Future,7.3
+1666397,Castanea,0.2
+1666405,Molecular Neurodegeneration,14.9
+1667378,Human Dimensions of Wildlife,1.7
+1667523,Invertebrate Biology,1.3
+1667615,Journal of Limnology,0.9
+1667841,Journal of The Torrey Botanical Society,0.7
+1668013,Jaro-journal of The Association for Research in Otolaryngology,2.4
+1668583,Zebrafish,1.4
+1668627,Freshwater Science,1.7
+1668715,Earth and Environmental Science Transactions of The Royal Society of Edinburgh,0.9
+1668927,BMC Developmental Biology,
+1669296,Annual review of ecology and systematics,
+1669793,Nature Biomedical Engineering,26.8
+1669819,Cell systems,9.0
+1669890,Aob Plants,2.6
+1669937,Advances in Enzymology and Related Areas of Molecular Biology,
+1671250,Darwiniana,
+1671334,Science immunology,17.6
+1671353,Acta Crystallographica Section D: Structural Biology,
+1671400,Journal of Experimental Zoology,
+1671522,Advances in microbiology,
+1671535,Journal of research in science education,
+1671852,Fly,2.4
+1672264,Epigenetics & Chromatin,4.2
+1672302,Systematics and Biodiversity,1.8
+1673018,Journal of the Botanical Research Institute of Texas,
+1673134,The Journal of the Learning Sciences,3.0
+1673162,Journal of Physiological Anthropology,3.3
+1673372,"Proceedings of the National Academy of Sciences, India. Section A, Physical sciences",0.8
+1673713,Journal of Inflammation,4.4
+1673926,Human Genomics,3.8
+1674589,GeroScience,5.3
+1675315,Nature metabolism,18.9
+1675854,Evolutionary Biology-new York,1.9
+1676795,Conference on Research in Computational Molecular Biology (RECOMB),
+1677083,"Species diversity : an international journal for taxonomy, systematics, speciation, biogeography, and life history research of animals",
+1677182,Evolutionary Bioinformatics,1.7
+1677436,Epidemics,3.0
+1677633,Communications earth & environment,8.1
+1678718,Advances in The Study of Behavior,
+1679326,Journal of Experimental Zoology Part A: Ecological and Integrative Physiology,1.9
+1680073,Ohio Journal of Science,
+1680272,Theoretical Ecology,1.2
+1680724,"Annual Review of Ecology, Evolution, and Systematics",11.2
+1682169,"Brain, Behavior, & Immunity - Health",3.7
+1683689,Wiley Interdisciplinary Reviews-Developmental Biology,
+1684499,American journal of undergraduate research,
+1685137,Journal of college science teaching,
+1685960,Neural Development,4.0
+1686037,Current Herpetology,0.6
+1687078,IOVS,
+1687586,npj biofilms and microbiomes,7.8
+1687910,Nature reports,
+1688233,International Journal of STEM Education,5.6
+1688457,EPJ Data Science,3.0
+1688642,Nature Reviews Earth & Environment,49.7
+1689081,Journal of Biology Education,
+1689104,Nature Computational Science,12.0
+1690490,Urban Ecology,
+1691492,Evolution letters,3.4
+1692192,Cancer and Metabolism,6.0
+1692427,Microbes and Infectious Diseases (Print),
+1692530,Nature Aging,17.0
+1693989,Journal of Experimental Zoology Part A: Comparative Experimental Biology,
+1695364,The Journal of Comparative Neurology,
+1695567,PubMed,
+1695687,Herpetological Conservation and Biology,0.8
+1695926,PNAS nexus,2.2
+1696173,Neurobiology,
+1696382,American journal of biological anthropology,
+1696383,CourseSource,
+1699981,HAPS EDucator,
+1700186,Jurnal ilmiah pendidikan Scholastic,
+1703772,Frontiers in bioinformatics,2.8
+1703884,Integrative organismal biology,2.2
+1703972,Evolutionary human sciences,2.2
+1705332,Cell Biology Education,
+1707319,HGG advances,3.3
+1708871,Cell genomics,11.1
+1710151,Biofilm,5.9
+1711073,Journals of Gerontology Series A-biological Sciences and Medical Sciences,
+1711127,Neuroscience journal,
+1711270,Journal of health promotion,
+1711822,Addiction neuroscience,
+1712765,Journal of comparative physiology,

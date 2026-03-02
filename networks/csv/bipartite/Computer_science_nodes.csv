@@ -1,0 +1,1097 @@
+node_type,node_id,field,career_stage,gender,institution_bin_3,institution_bin_10,academia_prestige_bin_3,academia_prestige_bin_10,name,jcr_jif
+respondent,148519,Computer science,Associate Professor,gm,,,,,,
+respondent,151119,Computer science,Full Professor,gf,,,,,,
+respondent,148133,Computer science,Full Professor,-,,,,,,
+respondent,147715,Computer science,Full Professor,gm,,,,,,
+respondent,148169,Computer science,Associate Professor,gm,,,,,,
+respondent,149664,Computer science,Full Professor,gm,,,,,,
+respondent,152939,Computer science,Associate Professor,gm,,,1,3,,
+respondent,151916,Computer science,Full Professor,gm,,,,,,
+respondent,148834,Computer science,Full Professor,-,,,,,,
+respondent,153243,Computer science,Full Professor,gm,,,1,2,,
+respondent,149572,Computer science,Full Professor,gm,,,3,8,,
+respondent,151901,Computer science,Full Professor,gm,,,,,,
+respondent,150796,Computer science,Full Professor,gm,,,,,,
+respondent,153745,Computer science,Full Professor,gm,1,2,1,2,,
+respondent,154574,Computer science,Full Professor,gm,2,6,2,4,,
+respondent,153817,Computer science,Assistant Professor,gm,,,,,,
+respondent,159025,Computer science,Full Professor,gm,,,,,,
+respondent,159149,Computer science,Full Professor,gm,,,,,,
+respondent,163011,Computer science,Other,gm,,,,,,
+respondent,162602,Computer science,Other,gm,,,,,,
+respondent,159165,Computer science,Associate Professor,gm,,,,,,
+respondent,153208,Computer science,Full Professor,gm,,,,,,
+respondent,148708,Computer science,Full Professor,gm,,,3,8,,
+respondent,164984,Computer science,Associate Professor,gm,,,,,,
+respondent,177862,Computer science,Full Professor,-,,,,,,
+respondent,165266,Computer science,Associate Professor,gm,,,,,,
+respondent,169652,Computer science,Associate Professor,gf,,,,,,
+respondent,165073,Computer science,Full Professor,-,,,,,,
+respondent,148668,Computer science,Full Professor,gf,1,2,1,1,,
+respondent,173387,Computer science,Assistant Professor,gm,,,,,,
+respondent,158109,Computer science,Full Professor,gm,,,,,,
+respondent,192452,Computer science,Associate Professor,gf,,,,,,
+respondent,197044,Computer science,Full Professor,gm,,,,,,
+respondent,192073,Computer science,Full Professor,gm,,,3,9,,
+respondent,196124,Computer science,Full Professor,gm,,,,,,
+respondent,195431,Computer science,Full Professor,-,1,2,1,2,,
+respondent,196653,Computer science,Associate Professor,gm,,,,,,
+respondent,184228,Computer science,Full Professor,gm,,,,,,
+respondent,183031,Computer science,Full Professor,gf,3,8,1,2,,
+respondent,177684,Computer science,Associate Professor,gm,,,,,,
+respondent,184885,Computer science,Other,gm,,,1,1,,
+respondent,165796,Computer science,Other,gf,,,,,,
+respondent,185100,Computer science,Full Professor,gm,,,,,,
+respondent,165712,Computer science,Full Professor,gm,,,,,,
+respondent,192445,Computer science,Full Professor,-,,,,,,
+respondent,164481,Computer science,Full Professor,gf,,,,,,
+respondent,166215,Computer science,Full Professor,gm,,,,,,
+respondent,186322,Computer science,Masters Student,gf,,,,,,
+respondent,185137,Computer science,Associate Professor,gm,,,3,8,,
+respondent,168361,Computer science,Associate Professor,gm,,,3,8,,
+respondent,171484,Computer science,Associate Professor,gm,,,,,,
+respondent,195451,Computer science,Associate Professor,gm,3,8,3,7,,
+respondent,160690,Computer science,Associate Professor,gf,,,,,,
+respondent,170302,Computer science,Full Professor,gm,,,3,8,,
+respondent,156476,Computer science,Full Professor,gf,1,1,1,1,,
+respondent,171492,Computer science,Associate Professor,gm,,,,,,
+respondent,193091,Computer science,Full Professor,gm,,,,,,
+respondent,176094,Computer science,Full Professor,gm,,,,,,
+respondent,155823,Computer science,Full Professor,gm,,,,,,
+respondent,168327,Computer science,Full Professor,gm,2,4,2,5,,
+respondent,164785,Computer science,Full Professor,gm,,,,,,
+respondent,156752,Computer science,Full Professor,gm,,,,,,
+respondent,162539,Computer science,Associate Professor,gm,,,1,3,,
+respondent,193310,Computer science,Full Professor,gm,2,4,1,3,,
+respondent,156018,Computer science,Full Professor,gm,,,,,,
+respondent,166379,Computer science,Full Professor,gm,,,,,,
+respondent,159740,Computer science,Associate Professor,gm,,,,,,
+respondent,158076,Computer science,Full Professor,gm,,,1,4,,
+respondent,156996,Computer science,Associate Professor,gm,,,,,,
+respondent,167198,Computer science,Full Professor,gm,,,1,3,,
+respondent,171443,Computer science,Full Professor,gm,,,,,,
+respondent,178073,Computer science,Associate Professor,gm,,,,,,
+respondent,168624,Computer science,Associate Professor,gm,,,,,,
+respondent,185168,Computer science,Full Professor,-,,,,,,
+respondent,169835,Computer science,Associate Professor,gm,,,,,,
+respondent,179635,Computer science,Associate Professor,gm,,,,,,
+respondent,188523,Computer science,Full Professor,gf,,,,,,
+respondent,188049,Computer science,Full Professor,gm,,,1,3,,
+respondent,188618,Computer science,Full Professor,gm,,,,,,
+respondent,186617,Computer science,Associate Professor,gm,,,,,,
+respondent,182698,Computer science,Associate Professor,gm,,,,,,
+respondent,185556,Computer science,Full Professor,gf,1,1,1,1,,
+respondent,184399,Computer science,Full Professor,gm,,,1,1,,
+respondent,155115,Computer science,Associate Professor,-,,,,,,
+respondent,178443,Computer science,Associate Professor,gm,,,,,,
+respondent,198677,Computer science,Full Professor,gm,2,6,1,3,,
+respondent,199520,Computer science,Full Professor,gm,,,,,,
+respondent,198585,Computer science,Full Professor,gm,,,,,,
+respondent,203655,Computer science,Full Professor,gm,2,7,2,4,,
+respondent,200940,Computer science,Full Professor,gm,,,1,4,,
+respondent,200476,Computer science,Full Professor,gm,,,,,,
+respondent,202577,Computer science,Full Professor,gf,,,,,,
+respondent,201400,Computer science,Associate Professor,gm,,,2,7,,
+respondent,202054,Computer science,Full Professor,gm,,,3,9,,
+respondent,198833,Computer science,Associate Professor,gm,3,8,2,6,,
+respondent,206470,Computer science,Full Professor,gm,,,,,,
+respondent,203797,Computer science,Full Professor,gm,,,1,3,,
+respondent,160290,Computer science,Full Professor,gm,,,1,3,,
+respondent,203753,Computer science,Associate Professor,-,,,,,,
+respondent,210528,Computer science,Full Professor,gm,,,,,,
+respondent,204834,Computer science,Full Professor,gm,,,1,3,,
+respondent,210176,Computer science,Full Professor,gm,,,,,,
+respondent,205222,Computer science,Associate Professor,-,,,,,,
+respondent,204247,Computer science,Associate Professor,gm,,,2,7,,
+respondent,203816,Computer science,Full Professor,gm,,,,,,
+respondent,206777,Computer science,Associate Professor,gm,,,3,10,,
+respondent,204833,Computer science,Full Professor,gm,,,,,,
+respondent,210976,Computer science,Full Professor,gm,,,1,4,,
+respondent,204150,Computer science,Full Professor,gf,2,6,2,5,,
+respondent,199913,Computer science,Associate Professor,-,,,,,,
+respondent,206509,Computer science,Full Professor,gf,1,2,1,2,,
+respondent,207057,Computer science,Full Professor,gm,,,1,3,,
+respondent,216452,Computer science,Associate Professor,gm,,,,,,
+respondent,211958,Computer science,Full Professor,gm,,,1,2,,
+respondent,204991,Computer science,Full Professor,-,,,,,,
+respondent,209511,Computer science,Full Professor,gm,,,,,,
+respondent,208798,Computer science,Full Professor,gm,,,3,9,,
+respondent,219876,Computer science,Full Professor,gf,,,,,,
+respondent,217111,Computer science,Full Professor,gm,,,,,,
+respondent,219436,Computer science,Full Professor,gf,,,1,1,,
+respondent,218843,Computer science,Full Professor,gm,,,,,,
+respondent,215930,Computer science,Assistant Professor,gm,,,,,,
+respondent,218390,Computer science,Full Professor,-,,,,,,
+respondent,216858,Computer science,Assistant Professor,gm,,,,,,
+respondent,216899,Computer science,Full Professor,gm,,,,,,
+respondent,218212,Computer science,Full Professor,gm,,,,,,
+respondent,212723,Computer science,Full Professor,gf,,,,,,
+respondent,192412,Computer science,Full Professor,gm,,,,,,
+respondent,219049,Computer science,Associate Professor,gf,3,9,3,7,,
+respondent,215277,Computer science,Full Professor,gm,,,,,,
+respondent,197941,Computer science,Associate Professor,gf,,,1,3,,
+respondent,204942,Computer science,Assistant Professor,gm,,,1,3,,
+respondent,217505,Computer science,Associate Professor,gm,,,3,7,,
+respondent,210637,Computer science,Full Professor,gf,,,2,4,,
+respondent,220754,Computer science,PhD Student,gf,,,,,,
+respondent,214301,Computer science,Full Professor,gf,,,,,,
+respondent,219626,Computer science,Other,gm,,,,,,
+respondent,220756,Computer science,PhD Student,-,,,1,3,,
+respondent,220755,Computer science,PhD Student,gm,,,,,,
+respondent,215739,Computer science,Full Professor,gm,,,2,7,,
+respondent,220760,Computer science,PhD Student,gm,,,,,,
+respondent,213297,Computer science,Full Professor,gm,,,,,,
+respondent,174053,Computer science,Associate Professor,gm,,,3,7,,
+respondent,164182,Computer science,Full Professor,gf,3,8,3,8,,
+respondent,162140,Computer science,Full Professor,gm,,,,,,
+respondent,192174,Computer science,Associate Professor,gm,,,2,6,,
+respondent,175581,Computer science,Full Professor,gm,,,,,,
+respondent,182865,Computer science,Full Professor,gm,3,9,3,9,,
+respondent,164047,Computer science,Full Professor,gf,1,1,1,2,,
+respondent,157391,Computer science,Associate Professor,-,,,,,,
+respondent,174891,Computer science,Full Professor,gm,,,,,,
+respondent,162445,Computer science,Full Professor,gm,3,7,2,6,,
+respondent,170381,Computer science,Full Professor,gf,,,,,,
+respondent,192062,Computer science,Full Professor,gm,,,,,,
+respondent,185815,Computer science,Associate Professor,gf,,,,,,
+respondent,185490,Computer science,Associate Professor,gm,1,4,2,4,,
+respondent,177044,Computer science,Full Professor,gm,,,,,,
+respondent,198765,Computer science,Full Professor,gm,,,,,,
+respondent,219361,Computer science,Full Professor,gm,3,8,2,6,,
+respondent,211468,Computer science,Full Professor,gf,1,2,1,2,,
+respondent,202635,Computer science,Full Professor,gm,,,2,5,,
+respondent,184537,Computer science,Full Professor,gm,,,,,,
+respondent,192069,Computer science,Associate Professor,gm,,,,,,
+respondent,204960,Computer science,Full Professor,gm,,,1,3,,
+respondent,220669,Computer science,Full Professor,-,,,,,,
+respondent,203586,Computer science,Full Professor,gm,,,,,,
+respondent,220805,Computer science,Assistant Professor,gm,,,,,,
+respondent,182233,Computer science,Full Professor,gm,1,3,2,4,,
+respondent,191123,Computer science,Full Professor,gf,,,,,,
+respondent,199457,Computer science,Associate Professor,gm,,,2,7,,
+respondent,165981,Computer science,Full Professor,gm,,,2,6,,
+respondent,148650,Computer science,Full Professor,gm,,,2,4,,
+respondent,167206,Computer science,Full Professor,gm,1,3,1,4,,
+respondent,220861,Computer science,PhD Student,gf,,,,,,
+respondent,220865,Computer science,Masters Student,gm,,,,,,
+respondent,213265,Computer science,Full Professor,gm,,,,,,
+respondent,205115,Computer science,Full Professor,gm,,,,,,
+respondent,164805,Computer science,Full Professor,gm,,,,,,
+respondent,220909,Computer science,Assistant Professor,gm,,,,,,
+respondent,202760,Computer science,Full Professor,-,1,3,1,4,,
+respondent,175438,Computer science,Associate Professor,gm,3,8,2,7,,
+respondent,220394,Computer science,Associate Professor,-,1,4,1,3,,
+respondent,213145,Computer science,Full Professor,gm,,,1,4,,
+respondent,200668,Computer science,Full Professor,gm,1,3,1,3,,
+respondent,191655,Computer science,Full Professor,-,,,,,,
+respondent,162535,Computer science,Associate Professor,gf,,,,,,
+respondent,205242,Computer science,Associate Professor,gm,,,,,,
+respondent,213505,Computer science,Associate Professor,gm,,,,,,
+respondent,167435,Computer science,Associate Professor,gm,,,,,,
+respondent,150688,Computer science,Associate Professor,gm,,,,,,
+respondent,167197,Computer science,Full Professor,gf,,,1,3,,
+respondent,198608,Computer science,Associate Professor,gm,,,,,,
+respondent,219218,Computer science,Associate Professor,gm,,,,,,
+respondent,218056,Computer science,Full Professor,gf,1,3,1,3,,
+respondent,177746,Computer science,Full Professor,gm,,,,,,
+respondent,217747,Computer science,Associate Professor,gm,,,,,,
+respondent,208494,Computer science,Full Professor,gf,,,,,,
+respondent,197290,Computer science,Full Professor,gf,,,,,,
+respondent,155702,Computer science,Associate Professor,gm,,,2,5,,
+respondent,193057,Computer science,Full Professor,gm,,,,,,
+respondent,163160,Computer science,Full Professor,gm,,,,,,
+respondent,151107,Computer science,Associate Professor,gf,,,,,,
+respondent,187036,Computer science,Full Professor,gm,,,,,,
+respondent,180341,Computer science,Full Professor,gm,,,,,,
+respondent,193601,Computer science,Associate Professor,-,,,,,,
+respondent,197990,Computer science,Associate Professor,gm,,,,,,
+respondent,158963,Computer science,Full Professor,gm,,,,,,
+respondent,167963,Computer science,Full Professor,gf,,,,,,
+respondent,181837,Computer science,Full Professor,gm,,,1,1,,
+respondent,153161,Computer science,Full Professor,gf,3,7,2,6,,
+respondent,214207,Computer science,Full Professor,-,3,10,3,10,,
+respondent,189814,Computer science,Full Professor,-,,,,,,
+respondent,202483,Computer science,Full Professor,gm,,,,,,
+respondent,191077,Computer science,Full Professor,gf,,,2,5,,
+respondent,204658,Computer science,Full Professor,gm,,,2,6,,
+respondent,212993,Computer science,Associate Professor,gm,3,8,2,4,,
+respondent,176379,Computer science,Full Professor,gm,,,,,,
+respondent,158153,Computer science,Full Professor,gm,,,,,,
+respondent,198923,Computer science,Full Professor,gm,,,,,,
+venue,1647091,,,,,,,,The Lancet,98.4
+venue,1647092,,,,,,,,Nature,50.5
+venue,1647093,,,,,,,,British Medical Journal (BMJ),93.6
+venue,1647094,,,,,,,,Science,44.7
+venue,1647096,,,,,,,,PLOS ONE,2.9
+venue,1647097,,,,,,,,JAMA,63.1
+venue,1647098,,,,,,,,Bulletin of the American Physical Society,
+venue,1647100,,,,,,,,Journal of the American Chemical Society,14.4
+venue,1647101,,,,,,,,Journal of Biological Chemistry,4.0
+venue,1647102,,,,,,,,AGU Fall Meeting Abstracts,
+venue,1647104,,,,,,,,Journal of Physics: Conference Series,
+venue,1647105,,,,,,,,Scientific Reports,3.8
+venue,1647107,,,,,,,,Journal of the Acoustical Society of America,2.1
+venue,1647108,,,,,,,,PNAS,9.4
+venue,1647113,,,,,,,,Journal of Chemical Physics,3.1
+venue,1647115,,,,,,,,Investigative Ophthalmology & Visual Science,5.0
+venue,1647118,,,,,,,,Physical Review Letters,8.1
+venue,1647119,,,,,,,,Proceedings of SPIE,
+venue,1647121,,,,,,,,Applied Physics Letters,3.5
+venue,1647125,,,,,,,,The New England Journal of Medicine,96.2
+venue,1647128,,,,,,,,Circulation,35.5
+venue,1647129,,,,,,,,The Astrophysical Journal,4.8
+venue,1647132,,,,,,,,IEEE Conference Proceedings,
+venue,1647133,,,,,,,,Journal of the American College of Cardiology,21.7
+venue,1647144,,,,,,,,Journal of Geophysical Research,
+venue,1647150,,,,,,,,Monthly Notices of the Royal Astronomical Society,4.7
+venue,1647166,,,,,,,,Astronomy and Astrophysics,5.4
+venue,1647169,,,,,,,,Annals of the New York Academy of Sciences,4.1
+venue,1647170,,,,,,,,Advances in intelligent systems and computing,
+venue,1647179,,,,,,,,Physics Letters B,4.3
+venue,1647183,,,,,,,,IEEE Access,3.4
+venue,1647201,,,,,,,,Communications in computer and information science,
+venue,1647203,,,,,,,,Physical Review A,2.6
+venue,1647210,,,,,,,,Review of Scientific Instruments,1.3
+venue,1647212,,,,,,,,Optics Express,3.2
+venue,1647216,,,,,,,,Physics Today,2.8
+venue,1647227,,,,,,,,The Journal of Physiology,4.7
+venue,1647228,,,,,,,,Journal of The Electrochemical Society,3.1
+venue,1647233,,,,,,,,Langmuir,3.7
+venue,1647235,,,,,,,,Nucleic Acids Research,16.6
+venue,1647237,,,,,,,,Journal of Physical Chemistry C,3.3
+venue,1647240,,,,,,,,Proceedings of the American Mathematical Society,0.8
+venue,1647242,,,,,,,,American Mathematical Monthly,0.4
+venue,1647243,,,,,,,,Nature Communications,14.7
+venue,1647245,,,,,,,,Physical Review,
+venue,1647246,,,,,,,,Sensors,3.4
+venue,1647253,,,,,,,,American Journal of Ophthalmology,4.1
+venue,1647255,,,,,,,,Proceedings - Academy of Management,
+venue,1647258,,,,,,,,Macromolecules,5.1
+venue,1647262,,,,,,,,ACS Applied Materials & Interfaces,8.3
+venue,1647273,,,,,,,,Geophysical Research Letters,4.6
+venue,1647293,,,,,,,,"International Conference on Acoustics, Speech, and Signal Processing",
+venue,1647297,,,,,,,,Medical Physics,3.2
+venue,1647320,,,,,,,,The Journal of Neuroscience,4.4
+venue,1647328,,,,,,,,Optics Letters,3.1
+venue,1647350,,,,,,,,Journal of High Energy Physics,5.0
+venue,1647357,,,,,,,,International Conference on Communications,
+venue,1647361,,,,,,,,Conference on Decision and Control,
+venue,1647371,,,,,,,,Transportation Research Record,1.6
+venue,1647373,,,,,,,,Journal of Molecular Biology,4.7
+venue,1647380,,,,,,,,Journal of Clinical Investigation,13.3
+venue,1647405,,,,,,,,Frontiers in Psychology,2.6
+venue,1647410,,,,,,,,American Political Science Review,5.9
+venue,1647415,,,,,,,,The American Journal of Medicine,5.1
+venue,1647422,,,,,,,,Fuel,6.7
+venue,1647426,,,,,,,,arXiv: Learning,
+venue,1647456,,,,,,,,Molecular and Cellular Biology,3.2
+venue,1647461,,,,,,,,Transactions of the American Mathematical Society,1.2
+venue,1647469,,,,,,,,IEEE International Symposium on Circuits and Systems (ISCAS),
+venue,1647471,,,,,,,,Clinical Chemistry,7.1
+venue,1647472,,,,,,,,International Journal of Heat and Mass Transfer,5.0
+venue,1647474,,,,,,,,Journal of Vision,2.0
+venue,1647486,,,,,,,,Physica A: Statistical Mechanics and its Applications,2.8
+venue,1647487,,,,,,,,The Astronomical Journal,5.1
+venue,1647496,,,,,,,,Physical Review E,2.2
+venue,1647500,,,,,,,,Nuclear Physics B,2.5
+venue,1647506,,,,,,,,BMJ Open,2.4
+venue,1647507,,,,,,,,Microscopy and Microanalysis,2.9
+venue,1647509,,,,,,,,Lecture notes in networks and systems,
+venue,1647536,,,,,,,,Chemical Engineering Science,4.1
+venue,1647539,,,,,,,,Lecture Notes in Mathematics,
+venue,1647543,,,,,,,,Journal of the American Statistical Association,3.0
+venue,1647555,,,,,,,,American Journal of Sociology,4.4
+venue,1647560,,,,,,,,eLife,6.4
+venue,1647590,,,,,,,,Contemporary Sociology,0.3
+venue,1647591,,,,,,,,Kidney International,14.8
+venue,1647601,,,,,,,,Global Communications Conference,
+venue,1647607,,,,,,,,Cell,45.5
+venue,1647628,,,,,,,,Journal of Mathematical Physics,1.2
+venue,1647633,,,,,,,,IEEE International Conference on Robotics and Automation (ICRA),
+venue,1647638,,,,,,,,Ecology,4.4
+venue,1647647,,,,,,,,IEEE Transactions on Automatic Control,6.2
+venue,1647649,,,,,,,,The American Naturalist,2.4
+venue,1647677,,,,,,,,International Conference on Image Processing (ICIP),
+venue,1647690,,,,,,,,Applied Mathematics and Computation,3.5
+venue,1647716,,,,,,,,European Journal of Operational Research,6.0
+venue,1647732,,,,,,,,Procedia Computer Science,
+venue,1647733,,,,,,,,Journal of Neurophysiology,2.1
+venue,1647750,,,,,,,,Conference of the International Speech Communication Association (INTERSPEECH),
+venue,1647752,,,,,,,,Frontiers in Plant Science,4.1
+venue,1647765,,,,,,,,Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series,
+venue,1647775,,,,,,,,Journal of Physics A: Mathematical and General,
+venue,1647792,,,,,,,,American Psychologist,12.3
+venue,1647837,,,,,,,,Neurocomputing,5.5
+venue,1647841,,,,,,,,ACM Conference on Human Factors in Computing Systems (CHI),
+venue,1647858,,,,,,,,Proceedings of the IEEE,23.2
+venue,1647874,,,,,,,,The Economic Journal,3.8
+venue,1647877,,,,,,,,IEEE Spectrum,2.6
+venue,1647878,,,,,,,,Journal of Symbolic Logic,0.5
+venue,1647894,,,,,,,,IEEE/RJS International Conference on Intelligent RObots and Systems (IROS),
+venue,1647908,,,,,,,,ACS Nano,15.8
+venue,1647925,,,,,,,,Information Sciences,
+venue,1647931,,,,,,,,Journal of Chemical & Engineering Data,2.0
+venue,1647937,,,,,,,,IEEE Transactions on Information Theory,2.2
+venue,1647941,,,,,,,,Journal of Computational Physics,3.8
+venue,1647947,,,,,,,,Expert Systems With Applications,7.5
+venue,1647989,,,,,,,,Nature Biotechnology,33.1
+venue,1648003,,,,,,,,arXiv: Computation and Language,
+venue,1648024,,,,,,,,IEEE International Joint Conference on Neural Network (IJCNN),
+venue,1648026,,,,,,,,Progress of Theoretical and Experimental Physics,
+venue,1648047,,,,,,,,Computer Vision and Pattern Recognition (CVPR),
+venue,1648048,,,,,,,,Discrete Mathematics,0.7
+venue,1648052,,,,,,,,Studies in computational intelligence,
+venue,1648057,,,,,,,,IEEE Transactions on Geoscience and Remote Sensing,7.5
+venue,1648090,,,,,,,,Linear Algebra and its Applications,1.0
+venue,1648093,,,,,,,,Journal of Personality and Social Psychology,6.4
+venue,1648117,,,,,,,,IEEE Transactions on Signal Processing,4.6
+venue,1648127,,,,,,,,Hawaii International Conference on System Sciences (HICSS),
+venue,1648132,,,,,,,,IEEE Computer,2.0
+venue,1648134,,,,,,,,IFIP advances in information and communication technology,
+venue,1648145,,,,,,,,Theoretical Computer Science,0.9
+venue,1648157,,,,,,,,Behavioral and Brain Sciences,16.6
+venue,1648179,,,,,,,,IEEE Transactions on Vehicular Technology,6.1
+venue,1648191,,,,,,,,Communications of The ACM,11.1
+venue,1648203,,,,,,,,Journal of Political Economy,6.9
+venue,1648209,,,,,,,,Vision Research,1.5
+venue,1648243,,,,,,,,Journal of Computational and Applied Mathematics,2.1
+venue,1648246,,,,,,,,IACR Cryptology ePrint Archive,
+venue,1648294,,,,,,,,Computers & mathematics with applications,2.9
+venue,1648297,,,,,,,,IEEE Journal of Solid-state Circuits,4.6
+venue,1648303,,,,,,,,Bioinformatics,4.4
+venue,1648309,,,,,,,,Conference on Computer Graphics and Interactive Techniques (SIGGRAPH),
+venue,1648326,,,,,,,,IEEE Transactions on Communications,7.2
+venue,1648342,,,,,,,,Proceedings of the Human Factors and Ergonomics Society ... Annual Meeting,
+venue,1648343,,,,,,,,Multimedia Tools and Applications,3.0
+venue,1648372,,,,,,,,International Symposium on Information Theory,
+venue,1648396,,,,,,,,International Journal for Numerical Methods in Engineering,2.7
+venue,1648430,,,,,,,,Journal of The Audio Engineering Society,1.1
+venue,1648435,,,,,,,,Mathematics of Computation,2.2
+venue,1648440,,,,,,,,Contemporary mathematics,
+venue,1648448,,,,,,,,Automatica,4.8
+venue,1648453,,,,,,,,IEEE Transactions on Computers,3.6
+venue,1648461,,,,,,,,Winter Simulation Conference,
+venue,1648464,,,,,,,,Language,1.9
+venue,1648479,,,,,,,,Mathematische Annalen,1.3
+venue,1648487,,,,,,,,Conference on Neural Information Processing Systems (NeurIPS),
+venue,1648511,,,,,,,,Journal of Applied Psychology,9.4
+venue,1648516,,,,,,,,Design Automation Conference (DAC),
+venue,1648518,,,,,,,,Biometrika,2.4
+venue,1648523,,,,,,,,Journal of Visualized Experiments,1.2
+venue,1648524,,,,,,,,American Sociological Review,7.1
+venue,1648536,,,,,,,,Neuron,14.7
+venue,1648537,,,,,,,,Journal of Forensic Sciences,1.5
+venue,1648557,,,,,,,,Chaos Solitons & Fractals,5.3
+venue,1648563,,,,,,,,Fluid Phase Equilibria,2.8
+venue,1648582,,,,,,,,International Conference on Software Engineering (ICSE),
+venue,1648592,,,,,,,,Przegląd Elektrotechniczny,0.4
+venue,1648597,,,,,,,,Science Education,3.1
+venue,1648608,,,,,,,,Journal of Quantitative Spectroscopy & Radiative Transfer,2.3
+venue,1648612,,,,,,,,Computer Physics Communications,7.2
+venue,1648613,,,,,,,,Management Science,4.6
+venue,1648634,,,,,,,,Forensic Science International,2.2
+venue,1648708,,,,,,,,IEEE Communications Magazine,8.3
+venue,1648713,,,,,,,,Journal of Educational Psychology,5.6
+venue,1648721,,,,,,,,Technometrics,2.3
+venue,1648727,,,,,,,,Heliyon,3.4
+venue,1648745,,,,,,,,Signal Processing,3.4
+venue,1648751,,,,,,,,Sigplan Notices,
+venue,1648769,,,,,,,,AAAI Conference on Artificial Intelligence (AAAI),
+venue,1648782,,,,,,,,Pattern Recognition,7.5
+venue,1648801,,,,,,,,Proceedings of the AAAI Conference on Artificial Intelligence,
+venue,1648806,,,,,,,,BMC Bioinformatics,2.9
+venue,1648810,,,,,,,,Electronics,2.6
+venue,1648816,,,,,,,,Wireless Personal Communications,1.9
+venue,1648833,,,,,,,,IEEE Communications Letters,3.7
+venue,1648860,,,,,,,,IEEE Transactions on Wireless Communications,8.9
+venue,1648889,,,,,,,,Leonardo,0.4
+venue,1648909,,,,,,,,Cognitive Science,2.3
+venue,1648916,,,,,,,,Journal of Applied Probability,0.7
+venue,1648928,,,,,,,,Health Affairs,8.6
+venue,1648931,,,,,,,,IEICE Transactions on Communications,0.7
+venue,1648951,,,,,,,,International Joint Conference on Artificial Intelligence (IJCAI),
+venue,1648971,,,,,,,,Annual Meeting of the Association for Computational Linguistics (ACL),
+venue,1648984,,,,,,,,IEEE transactions on image processing,10.8
+venue,1649012,,,,,,,,Biometrics,1.4
+venue,1649053,,,,,,,,PLOS Computational Biology,3.8
+venue,1649056,,,,,,,,The American Economic Review,10.5
+venue,1649076,,,,,,,,Computer Communications,4.5
+venue,1649117,,,,,,,,F1000Research,
+venue,1649124,,,,,,,,Advances in Mathematics,1.5
+venue,1649128,,,,,,,,International Conference on Computer Communications (INFOCOM),
+venue,1649131,,,,,,,,Computers & Industrial Engineering,6.7
+venue,1649148,,,,,,,,Discrete Applied Mathematics,1.0
+venue,1649149,,,,,,,,Nature Genetics,31.7
+venue,1649165,,,,,,,,Technology and Culture,0.8
+venue,1649179,,,,,,,,IEICE Transactions on Information and Systems,0.6
+venue,1649183,,,,,,,,Proceedings of the Royal Society of London,
+venue,1649227,,,,,,,,Bulletin of the atomic scientists,1.9
+venue,1649258,,,,,,,,Science Advances,11.7
+venue,1649271,,,,,,,,Frontiers in Education Conference,
+venue,1649360,,,,,,,,Software - Practice and Experience,2.6
+venue,1649369,,,,,,,,Statistics & Probability Letters,0.9
+venue,1649405,,,,,,,,arXiv: Machine Learning,
+venue,1649412,,,,,,,,The Library Quarterly,1.6
+venue,1649447,,,,,,,,IEEE Transactions on Pattern Analysis and Machine Intelligence,20.8
+venue,1649506,,,,,,,,IEEE Journal on Selected Areas in Communications,13.8
+venue,1649508,,,,,,,,Molecular Cell,14.5
+venue,1649519,,,,,,,,American Journal of Preventive Medicine,4.3
+venue,1649521,,,,,,,,IEEE International Conference on Multimedia and Expo (ICME),
+venue,1649540,,,,,,,,Applied Soft Computing,7.2
+venue,1649544,,,,,,,,Computer Aided Design,3.0
+venue,1649594,,,,,,,,Mathematics Magazine,
+venue,1649606,,,,,,,,International Solid-State Circuits Conference,
+venue,1649614,,,,,,,,Journal of Optimization Theory and Applications,1.6
+venue,1649636,,,,,,,,International Conference on Machine Learning (ICML),
+venue,1649639,,,,,,,,Congress on Evolutionary Computation,
+venue,1649713,,,,,,,,IEEE International Conference on Computer Vision (ICCV),
+venue,1649715,,,,,,,,Pattern Recognition Letters,3.9
+venue,1649741,,,,,,,,Information Processing Letters,0.7
+venue,1649749,,,,,,,,"Design, Automation, and Test in Europe",
+venue,1649761,,,,,,,,Journal of Pure and Applied Algebra,0.7
+venue,1649772,,,,,,,,Journal of Chemical Theory and Computation,5.7
+venue,1649775,,,,,,,,Advances in intelligent and soft computing,
+venue,1649798,,,,,,,,Neural Computing and Applications,4.5
+venue,1649802,,,,,,,,Computers & Security,4.8
+venue,1649803,,,,,,,,Ergonomics,2.0
+venue,1649871,,,,,,,,Knowledge Based Systems,7.2
+venue,1649883,,,,,,,,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,2.7
+venue,1649915,,,,,,,,Magnetic Resonance in Chemistry,1.9
+venue,1649943,,,,,,,,Genetic and Evolutionary Computation Conference,
+venue,1649959,,,,,,,,Technological Forecasting and Social Change,12.9
+venue,1649979,,,,,,,,International Conference on Big Data,
+venue,1650008,,,,,,,,Computers in Human Behavior,9.0
+venue,1650017,,,,,,,,Technical Symposium on Computer Science Education (SIGCSE),
+venue,1650028,,,,,,,,The Computer Journal,1.5
+venue,1650082,,,,,,,,Future Generation Computer Systems,6.2
+venue,1650091,,,,,,,,College & Research Libraries,1.4
+venue,1650093,,,,,,,,IEEE Transactions on Reliability,5.0
+venue,1650101,,,,,,,,ACM Multimedia,
+venue,1650107,,,,,,,,Philosophical Transactions of the Royal Society A,4.3
+venue,1650182,,,,,,,,Operations Research,2.2
+venue,1650193,,,,,,,,Language Resources and Evaluation,
+venue,1650229,,,,,,,,Journal of Marketing Research,5.1
+venue,1650262,,,,,,,,RFC,
+venue,1650279,,,,,,,,IEEE Transactions on Medical Imaging,8.9
+venue,1650282,,,,,,,,Computer Networks,4.4
+venue,1650292,,,,,,,,SIGCSE bulletin,
+venue,1650295,,,,,,,,Scientometrics,3.5
+venue,1650298,,,,,,,,Wireless Communications and Mobile Computing,
+venue,1650305,,,,,,,,Journal of Medical Internet Research,5.8
+venue,1650343,,,,,,,,Econometrica,6.6
+venue,1650344,,,,,,,,Conference on Empirical Methods in Natural Language Processing (EMNLP),
+venue,1650354,,,,,,,,Psychological Review,5.1
+venue,1650376,,,,,,,,Computers & Operations Research,4.1
+venue,1650392,,,,,,,,IEEE Software,3.3
+venue,1650393,,,,,,,,Astrophysical Journal Supplement Series,8.6
+venue,1650477,,,,,,,,Nature Neuroscience,21.2
+venue,1650479,,,,,,,,International Parallel and Distributed Processing Symposium,
+venue,1650515,,,,,,,,IEEE Transactions on Circuits and Systems for Video Technology,8.3
+venue,1650525,,,,,,,,Nature Methods,36.1
+venue,1650541,,,,,,,,IEEE Transactions on Intelligent Transportation Systems,7.9
+venue,1650564,,,,,,,,Adaptive Agents and Multi-Agents Systems,
+venue,1650586,,,,,,,,Conference on Information and Knowledge Management,
+venue,1650616,,,,,,,,Academy of Management Journal,9.5
+venue,1650647,,,,,,,,International Conference on Computational Linguistics (COLING),
+venue,1650681,,,,,,,,Quarterly Journal of Economics,11.1
+venue,1650686,,,,,,,,Distributed Computing,1.3
+venue,1650731,,,,,,,,Concurrency and Computation: Practice and Experience,1.5
+venue,1650741,,,,,,,,American Medical Informatics Association Annual Symposium,
+venue,1650790,,,,,,,,Neural Networks,6.0
+venue,1650793,,,,,,,,IEEE Transactions on Industrial Informatics,11.7
+venue,1650808,,,,,,,,The Web Conference (WWW),
+venue,1650836,,,,,,,,The Internet of Things,
+venue,1650839,,,,,,,,Journal of The Mechanics and Physics of Solids,5.0
+venue,1650868,,,,,,,,Electronic Notes in Theoretical Computer Science,
+venue,1650876,,,,,,,,Journal of Economic Behavior and Organization,2.3
+venue,1650905,,,,,,,,Siam Review,10.8
+venue,1650953,,,,,,,,Annals of Mathematics,5.7
+venue,1650969,,,,,,,,Journal of Computing Sciences in Colleges,
+venue,1651000,,,,,,,,arXiv e-prints,
+venue,1651012,,,,,,,,Computer Graphics Forum,2.7
+venue,1651039,,,,,,,,IEEE Transactions on Knowledge and Data Engineering,8.9
+venue,1651073,,,,,,,,Journal of Software,
+venue,1651083,,,,,,,,American Journal of Bioethics,17.0
+venue,1651122,,,,,,,,Annals of Statistics,3.2
+venue,1651135,,,,,,,,Israel Journal of Mathematics,0.8
+venue,1651173,,,,,,,,Information & Computation,0.8
+venue,1651195,,,,,,,,Simulation,1.3
+venue,1651223,,,,,,,,SIAM Journal on Numerical Analysis,2.8
+venue,1651246,,,,,,,,Canadian Journal of Mathematics,0.6
+venue,1651249,,,,,,,,Journal of Systems and Software,3.7
+venue,1651260,,,,,,,,"IEEE International Conference on High Performance Computing, Data, and Analytics",
+venue,1651261,,,,,,,,IEEE Transactions on Parallel and Distributed Systems,5.6
+venue,1651275,,,,,,,,IEEE International Conference on Data Engineering (ICDE),
+venue,1651282,,,,,,,,Journal of Economic Theory,1.4
+venue,1651349,,,,,,,,Proceedings of SPIE - The International Society for Optical Engineering,
+venue,1651358,,,,,,,,IEEE Computer Graphics and Applications,1.7
+venue,1651393,,,,,,,,Genome Research,6.2
+venue,1651402,,,,,,,,IEEE Transactions on Visualization and Computer Graphics,4.7
+venue,1651415,,,,,,,,ACM SIGIR Conference on Research and Development in Information Retrieval,
+venue,1651425,,,,,,,,Systems & Control Letters,2.1
+venue,1651426,,,,,,,,Physics Reports,23.9
+venue,1651438,,,,,,,,Artificial Intelligence,5.1
+venue,1651463,,,,,,,,Cognition,2.8
+venue,1651464,,,,,,,,ACM Transactions on Graphics,7.8
+venue,1651508,,,,,,,,International Conference on Data Mining,
+venue,1651513,,,,,,,,IEEE Transactions on Software Engineering,6.5
+venue,1651529,,,,,,,,"Journal of Combinatorial Theory, Series A",0.9
+venue,1651533,,,,,,,,Computers & education,8.9
+venue,1651558,,,,,,,,Decision Support Systems,6.7
+venue,1651560,,,,,,,,Academy of Management Review,19.3
+venue,1651568,,,,,,,,ACM International Conference on Management of Data (SIGMOD),
+venue,1651597,,,,,,,,Proceedings of the Annual Meeting of the Cognitive Science Society,
+venue,1651680,,,,,,,,IEEE robotics & automation letters,
+venue,1651711,,,,,,,,Mathematical Programming,2.2
+venue,1651733,,,,,,,,International Journal of Mathematics and Mathematical Sciences,1.0
+venue,1651738,,,,,,,,European Journal of Physics,0.6
+venue,1651758,,,,,,,,ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),
+venue,1651788,,,,,,,,ACM Sigsoft Software Engineering Notes,
+venue,1651794,,,,,,,,Computers & Graphics,2.5
+venue,1651889,,,,,,,,SIAM Journal on Scientific Computing,3.0
+venue,1651938,,,,,,,,International Conference on Computer Aided Design (ICCAD),
+venue,1651954,,,,,,,,Computational Intelligence and Neuroscience,
+venue,1651978,,,,,,,,European Journal of Combinatorics,1.0
+venue,1652046,,,,,,,,Information Processing and Management,7.4
+venue,1652137,,,,,,,,Journal of Parallel and Distributed Computing,3.4
+venue,1652208,,,,,,,,The Journal of Academic Librarianship,2.5
+venue,1652232,,,,,,,,Theory of Computing Systems / Mathematical Systems Theory,
+venue,1652253,,,,,,,,Bell System Technical Journal,
+venue,1652267,,,,,,,,"North American Chapter of the Association for Computational Linguistics (NAACL, HLT)",
+venue,1652289,,,,,,,,Numerische Mathematik,2.1
+venue,1652319,,,,,,,,Journal of Graph Theory,0.9
+venue,1652324,,,,,,,,Annals of Mathematical Statistics,
+venue,1652329,,,,,,,,Applied Numerical Mathematics,2.2
+venue,1652399,,,,,,,,Information & Software Technology,3.8
+venue,1652434,,,,,,,,IEEE ACM Transactions on Networking,3.0
+venue,1652450,,,,,,,,Biological Cybernetics,1.7
+venue,1652495,,,,,,,,Annals of Probability,2.1
+venue,1652508,,,,,,,,Fundamenta Informaticae,0.4
+venue,1652544,,,,,,,,Human Factors,2.9
+venue,1652563,,,,,,,,Inventiones Mathematicae,2.6
+venue,1652569,,,,,,,,IEEE Micro,2.8
+venue,1652612,,,,,,,,Information Systems,3.0
+venue,1652615,,,,,,,,Parallel Computing,2.0
+venue,1652626,,,,,,,,Electronic Journal of Combinatorics,0.7
+venue,1652673,,,,,,,,AMIA,
+venue,1652700,,,,,,,,IEEE Transactions on Mobile Computing,7.7
+venue,1652748,,,,,,,,Electronic proceedings in theoretical computer science,
+venue,1652763,,,,,,,,Robotics and Autonomous Systems,4.3
+venue,1652816,,,,,,,,Ubiquitous Computing (UbiComp),
+venue,1652846,,,,,,,,Journal of the American Medical Informatics Association,4.7
+venue,1652899,,,,,,,,Systems Engineering,1.6
+venue,1652904,,,,,,,,IRE transactions on communications systems,
+venue,1652952,,,,,,,,"IEEE Transactions on Systems, Man, and Cybernetics",
+venue,1653092,,,,,,,,Symposium on the Theory of Computing (STOC),
+venue,1653111,,,,,,,,Administrative Science Quarterly,8.3
+venue,1653112,,,,,,,,Ecology Letters,7.6
+venue,1653121,,,,,,,,IEEE Transactions on Information Forensics and Security,6.3
+venue,1653133,,,,,,,,Interactions,
+venue,1653159,,,,,,,,Image and Vision Computing,4.2
+venue,1653316,,,,,,,,Strategic Management Journal,6.5
+venue,1653339,,,,,,,,The Review of Economic Studies,5.9
+venue,1653365,,,,,,,,Annual ACM Conference on Computer and Communications Security (CCS),
+venue,1653464,,,,,,,,Journal of Management,9.3
+venue,1653496,,,,,,,,Operations Research Letters,0.8
+venue,1653499,,,,,,,,Journal of the American Society for Information Science,
+venue,1653548,,,,,,,,Ergodic Theory and Dynamical Systems,0.8
+venue,1653638,,,,,,,,arXiv: Computer Science and Game Theory,
+venue,1653681,,,,,,,,IEEE Annual Symposium on Foundations of Computer Science (FOCS),
+venue,1653721,,,,,,,,International Journal of Medical Informatics,3.7
+venue,1653725,,,,,,,,The Visual Computer,3.0
+venue,1653748,,,,,,,,IEEE International Conference on Distributed Computing Systems (ICDCS),
+venue,1653765,,,,,,,,IEEE Transactions on Neural Networks,
+venue,1653770,,,,,,,,"Journal of Combinatorial Theory, Series B",1.2
+venue,1653808,,,,,,,,Journal of Computer and System Sciences,1.1
+venue,1653828,,,,,,,,Performance evaluation review,
+venue,1653831,,,,,,,,Journal of Peace Research,3.4
+venue,1653838,,,,,,,,International Journal of Cardiovascular Imaging,1.5
+venue,1653858,,,,,,,,Games and Economic Behavior,1.0
+venue,1653879,,,,,,,,Robot and Human Interactive Communication,
+venue,1653919,,,,,,,,SIAM Journal on Computing,1.2
+venue,1653926,,,,,,,,Telecommunications Policy,5.9
+venue,1653932,,,,,,,,Journal of Biomedical Informatics,4.0
+venue,1653996,,,,,,,,Transportation Research Part B-methodological,5.8
+venue,1654004,,,,,,,,Journal of the Association for Information Science and Technology,
+venue,1654021,,,,,,,,Computer architecture news,
+venue,1654048,,,,,,,,ACM-SIAM Symposium on Discrete Algorithms (SODA),
+venue,1654204,,,,,,,,Journal of Scientific Computing,2.8
+venue,1654210,,,,,,,,Neural Computation,2.7
+venue,1654220,,,,,,,,Library Review,
+venue,1654229,,,,,,,,Human-Robot Interaction,
+venue,1654270,,,,,,,,Reviews of Modern Physics,45.9
+venue,1654284,,,,,,,,IEEE Internet Computing,3.7
+venue,1654360,,,,,,,,Library Journal,1.6
+venue,1654440,,,,,,,,Numerical Algorithms,1.7
+venue,1654445,,,,,,,,Computing,3.3
+venue,1654448,,,,,,,,Journal of Machine Learning Research,4.3
+venue,1654474,,,,,,,,Algorithmica,0.9
+venue,1654558,,,,,,,,Ars Combinatoria,
+venue,1654576,,,,,,,,Journal of The Mathematical Society of Japan,0.7
+venue,1654592,,,,,,,,Educational Technology archive,
+venue,1654615,,,,,,,,International Journal of Pattern Recognition and Artificial Intelligence,0.9
+venue,1654620,,,,,,,,British Machine Vision Conference (BMVC),
+venue,1654654,,,,,,,,Computer Vision and Image Understanding,4.3
+venue,1654708,,,,,,,,Journal of Machine Vision and Applications,2.4
+venue,1654739,,,,,,,,This Digital Resource was created from scans of the Print Resource,
+venue,1654755,,,,,,,,International Conference on Computer Communications and Networks,
+venue,1654770,,,,,,,,"IEEE Transactions on Acoustics, Speech, and Signal Processing",
+venue,1654777,,,,,,,,Proceedings of the VLDB Endowment,2.6
+venue,1654827,,,,,,,,Annals of the Institute of Statistical Mathematics,0.8
+venue,1654845,,,,,,,,ACM Proceedings,
+venue,1654960,,,,,,,,Information & Management,8.2
+venue,1654991,,,,,,,,Eurographics,
+venue,1655030,,,,,,,,Computer Communication Review,2.2
+venue,1655068,,,,,,,,New Library World,
+venue,1655119,,,,,,,,Journal of the ACM,2.3
+venue,1655156,,,,,,,,Journal of Consumer Research,5.7
+venue,1655176,,,,,,,,International Conference on Learning Representations (ICLR),
+venue,1655248,,,,,,,,American Archivist,
+venue,1655257,,,,,,,,Journal of Information Science,1.8
+venue,1655277,,,,,,,,International Conference on Document Analysis and Recognition,
+venue,1655278,,,,,,,,IFLA Journal,1.0
+venue,1655299,,,,,,,,Data Analysis and Knowledge Discovery,
+venue,1655309,,,,,,,,International Conference on Software Maintenance,
+venue,1655358,,,,,,,,IEEE Transactions on Robotics,9.4
+venue,1655377,,,,,,,,Sigmod Record,0.9
+venue,1655443,,,,,,,,Annals of Pure and Applied Logic,0.6
+venue,1655542,,,,,,,,IEEE Security & Privacy,2.9
+venue,1655600,,,,,,,,SIAM Journal on Discrete Mathematics,0.9
+venue,1655619,,,,,,,,Computing in Science and Engineering,1.8
+venue,1655666,,,,,,,,Educational Technology Research and Development,3.3
+venue,1655685,,,,,,,,Designing Interactive Systems,
+venue,1655709,,,,,,,,Genome Biology,10.1
+venue,1655736,,,,,,,,New Media & Society,4.5
+venue,1655767,,,,,,,,Reference and User Services Quarterly,
+venue,1655768,,,,,,,,Science of Computer Programming,1.5
+venue,1655779,,,,,,,,Advanced Robotics,1.4
+venue,1655804,,,,,,,,Journal of Conflict Resolution,2.2
+venue,1655813,,,,,,,,IEEE Transactions on Automation Science and Engineering,5.9
+venue,1655856,,,,,,,,"ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA)",
+venue,1655920,,,,,,,,Journal of Linguistics,0.8
+venue,1656041,,,,,,,,Discrete and Computational Geometry,0.6
+venue,1656043,,,,,,,,Graphs and Combinatorics,0.6
+venue,1656066,,,,,,,,The International Journal of Robotics Research,7.5
+venue,1656142,,,,,,,,IEEE Conference on Virtual Reality and 3D User Interfaces (VR),
+venue,1656272,,,,,,,,Conference on Computer Supported Cooperative Work,
+venue,1656297,,,,,,,,ACM Special Interest Group on Data Communication,
+venue,1656411,,,,,,,,Software Engineering and Knowledge Engineering,
+venue,1656415,,,,,,,,International Journal of Computer Vision,11.6
+venue,1656454,,,,,,,,Electronic Colloquium on Computational Complexity,
+venue,1656477,,,,,,,,ACM Computing Surveys,23.8
+venue,1656488,,,,,,,,Very Large Data Bases Conference (VLDB),
+venue,1656498,,,,,,,,Medical Image Analysis,10.7
+venue,1656500,,,,,,,,Mathematics of Operations Research,1.4
+venue,1656609,,,,,,,,Journal of Documentation,1.7
+venue,1656628,,,,,,,,Ai Magazine,2.5
+venue,1656720,,,,,,,,Ad hoc networks,4.4
+venue,1656732,,,,,,,,"Allerton Conference on Communication, Control, and Computing",
+venue,1656846,,,,,,,,Machine Learning,4.3
+venue,1656852,,,,,,,,arXiv Computer Science,
+venue,1656888,,,,,,,,International journal of human-computer studies,5.3
+venue,1656904,,,,,,,,SIAM Journal on Matrix Analysis and Applications,1.5
+venue,1656922,,,,,,,,International Conference on Artificial Intelligence and Statistics,
+venue,1657001,,,,,,,,The Florida AI Research Society,
+venue,1657113,,,,,,,,IEEE Robotics & Automation Magazine,5.4
+venue,1657187,,,,,,,,Siam Journal on Optimization,2.6
+venue,1657237,,,,,,,,Operating Systems Review,
+venue,1657404,,,,,,,,International Conference on Supercomputing (ICS),
+venue,1657503,,,,,,,,Uncertainty in Artificial Intelligence,
+venue,1657589,,,,,,,,Organization Science,4.9
+venue,1657625,,,,,,,,Workshop on Applications of Computer Vision,
+venue,1657658,,,,,,,,Review of Policy Research,2.3
+venue,1657754,,,,,,,,International Journal of Human-computer Interaction,3.4
+venue,1657773,,,,,,,,Management Information Systems Quarterly,7.0
+venue,1657999,,,,,,,,Formal Methods,
+venue,1658068,,,,,,,,Business Ethics Quarterly,3.4
+venue,1658094,,,,,,,,Simulation Modelling Practice and Theory,3.5
+venue,1658095,,,,,,,,Journal of the royal statistical society series b-methodological,
+venue,1658215,,,,,,,,ACM Symposium on User Interface Software and Technology (UIST),
+venue,1658257,,,,,,,,Computer Aided Geometric Design,1.3
+venue,1658323,,,,,,,,Library Hi Tech,
+venue,1658367,,,,,,,,Cataloging & Classification Quarterly,0.8
+venue,1658479,,,,,,,,Principles of Distributed Computing,
+venue,1658588,,,,,,,,Random Structures and Algorithms,0.9
+venue,1658599,,,,,,,,Springer tracts in advanced robotics,
+venue,1658686,,,,,,,,Library Trends,0.3
+venue,1658733,,,,,,,,Clinical Trials,2.2
+venue,1658799,,,,,,,,Intelligent User Interfaces,
+venue,1658872,,,,,,,,ACM/IEEE Joint Conference on Digital Libraries,
+venue,1658930,,,,,,,,IEEE MultiMedia,2.3
+venue,1659040,,,,,,,,The Reference Librarian,
+venue,1659087,,,,,,,,Proceedings Of The Association For Information Science And Technology,
+venue,1659127,,,,,,,,Journal of The Medical Library Association,2.9
+venue,1659176,,,,,,,,Journal of Engineering Education,3.9
+venue,1659183,,,,,,,,Journal of Computer Assisted Learning,5.1
+venue,1659186,,,,,,,,Computer Graphics,
+venue,1659284,,,,,,,,SIGACT news,
+venue,1659298,,,,,,,,Library Management,1.3
+venue,1659358,,,,,,,,Discrete Mathematics & Theoretical Computer Science,0.5
+venue,1659409,,,,,,,,Proceedings of the ... Annual Hawaii International Conference on System Sciences,
+venue,1659447,,,,,,,,Advances in Social Networks Analysis and Mining,
+venue,1659657,,,,,,,,Proceedings of the ACM on human-computer interaction,
+venue,1659694,,,,,,,,IEEE Visualization Conference (VIS),
+venue,1659730,,,,,,,,Bernoulli,1.5
+venue,1659799,,,,,,,,Foundations of Software Engineering,
+venue,1659863,,,,,,,,International Symposium on Computer Architecture (ISCA),
+venue,1659881,,,,,,,,Conference on Recommender Systems,
+venue,1659892,,,,,,,,Information and control,
+venue,1659895,,,,,,,,MethodsX,1.6
+venue,1659923,,,,,,,,International Symposium/Conference on Music Information Retrieval,
+venue,1659966,,,,,,,,New Directions for Institutional Research,
+venue,1659976,,,,,,,,International Symposium on Wearable Computers,
+venue,1659998,,,,,,,,Journal of the Arkansas Academy of Science,
+venue,1660059,,,,,,,,Acta Informatica,0.4
+venue,1660084,,,,,,,,Personal and Ubiquitous Computing,
+venue,1660099,,,,,,,,Library Resources & Technical Services,0.6
+venue,1660145,,,,,,,,Reference Services Review,1.3
+venue,1660200,,,,,,,,Computational Linguistics,3.7
+venue,1660285,,,,,,,,Medical Reference Services Quarterly,
+venue,1660366,,,,,,,,International Symposium on Mixed and Augmented Reality,
+venue,1660392,,,,,,,,IEEE Transactions on Dependable and Secure Computing,7.0
+venue,1660431,,,,,,,,ACM/IEEE Symposium on Logic in Computer Science (LICS),
+venue,1660493,,,,,,,,Dagstuhl Seminar Proceedings,
+venue,1660495,,,,,,,,"IEEE Symposium on Security and Privacy (SP, S&P, Oakland)",
+venue,1660534,,,,,,,,Human-Computer Interaction with Mobile Devices and Services,
+venue,1660597,,,,,,,,Nature Astronomy,12.9
+venue,1660662,,,,,,,,Simulation & Gaming,1.5
+venue,1660701,,,,,,,,ACM Transactions on Mathematical Software,2.7
+venue,1660720,,,,,,,,Journal of Information Technology,5.8
+venue,1660730,,,,,,,,Poetics,2.0
+venue,1660738,,,,,,,,Journal of Social Philosophy,1.1
+venue,1660747,,,,,,,,Numerical Linear Algebra With Applications,1.8
+venue,1660748,,,,,,,,Advances in Computers,
+venue,1660757,,,,,,,,Conference of the European Chapter of the Association for Computational Linguistics,
+venue,1660821,,,,,,,,International Conference on Agents and Artificial Intelligence,
+venue,1660901,,,,,,,,Revue d'économie industrielle,
+venue,1660928,,,,,,,,Conference on High Performance Computing (Supercomputing),
+venue,1660949,,,,,,,,Journal of Artificial Intelligence Research,4.5
+venue,1660969,,,,,,,,Journal of Educational Computing Research,4.0
+venue,1660971,,,,,,,,CLEF (Working Notes),
+venue,1661015,,,,,,,,SIGCHI bulletin,
+venue,1661054,,,,,,,,Library & Information Science Research,2.4
+venue,1661076,,,,,,,,International Symposium on Software Reliability Engineering,
+venue,1661133,,,,,,,,Advances in human and social aspects of technology book series,
+venue,1661255,,,,,,,,Combinatorica,1.0
+venue,1661298,,,,,,,,Information Research,
+venue,1661303,,,,,,,,International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS),
+venue,1661352,,,,,,,,IEEE Pervasive Computing,1.6
+venue,1661422,,,,,,,,Information Systems Research,5.0
+venue,1661423,,,,,,,,Journal of Management Information Systems,5.9
+venue,1661449,,,,,,,,ACM Transactions in Embedded Computing Systems,2.8
+venue,1661460,,,,,,,,"World of Wireless, Mobile and Multimedia Networks",
+venue,1661494,,,,,,,,Electronic Journal of Statistics,1.0
+venue,1661521,,,,,,,,Advances in Geographic Information Systems,
+venue,1661523,,,,,,,,Computational Geometry: Theory and Applications,0.4
+venue,1661543,,,,,,,,USENIX Security Symposium (UsenixSec),
+venue,1661640,,,,,,,,Annual IEEE/ACM International Symposium on Microarchitecture (MICRO),
+venue,1661835,,,,,,,,Ethical Theory and Moral Practice,1.0
+venue,1661840,,,,,,,,Political Communication,4.6
+venue,1661864,,,,,,,,Annals of Mathematics and Artificial Intelligence,1.2
+venue,1661900,,,,,,,,International Conference on Mobile Computing and Networking (MobiCom),
+venue,1661964,,,,,,,,IFIP,
+venue,1661971,,,,,,,,International Conference on Multimodal Interfaces,
+venue,1662125,,,,,,,,Social Networks,2.9
+venue,1662235,,,,,,,,Conference on Computational Complexity,
+venue,1662395,,,,,,,,The Annals of Applied Statistics,1.3
+venue,1662461,,,,,,,,Symposium on Principles of Programming Languages (POPL),
+venue,1662571,,,,,,,,Multimedia Systems,3.5
+venue,1662592,,,,,,,,Autonomous Robots,3.7
+venue,1662646,,,,,,,,Conference on Learning Theory,
+venue,1662665,,,,,,,,International Journal on Artificial Intelligence Tools,1.0
+venue,1662816,,,,,,,,IEEE Transactions on Robotics and Automation,
+venue,1662828,,,,,,,,Theory of computing systems,0.6
+venue,1663080,,,,,,,,Workshops in computing,
+venue,1663110,,,,,,,,Journal of Algorithms,
+venue,1663137,,,,,,,,Frontiers in Robotics and AI,2.9
+venue,1663173,,,,,,,,Empirical Software Engineering,3.5
+venue,1663205,,,,,,,,Symposium on Cloud Computing,
+venue,1663246,,,,,,,,ACM Symposium on Parallel Algorithms and Architectures,
+venue,1663286,,,,,,,,Journal of The Royal Statistical Society Series B-statistical Methodology,3.1
+venue,1663327,,,,,,,,Annual Computer Security Applications Conference,
+venue,1663328,,,,,,,,IEEE Communications Surveys and Tutorials,34.4
+venue,1663368,,,,,,,,Nature Human Behaviour,21.4
+venue,1663463,,,,,,,,Interacting with Computers,1.0
+venue,1663481,,,,,,,,The Information Society,3.0
+venue,1663486,,,,,,,,Public Library Quarterly,1.4
+venue,1663496,,,,,,,,International Joint Conference on Natural Language Processing,
+venue,1663534,,,,,,,,Interaction Design and Children,
+venue,1663692,,,,,,,,Linguistic Inquiry,1.6
+venue,1663775,,,,,,,,Symposium on Principles of Database Systems (PODS),
+venue,1663855,,,,,,,,Computer Animation and Virtual Worlds,0.9
+venue,1663998,,,,,,,,"ACM Transactions on Multimedia Computing, Communications, and Applications",5.2
+venue,1664064,,,,,,,,Tangible and Embedded Interaction,
+venue,1664104,,,,,,,,Precision Agriculture,5.4
+venue,1664160,,,,,,,,USENIX Annual Technical Conference (USENIX ATC),
+venue,1664223,,,,,,,,Virtual Reality Software and Technology,
+venue,1664286,,,,,,,,Annual Review of Sociology,8.9
+venue,1664371,,,,,,,,Semantics and Linguistic Theory,
+venue,1664372,,,,,,,,World Wide Web,2.7
+venue,1664609,,,,,,,,Sigir Forum,
+venue,1664653,,,,,,,,Journal of Automated Reasoning,0.9
+venue,1664659,,,,,,,,Theory and Applications of Satisfiability Testing,
+venue,1664691,,,,,,,,Presence: Teleoperators & Virtual Environments,0.7
+venue,1664760,,,,,,,,Logical Methods in Computer Science,0.6
+venue,1664783,,,,,,,,Journal of Informetrics,3.4
+venue,1664791,,,,,,,,Cluster Computing and the Grid,
+venue,1664831,,,,,,,,Transport Theory and Statistical Physics,
+venue,1664934,,,,,,,,ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI),
+venue,1665040,,,,,,,,"Computer vision, graphics, and image processing",
+venue,1665580,,,,,,,,"ACM SIGMOBILE International Conference on Mobile Systems, Applications, and Services (MobiSys)",
+venue,1665668,,,,,,,,portal - Libraries and the Academy,0.8
+venue,1665674,,,,,,,,IEEE International Symposium on High Performance Distributed Computing (HPDC),
+venue,1665890,,,,,,,,ACM Transactions on Programming Languages and Systems,1.5
+venue,1666077,,,,,,,,Cognitive Systems Research,2.1
+venue,1666088,,,,,,,,Journal of Artificial Societies and Social Simulation,2.2
+venue,1666127,,,,,,,,Bulletin of the American Society for Information Science,
+venue,1666244,,,,,,,,Siam Journal on Applied Dynamical Systems,1.7
+venue,1666361,,,,,,,,IEEE Signal Processing Workshop on Statistical Signal Processing,
+venue,1666389,,,,,,,,ACM SIGPLAN International Conference on Functional Programming (ICFP),
+venue,1666423,,,,,,,,Web Search and Data Mining,
+venue,1666538,,,,,,,,International Journal of Parallel Programming,0.9
+venue,1666878,,,,,,,,International Conference on Automated Planning and Scheduling,
+venue,1666907,,,,,,,,Software and Systems Modeling,2.0
+venue,1667045,,,,,,,,IEEE Transactions on Computational Social Systems,4.5
+venue,1667081,,,,,,,,Requirements Engineering,2.1
+venue,1667087,,,,,,,,Social media and society,5.5
+venue,1667144,,,,,,,,International Symposium on High-Performance Computer Architecture (HPCA),
+venue,1667191,,,,,,,,ACM Transactions on Database Systems,2.2
+venue,1667212,,,,,,,,Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS),
+venue,1667219,,,,,,,,Extending Database Technology,
+venue,1667311,,,,,,,,International Conference on Web and Social Media (ICWSM),
+venue,1667346,,,,,,,,Formal Aspects of Computing,1.4
+venue,1667360,,,,,,,,ACM Transactions on Information Systems,
+venue,1667416,,,,,,,,The Journal of Object Technology,1.1
+venue,1667628,,,,,,,,Swarm and evolutionary computation,8.2
+venue,1667646,,,,,,,,Natural Language and Linguistic Theory,0.8
+venue,1667664,,,,,,,,IEEE Data(base) Engineering Bulletin,
+venue,1667669,,,,,,,,Proceedings of the ACM on programming languages,2.2
+venue,1667712,,,,,,,,"Software Testing, Verification & Reliability",1.5
+venue,1667746,,,,,,,,IEEE International Conference on Requirements Engineering,
+venue,1667757,,,,,,,,"Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)",3.6
+venue,1667821,,,,,,,,ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming,
+venue,1667881,,,,,,,,"International Colloquium on Automata, Languages and Programming",
+venue,1667919,,,,,,,,The Vldb Journal,2.8
+venue,1668080,,,,,,,,European Symposium on Algorithms,
+venue,1668186,,,,,,,,Journal of Functional Programming,1.1
+venue,1668301,,,,,,,,Linguistics and Philosophy,1.1
+venue,1668353,,,,,,,,Autonomous Agents and Multi-Agent Systems,2.0
+venue,1668649,,,,,,,,Journal on Educational Technology,
+venue,1668975,,,,,,,,Foundations of Digital Games,
+venue,1669025,,,,,,,,International Journal of High Performance Computing Applications,3.5
+venue,1669153,,,,,,,,"International Conference on User Modeling, Adaptation, and Personalization",
+venue,1669287,,,,,,,,Globecom,
+venue,1669291,,,,,,,,Social Network Analysis and Mining,2.3
+venue,1669381,,,,,,,,Natural Language Engineering,2.3
+venue,1669561,,,,,,,,International Semantic Web Conference,
+venue,1669828,,,,,,,,Robotics: Science and Systems Conference (RSS),
+venue,1669870,,,,,,,,Eurasip Journal on Image and Video Processing,2.0
+venue,1670006,,,,,,,,International Symposium on Distributed Computing,
+venue,1670047,,,,,,,,Network and Distributed System Security Symposium (NDSS),
+venue,1670155,,,,,,,,International Journal of Social Robotics,3.8
+venue,1670188,,,,,,,,Electronic Commerce,
+venue,1670225,,,,,,,,Graphics Interface,
+venue,1670442,,,,,,,,Computer Languages,
+venue,1670449,,,,,,,,ACM Transactions on Algorithms,0.9
+venue,1670531,,,,,,,,Symposium on Visual Languages and Human-Centric Computing,
+venue,1670616,,,,,,,,Annual Meeting of the Special Interest Group on Discourse and Dialogue,
+venue,1670648,,,,,,,,"International Conference on Software Testing, Verification, and Validation",
+venue,1670810,,,,,,,,ACM Transactions on Knowledge Discovery From Data,4.0
+venue,1671026,,,,,,,,IEEE Sarnoff Symposium,
+venue,1671103,,,,,,,,IEEE Transactions on Affective Computing,9.6
+venue,1671104,,,,,,,,ACM Transactions on Computer-Human Interaction,4.8
+venue,1671146,,,,,,,,Model Driven Engineering Languages and Systems,
+venue,1671206,,,,,,,,Journal of data science,
+venue,1671263,,,,,,,,Digital Games Research Association Conference,
+venue,1671487,,,,,,,,Conference on Computational Natural Language Learning,
+venue,1671511,,,,,,,,SIAM journal on scientific and statistical computing,
+venue,1671603,,,,,,,,Journal of Computer Security,0.9
+venue,1671642,,,,,,,,Quantum,5.1
+venue,1671670,,,,,,,,Mining Software Repositories,
+venue,1671712,,,,,,,,Eurographics (Wien),
+venue,1671750,,,,,,,,Static Analysis Symposium,
+venue,1671910,,,,,,,,Human-Computer Interaction,4.5
+venue,1672011,,,,,,,,Computer Supported Cooperative Work,2.0
+venue,1672139,,,,,,,,Data Science Journal,
+venue,1672177,,,,,,,,Affective Computing and Intelligent Interaction,
+venue,1672259,,,,,,,,ACM Transactions on Software Engineering and Methodology,6.6
+venue,1672359,,,,,,,,International Symposium on Software Testing and Analysis (ISSTA),
+venue,1672360,,,,,,,,Information Visualization,1.8
+venue,1672786,,,,,,,,Internet Measurement Conference (IMC),
+venue,1673134,,,,,,,,The Journal of the Learning Sciences,3.0
+venue,1673145,,,,,,,,Information technology and libraries,1.5
+venue,1673518,,,,,,,,College & Undergraduate Libraries,0.6
+venue,1673787,,,,,,,,European Conference on Computer Systems (EuroSys),
+venue,1673867,,,,,,,,Automated software engineering,2.0
+venue,1674014,,,,,,,,Visual Analytics Science and Technology,
+venue,1674521,,,,,,,,Symposium on Operating Systems Principles (SOSP),
+venue,1674667,,,,,,,,International Journal of Information Security,2.4
+venue,1674715,,,,,,,,ACM Transactions on Modeling and Computer Simulation,0.7
+venue,1674790,,,,,,,,Computer Science Education,3.0
+venue,1674901,,,,,,,,International Conference on Program Comprehension,
+venue,1674946,,,,,,,,npj digital medicine,12.4
+venue,1675075,,,,,,,,Journal of Web Semantics,2.1
+venue,1675083,,,,,,,,Symposium on Networked Systems Design and Implementation (NSDI),
+venue,1675328,,,,,,,,IEEE Computer Security Foundations Symposium,
+venue,1675347,,,,,,,,Interactive 3D Graphics and Games,
+venue,1675422,,,,,,,,Information Retrieval,1.7
+venue,1675442,,,,,,,,"IEEE/ACM International Symposium Cluster, Cloud and Grid Computing",
+venue,1675625,,,,,,,,"International Conference on Software Testing, Verification and Validation Workshops",
+venue,1675738,,,,,,,,Computer Graphics and Image Processing,
+venue,1676147,,,,,,,,Human factors and ergonomics,
+venue,1676255,,,,,,,,Journal of Semantics,2.0
+venue,1676302,,,,,,,,International Symposium on Parallel and Distributed Computing,
+venue,1676316,,,,,,,,The Journal of Defense Modeling and Simulation,1.0
+venue,1676448,,,,,,,,Journal of Big Data,8.6
+venue,1676652,,,,,,,,Compiler Construction,
+venue,1677126,,,,,,,,ACM Conference on Economics and Computation (EC),
+venue,1677555,,,,,,,,Distributed and Parallel Databases,1.5
+venue,1677689,,,,,,,,The Journal of Logic and Algebraic Programming,
+venue,1677957,,,,,,,,Games and Culture,2.4
+venue,1678024,,,,,,,,IEEE Cloud Computing,
+venue,1678122,,,,,,,,User Modeling and User-adapted Interaction,3.0
+venue,1678137,,,,,,,,Archival Science,1.4
+venue,1678404,,,,,,,,IEEE Symposium on Visual Languages,
+venue,1678891,,,,,,,,Human-Agent Interaction,
+venue,1679016,,,,,,,,login Usenix Mag.,
+venue,1679121,,,,,,,,Formal Methods in Computer-Aided Design,
+venue,1679123,,,,,,,,International Computing Education Research Workshop,
+venue,1679302,,,,,,,,Nature Machine Intelligence,18.8
+venue,1679455,,,,,,,,Transactions of the Association for Computational Linguistics,4.2
+venue,1679705,,,,,,,,ACM Transactions on Computer Systems,2.0
+venue,1680046,,,,,,,,IEEE Conference on Mass Storage Systems and Technologies,
+venue,1680075,,,,,,,,International Conference on Natural Language Generation,
+venue,1680248,,,,,,,,ACM Transactions on Applied Perception,1.9
+venue,1680334,,,,,,,,Symposium on Code Generation and Optimization,
+venue,1680337,,,,,,,,"IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+venue,1680353,,,,,,,,Proceedings on Privacy Enhancing Technologies,
+venue,1680553,,,,,,,,Dagstuhl Reports,
+venue,1680780,,,,,,,,Computational Complexity,0.7
+venue,1681584,,,,,,,,International Journal on Digital Libraries,1.6
+venue,1681590,,,,,,,,Science robotics,26.1
+venue,1681751,,,,,,,,Applied Network Science,1.3
+venue,1682066,,,,,,,,Conference on Innovative Data Systems Research,
+venue,1682262,,,,,,,,Journal of Simulation,1.3
+venue,1682648,,,,,,,,Principles and Practice of Declarative Programming,
+venue,1682650,,,,,,,,USENIX Symposium on Operating Systems Design and Implementation (OSDI),
+venue,1682688,,,,,,,,European Conference on Object-Oriented Programming,
+venue,1683188,,,,,,,,"International Workshop and International Workshop on Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques",
+venue,1683206,,,,,,,,The Journal of information systems management,
+venue,1683269,,,,,,,,Intelligent Systems in Molecular Biology (ISMB),
+venue,1683315,,,,,,,,Symposium On Usable Privacy and Security,
+venue,1683318,,,,,,,,Joint Conference on Lexical and Computational Semantics,
+venue,1683357,,,,,,,,IEEE Pacific Visualization Symposium,
+venue,1683387,,,,,,,,USENIX Conference on File and Storage Technologies (FAST),
+venue,1683634,,,,,,,,Symposium on Computer Animation,
+venue,1684082,,,,,,,,"IEEE Systems, Man, and Cybernetics Magazine",1.9
+venue,1684730,,,,,,,,Journal of Complex Networks,2.2
+venue,1684793,,,,,,,,Software Engineering Journal,
+venue,1685239,,,,,,,,IEEE Symposium on Information Visualization,
+venue,1685349,,,,,,,,ACM Transactions on Computing Education,3.2
+venue,1685397,,,,,,,,JAMIA open,2.5
+venue,1685714,,,,,,,,Algorithms for Molecular Biology,1.5
+venue,1686060,,,,,,,,School Libraries Worldwide,
+venue,1686645,,,,,,,,IEEE European Symposium on Security and Privacy,
+venue,1686836,,,,,,,,Big data,2.6
+venue,1687081,,,,,,,,Book Chapters,
+venue,1687105,,,,,,,,ACM Transactions on The Web,2.6
+venue,1687271,,,,,,,,International Symposium on Memory Management,
+venue,1687333,,,,,,,,Frontiers in virtual reality,3.2
+venue,1687525,,,,,,,,Network and Operating System Support for Digital Audio and Video,
+venue,1687964,,,,,,,,International Conference on Knowledge Discovery and Information Retrieval,
+venue,1688136,,,,,,,,Mobile Dna,4.7
+venue,1688457,,,,,,,,EPJ Data Science,3.0
+venue,1689104,,,,,,,,Nature Computational Science,12.0
+venue,1689114,,,,,,,,IEEE transactions on games,1.7
+venue,1689304,,,,,,,,Frontiers in computer science,2.4
+venue,1689397,,,,,,,,ACM transactions on interactive intelligent systems,3.6
+venue,1689420,,,,,,,,Transactions on machine learning and artificial intelligence,
+venue,1689655,,,,,,,,Theory of Computing,0.6
+venue,1689735,,,,,,,,NAR genomics and bioinformatics,4.0
+venue,1689751,,,,,,,,Workshop on Privacy in the Electronic Society,
+venue,1690254,,,,,,,,Network Science,1.4
+venue,1690443,,,,,,,,Annual International Cryptology Conference (CRYPTO),
+venue,1690678,,,,,,,,Algorithmic Learning Theory,
+venue,1690906,,,,,,,,Symposium on Spatial User Interaction,
+venue,1691203,,,,,,,,Transportmetrica B-Transport Dynamics,3.3
+venue,1691330,,,,,,,,SIGSPATIAL Special,
+venue,1691835,,,,,,,,Conference on Robot Learning,
+venue,1691904,,,,,,,,Natural Language Semantics,0.9
+venue,1692106,,,,,,,,Communications in Information Literacy,0.9
+venue,1692593,,,,,,,,IEEE transactions on artificial intelligence,
+venue,1692626,,,,,,,,Hot Topics in Networks,
+venue,1693216,,,,,,,,International Conference on Principles of Distributed Systems,
+venue,1693455,,,,,,,,Public Libraries,
+venue,1694741,,,,,,,,International Journal of Mobile Human Computer Interaction,0.2
+venue,1694839,,,,,,,,"Preservation, digital technology & culture",
+venue,1694884,,,,,,,,MIT Press Books,
+venue,1695058,,,,,,,,ACM Transactions on Computation Theory,0.8
+venue,1695079,,,,,,,,Journal of Gaming & Virtual Worlds,0.7
+venue,1695449,,,,,,,,Chicago Journal of Theoretical Computer Science,
+venue,1695736,,,,,,,,Artificial Intelligence and Interactive Digital Entertainment Conference,
+venue,1695779,,,,,,,,Software Engineering and Formal Methods,
+venue,1695788,,,,,,,,Proceedings of the ... International Florida Artificial Intelligence Research Society Conference,
+venue,1695882,,,,,,,,JMA journal,1.5
+venue,1696228,,,,,,,,Columbia journalism review,
+venue,1696360,,,,,,,,Annual Symposium on Combinatorial Search,
+venue,1697638,,,,,,,,IEEE Journal on Robotics and Automation,
+venue,1697689,,,,,,,,Journal of Library Metadata,
+venue,1698279,,,,,,,,Conference on Computer Aided Verification (CAV),
+venue,1698591,,,,,,,,ACM transactions on economics and computation,1.1
+venue,1700382,,,,,,,,Quantitative science studies,4.1
+venue,1700568,,,,,,,,Libraries & Culture,
+venue,1700987,,,,,,,,ACM Transactions on Parallel Computing,0.9
+venue,1701103,,,,,,,,Harvard Data Science Review,
+venue,1701110,,,,,,,,Computers in human behavior reports,4.9
+venue,1702334,,,,,,,,Communications in Computing,
+venue,1702364,,,,,,,,Semantics and Pragmatics,1.1
+venue,1702848,,,,,,,,RAIRO. Informatique théorique,
+venue,1703261,,,,,,,,ACM transactions on privacy and security,3.0
+venue,1703293,,,,,,,,ACM transactions on human-robot interaction,4.2
+venue,1703614,,,,,,,,Symposium/Workshop on Haskell,
+venue,1704299,,,,,,,,SIAM journal on mathematics of data science,1.9
+venue,1704419,,,,,,,,International Journal of Human-computer Studies / International Journal of Man-machine Studies,
+venue,1704477,,,,,,,,ITCS,
+venue,1704756,,,,,,,,Proceedings of the ACM on computer graphics and interactive techniques,1.4
+venue,1704787,,,,,,,,Proceedings of the Society for Computation in Linguistics,
+venue,1704860,,,,,,,,Eurographics Symposium on Rendering Techniques,
+venue,1705161,,,,,,,,Symposium on Geometry Processing,
+venue,1705311,,,,,,,,Computability,0.3
+venue,1706057,,,,,,,,AACE Journal,
+venue,1706167,,,,,,,,Proceedings of the 2012 iConference,
+venue,1706282,,,,,,,,ACM Workshop on Programming Languages and Analysis for Security,
+venue,1706405,,,,,,,,ASEE Annual Conference Proceedings,
+venue,1706478,,,,,,,,EuroVis (Short Papers),
+venue,1706748,,,,,,,,Journal of Applied Computer Science & Mathematics,
+venue,1706855,,,,,,,,Dynamic Languages Symposium,
+venue,1706889,,,,,,,,Bioinformatics advances,2.4
+venue,1707110,,,,,,,,Proceedings of the International Conference on Web Intelligence,
+venue,1708828,,,,,,,,2020 IEEE Conference on Games (CoG),
+venue,1709098,,,,,,,,Journal of Library and Information Studies,0.2
+venue,1709394,,,,,,,,Conference on Automated Deduction,
+venue,1709433,,,,,,,,European Software Engineering Conference,
+venue,1710098,,,,,,,,Public Key Cryptography,
+venue,1710218,,,,,,,,Computers and education open,4.1
+venue,1710286,,,,,,,,USENIX conference on Hot Topics in Cloud Ccomputing,
+venue,1710361,,,,,,,,Modelling,1.3
+venue,1710443,,,,,,,,International Symposium on Haskell,
+venue,1710521,,,,,,,,Philosophers' Imprint,1.4
+venue,1710524,,,,,,,,European Conference on Computer Vision (ECCV),
+venue,1710749,,,,,,,,ACM/IMS transactions on data science,
+venue,1711162,,,,,,,,Financial Cryptography,
+venue,1711165,,,,,,,,USENIX Summer Technical Conference,
+venue,1711357,,,,,,,,International journal of systems and software security and protection,
+venue,1711479,,,,,,,,International Symposium on Experimental Robotics,
+venue,1711497,,,,,,,,International Conference on Web and Internet Economics (WINE),
+venue,1711817,,,,,,,,Tools and Algorithms for Construction and Analysis of Systems,
+venue,1711861,,,,,,,,International Symposium on Artificial Intelligence and Mathematics,
+venue,1712087,,,,,,,,Privacy Enhancing Technologies,
+venue,1712209,,,,,,,,Workshop on the Algorithmic Foundations of Robotics,
+venue,1712222,,,,,,,,International Conference on Scientific and Statistical Database Management,
+venue,1712504,,,,,,,,Passive and Active Network Measurement,
+venue,1712773,,,,,,,,Practical Aspects of Declarative Languages,
+venue,1712937,,,,,,,,Journal of toxicology and health,
+venue,1712939,,,,,,,,Journal of agriculture and environment for international development,0.5
+venue,1712951,,,,,,,,mUX: The Journal of Mobile User Experience,
+venue,1713000,,,,,,,,ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia,
+venue,1713035,,,,,,,,IEEE robotics and automation letters,4.6

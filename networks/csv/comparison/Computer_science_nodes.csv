@@ -1,0 +1,878 @@
+venue_db_id,name,jcr_jif
+1647091,The Lancet,98.4
+1647092,Nature,50.5
+1647093,British Medical Journal (BMJ),93.6
+1647094,Science,44.7
+1647096,PLOS ONE,2.9
+1647097,JAMA,63.1
+1647098,Bulletin of the American Physical Society,
+1647100,Journal of the American Chemical Society,14.4
+1647101,Journal of Biological Chemistry,4.0
+1647102,AGU Fall Meeting Abstracts,
+1647104,Journal of Physics: Conference Series,
+1647105,Scientific Reports,3.8
+1647107,Journal of the Acoustical Society of America,2.1
+1647108,PNAS,9.4
+1647113,Journal of Chemical Physics,3.1
+1647115,Investigative Ophthalmology & Visual Science,5.0
+1647118,Physical Review Letters,8.1
+1647119,Proceedings of SPIE,
+1647121,Applied Physics Letters,3.5
+1647125,The New England Journal of Medicine,96.2
+1647128,Circulation,35.5
+1647129,The Astrophysical Journal,4.8
+1647132,IEEE Conference Proceedings,
+1647133,Journal of the American College of Cardiology,21.7
+1647144,Journal of Geophysical Research,
+1647150,Monthly Notices of the Royal Astronomical Society,4.7
+1647166,Astronomy and Astrophysics,5.4
+1647169,Annals of the New York Academy of Sciences,4.1
+1647170,Advances in intelligent systems and computing,
+1647179,Physics Letters B,4.3
+1647183,IEEE Access,3.4
+1647201,Communications in computer and information science,
+1647203,Physical Review A,2.6
+1647210,Review of Scientific Instruments,1.3
+1647212,Optics Express,3.2
+1647216,Physics Today,2.8
+1647227,The Journal of Physiology,4.7
+1647228,Journal of The Electrochemical Society,3.1
+1647233,Langmuir,3.7
+1647235,Nucleic Acids Research,16.6
+1647237,Journal of Physical Chemistry C,3.3
+1647240,Proceedings of the American Mathematical Society,0.8
+1647242,American Mathematical Monthly,0.4
+1647243,Nature Communications,14.7
+1647245,Physical Review,
+1647246,Sensors,3.4
+1647253,American Journal of Ophthalmology,4.1
+1647255,Proceedings - Academy of Management,
+1647258,Macromolecules,5.1
+1647262,ACS Applied Materials & Interfaces,8.3
+1647273,Geophysical Research Letters,4.6
+1647293,"International Conference on Acoustics, Speech, and Signal Processing",
+1647297,Medical Physics,3.2
+1647320,The Journal of Neuroscience,4.4
+1647328,Optics Letters,3.1
+1647350,Journal of High Energy Physics,5.0
+1647357,International Conference on Communications,
+1647361,Conference on Decision and Control,
+1647371,Transportation Research Record,1.6
+1647373,Journal of Molecular Biology,4.7
+1647380,Journal of Clinical Investigation,13.3
+1647405,Frontiers in Psychology,2.6
+1647410,American Political Science Review,5.9
+1647415,The American Journal of Medicine,5.1
+1647422,Fuel,6.7
+1647426,arXiv: Learning,
+1647456,Molecular and Cellular Biology,3.2
+1647461,Transactions of the American Mathematical Society,1.2
+1647469,IEEE International Symposium on Circuits and Systems (ISCAS),
+1647471,Clinical Chemistry,7.1
+1647472,International Journal of Heat and Mass Transfer,5.0
+1647474,Journal of Vision,2.0
+1647486,Physica A: Statistical Mechanics and its Applications,2.8
+1647487,The Astronomical Journal,5.1
+1647496,Physical Review E,2.2
+1647500,Nuclear Physics B,2.5
+1647506,BMJ Open,2.4
+1647507,Microscopy and Microanalysis,2.9
+1647509,Lecture notes in networks and systems,
+1647536,Chemical Engineering Science,4.1
+1647539,Lecture Notes in Mathematics,
+1647543,Journal of the American Statistical Association,3.0
+1647555,American Journal of Sociology,4.4
+1647560,eLife,6.4
+1647590,Contemporary Sociology,0.3
+1647591,Kidney International,14.8
+1647601,Global Communications Conference,
+1647607,Cell,45.5
+1647628,Journal of Mathematical Physics,1.2
+1647633,IEEE International Conference on Robotics and Automation (ICRA),
+1647638,Ecology,4.4
+1647647,IEEE Transactions on Automatic Control,6.2
+1647649,The American Naturalist,2.4
+1647677,International Conference on Image Processing (ICIP),
+1647690,Applied Mathematics and Computation,3.5
+1647716,European Journal of Operational Research,6.0
+1647732,Procedia Computer Science,
+1647733,Journal of Neurophysiology,2.1
+1647750,Conference of the International Speech Communication Association (INTERSPEECH),
+1647752,Frontiers in Plant Science,4.1
+1647765,Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series,
+1647775,Journal of Physics A: Mathematical and General,
+1647792,American Psychologist,12.3
+1647837,Neurocomputing,5.5
+1647841,ACM Conference on Human Factors in Computing Systems (CHI),
+1647858,Proceedings of the IEEE,23.2
+1647874,The Economic Journal,3.8
+1647877,IEEE Spectrum,2.6
+1647878,Journal of Symbolic Logic,0.5
+1647894,IEEE/RJS International Conference on Intelligent RObots and Systems (IROS),
+1647908,ACS Nano,15.8
+1647925,Information Sciences,
+1647931,Journal of Chemical & Engineering Data,2.0
+1647937,IEEE Transactions on Information Theory,2.2
+1647941,Journal of Computational Physics,3.8
+1647947,Expert Systems With Applications,7.5
+1647989,Nature Biotechnology,33.1
+1648003,arXiv: Computation and Language,
+1648024,IEEE International Joint Conference on Neural Network (IJCNN),
+1648026,Progress of Theoretical and Experimental Physics,
+1648047,Computer Vision and Pattern Recognition (CVPR),
+1648048,Discrete Mathematics,0.7
+1648052,Studies in computational intelligence,
+1648057,IEEE Transactions on Geoscience and Remote Sensing,7.5
+1648090,Linear Algebra and its Applications,1.0
+1648093,Journal of Personality and Social Psychology,6.4
+1648117,IEEE Transactions on Signal Processing,4.6
+1648127,Hawaii International Conference on System Sciences (HICSS),
+1648132,IEEE Computer,2.0
+1648134,IFIP advances in information and communication technology,
+1648145,Theoretical Computer Science,0.9
+1648157,Behavioral and Brain Sciences,16.6
+1648179,IEEE Transactions on Vehicular Technology,6.1
+1648191,Communications of The ACM,11.1
+1648203,Journal of Political Economy,6.9
+1648209,Vision Research,1.5
+1648243,Journal of Computational and Applied Mathematics,2.1
+1648246,IACR Cryptology ePrint Archive,
+1648294,Computers & mathematics with applications,2.9
+1648297,IEEE Journal of Solid-state Circuits,4.6
+1648303,Bioinformatics,4.4
+1648309,Conference on Computer Graphics and Interactive Techniques (SIGGRAPH),
+1648326,IEEE Transactions on Communications,7.2
+1648342,Proceedings of the Human Factors and Ergonomics Society ... Annual Meeting,
+1648343,Multimedia Tools and Applications,3.0
+1648372,International Symposium on Information Theory,
+1648396,International Journal for Numerical Methods in Engineering,2.7
+1648430,Journal of The Audio Engineering Society,1.1
+1648435,Mathematics of Computation,2.2
+1648440,Contemporary mathematics,
+1648448,Automatica,4.8
+1648453,IEEE Transactions on Computers,3.6
+1648461,Winter Simulation Conference,
+1648464,Language,1.9
+1648479,Mathematische Annalen,1.3
+1648487,Conference on Neural Information Processing Systems (NeurIPS),
+1648511,Journal of Applied Psychology,9.4
+1648516,Design Automation Conference (DAC),
+1648518,Biometrika,2.4
+1648523,Journal of Visualized Experiments,1.2
+1648524,American Sociological Review,7.1
+1648536,Neuron,14.7
+1648537,Journal of Forensic Sciences,1.5
+1648557,Chaos Solitons & Fractals,5.3
+1648563,Fluid Phase Equilibria,2.8
+1648582,International Conference on Software Engineering (ICSE),
+1648592,Przegląd Elektrotechniczny,0.4
+1648597,Science Education,3.1
+1648608,Journal of Quantitative Spectroscopy & Radiative Transfer,2.3
+1648612,Computer Physics Communications,7.2
+1648613,Management Science,4.6
+1648634,Forensic Science International,2.2
+1648708,IEEE Communications Magazine,8.3
+1648713,Journal of Educational Psychology,5.6
+1648721,Technometrics,2.3
+1648727,Heliyon,3.4
+1648745,Signal Processing,3.4
+1648751,Sigplan Notices,
+1648769,AAAI Conference on Artificial Intelligence (AAAI),
+1648782,Pattern Recognition,7.5
+1648801,Proceedings of the AAAI Conference on Artificial Intelligence,
+1648806,BMC Bioinformatics,2.9
+1648810,Electronics,2.6
+1648816,Wireless Personal Communications,1.9
+1648833,IEEE Communications Letters,3.7
+1648860,IEEE Transactions on Wireless Communications,8.9
+1648889,Leonardo,0.4
+1648909,Cognitive Science,2.3
+1648916,Journal of Applied Probability,0.7
+1648928,Health Affairs,8.6
+1648931,IEICE Transactions on Communications,0.7
+1648951,International Joint Conference on Artificial Intelligence (IJCAI),
+1648971,Annual Meeting of the Association for Computational Linguistics (ACL),
+1648984,IEEE transactions on image processing,10.8
+1649012,Biometrics,1.4
+1649053,PLOS Computational Biology,3.8
+1649056,The American Economic Review,10.5
+1649076,Computer Communications,4.5
+1649117,F1000Research,
+1649124,Advances in Mathematics,1.5
+1649128,International Conference on Computer Communications (INFOCOM),
+1649131,Computers & Industrial Engineering,6.7
+1649148,Discrete Applied Mathematics,1.0
+1649149,Nature Genetics,31.7
+1649165,Technology and Culture,0.8
+1649179,IEICE Transactions on Information and Systems,0.6
+1649183,Proceedings of the Royal Society of London,
+1649227,Bulletin of the atomic scientists,1.9
+1649258,Science Advances,11.7
+1649271,Frontiers in Education Conference,
+1649360,Software - Practice and Experience,2.6
+1649369,Statistics & Probability Letters,0.9
+1649405,arXiv: Machine Learning,
+1649412,The Library Quarterly,1.6
+1649447,IEEE Transactions on Pattern Analysis and Machine Intelligence,20.8
+1649506,IEEE Journal on Selected Areas in Communications,13.8
+1649508,Molecular Cell,14.5
+1649519,American Journal of Preventive Medicine,4.3
+1649521,IEEE International Conference on Multimedia and Expo (ICME),
+1649540,Applied Soft Computing,7.2
+1649544,Computer Aided Design,3.0
+1649594,Mathematics Magazine,
+1649606,International Solid-State Circuits Conference,
+1649614,Journal of Optimization Theory and Applications,1.6
+1649636,International Conference on Machine Learning (ICML),
+1649639,Congress on Evolutionary Computation,
+1649713,IEEE International Conference on Computer Vision (ICCV),
+1649715,Pattern Recognition Letters,3.9
+1649741,Information Processing Letters,0.7
+1649749,"Design, Automation, and Test in Europe",
+1649761,Journal of Pure and Applied Algebra,0.7
+1649772,Journal of Chemical Theory and Computation,5.7
+1649775,Advances in intelligent and soft computing,
+1649798,Neural Computing and Applications,4.5
+1649802,Computers & Security,4.8
+1649803,Ergonomics,2.0
+1649871,Knowledge Based Systems,7.2
+1649883,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,2.7
+1649915,Magnetic Resonance in Chemistry,1.9
+1649943,Genetic and Evolutionary Computation Conference,
+1649959,Technological Forecasting and Social Change,12.9
+1649979,International Conference on Big Data,
+1650008,Computers in Human Behavior,9.0
+1650017,Technical Symposium on Computer Science Education (SIGCSE),
+1650028,The Computer Journal,1.5
+1650082,Future Generation Computer Systems,6.2
+1650091,College & Research Libraries,1.4
+1650093,IEEE Transactions on Reliability,5.0
+1650101,ACM Multimedia,
+1650107,Philosophical Transactions of the Royal Society A,4.3
+1650182,Operations Research,2.2
+1650193,Language Resources and Evaluation,
+1650229,Journal of Marketing Research,5.1
+1650262,RFC,
+1650279,IEEE Transactions on Medical Imaging,8.9
+1650282,Computer Networks,4.4
+1650292,SIGCSE bulletin,
+1650295,Scientometrics,3.5
+1650298,Wireless Communications and Mobile Computing,
+1650305,Journal of Medical Internet Research,5.8
+1650343,Econometrica,6.6
+1650344,Conference on Empirical Methods in Natural Language Processing (EMNLP),
+1650354,Psychological Review,5.1
+1650376,Computers & Operations Research,4.1
+1650392,IEEE Software,3.3
+1650393,Astrophysical Journal Supplement Series,8.6
+1650477,Nature Neuroscience,21.2
+1650479,International Parallel and Distributed Processing Symposium,
+1650515,IEEE Transactions on Circuits and Systems for Video Technology,8.3
+1650525,Nature Methods,36.1
+1650541,IEEE Transactions on Intelligent Transportation Systems,7.9
+1650564,Adaptive Agents and Multi-Agents Systems,
+1650586,Conference on Information and Knowledge Management,
+1650616,Academy of Management Journal,9.5
+1650647,International Conference on Computational Linguistics (COLING),
+1650681,Quarterly Journal of Economics,11.1
+1650686,Distributed Computing,1.3
+1650731,Concurrency and Computation: Practice and Experience,1.5
+1650741,American Medical Informatics Association Annual Symposium,
+1650790,Neural Networks,6.0
+1650793,IEEE Transactions on Industrial Informatics,11.7
+1650808,The Web Conference (WWW),
+1650836,The Internet of Things,
+1650839,Journal of The Mechanics and Physics of Solids,5.0
+1650868,Electronic Notes in Theoretical Computer Science,
+1650876,Journal of Economic Behavior and Organization,2.3
+1650905,Siam Review,10.8
+1650953,Annals of Mathematics,5.7
+1650969,Journal of Computing Sciences in Colleges,
+1651000,arXiv e-prints,
+1651012,Computer Graphics Forum,2.7
+1651039,IEEE Transactions on Knowledge and Data Engineering,8.9
+1651073,Journal of Software,
+1651083,American Journal of Bioethics,17.0
+1651122,Annals of Statistics,3.2
+1651135,Israel Journal of Mathematics,0.8
+1651173,Information & Computation,0.8
+1651195,Simulation,1.3
+1651223,SIAM Journal on Numerical Analysis,2.8
+1651246,Canadian Journal of Mathematics,0.6
+1651249,Journal of Systems and Software,3.7
+1651260,"IEEE International Conference on High Performance Computing, Data, and Analytics",
+1651261,IEEE Transactions on Parallel and Distributed Systems,5.6
+1651275,IEEE International Conference on Data Engineering (ICDE),
+1651282,Journal of Economic Theory,1.4
+1651349,Proceedings of SPIE - The International Society for Optical Engineering,
+1651358,IEEE Computer Graphics and Applications,1.7
+1651393,Genome Research,6.2
+1651402,IEEE Transactions on Visualization and Computer Graphics,4.7
+1651415,ACM SIGIR Conference on Research and Development in Information Retrieval,
+1651425,Systems & Control Letters,2.1
+1651426,Physics Reports,23.9
+1651438,Artificial Intelligence,5.1
+1651463,Cognition,2.8
+1651464,ACM Transactions on Graphics,7.8
+1651508,International Conference on Data Mining,
+1651513,IEEE Transactions on Software Engineering,6.5
+1651529,"Journal of Combinatorial Theory, Series A",0.9
+1651533,Computers & education,8.9
+1651558,Decision Support Systems,6.7
+1651560,Academy of Management Review,19.3
+1651568,ACM International Conference on Management of Data (SIGMOD),
+1651597,Proceedings of the Annual Meeting of the Cognitive Science Society,
+1651680,IEEE robotics & automation letters,
+1651711,Mathematical Programming,2.2
+1651733,International Journal of Mathematics and Mathematical Sciences,1.0
+1651738,European Journal of Physics,0.6
+1651758,ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),
+1651788,ACM Sigsoft Software Engineering Notes,
+1651794,Computers & Graphics,2.5
+1651889,SIAM Journal on Scientific Computing,3.0
+1651938,International Conference on Computer Aided Design (ICCAD),
+1651954,Computational Intelligence and Neuroscience,
+1651978,European Journal of Combinatorics,1.0
+1652046,Information Processing and Management,7.4
+1652137,Journal of Parallel and Distributed Computing,3.4
+1652208,The Journal of Academic Librarianship,2.5
+1652232,Theory of Computing Systems / Mathematical Systems Theory,
+1652253,Bell System Technical Journal,
+1652267,"North American Chapter of the Association for Computational Linguistics (NAACL, HLT)",
+1652289,Numerische Mathematik,2.1
+1652319,Journal of Graph Theory,0.9
+1652324,Annals of Mathematical Statistics,
+1652329,Applied Numerical Mathematics,2.2
+1652399,Information & Software Technology,3.8
+1652434,IEEE ACM Transactions on Networking,3.0
+1652450,Biological Cybernetics,1.7
+1652495,Annals of Probability,2.1
+1652508,Fundamenta Informaticae,0.4
+1652544,Human Factors,2.9
+1652563,Inventiones Mathematicae,2.6
+1652569,IEEE Micro,2.8
+1652612,Information Systems,3.0
+1652615,Parallel Computing,2.0
+1652626,Electronic Journal of Combinatorics,0.7
+1652673,AMIA,
+1652700,IEEE Transactions on Mobile Computing,7.7
+1652748,Electronic proceedings in theoretical computer science,
+1652763,Robotics and Autonomous Systems,4.3
+1652816,Ubiquitous Computing (UbiComp),
+1652846,Journal of the American Medical Informatics Association,4.7
+1652899,Systems Engineering,1.6
+1652904,IRE transactions on communications systems,
+1652952,"IEEE Transactions on Systems, Man, and Cybernetics",
+1653092,Symposium on the Theory of Computing (STOC),
+1653111,Administrative Science Quarterly,8.3
+1653112,Ecology Letters,7.6
+1653121,IEEE Transactions on Information Forensics and Security,6.3
+1653133,Interactions,
+1653159,Image and Vision Computing,4.2
+1653316,Strategic Management Journal,6.5
+1653339,The Review of Economic Studies,5.9
+1653365,Annual ACM Conference on Computer and Communications Security (CCS),
+1653464,Journal of Management,9.3
+1653496,Operations Research Letters,0.8
+1653499,Journal of the American Society for Information Science,
+1653548,Ergodic Theory and Dynamical Systems,0.8
+1653638,arXiv: Computer Science and Game Theory,
+1653681,IEEE Annual Symposium on Foundations of Computer Science (FOCS),
+1653721,International Journal of Medical Informatics,3.7
+1653725,The Visual Computer,3.0
+1653748,IEEE International Conference on Distributed Computing Systems (ICDCS),
+1653765,IEEE Transactions on Neural Networks,
+1653770,"Journal of Combinatorial Theory, Series B",1.2
+1653808,Journal of Computer and System Sciences,1.1
+1653828,Performance evaluation review,
+1653831,Journal of Peace Research,3.4
+1653838,International Journal of Cardiovascular Imaging,1.5
+1653858,Games and Economic Behavior,1.0
+1653879,Robot and Human Interactive Communication,
+1653919,SIAM Journal on Computing,1.2
+1653926,Telecommunications Policy,5.9
+1653932,Journal of Biomedical Informatics,4.0
+1653996,Transportation Research Part B-methodological,5.8
+1654004,Journal of the Association for Information Science and Technology,
+1654021,Computer architecture news,
+1654048,ACM-SIAM Symposium on Discrete Algorithms (SODA),
+1654204,Journal of Scientific Computing,2.8
+1654210,Neural Computation,2.7
+1654220,Library Review,
+1654229,Human-Robot Interaction,
+1654270,Reviews of Modern Physics,45.9
+1654284,IEEE Internet Computing,3.7
+1654360,Library Journal,1.6
+1654440,Numerical Algorithms,1.7
+1654445,Computing,3.3
+1654448,Journal of Machine Learning Research,4.3
+1654474,Algorithmica,0.9
+1654558,Ars Combinatoria,
+1654576,Journal of The Mathematical Society of Japan,0.7
+1654592,Educational Technology archive,
+1654615,International Journal of Pattern Recognition and Artificial Intelligence,0.9
+1654620,British Machine Vision Conference (BMVC),
+1654654,Computer Vision and Image Understanding,4.3
+1654708,Journal of Machine Vision and Applications,2.4
+1654739,This Digital Resource was created from scans of the Print Resource,
+1654755,International Conference on Computer Communications and Networks,
+1654770,"IEEE Transactions on Acoustics, Speech, and Signal Processing",
+1654777,Proceedings of the VLDB Endowment,2.6
+1654827,Annals of the Institute of Statistical Mathematics,0.8
+1654845,ACM Proceedings,
+1654960,Information & Management,8.2
+1654991,Eurographics,
+1655030,Computer Communication Review,2.2
+1655068,New Library World,
+1655119,Journal of the ACM,2.3
+1655156,Journal of Consumer Research,5.7
+1655176,International Conference on Learning Representations (ICLR),
+1655248,American Archivist,
+1655257,Journal of Information Science,1.8
+1655277,International Conference on Document Analysis and Recognition,
+1655278,IFLA Journal,1.0
+1655299,Data Analysis and Knowledge Discovery,
+1655309,International Conference on Software Maintenance,
+1655358,IEEE Transactions on Robotics,9.4
+1655377,Sigmod Record,0.9
+1655443,Annals of Pure and Applied Logic,0.6
+1655542,IEEE Security & Privacy,2.9
+1655600,SIAM Journal on Discrete Mathematics,0.9
+1655619,Computing in Science and Engineering,1.8
+1655666,Educational Technology Research and Development,3.3
+1655685,Designing Interactive Systems,
+1655709,Genome Biology,10.1
+1655736,New Media & Society,4.5
+1655767,Reference and User Services Quarterly,
+1655768,Science of Computer Programming,1.5
+1655779,Advanced Robotics,1.4
+1655804,Journal of Conflict Resolution,2.2
+1655813,IEEE Transactions on Automation Science and Engineering,5.9
+1655856,"ACM SIGPLAN Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA)",
+1655920,Journal of Linguistics,0.8
+1656041,Discrete and Computational Geometry,0.6
+1656043,Graphs and Combinatorics,0.6
+1656066,The International Journal of Robotics Research,7.5
+1656142,IEEE Conference on Virtual Reality and 3D User Interfaces (VR),
+1656272,Conference on Computer Supported Cooperative Work,
+1656297,ACM Special Interest Group on Data Communication,
+1656411,Software Engineering and Knowledge Engineering,
+1656415,International Journal of Computer Vision,11.6
+1656454,Electronic Colloquium on Computational Complexity,
+1656477,ACM Computing Surveys,23.8
+1656488,Very Large Data Bases Conference (VLDB),
+1656498,Medical Image Analysis,10.7
+1656500,Mathematics of Operations Research,1.4
+1656609,Journal of Documentation,1.7
+1656628,Ai Magazine,2.5
+1656720,Ad hoc networks,4.4
+1656732,"Allerton Conference on Communication, Control, and Computing",
+1656846,Machine Learning,4.3
+1656852,arXiv Computer Science,
+1656888,International journal of human-computer studies,5.3
+1656904,SIAM Journal on Matrix Analysis and Applications,1.5
+1656922,International Conference on Artificial Intelligence and Statistics,
+1657001,The Florida AI Research Society,
+1657113,IEEE Robotics & Automation Magazine,5.4
+1657187,Siam Journal on Optimization,2.6
+1657237,Operating Systems Review,
+1657404,International Conference on Supercomputing (ICS),
+1657503,Uncertainty in Artificial Intelligence,
+1657589,Organization Science,4.9
+1657625,Workshop on Applications of Computer Vision,
+1657658,Review of Policy Research,2.3
+1657754,International Journal of Human-computer Interaction,3.4
+1657773,Management Information Systems Quarterly,7.0
+1657999,Formal Methods,
+1658068,Business Ethics Quarterly,3.4
+1658094,Simulation Modelling Practice and Theory,3.5
+1658095,Journal of the royal statistical society series b-methodological,
+1658215,ACM Symposium on User Interface Software and Technology (UIST),
+1658257,Computer Aided Geometric Design,1.3
+1658323,Library Hi Tech,
+1658367,Cataloging & Classification Quarterly,0.8
+1658479,Principles of Distributed Computing,
+1658588,Random Structures and Algorithms,0.9
+1658599,Springer tracts in advanced robotics,
+1658686,Library Trends,0.3
+1658733,Clinical Trials,2.2
+1658799,Intelligent User Interfaces,
+1658872,ACM/IEEE Joint Conference on Digital Libraries,
+1658930,IEEE MultiMedia,2.3
+1659040,The Reference Librarian,
+1659087,Proceedings Of The Association For Information Science And Technology,
+1659127,Journal of The Medical Library Association,2.9
+1659176,Journal of Engineering Education,3.9
+1659183,Journal of Computer Assisted Learning,5.1
+1659186,Computer Graphics,
+1659284,SIGACT news,
+1659298,Library Management,1.3
+1659358,Discrete Mathematics & Theoretical Computer Science,0.5
+1659409,Proceedings of the ... Annual Hawaii International Conference on System Sciences,
+1659447,Advances in Social Networks Analysis and Mining,
+1659657,Proceedings of the ACM on human-computer interaction,
+1659694,IEEE Visualization Conference (VIS),
+1659730,Bernoulli,1.5
+1659799,Foundations of Software Engineering,
+1659863,International Symposium on Computer Architecture (ISCA),
+1659881,Conference on Recommender Systems,
+1659892,Information and control,
+1659895,MethodsX,1.6
+1659923,International Symposium/Conference on Music Information Retrieval,
+1659966,New Directions for Institutional Research,
+1659976,International Symposium on Wearable Computers,
+1659998,Journal of the Arkansas Academy of Science,
+1660059,Acta Informatica,0.4
+1660084,Personal and Ubiquitous Computing,
+1660099,Library Resources & Technical Services,0.6
+1660145,Reference Services Review,1.3
+1660200,Computational Linguistics,3.7
+1660285,Medical Reference Services Quarterly,
+1660366,International Symposium on Mixed and Augmented Reality,
+1660392,IEEE Transactions on Dependable and Secure Computing,7.0
+1660431,ACM/IEEE Symposium on Logic in Computer Science (LICS),
+1660493,Dagstuhl Seminar Proceedings,
+1660495,"IEEE Symposium on Security and Privacy (SP, S&P, Oakland)",
+1660534,Human-Computer Interaction with Mobile Devices and Services,
+1660597,Nature Astronomy,12.9
+1660662,Simulation & Gaming,1.5
+1660701,ACM Transactions on Mathematical Software,2.7
+1660720,Journal of Information Technology,5.8
+1660730,Poetics,2.0
+1660738,Journal of Social Philosophy,1.1
+1660747,Numerical Linear Algebra With Applications,1.8
+1660748,Advances in Computers,
+1660757,Conference of the European Chapter of the Association for Computational Linguistics,
+1660821,International Conference on Agents and Artificial Intelligence,
+1660901,Revue d'économie industrielle,
+1660928,Conference on High Performance Computing (Supercomputing),
+1660949,Journal of Artificial Intelligence Research,4.5
+1660969,Journal of Educational Computing Research,4.0
+1660971,CLEF (Working Notes),
+1661015,SIGCHI bulletin,
+1661054,Library & Information Science Research,2.4
+1661076,International Symposium on Software Reliability Engineering,
+1661133,Advances in human and social aspects of technology book series,
+1661255,Combinatorica,1.0
+1661298,Information Research,
+1661303,International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS),
+1661352,IEEE Pervasive Computing,1.6
+1661422,Information Systems Research,5.0
+1661423,Journal of Management Information Systems,5.9
+1661449,ACM Transactions in Embedded Computing Systems,2.8
+1661460,"World of Wireless, Mobile and Multimedia Networks",
+1661494,Electronic Journal of Statistics,1.0
+1661521,Advances in Geographic Information Systems,
+1661523,Computational Geometry: Theory and Applications,0.4
+1661543,USENIX Security Symposium (UsenixSec),
+1661640,Annual IEEE/ACM International Symposium on Microarchitecture (MICRO),
+1661835,Ethical Theory and Moral Practice,1.0
+1661840,Political Communication,4.6
+1661864,Annals of Mathematics and Artificial Intelligence,1.2
+1661900,International Conference on Mobile Computing and Networking (MobiCom),
+1661964,IFIP,
+1661971,International Conference on Multimodal Interfaces,
+1662125,Social Networks,2.9
+1662235,Conference on Computational Complexity,
+1662395,The Annals of Applied Statistics,1.3
+1662461,Symposium on Principles of Programming Languages (POPL),
+1662571,Multimedia Systems,3.5
+1662592,Autonomous Robots,3.7
+1662646,Conference on Learning Theory,
+1662665,International Journal on Artificial Intelligence Tools,1.0
+1662816,IEEE Transactions on Robotics and Automation,
+1662828,Theory of computing systems,0.6
+1663080,Workshops in computing,
+1663110,Journal of Algorithms,
+1663137,Frontiers in Robotics and AI,2.9
+1663173,Empirical Software Engineering,3.5
+1663205,Symposium on Cloud Computing,
+1663246,ACM Symposium on Parallel Algorithms and Architectures,
+1663286,Journal of The Royal Statistical Society Series B-statistical Methodology,3.1
+1663327,Annual Computer Security Applications Conference,
+1663328,IEEE Communications Surveys and Tutorials,34.4
+1663368,Nature Human Behaviour,21.4
+1663463,Interacting with Computers,1.0
+1663481,The Information Society,3.0
+1663486,Public Library Quarterly,1.4
+1663496,International Joint Conference on Natural Language Processing,
+1663534,Interaction Design and Children,
+1663692,Linguistic Inquiry,1.6
+1663775,Symposium on Principles of Database Systems (PODS),
+1663855,Computer Animation and Virtual Worlds,0.9
+1663998,"ACM Transactions on Multimedia Computing, Communications, and Applications",5.2
+1664064,Tangible and Embedded Interaction,
+1664104,Precision Agriculture,5.4
+1664160,USENIX Annual Technical Conference (USENIX ATC),
+1664223,Virtual Reality Software and Technology,
+1664286,Annual Review of Sociology,8.9
+1664371,Semantics and Linguistic Theory,
+1664372,World Wide Web,2.7
+1664609,Sigir Forum,
+1664653,Journal of Automated Reasoning,0.9
+1664659,Theory and Applications of Satisfiability Testing,
+1664691,Presence: Teleoperators & Virtual Environments,0.7
+1664760,Logical Methods in Computer Science,0.6
+1664783,Journal of Informetrics,3.4
+1664791,Cluster Computing and the Grid,
+1664831,Transport Theory and Statistical Physics,
+1664934,ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI),
+1665040,"Computer vision, graphics, and image processing",
+1665580,"ACM SIGMOBILE International Conference on Mobile Systems, Applications, and Services (MobiSys)",
+1665668,portal - Libraries and the Academy,0.8
+1665674,IEEE International Symposium on High Performance Distributed Computing (HPDC),
+1665890,ACM Transactions on Programming Languages and Systems,1.5
+1666077,Cognitive Systems Research,2.1
+1666088,Journal of Artificial Societies and Social Simulation,2.2
+1666127,Bulletin of the American Society for Information Science,
+1666244,Siam Journal on Applied Dynamical Systems,1.7
+1666361,IEEE Signal Processing Workshop on Statistical Signal Processing,
+1666389,ACM SIGPLAN International Conference on Functional Programming (ICFP),
+1666423,Web Search and Data Mining,
+1666538,International Journal of Parallel Programming,0.9
+1666878,International Conference on Automated Planning and Scheduling,
+1666907,Software and Systems Modeling,2.0
+1667045,IEEE Transactions on Computational Social Systems,4.5
+1667081,Requirements Engineering,2.1
+1667087,Social media and society,5.5
+1667144,International Symposium on High-Performance Computer Architecture (HPCA),
+1667191,ACM Transactions on Database Systems,2.2
+1667212,Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS),
+1667219,Extending Database Technology,
+1667311,International Conference on Web and Social Media (ICWSM),
+1667346,Formal Aspects of Computing,1.4
+1667360,ACM Transactions on Information Systems,
+1667416,The Journal of Object Technology,1.1
+1667628,Swarm and evolutionary computation,8.2
+1667646,Natural Language and Linguistic Theory,0.8
+1667664,IEEE Data(base) Engineering Bulletin,
+1667669,Proceedings of the ACM on programming languages,2.2
+1667712,"Software Testing, Verification & Reliability",1.5
+1667746,IEEE International Conference on Requirements Engineering,
+1667757,"Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)",3.6
+1667821,ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming,
+1667881,"International Colloquium on Automata, Languages and Programming",
+1667919,The Vldb Journal,2.8
+1668080,European Symposium on Algorithms,
+1668186,Journal of Functional Programming,1.1
+1668301,Linguistics and Philosophy,1.1
+1668353,Autonomous Agents and Multi-Agent Systems,2.0
+1668649,Journal on Educational Technology,
+1668975,Foundations of Digital Games,
+1669025,International Journal of High Performance Computing Applications,3.5
+1669153,"International Conference on User Modeling, Adaptation, and Personalization",
+1669287,Globecom,
+1669291,Social Network Analysis and Mining,2.3
+1669381,Natural Language Engineering,2.3
+1669561,International Semantic Web Conference,
+1669828,Robotics: Science and Systems Conference (RSS),
+1669870,Eurasip Journal on Image and Video Processing,2.0
+1670006,International Symposium on Distributed Computing,
+1670047,Network and Distributed System Security Symposium (NDSS),
+1670155,International Journal of Social Robotics,3.8
+1670188,Electronic Commerce,
+1670225,Graphics Interface,
+1670442,Computer Languages,
+1670449,ACM Transactions on Algorithms,0.9
+1670531,Symposium on Visual Languages and Human-Centric Computing,
+1670616,Annual Meeting of the Special Interest Group on Discourse and Dialogue,
+1670648,"International Conference on Software Testing, Verification, and Validation",
+1670810,ACM Transactions on Knowledge Discovery From Data,4.0
+1671026,IEEE Sarnoff Symposium,
+1671103,IEEE Transactions on Affective Computing,9.6
+1671104,ACM Transactions on Computer-Human Interaction,4.8
+1671146,Model Driven Engineering Languages and Systems,
+1671206,Journal of data science,
+1671263,Digital Games Research Association Conference,
+1671487,Conference on Computational Natural Language Learning,
+1671511,SIAM journal on scientific and statistical computing,
+1671603,Journal of Computer Security,0.9
+1671642,Quantum,5.1
+1671670,Mining Software Repositories,
+1671712,Eurographics (Wien),
+1671750,Static Analysis Symposium,
+1671910,Human-Computer Interaction,4.5
+1672011,Computer Supported Cooperative Work,2.0
+1672139,Data Science Journal,
+1672177,Affective Computing and Intelligent Interaction,
+1672259,ACM Transactions on Software Engineering and Methodology,6.6
+1672359,International Symposium on Software Testing and Analysis (ISSTA),
+1672360,Information Visualization,1.8
+1672786,Internet Measurement Conference (IMC),
+1673134,The Journal of the Learning Sciences,3.0
+1673145,Information technology and libraries,1.5
+1673518,College & Undergraduate Libraries,0.6
+1673787,European Conference on Computer Systems (EuroSys),
+1673867,Automated software engineering,2.0
+1674014,Visual Analytics Science and Technology,
+1674521,Symposium on Operating Systems Principles (SOSP),
+1674667,International Journal of Information Security,2.4
+1674715,ACM Transactions on Modeling and Computer Simulation,0.7
+1674790,Computer Science Education,3.0
+1674901,International Conference on Program Comprehension,
+1674946,npj digital medicine,12.4
+1675075,Journal of Web Semantics,2.1
+1675083,Symposium on Networked Systems Design and Implementation (NSDI),
+1675328,IEEE Computer Security Foundations Symposium,
+1675347,Interactive 3D Graphics and Games,
+1675422,Information Retrieval,1.7
+1675442,"IEEE/ACM International Symposium Cluster, Cloud and Grid Computing",
+1675625,"International Conference on Software Testing, Verification and Validation Workshops",
+1675738,Computer Graphics and Image Processing,
+1676147,Human factors and ergonomics,
+1676255,Journal of Semantics,2.0
+1676302,International Symposium on Parallel and Distributed Computing,
+1676316,The Journal of Defense Modeling and Simulation,1.0
+1676448,Journal of Big Data,8.6
+1676652,Compiler Construction,
+1677126,ACM Conference on Economics and Computation (EC),
+1677555,Distributed and Parallel Databases,1.5
+1677689,The Journal of Logic and Algebraic Programming,
+1677957,Games and Culture,2.4
+1678024,IEEE Cloud Computing,
+1678122,User Modeling and User-adapted Interaction,3.0
+1678137,Archival Science,1.4
+1678404,IEEE Symposium on Visual Languages,
+1678891,Human-Agent Interaction,
+1679016,login Usenix Mag.,
+1679121,Formal Methods in Computer-Aided Design,
+1679123,International Computing Education Research Workshop,
+1679302,Nature Machine Intelligence,18.8
+1679455,Transactions of the Association for Computational Linguistics,4.2
+1679705,ACM Transactions on Computer Systems,2.0
+1680046,IEEE Conference on Mass Storage Systems and Technologies,
+1680075,International Conference on Natural Language Generation,
+1680248,ACM Transactions on Applied Perception,1.9
+1680334,Symposium on Code Generation and Optimization,
+1680337,"IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+1680353,Proceedings on Privacy Enhancing Technologies,
+1680553,Dagstuhl Reports,
+1680780,Computational Complexity,0.7
+1681584,International Journal on Digital Libraries,1.6
+1681590,Science robotics,26.1
+1681751,Applied Network Science,1.3
+1682066,Conference on Innovative Data Systems Research,
+1682262,Journal of Simulation,1.3
+1682648,Principles and Practice of Declarative Programming,
+1682650,USENIX Symposium on Operating Systems Design and Implementation (OSDI),
+1682688,European Conference on Object-Oriented Programming,
+1683188,"International Workshop and International Workshop on Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques",
+1683206,The Journal of information systems management,
+1683269,Intelligent Systems in Molecular Biology (ISMB),
+1683315,Symposium On Usable Privacy and Security,
+1683318,Joint Conference on Lexical and Computational Semantics,
+1683357,IEEE Pacific Visualization Symposium,
+1683387,USENIX Conference on File and Storage Technologies (FAST),
+1683634,Symposium on Computer Animation,
+1684082,"IEEE Systems, Man, and Cybernetics Magazine",1.9
+1684730,Journal of Complex Networks,2.2
+1684793,Software Engineering Journal,
+1685239,IEEE Symposium on Information Visualization,
+1685349,ACM Transactions on Computing Education,3.2
+1685397,JAMIA open,2.5
+1685714,Algorithms for Molecular Biology,1.5
+1686060,School Libraries Worldwide,
+1686645,IEEE European Symposium on Security and Privacy,
+1686836,Big data,2.6
+1687081,Book Chapters,
+1687105,ACM Transactions on The Web,2.6
+1687271,International Symposium on Memory Management,
+1687333,Frontiers in virtual reality,3.2
+1687525,Network and Operating System Support for Digital Audio and Video,
+1687964,International Conference on Knowledge Discovery and Information Retrieval,
+1688136,Mobile Dna,4.7
+1688457,EPJ Data Science,3.0
+1689104,Nature Computational Science,12.0
+1689114,IEEE transactions on games,1.7
+1689304,Frontiers in computer science,2.4
+1689397,ACM transactions on interactive intelligent systems,3.6
+1689420,Transactions on machine learning and artificial intelligence,
+1689655,Theory of Computing,0.6
+1689735,NAR genomics and bioinformatics,4.0
+1689751,Workshop on Privacy in the Electronic Society,
+1690254,Network Science,1.4
+1690443,Annual International Cryptology Conference (CRYPTO),
+1690678,Algorithmic Learning Theory,
+1690906,Symposium on Spatial User Interaction,
+1691203,Transportmetrica B-Transport Dynamics,3.3
+1691330,SIGSPATIAL Special,
+1691835,Conference on Robot Learning,
+1691904,Natural Language Semantics,0.9
+1692106,Communications in Information Literacy,0.9
+1692593,IEEE transactions on artificial intelligence,
+1692626,Hot Topics in Networks,
+1693216,International Conference on Principles of Distributed Systems,
+1693455,Public Libraries,
+1694741,International Journal of Mobile Human Computer Interaction,0.2
+1694839,"Preservation, digital technology & culture",
+1694884,MIT Press Books,
+1695058,ACM Transactions on Computation Theory,0.8
+1695079,Journal of Gaming & Virtual Worlds,0.7
+1695449,Chicago Journal of Theoretical Computer Science,
+1695736,Artificial Intelligence and Interactive Digital Entertainment Conference,
+1695779,Software Engineering and Formal Methods,
+1695788,Proceedings of the ... International Florida Artificial Intelligence Research Society Conference,
+1695882,JMA journal,1.5
+1696228,Columbia journalism review,
+1696360,Annual Symposium on Combinatorial Search,
+1697638,IEEE Journal on Robotics and Automation,
+1697689,Journal of Library Metadata,
+1698279,Conference on Computer Aided Verification (CAV),
+1698591,ACM transactions on economics and computation,1.1
+1700382,Quantitative science studies,4.1
+1700568,Libraries & Culture,
+1700987,ACM Transactions on Parallel Computing,0.9
+1701103,Harvard Data Science Review,
+1701110,Computers in human behavior reports,4.9
+1702334,Communications in Computing,
+1702364,Semantics and Pragmatics,1.1
+1702848,RAIRO. Informatique théorique,
+1703261,ACM transactions on privacy and security,3.0
+1703293,ACM transactions on human-robot interaction,4.2
+1703614,Symposium/Workshop on Haskell,
+1704299,SIAM journal on mathematics of data science,1.9
+1704419,International Journal of Human-computer Studies / International Journal of Man-machine Studies,
+1704477,ITCS,
+1704756,Proceedings of the ACM on computer graphics and interactive techniques,1.4
+1704787,Proceedings of the Society for Computation in Linguistics,
+1704860,Eurographics Symposium on Rendering Techniques,
+1705161,Symposium on Geometry Processing,
+1705311,Computability,0.3
+1706057,AACE Journal,
+1706167,Proceedings of the 2012 iConference,
+1706282,ACM Workshop on Programming Languages and Analysis for Security,
+1706405,ASEE Annual Conference Proceedings,
+1706478,EuroVis (Short Papers),
+1706748,Journal of Applied Computer Science & Mathematics,
+1706855,Dynamic Languages Symposium,
+1706889,Bioinformatics advances,2.4
+1707110,Proceedings of the International Conference on Web Intelligence,
+1708828,2020 IEEE Conference on Games (CoG),
+1709098,Journal of Library and Information Studies,0.2
+1709394,Conference on Automated Deduction,
+1709433,European Software Engineering Conference,
+1710098,Public Key Cryptography,
+1710218,Computers and education open,4.1
+1710286,USENIX conference on Hot Topics in Cloud Ccomputing,
+1710361,Modelling,1.3
+1710443,International Symposium on Haskell,
+1710521,Philosophers' Imprint,1.4
+1710524,European Conference on Computer Vision (ECCV),
+1710749,ACM/IMS transactions on data science,
+1711162,Financial Cryptography,
+1711165,USENIX Summer Technical Conference,
+1711357,International journal of systems and software security and protection,
+1711479,International Symposium on Experimental Robotics,
+1711497,International Conference on Web and Internet Economics (WINE),
+1711817,Tools and Algorithms for Construction and Analysis of Systems,
+1711861,International Symposium on Artificial Intelligence and Mathematics,
+1712087,Privacy Enhancing Technologies,
+1712209,Workshop on the Algorithmic Foundations of Robotics,
+1712222,International Conference on Scientific and Statistical Database Management,
+1712504,Passive and Active Network Measurement,
+1712773,Practical Aspects of Declarative Languages,
+1712937,Journal of toxicology and health,
+1712939,Journal of agriculture and environment for international development,0.5
+1712951,mUX: The Journal of Mobile User Experience,
+1713000,ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia,
+1713035,IEEE robotics and automation letters,4.6

@@ -1,0 +1,1447 @@
+node_type,node_id,field,career_stage,gender,institution_bin_3,institution_bin_10,academia_prestige_bin_3,academia_prestige_bin_10,name,jcr_jif
+respondent,148079,Psychology,Full Professor,gm,1,3,1,3,,
+respondent,147594,Psychology,Associate Professor,gm,,,,,,
+respondent,148438,Psychology,Full Professor,gm,2,6,1,3,,
+respondent,147908,Psychology,Full Professor,gm,3,8,3,8,,
+respondent,148223,Psychology,Full Professor,gf,1,3,1,2,,
+respondent,150359,Psychology,Associate Professor,gf,2,5,1,3,,
+respondent,149083,Psychology,Full Professor,gm,,,3,10,,
+respondent,149403,Psychology,Assistant Professor,gf,1,2,1,3,,
+respondent,148117,Psychology,Full Professor,gm,1,3,1,3,,
+respondent,151533,Psychology,Associate Professor,gf,2,7,3,8,,
+respondent,149854,Psychology,Full Professor,gf,1,1,1,1,,
+respondent,148695,Psychology,Associate Professor,gf,3,10,3,9,,
+respondent,150781,Psychology,Full Professor,gf,2,4,1,4,,
+respondent,151906,Psychology,Associate Professor,gf,1,2,1,2,,
+respondent,153216,Psychology,Full Professor,gm,1,2,1,2,,
+respondent,153215,Psychology,Associate Professor,gm,2,4,1,4,,
+respondent,152274,Psychology,Associate Professor,gf,1,2,1,2,,
+respondent,152724,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,152342,Psychology,Full Professor,gm,2,6,2,6,,
+respondent,152016,Psychology,Full Professor,gm,2,6,3,8,,
+respondent,153263,Psychology,Assistant Professor,gm,3,7,3,9,,
+respondent,148869,Psychology,Full Professor,gm,3,9,3,10,,
+respondent,152586,Psychology,Full Professor,gm,3,10,3,10,,
+respondent,153895,Psychology,Full Professor,gm,3,9,3,9,,
+respondent,154520,Psychology,Full Professor,gf,1,2,2,5,,
+respondent,154854,Psychology,Full Professor,gf,,,,,,
+respondent,154535,Psychology,Full Professor,gm,,,,,,
+respondent,154804,Psychology,Full Professor,gm,2,7,3,8,,
+respondent,155394,Psychology,Full Professor,gf,1,3,1,2,,
+respondent,154814,Psychology,Full Professor,gm,3,9,3,8,,
+respondent,159218,Psychology,Full Professor,gf,3,8,2,7,,
+respondent,157486,Psychology,Full Professor,gm,3,7,2,6,,
+respondent,161108,Psychology,Full Professor,gm,2,6,3,7,,
+respondent,158761,Psychology,Associate Professor,gm,1,4,2,4,,
+respondent,154733,Psychology,Associate Professor,gm,1,4,2,4,,
+respondent,163180,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,157069,Psychology,Full Professor,gm,3,8,2,7,,
+respondent,159275,Psychology,Associate Professor,gm,1,4,1,3,,
+respondent,170608,Psychology,Full Professor,gf,,,,,,
+respondent,166039,Psychology,Full Professor,-,1,2,1,2,,
+respondent,165815,Psychology,Associate Professor,gm,3,7,2,6,,
+respondent,166832,Psychology,Full Professor,gm,2,7,3,8,,
+respondent,172834,Psychology,Full Professor,-,1,1,1,1,,
+respondent,165882,Psychology,Full Professor,gm,1,2,1,3,,
+respondent,163319,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,184085,Psychology,Full Professor,gm,3,10,3,10,,
+respondent,165005,Psychology,Full Professor,gf,2,6,2,6,,
+respondent,175274,Psychology,Associate Professor,gf,3,9,2,6,,
+respondent,180970,Psychology,Full Professor,-,2,4,2,4,,
+respondent,184022,Psychology,Associate Professor,gm,2,6,2,5,,
+respondent,184146,Psychology,Full Professor,-,3,9,3,9,,
+respondent,182128,Psychology,Full Professor,gf,3,9,2,6,,
+respondent,194010,Psychology,Associate Professor,gf,1,3,1,2,,
+respondent,194464,Psychology,Full Professor,gf,3,9,3,9,,
+respondent,162095,Psychology,Full Professor,gf,3,9,3,10,,
+respondent,192838,Psychology,Full Professor,-,2,6,2,6,,
+respondent,196731,Psychology,Associate Professor,gf,2,5,2,5,,
+respondent,172218,Psychology,Associate Professor,gm,2,7,2,7,,
+respondent,196146,Psychology,Full Professor,gf,2,5,1,3,,
+respondent,193868,Psychology,Full Professor,gf,2,7,2,7,,
+respondent,192058,Psychology,Full Professor,gm,1,2,1,1,,
+respondent,196462,Psychology,Associate Professor,gf,3,8,3,9,,
+respondent,196958,Psychology,Associate Professor,-,2,7,2,5,,
+respondent,194516,Psychology,Full Professor,gf,1,2,1,3,,
+respondent,192930,Psychology,Other,gm,2,5,2,5,,
+respondent,207239,Psychology,Full Professor,gm,1,3,2,5,,
+respondent,177002,Psychology,Full Professor,gf,3,9,3,10,,
+respondent,181492,Psychology,Full Professor,gm,,,,,,
+respondent,184794,Psychology,Full Professor,gm,1,3,1,3,,
+respondent,168039,Psychology,Associate Professor,gf,2,6,2,6,,
+respondent,157634,Psychology,Full Professor,gf,1,3,1,2,,
+respondent,185938,Psychology,Full Professor,gf,3,9,3,9,,
+respondent,195974,Psychology,Full Professor,gf,3,8,3,8,,
+respondent,185317,Psychology,Full Professor,gf,,,,,,
+respondent,196939,Psychology,Associate Professor,gf,3,10,3,8,,
+respondent,178616,Psychology,Full Professor,-,,,,,,
+respondent,183207,Psychology,Full Professor,gm,3,9,3,8,,
+respondent,184720,Psychology,Associate Professor,gm,2,6,2,5,,
+respondent,180642,Psychology,Full Professor,gf,2,5,1,3,,
+respondent,184838,Psychology,Associate Professor,gf,2,4,1,3,,
+respondent,182306,Psychology,Associate Professor,gf,2,6,2,6,,
+respondent,181057,Psychology,Full Professor,gf,2,6,2,6,,
+respondent,182998,Psychology,Associate Professor,gm,1,2,1,2,,
+respondent,171589,Psychology,Associate Professor,gm,2,5,2,5,,
+respondent,164150,Psychology,Associate Professor,gf,2,5,2,7,,
+respondent,186323,Psychology,Full Professor,-,1,2,1,2,,
+respondent,161911,Psychology,Full Professor,gm,2,6,3,8,,
+respondent,160646,Psychology,Full Professor,gm,1,2,1,3,,
+respondent,165212,Psychology,Associate Professor,gm,3,9,3,8,,
+respondent,152732,Psychology,Full Professor,gm,3,9,3,8,,
+respondent,170223,Psychology,Associate Professor,gm,1,3,1,3,,
+respondent,168000,Psychology,Full Professor,gm,1,4,2,4,,
+respondent,170145,Psychology,Assistant Professor,gf,3,8,3,10,,
+respondent,196645,Psychology,Full Professor,gf,2,7,2,7,,
+respondent,194703,Psychology,Associate Professor,gf,1,3,2,4,,
+respondent,161964,Psychology,Full Professor,gf,2,5,1,4,,
+respondent,155896,Psychology,Full Professor,gm,3,10,3,10,,
+respondent,168608,Psychology,Full Professor,gm,3,8,2,6,,
+respondent,168693,Psychology,Full Professor,gm,1,2,1,3,,
+respondent,160608,Psychology,Full Professor,gf,3,9,3,9,,
+respondent,166487,Psychology,Associate Professor,gf,1,3,1,2,,
+respondent,164123,Psychology,Full Professor,gm,1,2,1,2,,
+respondent,159578,Psychology,Associate Professor,gm,1,1,1,1,,
+respondent,161746,Psychology,Full Professor,gm,3,8,3,9,,
+respondent,166874,Psychology,Full Professor,gf,2,5,2,5,,
+respondent,157015,Psychology,Associate Professor,gf,2,7,2,7,,
+respondent,160077,Psychology,Full Professor,gf,3,7,2,6,,
+respondent,156361,Psychology,Associate Professor,gf,3,10,3,10,,
+respondent,161826,Psychology,Full Professor,gm,3,10,3,10,,
+respondent,192767,Psychology,Full Professor,gf,2,4,1,3,,
+respondent,156703,Psychology,Associate Professor,gm,,,1,1,,
+respondent,172944,Psychology,Associate Professor,gf,3,8,3,10,,
+respondent,188612,Psychology,Associate Professor,gf,2,4,1,3,,
+respondent,161834,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,181641,Psychology,Full Professor,gm,3,9,3,9,,
+respondent,168736,Psychology,Full Professor,gm,2,4,3,7,,
+respondent,172261,Psychology,Associate Professor,gm,1,2,1,3,,
+respondent,172754,Psychology,Full Professor,gf,3,10,3,10,,
+respondent,170235,Psychology,Full Professor,gm,3,8,2,6,,
+respondent,169331,Psychology,Full Professor,gm,2,6,2,6,,
+respondent,158551,Psychology,Full Professor,gf,2,5,2,5,,
+respondent,166999,Psychology,Full Professor,gf,3,8,2,6,,
+respondent,168542,Psychology,Full Professor,gf,1,2,2,4,,
+respondent,171667,Psychology,Full Professor,gm,3,8,3,8,,
+respondent,168601,Psychology,Full Professor,gm,1,2,1,2,,
+respondent,168774,Psychology,Associate Professor,gm,1,2,1,3,,
+respondent,188830,Psychology,Full Professor,-,1,2,1,1,,
+respondent,163673,Psychology,Full Professor,-,3,10,3,10,,
+respondent,187849,Psychology,Full Professor,gf,1,3,1,2,,
+respondent,187033,Psychology,Full Professor,gm,1,2,1,2,,
+respondent,187923,Psychology,Associate Professor,gm,1,2,1,3,,
+respondent,176409,Psychology,Full Professor,gf,1,2,1,2,,
+respondent,179991,Psychology,Full Professor,gm,3,9,2,6,,
+respondent,187834,Psychology,Full Professor,gm,1,2,1,3,,
+respondent,186718,Psychology,Full Professor,gf,1,1,1,1,,
+respondent,159379,Psychology,Full Professor,gm,3,10,3,9,,
+respondent,189250,Psychology,Full Professor,gf,,,,,,
+respondent,188464,Psychology,Full Professor,gm,2,6,2,6,,
+respondent,189348,Psychology,Associate Professor,gm,,,,,,
+respondent,189281,Psychology,Associate Professor,-,2,7,2,6,,
+respondent,187906,Psychology,Associate Professor,gf,1,3,1,3,,
+respondent,181371,Psychology,Full Professor,gf,2,6,3,9,,
+respondent,180483,Psychology,Full Professor,gm,3,8,2,6,,
+respondent,184695,Psychology,Full Professor,gf,,,,,,
+respondent,174078,Psychology,Associate Professor,gf,3,8,3,10,,
+respondent,172030,Psychology,Associate Professor,gf,2,5,2,6,,
+respondent,179805,Psychology,Associate Professor,gm,3,10,3,9,,
+respondent,166550,Psychology,Full Professor,gf,3,8,1,2,,
+respondent,184744,Psychology,Associate Professor,gf,1,3,1,2,,
+respondent,165421,Psychology,Full Professor,gm,2,4,2,5,,
+respondent,176680,Psychology,Full Professor,gm,3,8,3,10,,
+respondent,180803,Psychology,Associate Professor,gm,1,3,1,3,,
+respondent,182565,Psychology,Full Professor,gm,,,,,,
+respondent,185675,Psychology,Full Professor,gm,2,7,3,7,,
+respondent,174581,Psychology,Other,gm,3,9,3,9,,
+respondent,167279,Psychology,Full Professor,gm,1,4,2,4,,
+respondent,184388,Psychology,Full Professor,gf,1,1,1,1,,
+respondent,176982,Psychology,Full Professor,gm,3,9,3,10,,
+respondent,177273,Psychology,Full Professor,gf,,,,,,
+respondent,169395,Psychology,Full Professor,gf,2,4,1,3,,
+respondent,190074,Psychology,Associate Professor,gf,2,4,1,4,,
+respondent,203387,Psychology,Full Professor,gm,2,7,2,7,,
+respondent,204316,Psychology,Other,gf,1,3,2,4,,
+respondent,203279,Psychology,Full Professor,gm,,,,,,
+respondent,155013,Psychology,Assistant Professor,gf,3,7,1,3,,
+respondent,202449,Psychology,Full Professor,gm,,,,,,
+respondent,199701,Psychology,Other,gf,2,5,2,5,,
+respondent,202450,Psychology,Full Professor,gf,2,6,2,6,,
+respondent,201101,Psychology,Assistant Professor,-,1,1,1,1,,
+respondent,203476,Psychology,Associate Professor,gf,1,3,1,3,,
+respondent,202911,Psychology,Assistant Professor,gf,1,3,1,3,,
+respondent,199720,Psychology,Full Professor,gf,1,2,2,4,,
+respondent,202329,Psychology,Full Professor,gf,3,8,2,6,,
+respondent,201593,Psychology,Full Professor,gm,1,1,1,1,,
+respondent,200520,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,197764,Psychology,Associate Professor,gf,3,10,3,10,,
+respondent,200810,Psychology,Full Professor,gm,3,9,3,10,,
+respondent,202391,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,202110,Psychology,Full Professor,gm,2,6,2,6,,
+respondent,193619,Psychology,Full Professor,gm,2,5,1,3,,
+respondent,194784,Psychology,Associate Professor,gm,1,4,2,5,,
+respondent,198505,Psychology,Full Professor,gf,2,5,2,4,,
+respondent,201416,Psychology,Associate Professor,gf,3,10,3,9,,
+respondent,201497,Psychology,Full Professor,gm,2,4,1,4,,
+respondent,194062,Psychology,Full Professor,gf,1,3,1,3,,
+respondent,204731,Psychology,Full Professor,gf,2,5,2,6,,
+respondent,204705,Psychology,Full Professor,gm,2,4,1,4,,
+respondent,210923,Psychology,Full Professor,gm,3,8,3,9,,
+respondent,209244,Psychology,Full Professor,gm,,,1,1,,
+respondent,207376,Psychology,Full Professor,gm,3,9,3,10,,
+respondent,203567,Psychology,Full Professor,gm,1,3,1,2,,
+respondent,207309,Psychology,Full Professor,gf,2,4,2,5,,
+respondent,210753,Psychology,Full Professor,gm,3,9,3,10,,
+respondent,209809,Psychology,Other,gm,3,9,3,9,,
+respondent,165495,Psychology,Associate Professor,gf,,,,,,
+respondent,204462,Psychology,Full Professor,gm,2,5,1,3,,
+respondent,205231,Psychology,Full Professor,gf,3,10,3,9,,
+respondent,205527,Psychology,Associate Professor,gf,,,,,,
+respondent,207296,Psychology,Associate Professor,gf,1,3,2,4,,
+respondent,207358,Psychology,Full Professor,gm,3,10,3,10,,
+respondent,205466,Psychology,Full Professor,gm,2,6,2,6,,
+respondent,210386,Psychology,Assistant Professor,gf,,,,,,
+respondent,206035,Psychology,Full Professor,gm,1,2,1,2,,
+respondent,210592,Psychology,Associate Professor,gm,3,7,3,8,,
+respondent,205164,Psychology,Other,gf,2,5,2,5,,
+respondent,212347,Psychology,Other,gf,1,4,1,3,,
+respondent,212261,Psychology,Full Professor,gm,2,6,3,7,,
+respondent,213234,Psychology,Full Professor,gf,1,3,2,4,,
+respondent,218446,Psychology,Full Professor,gf,3,9,3,8,,
+respondent,212322,Psychology,Associate Professor,gm,3,8,3,8,,
+respondent,212064,Psychology,Full Professor,gf,1,1,1,1,,
+respondent,216043,Psychology,Full Professor,gf,1,3,1,4,,
+respondent,193730,Psychology,Associate Professor,gf,3,9,3,10,,
+respondent,166077,Psychology,Associate Professor,gm,2,6,2,6,,
+respondent,195975,Psychology,Full Professor,gf,3,10,3,8,,
+respondent,213970,Psychology,Associate Professor,gm,3,8,2,7,,
+respondent,212147,Psychology,Full Professor,gm,2,7,2,5,,
+respondent,214413,Psychology,Full Professor,gm,1,4,1,3,,
+respondent,214514,Psychology,Associate Professor,gm,2,6,2,6,,
+respondent,212866,Psychology,Full Professor,-,1,1,1,1,,
+respondent,211835,Psychology,Full Professor,gm,3,7,3,9,,
+respondent,214949,Psychology,Associate Professor,gm,3,9,3,10,,
+respondent,214851,Psychology,Associate Professor,gm,1,4,2,5,,
+respondent,219022,Psychology,Full Professor,gm,2,4,1,1,,
+respondent,217224,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,215516,Psychology,Full Professor,gf,3,8,2,6,,
+respondent,220532,Psychology,Full Professor,gm,2,4,2,5,,
+respondent,214319,Psychology,Full Professor,gm,1,3,2,4,,
+respondent,218428,Psychology,Full Professor,gm,3,9,3,9,,
+respondent,217932,Psychology,Assistant Professor,gm,2,5,2,5,,
+respondent,218291,Psychology,Associate Professor,gf,1,1,1,1,,
+respondent,216888,Psychology,Full Professor,gf,2,4,1,3,,
+respondent,215464,Psychology,Full Professor,gm,2,4,1,3,,
+respondent,218950,Psychology,Full Professor,gm,3,10,3,9,,
+respondent,220294,Psychology,Full Professor,gf,2,4,2,5,,
+respondent,218195,Psychology,Associate Professor,gm,3,7,2,6,,
+respondent,220309,Psychology,Full Professor,gm,3,10,3,9,,
+respondent,218638,Psychology,Associate Professor,gm,2,4,1,3,,
+respondent,215250,Psychology,Full Professor,gm,3,8,2,6,,
+respondent,219332,Psychology,Associate Professor,gf,,,,,,
+respondent,200662,Psychology,Associate Professor,gf,,,,,,
+respondent,203181,Psychology,Full Professor,gm,2,6,2,4,,
+respondent,216898,Psychology,Full Professor,gf,3,9,3,9,,
+respondent,206913,Psychology,Full Professor,gf,2,7,1,3,,
+respondent,220291,Psychology,Full Professor,gm,,,,,,
+respondent,200293,Psychology,Postdoctoral Researcher,gm,1,2,1,2,,
+respondent,216268,Psychology,Full Professor,gm,2,4,1,4,,
+respondent,219425,Psychology,Associate Professor,gf,2,7,3,8,,
+respondent,204801,Psychology,Associate Professor,gf,3,10,3,9,,
+respondent,199228,Psychology,Full Professor,gf,3,7,2,7,,
+respondent,194510,Psychology,Associate Professor,gm,2,7,2,5,,
+respondent,218992,Psychology,Full Professor,gf,1,3,1,2,,
+respondent,182012,Psychology,Full Professor,gf,,,,,,
+respondent,159670,Psychology,Full Professor,gm,3,8,3,9,,
+respondent,179762,Psychology,Full Professor,gm,3,10,3,9,,
+respondent,220903,Psychology,Assistant Professor,gm,,,,,,
+respondent,169935,Psychology,Full Professor,gm,3,10,3,9,,
+respondent,186597,Psychology,Associate Professor,-,3,10,3,10,,
+respondent,157540,Psychology,Associate Professor,gf,1,1,1,1,,
+respondent,204468,Psychology,Associate Professor,-,3,7,3,9,,
+respondent,177345,Psychology,Full Professor,gm,3,10,3,9,,
+respondent,195251,Psychology,Associate Professor,-,3,9,3,8,,
+respondent,148442,Psychology,Full Professor,gm,3,8,2,6,,
+respondent,213140,Psychology,Full Professor,gf,2,4,1,3,,
+respondent,150775,Psychology,Other,gf,1,3,2,4,,
+respondent,199053,Psychology,Associate Professor,gm,1,3,1,3,,
+respondent,206602,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,221224,Psychology,Associate Professor,gm,,,,,,
+respondent,177939,Psychology,Full Professor,-,3,9,3,9,,
+respondent,169225,Psychology,Full Professor,gm,1,2,1,1,,
+respondent,217063,Psychology,Full Professor,gf,1,3,1,2,,
+respondent,193375,Psychology,Associate Professor,gm,3,9,3,8,,
+respondent,155481,Psychology,Associate Professor,gf,2,5,2,4,,
+respondent,161433,Psychology,Full Professor,gm,2,4,1,4,,
+respondent,165667,Psychology,Full Professor,gm,,,1,3,,
+respondent,175846,Psychology,Associate Professor,gm,2,5,2,5,,
+respondent,150967,Psychology,Full Professor,gf,1,3,1,3,,
+respondent,174937,Psychology,Full Professor,gm,3,9,3,8,,
+respondent,219603,Psychology,Associate Professor,gm,2,6,2,5,,
+respondent,156330,Psychology,Full Professor,gf,2,4,1,1,,
+respondent,164503,Psychology,Full Professor,gf,2,5,1,2,,
+respondent,211552,Psychology,Full Professor,gf,2,7,2,7,,
+respondent,161591,Psychology,Full Professor,gm,1,1,1,1,,
+respondent,216331,Psychology,Full Professor,gm,1,3,1,2,,
+respondent,208028,Psychology,PhD Student,-,2,4,3,7,,
+respondent,189888,Psychology,Associate Professor,-,1,2,1,1,,
+respondent,194463,Psychology,Full Professor,gm,3,10,3,8,,
+respondent,198714,Psychology,Associate Professor,gf,3,9,3,9,,
+respondent,171809,Psychology,Full Professor,gf,2,4,2,4,,
+respondent,181619,Psychology,Full Professor,gf,3,9,3,8,,
+respondent,169967,Psychology,Full Professor,-,3,8,2,6,,
+respondent,203578,Psychology,Associate Professor,gm,2,4,1,3,,
+respondent,154296,Psychology,Full Professor,gf,3,9,3,10,,
+respondent,167494,Psychology,Full Professor,gm,1,3,2,6,,
+respondent,157246,Psychology,Full Professor,gm,2,5,2,4,,
+respondent,158596,Psychology,Associate Professor,gm,2,6,3,8,,
+respondent,194397,Psychology,Full Professor,gf,3,8,2,5,,
+respondent,198022,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,181359,Psychology,Associate Professor,gf,3,8,2,6,,
+respondent,221025,Psychology,Assistant Professor,gf,,,,,,
+respondent,176649,Psychology,Full Professor,gf,3,9,3,9,,
+respondent,202433,Psychology,Full Professor,gm,2,5,1,2,,
+respondent,193319,Psychology,Full Professor,gm,2,6,3,7,,
+respondent,198987,Psychology,Full Professor,gm,2,4,1,4,,
+respondent,219853,Psychology,Associate Professor,gm,2,6,2,6,,
+respondent,155866,Psychology,Full Professor,gf,,,,,,
+respondent,160528,Psychology,Full Professor,gm,2,4,1,3,,
+respondent,220219,Psychology,Associate Professor,gf,3,10,3,10,,
+respondent,216941,Psychology,Associate Professor,gm,1,3,2,4,,
+respondent,173255,Psychology,Full Professor,gf,,,,,,
+respondent,203195,Psychology,Full Professor,gm,1,4,2,4,,
+respondent,212558,Psychology,Full Professor,gm,1,3,1,2,,
+respondent,178772,Psychology,Associate Professor,gm,2,4,1,3,,
+respondent,205171,Psychology,Associate Professor,gm,1,1,1,1,,
+respondent,182947,Psychology,Full Professor,-,2,6,1,3,,
+respondent,208724,Psychology,Associate Professor,gf,3,10,3,10,,
+respondent,168977,Psychology,Full Professor,gm,1,2,1,3,,
+respondent,180270,Psychology,Full Professor,gm,1,2,1,3,,
+respondent,158043,Psychology,Full Professor,gm,2,5,1,4,,
+respondent,178962,Psychology,Full Professor,gm,3,8,2,7,,
+respondent,205339,Psychology,Other,gm,1,1,1,1,,
+respondent,149441,Psychology,Full Professor,gm,1,3,1,2,,
+respondent,182583,Psychology,Full Professor,gm,3,7,2,7,,
+respondent,196442,Psychology,Full Professor,gf,1,1,1,1,,
+respondent,164338,Psychology,Full Professor,gm,3,9,3,10,,
+respondent,191761,Psychology,Other,gf,2,7,2,6,,
+respondent,189265,Psychology,Full Professor,gm,2,5,2,6,,
+respondent,203008,Psychology,Associate Professor,gf,3,8,3,9,,
+respondent,154611,Psychology,Full Professor,gm,2,6,3,8,,
+respondent,220802,Psychology,Assistant Professor,-,,,,,,
+respondent,173915,Psychology,Full Professor,gf,1,2,2,5,,
+respondent,171387,Psychology,Full Professor,gf,2,6,2,6,,
+respondent,155830,Psychology,Full Professor,gm,1,2,1,2,,
+respondent,165489,Psychology,Full Professor,gf,1,3,1,3,,
+respondent,185947,Psychology,Associate Professor,gf,2,7,2,6,,
+respondent,156933,Psychology,Full Professor,gf,3,9,3,10,,
+respondent,196594,Psychology,Full Professor,gf,,,,,,
+respondent,184965,Psychology,Associate Professor,-,1,3,1,2,,
+respondent,218529,Psychology,Full Professor,gm,2,6,2,6,,
+respondent,221130,Psychology,Assistant Professor,gm,,,,,,
+respondent,221157,Psychology,Assistant Professor,-,,,,,,
+respondent,220992,Psychology,Associate Professor,gm,,,,,,
+respondent,221091,Psychology,Assistant Professor,gm,,,,,,
+respondent,168167,Psychology,Full Professor,-,3,10,3,10,,
+respondent,161887,Psychology,Full Professor,gf,3,9,3,10,,
+respondent,194388,Psychology,Full Professor,gm,2,4,2,5,,
+respondent,173647,Psychology,Full Professor,gm,2,7,2,5,,
+respondent,154135,Psychology,Associate Professor,gf,3,10,3,9,,
+respondent,166725,Psychology,Full Professor,gm,3,7,2,7,,
+respondent,147844,Psychology,Other,gm,3,9,3,10,,
+respondent,198604,Psychology,Associate Professor,gm,1,2,2,4,,
+respondent,162103,Psychology,Full Professor,gf,3,9,3,9,,
+respondent,216356,Psychology,Full Professor,gm,1,3,1,3,,
+respondent,170970,Psychology,Other,gm,3,8,3,9,,
+respondent,171487,Psychology,Full Professor,gf,2,5,2,7,,
+respondent,149791,Psychology,Full Professor,gm,,,,,,
+respondent,167915,Psychology,Other,gm,3,9,2,5,,
+respondent,153951,Psychology,Associate Professor,gf,1,4,2,4,,
+respondent,151485,Psychology,Full Professor,-,1,2,1,2,,
+respondent,154335,Psychology,Associate Professor,gm,3,9,3,9,,
+respondent,200321,Psychology,Full Professor,gm,1,3,2,4,,
+respondent,183922,Psychology,Associate Professor,-,1,1,1,1,,
+respondent,207804,Psychology,Associate Professor,gm,3,10,3,9,,
+respondent,171636,Psychology,Full Professor,gm,3,8,3,10,,
+respondent,164852,Psychology,Full Professor,gm,1,1,1,1,,
+respondent,215646,Psychology,Full Professor,gm,2,6,2,6,,
+respondent,179829,Psychology,Full Professor,gf,2,5,2,5,,
+respondent,215076,Psychology,Associate Professor,gm,2,5,2,7,,
+respondent,158083,Psychology,Full Professor,gm,2,6,3,8,,
+respondent,209583,Psychology,Associate Professor,gm,1,2,2,4,,
+respondent,166600,Psychology,Associate Professor,-,3,8,2,7,,
+respondent,217807,Psychology,Full Professor,gm,3,10,3,8,,
+respondent,168818,Psychology,Full Professor,gf,1,4,2,6,,
+respondent,199879,Psychology,Full Professor,gf,1,3,1,4,,
+respondent,153524,Psychology,Associate Professor,gf,3,8,2,6,,
+respondent,190977,Psychology,Full Professor,gf,3,9,3,9,,
+respondent,184923,Psychology,Full Professor,gf,3,7,2,7,,
+respondent,194839,Psychology,Full Professor,gm,3,10,3,10,,
+respondent,187575,Psychology,Full Professor,gm,,,,,,
+respondent,167164,Psychology,Full Professor,gm,3,8,3,9,,
+respondent,221422,Psychology,Associate Professor,-,,,,,,
+respondent,221423,Psychology,Assistant Professor,gm,,,,,,
+respondent,218685,Psychology,Full Professor,gm,1,1,1,1,,
+respondent,157388,Psychology,Full Professor,gm,2,5,2,6,,
+respondent,220905,Psychology,Assistant Professor,gm,,,,,,
+respondent,158918,Psychology,Full Professor,gm,3,8,3,9,,
+respondent,157874,Psychology,Associate Professor,gf,1,4,2,4,,
+respondent,196253,Psychology,Associate Professor,gm,3,9,3,9,,
+respondent,215615,Psychology,Associate Professor,gm,3,10,3,9,,
+respondent,218951,Psychology,Associate Professor,gm,2,6,2,6,,
+respondent,210301,Psychology,Associate Professor,gm,2,7,3,9,,
+respondent,183307,Psychology,Full Professor,gm,3,9,3,10,,
+respondent,220255,Psychology,Full Professor,gf,2,6,2,6,,
+respondent,190860,Psychology,Full Professor,gm,1,2,1,3,,
+respondent,162115,Psychology,Associate Professor,gf,1,4,1,3,,
+respondent,189228,Psychology,Full Professor,gm,3,8,2,6,,
+respondent,182978,Psychology,Full Professor,gm,3,10,3,9,,
+respondent,217356,Psychology,Associate Professor,gm,3,8,3,9,,
+respondent,162833,Psychology,Full Professor,gf,1,1,1,1,,
+respondent,192032,Psychology,Full Professor,gf,2,5,2,5,,
+respondent,196780,Psychology,Associate Professor,gf,3,8,3,9,,
+respondent,170873,Psychology,Associate Professor,gf,,,,,,
+respondent,207122,Psychology,Full Professor,gm,2,6,2,5,,
+respondent,167322,Psychology,Associate Professor,gf,3,10,3,10,,
+respondent,215187,Psychology,Full Professor,gf,3,8,3,10,,
+respondent,215323,Psychology,Full Professor,gf,3,8,3,9,,
+respondent,215744,Psychology,Full Professor,gm,1,4,2,4,,
+respondent,209680,Psychology,Associate Professor,gm,2,5,2,5,,
+respondent,152987,Psychology,Full Professor,gm,3,9,3,7,,
+respondent,177266,Psychology,Other,gm,2,4,1,2,,
+respondent,205142,Psychology,Associate Professor,gf,3,9,3,8,,
+respondent,206642,Psychology,Associate Professor,gm,3,9,3,8,,
+respondent,201257,Psychology,Full Professor,gf,3,10,3,9,,
+respondent,200801,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,183091,Psychology,Associate Professor,gf,3,10,3,10,,
+respondent,161116,Psychology,Associate Professor,gf,3,8,2,5,,
+respondent,210295,Psychology,Full Professor,gm,1,2,1,3,,
+respondent,186526,Psychology,Full Professor,gf,2,5,2,7,,
+respondent,161658,Psychology,Full Professor,gm,1,3,1,3,,
+respondent,157111,Psychology,Full Professor,gm,1,3,1,2,,
+respondent,196397,Psychology,Associate Professor,-,3,9,3,9,,
+respondent,201451,Psychology,Associate Professor,gm,1,1,1,1,,
+respondent,189148,Psychology,Full Professor,gf,1,2,1,3,,
+respondent,155296,Psychology,Other,gf,1,1,1,1,,
+respondent,203834,Psychology,Other,gf,2,5,2,4,,
+respondent,150120,Psychology,Full Professor,gm,2,5,2,5,,
+respondent,181988,Psychology,Full Professor,gm,2,6,2,6,,
+respondent,198715,Psychology,Full Professor,gm,3,8,3,9,,
+venue,1647091,,,,,,,,The Lancet,98.4
+venue,1647092,,,,,,,,Nature,50.5
+venue,1647093,,,,,,,,British Medical Journal (BMJ),93.6
+venue,1647094,,,,,,,,Science,44.7
+venue,1647096,,,,,,,,PLOS ONE,2.9
+venue,1647097,,,,,,,,JAMA,63.1
+venue,1647101,,,,,,,,Journal of Biological Chemistry,4.0
+venue,1647103,,,,,,,,Blood,21.0
+venue,1647105,,,,,,,,Scientific Reports,3.8
+venue,1647107,,,,,,,,Journal of the Acoustical Society of America,2.1
+venue,1647108,,,,,,,,PNAS,9.4
+venue,1647109,,,,,,,,The Medical Journal of Australia,6.7
+venue,1647115,,,,,,,,Investigative Ophthalmology & Visual Science,5.0
+venue,1647116,,,,,,,,Gastroenterology,25.7
+venue,1647117,,,,,,,,Journal of Clinical Oncology,42.1
+venue,1647118,,,,,,,,Physical Review Letters,8.1
+venue,1647119,,,,,,,,Proceedings of SPIE,
+venue,1647123,,,,,,,,The FASEB Journal,4.4
+venue,1647125,,,,,,,,The New England Journal of Medicine,96.2
+venue,1647128,,,,,,,,Circulation,35.5
+venue,1647133,,,,,,,,Journal of the American College of Cardiology,21.7
+venue,1647143,,,,,,,,American Journal of Obstetrics and Gynecology,8.7
+venue,1647145,,,,,,,,Medicine and Science in Sports and Exercise,4.1
+venue,1647148,,,,,,,,Journal of the American Medical Association,
+venue,1647151,,,,,,,,Journal of Immunology,3.6
+venue,1647155,,,,,,,,The American Journal of Gastroenterology,8.0
+venue,1647161,,,,,,,,Neurology,7.7
+venue,1647163,,,,,,,,Chest,9.5
+venue,1647164,,,,,,,,Biochemistry,2.9
+venue,1647169,,,,,,,,Annals of the New York Academy of Sciences,4.1
+venue,1647170,,,,,,,,Advances in intelligent systems and computing,
+venue,1647178,,,,,,,,Pediatrics,6.2
+venue,1647179,,,,,,,,Physics Letters B,4.3
+venue,1647180,,,,,,,,Brain Research,2.7
+venue,1647181,,,,,,,,Annals of Internal Medicine,19.6
+venue,1647188,,,,,,,,Annals of the Rheumatic Diseases,20.3
+venue,1647192,,,,,,,,Value in Health,4.9
+venue,1647198,,,,,,,,Fertility and Sterility,6.6
+venue,1647199,,,,,,,,Anesthesiology,9.1
+venue,1647211,,,,,,,,Journal of Chemical Education,2.5
+venue,1647213,,,,,,,,International Journal of Environmental Research and Public Health,
+venue,1647219,,,,,,,,American Journal of Cardiology,2.3
+venue,1647226,,,,,,,,Cancer,6.1
+venue,1647227,,,,,,,,The Journal of Physiology,4.7
+venue,1647230,,,,,,,,The Journal of Allergy and Clinical Immunology,11.4
+venue,1647232,,,,,,,,Veterinary Record,1.8
+venue,1647234,,,,,,,,Endocrinology,3.8
+venue,1647235,,,,,,,,Nucleic Acids Research,16.6
+venue,1647238,,,,,,,,Methods in molecular biology,
+venue,1647243,,,,,,,,Nature Communications,14.7
+venue,1647247,,,,,,,,Critical Care Medicine,7.7
+venue,1647251,,,,,,,,The Journal of Pediatrics,3.9
+venue,1647254,,,,,,,,American Journal of Psychiatry,15.1
+venue,1647255,,,,,,,,Proceedings - Academy of Management,
+venue,1647256,,,,,,,,Journal of Education,0.6
+venue,1647266,,,,,,,,Pediatric Research,3.1
+venue,1647277,,,,,,,,Archives of internal medicine,
+venue,1647280,,,,,,,,PsycTESTS Dataset,
+venue,1647287,,,,,,,,Stroke,7.8
+venue,1647294,,,,,,,,Journal of Nervous and Mental Disease,1.6
+venue,1647296,,,,,,,,Alzheimers & Dementia,13.0
+venue,1647307,,,,,,,,European Journal of Pharmacology,4.2
+venue,1647309,,,,,,,,Obstetrics & Gynecology,5.7
+venue,1647320,,,,,,,,The Journal of Neuroscience,4.4
+venue,1647325,,,,,,,,American Heart Journal,3.7
+venue,1647332,,,,,,,,Neuroscience Letters,2.5
+venue,1647364,,,,,,,,The Journal of Infectious Diseases,5.0
+venue,1647365,,,,,,,,Open-file report /,
+venue,1647371,,,,,,,,Transportation Research Record,1.6
+venue,1647373,,,,,,,,Journal of Molecular Biology,4.7
+venue,1647375,,,,,,,,International Journal of Cardiology,3.2
+venue,1647380,,,,,,,,Journal of Clinical Investigation,13.3
+venue,1647389,,,,,,,,The Quarterly Review of Biology,3.7
+venue,1647391,,,,,,,,Life Sciences,5.2
+venue,1647392,,,,,,,,Clinical Infectious Diseases,8.2
+venue,1647405,,,,,,,,Frontiers in Psychology,2.6
+venue,1647411,,,,,,,,Acs Symposium Series,
+venue,1647412,,,,,,,,BMJ,
+venue,1647414,,,,,,,,contemporary Psychology,
+venue,1647415,,,,,,,,The American Journal of Medicine,5.1
+venue,1647424,,,,,,,,European Psychiatry,7.2
+venue,1647425,,,,,,,,European Neuropsychopharmacology,6.1
+venue,1647430,,,,,,,,Journal of Pharmacology and Experimental Therapeutics,3.1
+venue,1647446,,,,,,,,Journal of Neurochemistry,4.2
+venue,1647447,,,,,,,,Journal of The American Dietetic Association,
+venue,1647454,,,,,,,,Japanese Journal of Pharmacology,
+venue,1647456,,,,,,,,Molecular and Cellular Biology,3.2
+venue,1647457,,,,,,,,British Journal of Psychiatry,8.7
+venue,1647467,,,,,,,,American Anthropologist,2.6
+venue,1647474,,,,,,,,Journal of Vision,2.0
+venue,1647485,,,,,,,,Psychological Reports,1.7
+venue,1647494,,,,,,,,"Journal of Neurology, Neurosurgery, and Psychiatry",8.7
+venue,1647506,,,,,,,,BMJ Open,2.4
+venue,1647517,,,,,,,,Vaccine,4.5
+venue,1647528,,,,,,,,Biological Psychiatry,9.6
+venue,1647533,,,,,,,,BJA: British Journal of Anaesthesia,9.1
+venue,1647535,,,,,,,,Toxicology Letters,2.9
+venue,1647538,,,,,,,,British Journal of Pharmacology,6.8
+venue,1647540,,,,,,,,Perceptual and Motor Skills,1.4
+venue,1647542,,,,,,,,Journal of Cell Biology,7.4
+venue,1647543,,,,,,,,Journal of the American Statistical Association,3.0
+venue,1647555,,,,,,,,American Journal of Sociology,4.4
+venue,1647560,,,,,,,,eLife,6.4
+venue,1647568,,,,,,,,Neuroscience,2.9
+venue,1647574,,,,,,,,Bjog: An International Journal Of Obstetrics And Gynaecology,4.7
+venue,1647580,,,,,,,,Archives of Physical Medicine and Rehabilitation,3.6
+venue,1647582,,,,,,,,NeuroImage,4.7
+venue,1647584,,,,,,,,Psychiatric Services,3.3
+venue,1647590,,,,,,,,Contemporary Sociology,0.3
+venue,1647596,,,,,,,,Journal of Nutrition,3.7
+venue,1647606,,,,,,,,The American Journal of Clinical Nutrition,6.5
+venue,1647607,,,,,,,,Cell,45.5
+venue,1647618,,,,,,,,Academic Medicine,5.3
+venue,1647620,,,,,,,,Geochimica et Cosmochimica Acta,4.5
+venue,1647621,,,,,,,,Journal of Experimental Medicine,12.6
+venue,1647638,,,,,,,,Ecology,4.4
+venue,1647645,,,,,,,,Archives of pediatrics & adolescent medicine,
+venue,1647649,,,,,,,,The American Naturalist,2.4
+venue,1647658,,,,,,,,The Modern Language Journal,4.7
+venue,1647663,,,,,,,,Journal of the American Geriatrics Society,4.3
+venue,1647665,,,,,,,,Journal of comparative neurology,2.3
+venue,1647666,,,,,,,,American Journal of Public Health,9.6
+venue,1647667,,,,,,,,Arthritis & Rheumatism,
+venue,1647691,,,,,,,,Military Medicine,1.2
+venue,1647702,,,,,,,,Spine,2.6
+venue,1647706,,,,,,,,Human Reproduction,6.0
+venue,1647709,,,,,,,,Social Forces,3.3
+venue,1647717,,,,,,,,Clinical Neurophysiology,3.7
+venue,1647718,,,,,,,,American Journal of Epidemiology,5.0
+venue,1647722,,,,,,,,Current Biology,8.1
+venue,1647733,,,,,,,,Journal of Neurophysiology,2.1
+venue,1647762,,,,,,,,Schizophrenia Research,3.6
+venue,1647763,,,,,,,,Ophthalmology,13.1
+venue,1647787,,,,,,,,PeerJ Life & Environment,2.3
+venue,1647792,,,,,,,,American Psychologist,12.3
+venue,1647805,,,,,,,,BMC Public Health,3.5
+venue,1647807,,,,,,,,The EMBO Journal,9.4
+venue,1647819,,,,,,,,PsycEXTRA Dataset,
+venue,1647827,,,,,,,,Evolution,3.1
+venue,1647839,,,,,,,,Social Science & Medicine,4.9
+venue,1647848,,,,,,,,Optometry and Vision Science,1.6
+venue,1647856,,,,,,,,English Journal,
+venue,1647857,,,,,,,,Innovation in Aging,4.9
+venue,1647864,,,,,,,,Physiology & Behavior,2.4
+venue,1647874,,,,,,,,The Economic Journal,3.8
+venue,1647876,,,,,,,,Cancers,4.5
+venue,1647893,,,,,,,,The Journal of Higher Education,2.6
+venue,1647913,,,,,,,,American Biology Teacher,0.3
+venue,1647934,,,,,,,,European Journal of Anaesthesiology,4.2
+venue,1647943,,,,,,,,Journal of the American Academy of Child and Adolescent Psychiatry,9.2
+venue,1647961,,,,,,,,Digestive Diseases and Sciences,2.5
+venue,1647963,,,,,,,,Brain,10.6
+venue,1648012,,,,,,,,Psychopharmacology,3.5
+venue,1648040,,,,,,,,Pain,5.9
+venue,1648051,,,,,,,,Journal of the Optical Society of America,1.4
+venue,1648053,,,,,,,,Annals of Neurology,8.1
+venue,1648084,,,,,,,,Gerontologist,4.6
+venue,1648092,,,,,,,,Acta Psychiatrica Scandinavica,5.3
+venue,1648093,,,,,,,,Journal of Personality and Social Psychology,6.4
+venue,1648096,,,,,,,,Child Development,3.9
+venue,1648111,,,,,,,,Journal of Affective Disorders,4.9
+venue,1648116,,,,,,,,Archives of neurology,
+venue,1648118,,,,,,,,"Pharmacology, Biochemistry and Behavior",3.3
+venue,1648129,,,,,,,,Addiction,5.2
+venue,1648146,,,,,,,,BioScience,7.6
+venue,1648155,,,,,,,,Canadian Journal of Zoology,1.0
+venue,1648157,,,,,,,,Behavioral and Brain Sciences,16.6
+venue,1648160,,,,,,,,AIDS,3.4
+venue,1648161,,,,,,,,Animal Behaviour,2.3
+venue,1648166,,,,,,,,The Cochrane library,
+venue,1648189,,,,,,,,Experimental Brain Research,1.7
+venue,1648209,,,,,,,,Vision Research,1.5
+venue,1648217,,,,,,,,Teachers College Record,1.3
+venue,1648220,,,,,,,,Personality and Individual Differences,3.5
+venue,1648223,,,,,,,,The Spine Journal,4.9
+venue,1648231,,,,,,,,Neurobiology of Aging,3.7
+venue,1648237,,,,,,,,Experimental Neurology,4.6
+venue,1648265,,,,,,,,Behavioural Brain Research,2.6
+venue,1648275,,,,,,,,American Journal of Physiology-regulatory Integrative and Comparative Physiology,2.2
+venue,1648284,,,,,,,,Journal of Mammalogy,1.5
+venue,1648285,,,,,,,,Journal of Marketing,11.5
+venue,1648301,,,,,,,,European Journal of Neuroscience,2.7
+venue,1648310,,,,,,,,American Journal of Physical Anthropology,2.6
+venue,1648318,,,,,,,,Journal of Advanced Nursing,3.8
+venue,1648342,,,,,,,,Proceedings of the Human Factors and Ergonomics Society ... Annual Meeting,
+venue,1648360,,,,,,,,Alcoholism: Clinical and Experimental Research,
+venue,1648378,,,,,,,,Sleep,5.3
+venue,1648390,,,,,,,,Proceedings of The Royal Society B: Biological Sciences,3.8
+venue,1648393,,,,,,,,Oecologia,2.3
+venue,1648398,,,,,,,,Frontiers in Neuroscience,3.2
+venue,1648401,,,,,,,,Antiquity,1.9
+venue,1648418,,,,,,,,Neuropharmacology,4.6
+venue,1648452,,,,,,,,The Journal of Clinical Psychiatry,4.5
+venue,1648458,,,,,,,,International Journal of Epidemiology,6.4
+venue,1648464,,,,,,,,Language,1.9
+venue,1648480,,,,,,,,Statistics in Medicine,1.8
+venue,1648484,,,,,,,,Psychiatry Research-neuroimaging,4.2
+venue,1648491,,,,,,,,Psychological Medicine,5.9
+venue,1648494,,,,,,,,Neuroreport,1.6
+venue,1648511,,,,,,,,Journal of Applied Psychology,9.4
+venue,1648518,,,,,,,,Biometrika,2.4
+venue,1648523,,,,,,,,Journal of Visualized Experiments,1.2
+venue,1648524,,,,,,,,American Sociological Review,7.1
+venue,1648527,,,,,,,,Drug and Alcohol Dependence,3.9
+venue,1648536,,,,,,,,Neuron,14.7
+venue,1648537,,,,,,,,Journal of Forensic Sciences,1.5
+venue,1648549,,,,,,,,Social Service Review,1.5
+venue,1648558,,,,,,,,Journal of Epidemiology and Community Health,4.9
+venue,1648559,,,,,,,,Journal of General Internal Medicine,4.3
+venue,1648565,,,,,,,,American Journal of Psychology,0.9
+venue,1648579,,,,,,,,Experimental Eye Research,3.0
+venue,1648597,,,,,,,,Science Education,3.1
+venue,1648613,,,,,,,,Management Science,4.6
+venue,1648645,,,,,,,,Journal of Visual Impairment & Blindness,1.0
+venue,1648659,,,,,,,,Journal of Neuroscience Research,2.9
+venue,1648695,,,,,,,,Nursing Research,2.2
+venue,1648713,,,,,,,,Journal of Educational Psychology,5.6
+venue,1648719,,,,,,,,BMC Health Services Research,2.7
+venue,1648721,,,,,,,,Technometrics,2.3
+venue,1648739,,,,,,,,Journal of Clinical Psychology,2.5
+venue,1648756,,,,,,,,Journal of Consulting and Clinical Psychology,4.5
+venue,1648759,,,,,,,,Journal of Adolescent Health,5.5
+venue,1648779,,,,,,,,Sleep Medicine,3.8
+venue,1648796,,,,,,,,Archives of Clinical Neuropsychology,2.1
+venue,1648802,,,,,,,,American Journal of Physiology-endocrinology and Metabolism,4.2
+venue,1648807,,,,,,,,Frontiers in Human Neuroscience,2.4
+venue,1648808,,,,,,,,Journal of Psychosomatic Research,3.5
+venue,1648868,,,,,,,,ACR North American Advances,
+venue,1648890,,,,,,,,Psychological Bulletin,17.3
+venue,1648893,,,,,,,,The Journal of Aesthetics and Art Criticism,1.0
+venue,1648895,,,,,,,,Neuropsychologia,2.0
+venue,1648900,,,,,,,,Animals,2.7
+venue,1648909,,,,,,,,Cognitive Science,2.3
+venue,1648928,,,,,,,,Health Affairs,8.6
+venue,1648972,,,,,,,,Developmental Psychology,3.1
+venue,1648983,,,,,,,,Appetite,4.6
+venue,1648989,,,,,,,,Applied Ergonomics,3.1
+venue,1648995,,,,,,,,Medical Education,4.9
+venue,1649005,,,,,,,,American Antiquity,2.7
+venue,1649012,,,,,,,,Biometrics,1.4
+venue,1649038,,,,,,,,Psychosomatic Medicine,2.9
+venue,1649041,,,,,,,,Archives of General Psychiatry,
+venue,1649053,,,,,,,,PLOS Computational Biology,3.8
+venue,1649078,,,,,,,,Journal of Business Research,10.5
+venue,1649080,,,,,,,,Journal of Acquired Immune Deficiency Syndromes,2.9
+venue,1649094,,,,,,,,Elementary School Journal,1.2
+venue,1649110,,,,,,,,Journal of Voice,2.5
+venue,1649117,,,,,,,,F1000Research,
+venue,1649135,,,,,,,,Australian and New Zealand Journal of Psychiatry,4.0
+venue,1649149,,,,,,,,Nature Genetics,31.7
+venue,1649150,,,,,,,,The Journal of Pain,4.0
+venue,1649174,,,,,,,,International Journal of Psychophysiology,2.5
+venue,1649175,,,,,,,,Symmetry,2.2
+venue,1649180,,,,,,,,Frontiers in Psychiatry,3.2
+venue,1649183,,,,,,,,Proceedings of the Royal Society of London,
+venue,1649222,,,,,,,,American Journal of Orthopsychiatry,2.3
+venue,1649252,,,,,,,,Preventive Medicine,4.3
+venue,1649258,,,,,,,,Science Advances,11.7
+venue,1649270,,,,,,,,Phi Delta Kappan,1.3
+venue,1649271,,,,,,,,Frontiers in Education Conference,
+venue,1649318,,,,,,,,Synthese,1.3
+venue,1649355,,,,,,,,Journal of Business Ethics,5.9
+venue,1649367,,,,,,,,Social Work,2.3
+venue,1649379,,,,,,,,Medical Care,3.3
+venue,1649422,,,,,,,,Philosophical Transactions of the Royal Society B,5.4
+venue,1649441,,,,,,,,Perception,1.6
+venue,1649485,,,,,,,,Journal of Educational Research,2.0
+venue,1649496,,,,,,,,Psyccritiques,
+venue,1649519,,,,,,,,American Journal of Preventive Medicine,4.3
+venue,1649546,,,,,,,,Schizophrenia Bulletin,5.3
+venue,1649559,,,,,,,,Supportive Care in Cancer,2.8
+venue,1649575,,,,,,,,The Canadian Journal of Psychiatry,3.3
+venue,1649609,,,,,,,,Psychophysiology,2.9
+venue,1649630,,,,,,,,Journal of the National Medical Association,2.5
+venue,1649656,,,,,,,,Accident Analysis & Prevention,5.7
+venue,1649658,,,,,,,,Nutrition,3.2
+venue,1649660,,,,,,,,Journal of Comparative and Physiological Psychology,
+venue,1649664,,,,,,,,Current Anthropology,2.1
+venue,1649704,,,,,,,,Educational and Psychological Measurement,2.1
+venue,1649724,,,,,,,,Journal of Comparative Physiology A-neuroethology Sensory Neural and Behavioral Physiology,1.9
+venue,1649731,,,,,,,,American Journal of Psychotherapy,2.3
+venue,1649803,,,,,,,,Ergonomics,2.0
+venue,1649838,,,,,,,,Hearing Research,2.5
+venue,1649882,,,,,,,,Behaviour Research and Therapy,4.2
+venue,1649896,,,,,,,,Psychoneuroendocrinology,3.4
+venue,1649912,,,,,,,,Neuropsychopharmacology,6.6
+venue,1649987,,,,,,,,Journal of Social Psychology,1.8
+venue,1649989,,,,,,,,Brain Behavior and Immunity,8.8
+venue,1650008,,,,,,,,Computers in Human Behavior,9.0
+venue,1650021,,,,,,,,Progress in Brain Research,
+venue,1650025,,,,,,,,Cerebral Cortex,2.9
+venue,1650063,,,,,,,,Journal of Abnormal Psychology,
+venue,1650070,,,,,,,,International Journal of Geriatric Psychiatry,3.6
+venue,1650103,,,,,,,,Journal of the American Medical Directors Association,4.2
+venue,1650108,,,,,,,,Addictive Behaviors,3.7
+venue,1650113,,,,,,,,Journal of experimental psychology,
+venue,1650126,,,,,,,,Trends in Ecology and Evolution,16.7
+venue,1650159,,,,,,,,Journal of Autism and Developmental Disorders,3.2
+venue,1650163,,,,,,,,Families in society-The journal of contemporary social services,1.2
+venue,1650229,,,,,,,,Journal of Marketing Research,5.1
+venue,1650254,,,,,,,,Journal of Counseling Psychology,3.8
+venue,1650256,,,,,,,,Children and Youth Services Review,2.4
+venue,1650270,,,,,,,,American Journal of Geriatric Psychiatry,4.4
+venue,1650273,,,,,,,,Journal of Experimental Psychology: Human Perception and Performance,2.1
+venue,1650278,,,,,,,,Public Opinion Quarterly,2.9
+venue,1650301,,,,,,,,British Journal of Social Work,1.8
+venue,1650305,,,,,,,,Journal of Medical Internet Research,5.8
+venue,1650306,,,,,,,,PLOS Biology,7.8
+venue,1650352,,,,,,,,Journal of Child Psychology and Psychiatry,6.5
+venue,1650354,,,,,,,,Psychological Review,5.1
+venue,1650365,,,,,,,,Child Abuse & Neglect,3.4
+venue,1650407,,,,,,,,Trends in Neurosciences,14.6
+venue,1650451,,,,,,,,Journal of Archaeological Science,2.6
+venue,1650477,,,,,,,,Nature Neuroscience,21.2
+venue,1650499,,,,,,,,"Journal of Obstetric, Gynecologic, & Neonatal Nursing",1.8
+venue,1650502,,,,,,,,Journal of Psychiatric Research,3.7
+venue,1650513,,,,,,,,Journal of Marriage and Family,2.7
+venue,1650543,,,,,,,,Journal of Palliative Medicine,2.2
+venue,1650599,,,,,,,,Behavioral Neuroscience,1.6
+venue,1650616,,,,,,,,Academy of Management Journal,9.5
+venue,1650618,,,,,,,,Cortex,3.2
+venue,1650623,,,,,,,,Obesity,4.2
+venue,1650650,,,,,,,,Journal of Perinatology,2.4
+venue,1650678,,,,,,,,Applied Animal Behaviour Science,2.2
+venue,1650682,,,,,,,,"Journal of Experimental Psychology: Learning, Memory and Cognition",2.2
+venue,1650715,,,,,,,,Attention Perception & Psychophysics,
+venue,1650720,,,,,,,,Clinical Obstetrics and Gynecology,1.4
+venue,1650725,,,,,,,,Acta Psychologica,2.1
+venue,1650782,,,,,,,,Human Brain Mapping,3.5
+venue,1650828,,,,,,,,Behavioral Ecology and Sociobiology,1.9
+venue,1650892,,,,,,,,Philosophical Studies,1.1
+venue,1650916,,,,,,,,Frontiers in Veterinary Science,2.6
+venue,1650929,,,,,,,,The Journal of Psychology,2.2
+venue,1650948,,,,,,,,European Journal of Pain,3.5
+venue,1650975,,,,,,,,Journal of Speech Language and Hearing Research,2.2
+venue,1650987,,,,,,,,Journal of Interpersonal Violence,2.6
+venue,1651063,,,,,,,,Lingua,1.1
+venue,1651066,,,,,,,,Journal of Gerontology,
+venue,1651096,,,,,,,,Psychology in the Schools,1.8
+venue,1651122,,,,,,,,Annals of Statistics,3.2
+venue,1651169,,,,,,,,Educational Researcher,5.4
+venue,1651197,,,,,,,,Journal of Neurotrauma,3.9
+venue,1651210,,,,,,,,Neuroscience & Biobehavioral Reviews,7.5
+venue,1651215,,,,,,,,Psychonomic science,
+venue,1651242,,,,,,,,Educational Leadership,0.4
+venue,1651244,,,,,,,,The Personnel and Guidance Journal,
+venue,1651274,,,,,,,,Brain and Language,2.1
+venue,1651281,,,,,,,,Psychological Science,4.8
+venue,1651308,,,,,,,,The Chronicle of higher education,
+venue,1651316,,,,,,,,The 81st Annual Meeting of the Society for American Archaeology,
+venue,1651355,,,,,,,,Pain Medicine,2.9
+venue,1651371,,,,,,,,Molecular Psychiatry,9.6
+venue,1651400,,,,,,,,Behavioural Pharmacology,1.6
+venue,1651411,,,,,,,,Journal of Developmental and Behavioral Pediatrics,1.8
+venue,1651416,,,,,,,,Exceptional Children,2.2
+venue,1651424,,,,,,,,Journal of Teacher Education,3.1
+venue,1651435,,,,,,,,Review of Educational Research,8.3
+venue,1651438,,,,,,,,Artificial Intelligence,5.1
+venue,1651442,,,,,,,,Sex Roles,3.0
+venue,1651463,,,,,,,,Cognition,2.8
+venue,1651468,,,,,,,,Behavioural Processes,1.3
+venue,1651510,,,,,,,,Journal of Experimental Child Psychology,1.8
+venue,1651533,,,,,,,,Computers & education,8.9
+venue,1651534,,,,,,,,International Psychogeriatrics,4.6
+venue,1651541,,,,,,,,Journal of Intellectual Disability Research,2.1
+venue,1651542,,,,,,,,Aids Care-psychological and Socio-medical Aspects of Aids/hiv,1.2
+venue,1651551,,,,,,,,Professional Psychology: Research and Practice,1.5
+venue,1651560,,,,,,,,Academy of Management Review,19.3
+venue,1651579,,,,,,,,Journal of Human Evolution,3.1
+venue,1651597,,,,,,,,Proceedings of the Annual Meeting of the Cognitive Science Society,
+venue,1651625,,,,,,,,Journal of Applied Social Psychology,2.2
+venue,1651644,,,,,,,,Nicotine & Tobacco Research,3.0
+venue,1651660,,,,,,,,Journal of The History of The Behavioral Sciences,0.6
+venue,1651667,,,,,,,,System,4.9
+venue,1651684,,,,,,,,Archives of Sexual Behavior,2.9
+venue,1651690,,,,,,,,Health Psychology,3.1
+venue,1651703,,,,,,,,Journal of Learning Disabilities,2.4
+venue,1651716,,,,,,,,Biological Psychology,2.7
+venue,1651722,,,,,,,,Brain Sciences,2.7
+venue,1651723,,,,,,,,Neophilologus,0.2
+venue,1651743,,,,,,,,Hormones and Behavior,2.5
+venue,1651775,,,,,,,,Journal of the Experimental Analysis of Behavior,1.4
+venue,1651780,,,,,,,,Infant Behavior & Development,1.9
+venue,1651791,,,,,,,,The Reading Teacher,1.4
+venue,1651804,,,,,,,,Personality and Social Psychology Bulletin,3.4
+venue,1651805,,,,,,,,English Studies,0.3
+venue,1651823,,,,,,,,Health Services Research,3.1
+venue,1651839,,,,,,,,Nature Precedings,
+venue,1651840,,,,,,,,Aids and Behavior,2.7
+venue,1651864,,,,,,,,Journal of Personality Assessment,2.8
+venue,1651948,,,,,,,,Journal of Communication,6.1
+venue,1652002,,,,,,,,Current Psychology,2.5
+venue,1652012,,,,,,,,Royal Society Open Science,2.9
+venue,1652016,,,,,,,,Memory & Cognition,2.2
+venue,1652029,,,,,,,,Tobacco Control,4.0
+venue,1652054,,,,,,,,American Journal of Human Biology,1.6
+venue,1652055,,,,,,,,Harvard Business Review,9.1
+venue,1652106,,,,,,,,Early Child Development and Care,1.0
+venue,1652111,,,,,,,,Ethnic and Racial Studies,2.1
+venue,1652112,,,,,,,,Books,
+venue,1652119,,,,,,,,American Speech,1.0
+venue,1652122,,,,,,,,Journal for the Scientific Study of Religion,2.3
+venue,1652156,,,,,,,,Journal of Research in Science Teaching,3.6
+venue,1652266,,,,,,,,Brain Injury,1.5
+venue,1652279,,,,,,,,Journal of Cognitive Neuroscience,3.1
+venue,1652305,,,,,,,,Journal of Herpetology,0.8
+venue,1652311,,,,,,,,Nature Reviews Neuroscience,28.7
+venue,1652314,,,,,,,,Religions,0.7
+venue,1652324,,,,,,,,Annals of Mathematical Statistics,
+venue,1652336,,,,,,,,Journal of General Psychology,1.9
+venue,1652413,,,,,,,,Journal of Substance Abuse Treatment,3.7
+venue,1652415,,,,,,,,Substance Use & Misuse,1.8
+venue,1652454,,,,,,,,Behavior Therapy,3.4
+venue,1652463,,,,,,,,Ethology,1.3
+venue,1652510,,,,,,,,Proceedings of the Human Factors Society annual meeting,
+venue,1652521,,,,,,,,Brain and Cognition,2.2
+venue,1652544,,,,,,,,Human Factors,2.9
+venue,1652566,,,,,,,,Research in Developmental Disabilities,2.9
+venue,1652581,,,,,,,,Linguistics,1.3
+venue,1652634,,,,,,,,Frontiers in Behavioral Neuroscience,2.6
+venue,1652635,,,,,,,,Research Quarterly for Exercise and Sport,1.4
+venue,1652674,,,,,,,,Journal of Pediatric Psychology,2.7
+venue,1652698,,,,,,,,British Journal of Educational Technology,6.7
+venue,1652702,,,,,,,,Foreign Language Annals,1.5
+venue,1652740,,,,,,,,Behavior Research Methods,4.6
+venue,1652761,,,,,,,,Journal of Experimental Social Psychology,3.2
+venue,1652765,,,,,,,,Developmental Psychobiology,1.8
+venue,1652769,,,,,,,,Psychological Assessment,3.3
+venue,1652802,,,,,,,,Journal of Personality,3.2
+venue,1652807,,,,,,,,Psychotherapy,2.6
+venue,1652843,,,,,,,,Community Mental Health Journal,1.8
+venue,1652848,,,,,,,,Journal of Social Issues,4.0
+venue,1652944,,,,,,,,British Journal of Educational Psychology,3.1
+venue,1652959,,,,,,,,Journal of Sleep Research,3.4
+venue,1652963,,,,,,,,The Journal of Abnormal and Social Psychology,
+venue,1652988,,,,,,,,Psychology and Aging,3.7
+venue,1653000,,,,,,,,Teaching and Teacher Education,4.0
+venue,1653009,,,,,,,,Management Decision,4.1
+venue,1653059,,,,,,,,Journal of Ethnic and Migration Studies,2.8
+venue,1653111,,,,,,,,Administrative Science Quarterly,8.3
+venue,1653138,,,,,,,,Journal of Applied Behavior Analysis,2.9
+venue,1653184,,,,,,,,Language in Society,2.0
+venue,1653213,,,,,,,,American Educational Research Journal,3.5
+venue,1653251,,,,,,,,Journal of Anthropological Research,1.0
+venue,1653309,,,,,,,,Journal of Child and Family Studies,1.6
+venue,1653314,,,,,,,,Journal of Adolescence,3.0
+venue,1653316,,,,,,,,Strategic Management Journal,6.5
+venue,1653338,,,,,,,,Journal of Youth and Adolescence,3.7
+venue,1653375,,,,,,,,Psychonomic Bulletin & Review,3.2
+venue,1653417,,,,,,,,Biology Letters,2.8
+venue,1653448,,,,,,,,The Clinical Journal of Pain,2.6
+venue,1653464,,,,,,,,Journal of Management,9.3
+venue,1653476,,,,,,,,Education Sciences,2.5
+venue,1653557,,,,,,,,Teaching Exceptional Children,0.9
+venue,1653580,,,,,,,,Journal of Community Psychology,2.0
+venue,1653588,,,,,,,,Personnel Psychology,4.7
+venue,1653613,,,,,,,,TESOL Quarterly,3.0
+venue,1653631,,,,,,,,Journal of Family Psychology,2.3
+venue,1653655,,,,,,,,Journal of Traumatic Stress,2.4
+venue,1653680,,,,,,,,Journal of Clinical Sleep Medicine,3.5
+venue,1653711,,,,,,,,International Review of Education,2.3
+venue,1653722,,,,,,,,The Journals of Gerontology: Series B,4.8
+venue,1653749,,,,,,,,Journal of Vocational Behavior,5.2
+venue,1653758,,,,,,,,Psychometrika,2.9
+venue,1653809,,,,,,,,Aids Patient Care and Stds,3.4
+venue,1653860,,,,,,,,Family Relations,1.7
+venue,1653863,,,,,,,,Journal of Consulting Psychology,
+venue,1653873,,,,,,,,Trends in Cognitive Sciences,16.7
+venue,1653901,,,,,,,,Qualitative Health Research,2.6
+venue,1653909,,,,,,,,Demography,3.6
+venue,1653931,,,,,,,,Journal of Genetic Psychology,1.7
+venue,1653954,,,,,,,,Issues in Mental Health Nursing,1.7
+venue,1653961,,,,,,,,European Journal of Social Psychology,2.8
+venue,1654010,,,,,,,,Teaching of Psychology,0.7
+venue,1654013,,,,,,,,Psychological Record,1.0
+venue,1654056,,,,,,,,Journal of Counseling and Development,2.3
+venue,1654111,,,,,,,,Journal of American College Health,1.6
+venue,1654160,,,,,,,,TechTrends,2.2
+venue,1654200,,,,,,,,Applied Cognitive Psychology,2.1
+venue,1654212,,,,,,,,Journal of studies on alcohol,
+venue,1654326,,,,,,,,The 80th Annual Meeting of the Society for American Archaeology,
+venue,1654354,,,,,,,,Journal of Health Psychology,2.5
+venue,1654390,,,,,,,,International Journal of Science Education,2.2
+venue,1654391,,,,,,,,Translational Psychiatry,5.8
+venue,1654589,,,,,,,,Aggressive Behavior,2.7
+venue,1654597,,,,,,,,Family Process,2.6
+venue,1654624,,,,,,,,Journal of Homosexuality,2.4
+venue,1654626,,,,,,,,Aging & Mental Health,2.8
+venue,1654640,,,,,,,,Journal of Sex Research,2.7
+venue,1654723,,,,,,,,Neurobiology of Learning and Memory,2.2
+venue,1654784,,,,,,,,Consciousness and Cognition,2.1
+venue,1654814,,,,,,,,NeuroImage: Clinical,3.4
+venue,1654815,,,,,,,,American Journal of Community Psychology,3.4
+venue,1654836,,,,,,,,Journal of School Psychology,3.8
+venue,1654865,,,,,,,,Quarterly Journal of Experimental Psychology,1.5
+venue,1655015,,,,,,,,Biological Reviews,11.0
+venue,1655085,,,,,,,,Journal of Management Studies,7.0
+venue,1655099,,,,,,,,Journal of Abnormal Child Psychology,
+venue,1655125,,,,,,,,Journal of Experimental Education,2.9
+venue,1655133,,,,,,,,Psychology of Addictive Behaviors,3.2
+venue,1655136,,,,,,,,The 84th Annual Meeting of the Society for American Archaeology,
+venue,1655143,,,,,,,,Evaluation and Program Planning,1.5
+venue,1655156,,,,,,,,Journal of Consumer Research,5.7
+venue,1655170,,,,,,,,Biochemistry and Molecular Biology Education,1.2
+venue,1655187,,,,,,,,Psychology & Health,2.4
+venue,1655246,,,,,,,,The Lancet Respiratory Medicine,38.7
+venue,1655252,,,,,,,,The Counseling Psychologist,1.9
+venue,1655291,,,,,,,,Research in Nursing & Health,2.1
+venue,1655318,,,,,,,,Journal of Research in Personality,2.6
+venue,1655326,,,,,,,,Journal of Field Archaeology,1.5
+venue,1655379,,,,,,,,Emotion,3.4
+venue,1655410,,,,,,,,Development and Psychopathology,3.1
+venue,1655427,,,,,,,,Psychology of Women Quarterly,2.5
+venue,1655442,,,,,,,,Studies in Second Language Acquisition,4.2
+venue,1655472,,,,,,,,Journal of Organizational Behavior,6.2
+venue,1655485,,,,,,,,Language Learning,3.5
+venue,1655495,,,,,,,,Human Resource Management,6.0
+venue,1655536,,,,,,,,Health Communication,3.0
+venue,1655592,,,,,,,,Brain Behavior and Evolution,2.1
+venue,1655618,,,,,,,,European Journal of Engineering Education,2.0
+venue,1655660,,,,,,,,"Attention, perception & psychophysics",1.7
+venue,1655666,,,,,,,,Educational Technology Research and Development,3.3
+venue,1655690,,,,,,,,Archives of Psychiatric Nursing,2.2
+venue,1655811,,,,,,,,Annals of Behavioral Medicine,3.6
+venue,1655871,,,,,,,,Journal of Child Language,1.7
+venue,1655920,,,,,,,,Journal of Linguistics,0.8
+venue,1655923,,,,,,,,Journal of Head Trauma Rehabilitation,2.4
+venue,1655960,,,,,,,,International Journal of Engineering Education,0.7
+venue,1655964,,,,,,,,Applied Linguistics,3.6
+venue,1656024,,,,,,,,Cognition & Emotion,2.6
+venue,1656049,,,,,,,,Journal of Anxiety Disorders,4.8
+venue,1656077,,,,,,,,Suicide and Life Threatening Behavior,2.7
+venue,1656126,,,,,,,,Omega - Journal Of Death And Dying,1.5
+venue,1656140,,,,,,,,Applied Psychology,4.9
+venue,1656164,,,,,,,,The 82nd Annual Meeting of the Society for American Archaeology,
+venue,1656201,,,,,,,,Journal of Cross-Cultural Psychology,2.4
+venue,1656224,,,,,,,,Clinical Psychology Review,13.7
+venue,1656264,,,,,,,,Frontiers in Education,1.9
+venue,1656274,,,,,,,,British Journal of Special Education,0.9
+venue,1656350,,,,,,,,Cognitive Therapy and Research,2.8
+venue,1656355,,,,,,,,Journal of Speech and Hearing Disorders,
+venue,1656370,,,,,,,,Journal of Social Work,1.5
+venue,1656379,,,,,,,,Social Work Education,1.1
+venue,1656391,,,,,,,,International Journal of Intercultural Relations,2.4
+venue,1656392,,,,,,,,Journal of Family Issues,1.6
+venue,1656435,,,,,,,,The qualitative report,1.6
+venue,1656479,,,,,,,,Counselor Education and Supervision,1.4
+venue,1656485,,,,,,,,School Psychology Review,3.9
+venue,1656595,,,,,,,,"Theory, Culture & Society",2.7
+venue,1656613,,,,,,,,Developmental Science,3.1
+venue,1656619,,,,,,,,Political Psychology,4.0
+venue,1656689,,,,,,,,JAMA Psychiatry,22.5
+venue,1656802,,,,,,,,Journal of clinical and translational science,2.1
+venue,1656912,,,,,,,,Journal of Social and Personal Relationships,2.3
+venue,1656992,,,,,,,,Rehabilitation Psychology,1.9
+venue,1657004,,,,,,,,Transportation Research Part F-traffic Psychology and Behaviour,3.5
+venue,1657108,,,,,,,,Advances in Psychological Science,
+venue,1657159,,,,,,,,Womens Health Issues,2.8
+venue,1657180,,,,,,,,Obesity Research & Clinical Practice,2.5
+venue,1657245,,,,,,,,International Journal of Behavioral Development,2.4
+venue,1657259,,,,,,,,Intelligence,3.3
+venue,1657338,,,,,,,,Health,
+venue,1657397,,,,,,,,Organizational Behavior and Human Decision Processes,3.4
+venue,1657417,,,,,,,,Journal of Memory and Language,2.9
+venue,1657429,,,,,,,,Journal of Psychoactive Drugs,2.1
+venue,1657438,,,,,,,,Qualitative Inquiry,1.4
+venue,1657448,,,,,,,,Journal of Rehabilitation,
+venue,1657535,,,,,,,,Health & Social Work,1.7
+venue,1657589,,,,,,,,Organization Science,4.9
+venue,1657600,,,,,,,,Jmir mhealth and uhealth,5.4
+venue,1657619,,,,,,,,Monographs of The Society for Research in Child Development,9.4
+venue,1657734,,,,,,,,European Journal of Education Studies,
+venue,1657739,,,,,,,,Journal of Behavioral Medicine,2.8
+venue,1657743,,,,,,,,Research on Social Work Practice,1.7
+venue,1657764,,,,,,,,Experimental and Clinical Psychopharmacology,2.4
+venue,1657776,,,,,,,,The Journal of Applied Behavioral Science,2.3
+venue,1657808,,,,,,,,Criminology,4.6
+venue,1657817,,,,,,,,Criminal Justice and Behavior,2.1
+venue,1657822,,,,,,,,Language Teaching,4.0
+venue,1657848,,,,,,,,Journal of Humanistic Psychology,1.3
+venue,1657981,,,,,,,,Journal of Applied Gerontology,2.2
+venue,1658022,,,,,,,,Child Psychiatry & Human Development,2.3
+venue,1658030,,,,,,,,International Journal of Law and Psychiatry,1.4
+venue,1658073,,,,,,,,Marketing Science,4.0
+venue,1658086,,,,,,,,ENeuro,2.7
+venue,1658095,,,,,,,,Journal of the royal statistical society series b-methodological,
+venue,1658102,,,,,,,,Journal of Fluency Disorders,2.1
+venue,1658116,,,,,,,,Journal of Phonetics,1.9
+venue,1658124,,,,,,,,Autism,5.2
+venue,1658156,,,,,,,,Social Work in Health Care,2.1
+venue,1658370,,,,,,,,Infant mental health journal,2.1
+venue,1658431,,,,,,,,Educational Evaluation and Policy Analysis,2.4
+venue,1658451,,,,,,,,Clinical Neuropsychologist,3.0
+venue,1658513,,,,,,,,Multivariate Behavioral Research,5.3
+venue,1658547,,,,,,,,Memory,2.2
+venue,1658577,,,,,,,,Journal of Health and Social Behavior,6.3
+venue,1658630,,,,,,,,Journal of Attention Disorders,2.7
+venue,1658658,,,,,,,,Assessment,3.5
+venue,1658706,,,,,,,,Journal of Special Education,1.4
+venue,1658724,,,,,,,,Behavioral Sciences & The Law,1.0
+venue,1658757,,,,,,,,Crisis-the Journal of Crisis Intervention and Suicide Prevention,1.7
+venue,1658789,,,,,,,,Early Childhood Research Quarterly,3.2
+venue,1658835,,,,,,,,British Journal of Clinical Psychology,3.8
+venue,1658912,,,,,,,,Clinical Social Work Journal,2.7
+venue,1658924,,,,,,,,Applied Psychological Measurement,1.0
+venue,1658967,,,,,,,,Journal of Creative Behavior,2.8
+venue,1658970,,,,,,,,Journal of Refugee Studies,2.2
+venue,1659016,,,,,,,,British Journal of Social Psychology,3.2
+venue,1659020,,,,,,,,Annual Review of Psychology,23.6
+venue,1659048,,,,,,,,Contemporary Educational Psychology,3.9
+venue,1659050,,,,,,,,Journal of Studies on Alcohol and Drugs,2.4
+venue,1659059,,,,,,,,Educational Psychology,3.6
+venue,1659066,,,,,,,,Administration and Policy in Mental Health,2.0
+venue,1659072,,,,,,,,International Journal of Aging & Human Development,1.2
+venue,1659077,,,,,,,,Journal of Applied Developmental Psychology,2.2
+venue,1659084,,,,,,,,Frontiers,1.8
+venue,1659113,,,,,,,,Applied Psycholinguistics,2.4
+venue,1659139,,,,,,,,Journal of Psychology and Theology,0.4
+venue,1659149,,,,,,,,Journal of Career Development,2.6
+venue,1659158,,,,,,,,Implementation Science,8.8
+venue,1659176,,,,,,,,Journal of Engineering Education,3.9
+venue,1659183,,,,,,,,Journal of Computer Assisted Learning,5.1
+venue,1659243,,,,,,,,Journal of Clinical Child and Adolescent Psychology,4.2
+venue,1659263,,,,,,,,World Archaeology,1.8
+venue,1659273,,,,,,,,Journal of education and health promotion,1.4
+venue,1659295,,,,,,,,"Psychological Trauma: Theory, Research, Practice, and Policy",2.7
+venue,1659303,,,,,,,,Animal Learning & Behavior,
+venue,1659366,,,,,,,,Journal of Social Work Education,1.3
+venue,1659394,,,,,,,,Journal of Family Violence,2.7
+venue,1659402,,,,,,,,Learning & Memory,1.8
+venue,1659426,,,,,,,,Current Directions in Psychological Science,7.4
+venue,1659470,,,,,,,,Law and Human Behavior,2.4
+venue,1659481,,,,,,,,Social Cognitive and Affective Neuroscience,3.9
+venue,1659524,,,,,,,,Mindfulness,3.1
+venue,1659526,,,,,,,,Journal of Vocational Rehabilitation,1.2
+venue,1659535,,,,,,,,Milbank Quarterly,4.8
+venue,1659543,,,,,,,,Autism Research,5.3
+venue,1659564,,,,,,,,Journal of Psycholinguistic Research,1.6
+venue,1659633,,,,,,,,Child & Family Social Work,1.6
+venue,1659690,,,,,,,,Proceedings of the annual meeting of the Berkeley Linguistics Society,
+venue,1659726,,,,,,,,The Neuroscientist,3.5
+venue,1659741,,,,,,,,Action in teacher education,
+venue,1659822,,,,,,,,International Journal of Behavioral Medicine,2.0
+venue,1659858,,,,,,,,Animal Cognition,1.9
+venue,1659878,,,,,,,,Leadership Quarterly,9.1
+venue,1659881,,,,,,,,Conference on Recommender Systems,
+venue,1659942,,,,,,,,Journal of Verbal Learning and Verbal Behavior,
+venue,1660213,,,,,,,,Journal of Personality Disorders,2.1
+venue,1660219,,,,,,,,Psychotherapy Research,2.6
+venue,1660233,,,,,,,,Journal of applied rehabilitation counseling,
+venue,1660245,,,,,,,,Reading Research Quarterly,3.9
+venue,1660294,,,,,,,,Journal of Educational Measurement,1.4
+venue,1660336,,,,,,,,Theory & Psychology,1.1
+venue,1660339,,,,,,,,Language and Speech,1.1
+venue,1660359,,,,,,,,"Families, Systems, & Health",1.2
+venue,1660446,,,,,,,,European Journal of Personality,3.6
+venue,1660458,,,,,,,,Journal of Community and Applied Social Psychology,2.7
+venue,1660465,,,,,,,,Learning and Instruction,4.7
+venue,1660469,,,,,,,,Harvard Educational Review,2.6
+venue,1660472,,,,,,,,British Journal of Development Psychology,2.6
+venue,1660481,,,,,,,,Clinical Gerontologist,2.6
+venue,1660497,,,,,,,,Behavior Modification,2.0
+venue,1660516,,,,,,,,International Journal of Research in Marketing,5.9
+venue,1660521,,,,,,,,"Gender, Work and Organization",3.9
+venue,1660560,,,,,,,,Journal of Biological Rhythms,2.9
+venue,1660615,,,,,,,,Philosophical Psychology,1.4
+venue,1660678,,,,,,,,Remedial and Special Education,2.3
+venue,1660681,,,,,,,,Educational Measurement: Issues and Practice,2.7
+venue,1660689,,,,,,,,Juvenile and Family Court Journal,0.4
+venue,1660723,,,,,,,,Psychiatric Rehabilitation Journal,1.8
+venue,1660820,,,,,,,,Phonetica,1.1
+venue,1660867,,,,,,,,Smith College Studies in Social Work,1.4
+venue,1660894,,,,,,,,Intervention In School And Clinic,0.7
+venue,1660935,,,,,,,,Journal of Happiness Studies,3.1
+venue,1660969,,,,,,,,Journal of Educational Computing Research,4.0
+venue,1661027,,,,,,,,Social Work With Groups,
+venue,1661092,,,,,,,,Sleep Medicine Reviews,11.2
+venue,1661141,,,,,,,,Brain Imaging and Behavior,2.4
+venue,1661146,,,,,,,,Cultural Studies,1.6
+venue,1661259,,,,,,,,The Quarterly journal of experimental psychology,
+venue,1661326,,,,,,,,Human Communication Research,4.4
+venue,1661392,,,,,,,,Journal of Consumer Psychology,4.0
+venue,1661536,,,,,,,,Learning and Motivation,1.7
+venue,1661600,,,,,,,,British Journal of Mathematical and Statistical Psychology,1.5
+venue,1661709,,,,,,,,Journal of Offender Rehabilitation,1.1
+venue,1661783,,,,,,,,Psychological Inquiry,7.2
+venue,1661803,,,,,,,,Seminars in Hearing,
+venue,1661921,,,,,,,,Molecular metabolism,7.0
+venue,1661942,,,,,,,,Journal of Psychopathology and Behavioral Assessment,1.3
+venue,1661946,,,,,,,,Experimental Aging Research,1.4
+venue,1661992,,,,,,,,Music Perception,1.3
+venue,1662006,,,,,,,,Psychological Methods,7.6
+venue,1662018,,,,,,,,Cognitive Development,1.8
+venue,1662098,,,,,,,,Motivation and Emotion,1.7
+venue,1662121,,,,,,,,Journal of Gambling Studies,2.4
+venue,1662146,,,,,,,,Justice Quarterly,2.6
+venue,1662179,,,,,,,,Rehabilitation Counseling Bulletin,1.9
+venue,1662183,,,,,,,,Youth & Society,2.0
+venue,1662197,,,,,,,,Creativity Research Journal,2.5
+venue,1662251,,,,,,,,Basic and Applied Social Psychology,2.5
+venue,1662272,,,,,,,,Journal of Research on Adolescence,4.6
+venue,1662279,,,,,,,,Current opinion in psychology,6.3
+venue,1662320,,,,,,,,New Ideas in Psychology,2.3
+venue,1662327,,,,,,,,The Kiva,0.5
+venue,1662340,,,,,,,,Prevention Science,3.0
+venue,1662460,,,,,,,,Journal of Behavioral Decision Making,1.8
+venue,1662466,,,,,,,,Evolution and Human Behavior,3.0
+venue,1662546,,,,,,,,Social Development,1.6
+venue,1662620,,,,,,,,RELC Journal,3.6
+venue,1662649,,,,,,,,Journal for The Theory of Social Behaviour,1.4
+venue,1662701,,,,,,,,I-perception,2.4
+venue,1662782,,,,,,,,"Journal of Aggression, Maltreatment & Trauma",1.6
+venue,1662821,,,,,,,,Bilingualism: Language and Cognition,2.5
+venue,1662860,,,,,,,,Career Development Quarterly,2.1
+venue,1662867,,,,,,,,Cultural Diversity & Ethnic Minority Psychology,3.2
+venue,1662896,,,,,,,,Journal of Business and Psychology,3.7
+venue,1662915,,,,,,,,Journal of Social Service Research,1.4
+venue,1663015,,,,,,,,Journal of Language and Social Psychology,2.0
+venue,1663043,,,,,,,,Visual Cognition,1.7
+venue,1663052,,,,,,,,Journal of Sociolinguistics,1.5
+venue,1663090,,,,,,,,Reading Horizons,
+venue,1663221,,,,,,,,Journal of Science Education and Technology,3.3
+venue,1663241,,,,,,,,Stress,2.6
+venue,1663286,,,,,,,,Journal of The Royal Statistical Society Series B-statistical Methodology,3.1
+venue,1663312,,,,,,,,Journal of the International Phonetic Association,0.8
+venue,1663313,,,,,,,,Cognitive Psychology,3.0
+venue,1663362,,,,,,,,Social Psychological and Personality Science,4.3
+venue,1663368,,,,,,,,Nature Human Behaviour,21.4
+venue,1663397,,,,,,,,Sexual Abuse: A Journal of Research and Treatment,2.1
+venue,1663482,,,,,,,,Learning Disability Quarterly,1.6
+venue,1663692,,,,,,,,Linguistic Inquiry,1.6
+venue,1663820,,,,,,,,"Proceedings of the National Academy of Sciences, India, Section B: biological sciences",
+venue,1663841,,,,,,,,Behavioral Disorders,2.1
+venue,1663871,,,,,,,,Educational Psychologist,14.3
+venue,1663912,,,,,,,,"Cognitive, Affective, & Behavioral Neuroscience",2.5
+venue,1663943,,,,,,,,Mind & Language,1.8
+venue,1663991,,,,,,,,Scandinavian Journal of Pain,1.5
+venue,1664016,,,,,,,,Academy of Management Learning and Education,4.8
+venue,1664029,,,,,,,,Human Resource Development Quarterly,4.0
+venue,1664070,,,,,,,,Structural Equation Modeling,2.5
+venue,1664168,,,,,,,,Journal of Men's Health,0.6
+venue,1664286,,,,,,,,Annual Review of Sociology,8.9
+venue,1664371,,,,,,,,Semantics and Linguistic Theory,
+venue,1664485,,,,,,,,ITL – International Journal of Applied Linguistics,2.1
+venue,1664501,,,,,,,,Journal of Research in Crime and Delinquency,2.2
+venue,1664551,,,,,,,,Infant and Child Development,2.8
+venue,1664607,,,,,,,,Chemistry Education. Research and Practice,2.6
+venue,1664701,,,,,,,,Translational behavioral medicine,3.6
+venue,1664705,,,,,,,,Journal of Ethology,0.9
+venue,1664720,,,,,,,,Journal of Child Sexual Abuse,1.4
+venue,1664755,,,,,,,,Psychology Crime & Law,1.1
+venue,1664778,,,,,,,,the CALICO Journal,2.3
+venue,1664848,,,,,,,,Language Teaching Research,3.3
+venue,1664873,,,,,,,,Social Psychology Quarterly,2.1
+venue,1664909,,,,,,,,Perspectives on Psychological Science,10.5
+venue,1664950,,,,,,,,American Journal on Mental Retardation,
+venue,1664953,,,,,,,,Archives of Suicide Research,2.5
+venue,1664954,,,,,,,,CBE- Life Sciences Education,4.6
+venue,1664958,,,,,,,,Social and Personality Psychology Compass,4.8
+venue,1664979,,,,,,,,Qualitative Social Work,1.7
+venue,1665030,,,,,,,,Behavioral Interventions,1.1
+venue,1665255,,,,,,,,Reading Psychology,1.2
+venue,1665309,,,,,,,,Advances in early childhood and K-12 education,
+venue,1665351,,,,,,,,Group Processes & Intergroup Relations,4.0
+venue,1665362,,,,,,,,"Revista de Logopedia, Foniatría y Audiología",
+venue,1665397,,,,,,,,The Teacher Educator,
+venue,1665403,,,,,,,,Journal of Developmental and Physical Disabilities,1.5
+venue,1665446,,,,,,,,Ethics & Behavior,1.8
+venue,1665503,,,,,,,,Punishment & Society,2.3
+venue,1665563,,,,,,,,"Psychology, Public Policy and Law",2.3
+venue,1665571,,,,,,,,Journal of Occupational Health Psychology,5.9
+venue,1665611,,,,,,,,International Journal of Selection and Assessment,2.6
+venue,1665620,,,,,,,,Journal of Experimental Psychology: Applied,2.7
+venue,1665659,,,,,,,,Addiction research & theory,1.9
+venue,1665892,,,,,,,,Journal of Teaching in Social Work,0.8
+venue,1665934,,,,,,,,Social Cognition,1.2
+venue,1666040,,,,,,,,European Psychologist,3.9
+venue,1666070,,,,,,,,Personal Relationships,1.8
+venue,1666088,,,,,,,,Journal of Artificial Societies and Social Simulation,2.2
+venue,1666112,,,,,,,,Education and Treatment of Children,1.7
+venue,1666142,,,,,,,,Journal of Microbiology & Biology Education,1.6
+venue,1666246,,,,,,,,Laterality,0.9
+venue,1666490,,,,,,,,Developmental Cognitive Neuroscience,4.6
+venue,1666631,,,,,,,,Infancy,2.0
+venue,1666807,,,,,,,,Journal of Black Psychology,2.5
+venue,1666897,,,,,,,,Child Maltreatment,4.5
+venue,1666998,,,,,,,,Language Testing,2.2
+venue,1667054,,,,,,,,Psychological Services,1.9
+venue,1667055,,,,,,,,Cogent Education,1.5
+venue,1667295,,,,,,,,Teacher Education Quarterly,
+venue,1667454,,,,,,,,"Psychology of Aesthetics, Creativity, and the Arts",2.7
+venue,1667470,,,,,,,,Journal of Multicultural Counseling and Development,0.8
+venue,1667500,,,,,,,,Frontiers for Young Minds,
+venue,1667550,,,,,,,,Behavior Analyst,
+venue,1667551,,,,,,,,Aging Neuropsychology and Cognition,1.6
+venue,1667579,,,,,,,,International Journal of Bilingualism,1.3
+venue,1667646,,,,,,,,Natural Language and Linguistic Theory,0.8
+venue,1667651,,,,,,,,Journal of English Linguistics,0.9
+venue,1667790,,,,,,,,International Journal of Education,
+venue,1667914,,,,,,,,Journal of Career Assessment,2.8
+venue,1668264,,,,,,,,Educational Psychology Review,10.1
+venue,1668301,,,,,,,,Linguistics and Philosophy,1.1
+venue,1668404,,,,,,,,Technology and Disability,0.7
+venue,1668436,,,,,,,,Child & Family Behavior Therapy,0.4
+venue,1668438,,,,,,,,The journal of positive psychology,
+venue,1668482,,,,,,,,Consulting Psychology Journal: Practice and Research,0.9
+venue,1668719,,,,,,,,ICPhS,
+venue,1668936,,,,,,,,Experimental psychology,1.1
+venue,1669029,,,,,,,,Journal of Applied Animal Welfare Science,1.4
+venue,1669137,,,,,,,,IEEE Transactions on Haptics,2.4
+venue,1669196,,,,,,,,Journal of mental health counseling,
+venue,1669266,,,,,,,,Developmental Review,5.7
+venue,1669355,,,,,,,,Language and Linguistics Compass,2.8
+venue,1669394,,,,,,,,Contemporary drug problems,2.3
+venue,1669396,,,,,,,,School Psychology Quarterly,
+venue,1669427,,,,,,,,"Mind, Culture, and Activity",1.8
+venue,1669578,,,,,,,,Journal of Psychophysiology,0.9
+venue,1669598,,,,,,,,Evolutionary Psychology,1.1
+venue,1669630,,,,,,,,Journal of Gay and Lesbian Social Services,1.3
+venue,1669694,,,,,,,,Journal of Educational and Behavioral Statistics,1.9
+venue,1669996,,,,,,,,Language and Cognitive Processes,
+venue,1670156,,,,,,,,Journal of applied research in memory and cognition,2.8
+venue,1670233,,,,,,,,The Linguistic Review,0.7
+venue,1670340,,,,,,,,Advances in social work,
+venue,1670358,,,,,,,,"Equality, Diversity and Inclusion",
+venue,1670430,,,,,,,,Journal of Constructivist Psychology,1.0
+venue,1670452,,,,,,,,Learning Disabilities Research and Practice,1.9
+venue,1670525,,,,,,,,European Journal of Developmental Psychology,1.9
+venue,1670542,,,,,,,,Merrill-palmer Quarterly,
+venue,1670587,,,,,,,,Cognitive Linguistics,1.8
+venue,1670610,,,,,,,,Topics in Cognitive Science,2.9
+venue,1670668,,,,,,,,Interface Focus,3.6
+venue,1670772,,,,,,,,Journal of cognitive psychology,1.2
+venue,1670811,,,,,,,,"Language, cognition and neuroscience",1.6
+venue,1670878,,,,,,,,Psychology of Learning and Motivation,
+venue,1670978,,,,,,,,School Effectiveness and School Improvement,2.8
+venue,1671069,,,,,,,,"Personality Disorders: Theory, Research, and Treatment",3.0
+venue,1671173,,,,,,,,Sleep Health,3.4
+venue,1671228,,,,,,,,Theoretical Linguistics,0.6
+venue,1671236,,,,,,,,Behavioral Medicine,2.0
+venue,1671264,,,,,,,,Journal of Phenomenological Psychology,
+venue,1671309,,,,,,,,Social Work Research,1.2
+venue,1671462,,,,,,,,Behavior analysis in practice,2.1
+venue,1671547,,,,,,,,"Emotion, Space and Society",1.9
+venue,1671658,,,,,,,,Attachment & Human Development,3.3
+venue,1671709,,,,,,,,Studies in natural language and linguistic theory,
+venue,1671825,,,,,,,,Journal of Police and Criminal Psychology,1.7
+venue,1672117,,,,,,,,Phonology,0.7
+venue,1672135,,,,,,,,Glossa,0.9
+venue,1672288,,,,,,,,Applied Psychophysiology and Biofeedback,2.2
+venue,1672306,,,,,,,,The Journal of the Association for Persons with Severe Handicaps,
+venue,1672368,,,,,,,,"Group Dynamics: Theory, Research, and Practice",1.8
+venue,1672403,,,,,,,,Clinical psychological science,4.8
+venue,1672439,,,,,,,,Emotion Review,3.0
+venue,1672681,,,,,,,,Journal of Rational-emotive & Cognitive-behavior Therapy,1.7
+venue,1672706,,,,,,,,Journal of The Polynesian Society,0.4
+venue,1672722,,,,,,,,Nytt i suicidologi,
+venue,1672928,,,,,,,,Theoretical Issues in Ergonomics Science,1.4
+venue,1673024,,,,,,,,Applied Measurement in Education,1.1
+venue,1673050,,,,,,,,Journal of Cognition and Development,1.6
+venue,1673092,,,,,,,,Behavioral Sleep Medicine,2.2
+venue,1673134,,,,,,,,The Journal of the Learning Sciences,3.0
+venue,1673225,,,,,,,,Maine Policy Review,
+venue,1673486,,,,,,,,Self and Identity,1.7
+venue,1673489,,,,,,,,Human Performance,2.9
+venue,1673506,,,,,,,,Languages,0.9
+venue,1673681,,,,,,,,Human Nature,2.2
+venue,1673860,,,,,,,,International Journal of Training and Development,1.5
+venue,1673868,,,,,,,,North American Journal of Psychology,
+venue,1673998,,,,,,,,"Equality, Diversity and Inclusion: An International Journal",2.0
+venue,1674004,,,,,,,,Judgment and Decision Making,1.9
+venue,1674131,,,,,,,,Journal of education for students placed at risk,2.0
+venue,1674149,,,,,,,,Journal of Adult Development,1.8
+venue,1674285,,,,,,,,Journal of Literacy Research,1.4
+venue,1674445,,,,,,,,Learning & Behavior,1.9
+venue,1674510,,,,,,,,Psychology of Violence,2.4
+venue,1674676,,,,,,,,Psychology of Religion and Spirituality,2.2
+venue,1675128,,,,,,,,Journal of Obsessive-Compulsive and Related Disorders,1.9
+venue,1675161,,,,,,,,Wiley Interdisciplinary Reviews: Cognitive Science,3.2
+venue,1675309,,,,,,,,Social Work in Mental Health,1.1
+venue,1675321,,,,,,,,Annals of Dyslexia,2.1
+venue,1675478,,,,,,,,North East Linguistics Society,
+venue,1675667,,,,,,,,Journal of Psychology and Christianity,
+venue,1675871,,,,,,,,Forum Qualitative Social Research,
+venue,1675947,,,,,,,,Research Synthesis Methods,5.0
+venue,1676053,,,,,,,,Applied Developmental Science,1.7
+venue,1676192,,,,,,,,Multicultural Education,
+venue,1676255,,,,,,,,Journal of Semantics,2.0
+venue,1676706,,,,,,,,International review of qualitative research,
+venue,1676715,,,,,,,,Review of Philosophy and Psychology,1.8
+venue,1676840,,,,,,,,Journal of Child & Adolescent Trauma,1.7
+venue,1676971,,,,,,,,Media Psychology,3.4
+venue,1677035,,,,,,,,Journal of Theoretical and Philosophical Psychology,1.0
+venue,1677111,,,,,,,,Sexual Addiction and Compulsivity: The Journal of Treatment and Prevention,
+venue,1677113,,,,,,,,Psychology of sexual orientation and gender diversity,3.6
+venue,1677128,,,,,,,,Personality and Mental Health,2.0
+venue,1677506,,,,,,,,Language Variation and Change,1.4
+venue,1677699,,,,,,,,Cognition and Instruction,2.3
+venue,1677769,,,,,,,,Journal of contextual behavioral science,3.4
+venue,1678015,,,,,,,,The journal of baccalaureate social work,
+venue,1678635,,,,,,,,Journal of the Scholarship of Teaching and Learning,
+venue,1678999,,,,,,,,Advances in Experimental Social Psychology,
+venue,1679312,,,,,,,,Social Psychology,1.2
+venue,1679343,,,,,,,,Emerging adulthood,2.6
+venue,1679770,,,,,,,,Journal of Public Child Welfare,1.2
+venue,1680065,,,,,,,,Personality and Social Psychology Review,7.7
+venue,1680280,,,,,,,,Probus,0.3
+venue,1681391,,,,,,,,Proceedings of meetings on acoustics,
+venue,1681627,,,,,,,,Morphology,1.5
+venue,1681711,,,,,,,,Journal of Mixed Methods Research,3.8
+venue,1681770,,,,,,,,International Journal of Cross Cultural Management,2.0
+venue,1682095,,,,,,,,European journal of behavior analysis,
+venue,1682178,,,,,,,,Neurobiology of Stress,4.3
+venue,1682350,,,,,,,,Journal of Aging Research,1.6
+venue,1682638,,,,,,,,Language Acquisition: A Journal of Developmental Linguistics,1.3
+venue,1682695,,,,,,,,Journal of Mind and Behavior,
+venue,1682897,,,,,,,,Asian American Journal of Psychology,2.4
+venue,1682947,,,,,,,,Stigma and health,2.7
+venue,1683129,,,,,,,,Contemporary School Psychology,
+venue,1683158,,,,,,,,International journal of play,0.6
+venue,1683457,,,,,,,,Language and Cognition,1.1
+venue,1683535,,,,,,,,International Journal of Cognitive Therapy,1.5
+venue,1683781,,,,,,,,"Technology, Knowledge, and Learning",3.0
+venue,1683844,,,,,,,,Journal of The Society for Social Work and Research,1.6
+venue,1684218,,,,,,,,Health equity,2.6
+venue,1684514,,,,,,,,AIMS public health,3.1
+venue,1684529,,,,,,,,The Academy of Management Annals,14.3
+venue,1684605,,,,,,,,Parenting: Science and Practice,2.3
+venue,1685225,,,,,,,,Health Psychology Review,6.6
+venue,1685309,,,,,,,,International and cultural psychology series,
+venue,1685312,,,,,,,,Cognitive Research: Principles and Implications,3.4
+venue,1685487,,,,,,,,Bulgarian Comparative Education Society,
+venue,1686223,,,,,,,,Annual Review of Clinical Psychology,17.8
+venue,1686275,,,,,,,,Language Learning and Development,1.5
+venue,1686448,,,,,,,,Journal of Forensic Psychology Practice,
+venue,1686635,,,,,,,,Spatial Cognition and Computation,1.6
+venue,1686658,,,,,,,,Journal of Applied School Psychology,1.1
+venue,1686765,,,,,,,,Power and Education,0.8
+venue,1686807,,,,,,,,Psi Chi Journal of Psychological Research,
+venue,1686917,,,,,,,,Journal of Advanced Academics,1.3
+venue,1687007,,,,,,,,Journal of Workplace Behavioral Health,1.5
+venue,1687027,,,,,,,,Journal of Experimental Psychopathology,1.0
+venue,1687747,,,,,,,,Journal of organizational psychology,
+venue,1688002,,,,,,,,Journal of Lgbt Issues in Counseling,
+venue,1688233,,,,,,,,International Journal of STEM Education,5.6
+venue,1688302,,,,,,,,Journal of Social and Political Psychology,1.8
+venue,1688382,,,,,,,,Linguistics vanguard,1.1
+venue,1688661,,,,,,,,International Journal of Artificial Intelligence in Education,4.7
+venue,1688720,,,,,,,,Implementation science communications,
+venue,1689081,,,,,,,,Journal of Biology Education,
+venue,1689411,,,,,,,,The Professional Counselor,
+venue,1689425,,,,,,,,Evolutionary Psychological Science,1.4
+venue,1690045,,,,,,,,Motivation science,3.0
+venue,1691904,,,,,,,,Natural Language Semantics,0.9
+venue,1691964,,,,,,,,The International Journal of Behavioral Consultation and Therapy,
+venue,1692123,,,,,,,,Collabra,3.1
+venue,1692332,,,,,,,,Ergo,0.5
+venue,1692590,,,,,,,,Proceedings of the annual meetings on phonology,
+venue,1692681,,,,,,,,American Journal of Play,0.6
+venue,1692788,,,,,,,,The Italian Journal of Linguistics,
+venue,1692961,,,,,,,,Research on Child and Adolescent Psychopathology,2.9
+venue,1693766,,,,,,,,Network neuroscience,3.6
+venue,1693956,,,,,,,,Couple and Family Psychology,1.9
+venue,1693959,,,,,,,,Laboratory Phonology,1.3
+venue,1694405,,,,,,,,Interpersona: an international journal on personal relationships,
+venue,1694415,,,,,,,,The Journal of Classroom Interaction,
+venue,1694670,,,,,,,,Administrative Issues Journal,
+venue,1695068,,,,,,,,The Journal of Humanistic Counseling,0.8
+venue,1695081,,,,,,,,Academy of Management discoveries,4.3
+venue,1695185,,,,,,,,American Journal of Applied Psychology,
+venue,1695254,,,,,,,,University of Massachusetts Occasional Papers in Linguistics,
+venue,1695567,,,,,,,,PubMed,
+venue,1695816,,,,,,,,The Journal of Abnormal Psychology and Social Psychology,
+venue,1695926,,,,,,,,PNAS nexus,2.2
+venue,1696105,,,,,,,,Women's reproductive health,
+venue,1696453,,,,,,,,The journal of counselor preparation and supervision,
+venue,1696469,,,,,,,,Language and culture,
+venue,1696904,,,,,,,,Trends in Psychology,
+venue,1697792,,,,,,,,Qualitative psychology,11.7
+venue,1699562,,,,,,,,Journal of Portuguese Linguistics,0.2
+venue,1699850,,,,,,,,Perspectives on behavior science,2.5
+venue,1700429,,,,,,,,Cultural diversity and mental health,
+venue,1701465,,,,,,,,Catalan journal of linguistics,0.7
+venue,1701736,,,,,,,,The International journal of clinical neuropsychology,
+venue,1702853,,,,,,,,Others,
+venue,1703972,,,,,,,,Evolutionary human sciences,2.2
+venue,1703980,,,,,,,,Psychological Science in the Public Interest,18.2
+venue,1704816,,,,,,,,Advances in methods and practices in psychological science,15.6
+venue,1705011,,,,,,,,Global Journal of Community Psychology Practice,
+venue,1705069,,,,,,,,Journal of sociology and social work,
+venue,1705465,,,,,,,,Affective Science,2.1
+venue,1705829,,,,,,,,Teaching Exceptional Children-Plus,
+venue,1706487,,,,,,,,Counseling Outcome Research and Evaluation,
+venue,1707235,,,,,,,,Journal of psychopathology and clinical science,3.1
+venue,1707444,,,,,,,,Occupational health science,1.6
+venue,1707666,,,,,,,,Child development research,
+venue,1707734,,,,,,,,Journal of counselor leadership and advocacy,
+venue,1709303,,,,,,,,Journal of latinx psychology,2.1
+venue,1709496,,,,,,,,Implementation research and practice,
+venue,1710051,,,,,,,,Reviews of Human Factors and Ergonomics,
+venue,1710085,,,,,,,,Neurobiology of language,3.6
+venue,1710308,,,,,,,,Journal of linguistic geography,
+venue,1710376,,,,,,,,Computers in education journal,
+venue,1710410,,,,,,,,Open Mind,
+venue,1710646,,,,,,,,Journal of civil engineering education,1.2
+venue,1710787,,,,,,,,Auditory perception & cognition,
+venue,1711054,,,,,,,,Phonology yearbook,
+venue,1711154,,,,,,,,Disciplinary and Interdisciplinary Science Education Research,
+venue,1711304,,,,,,,,Social Science & Medicine. Part E: Medical Psychology,
+venue,1711901,,,,,,,,Journal of LGBTQ Issues in Counseling,0.7
+venue,1712049,,,,,,,,Personality science,
+venue,1712070,,,,,,,,Journal of counseling sexology & sexual wellness,
+venue,1712586,,,,,,,,Phonological data & analysis,
+venue,1712610,,,,,,,,Community psychology,
+venue,1712724,,,,,,,,Glossa Psycholinguistics,
+venue,1712747,,,,,,,,Journal of Experimental Psychology: General,3.7
+venue,1712891,,,,,,,,Journal of technology in counselor education and supervision,
+venue,1713001,,,,,,,,Journal of Psychological Trauma,

@@ -1,0 +1,429 @@
+venue_db_id,name,jcr_jif
+1647091,The Lancet,98.4
+1647092,Nature,50.5
+1647093,British Medical Journal (BMJ),93.6
+1647094,Science,44.7
+1647096,PLOS ONE,2.9
+1647097,JAMA,63.1
+1647105,Scientific Reports,3.8
+1647108,PNAS,9.4
+1647125,The New England Journal of Medicine,96.2
+1647129,The Astrophysical Journal,4.8
+1647132,IEEE Conference Proceedings,
+1647143,American Journal of Obstetrics and Gynecology,8.7
+1647148,Journal of the American Medical Association,
+1647150,Monthly Notices of the Royal Astronomical Society,4.7
+1647166,Astronomy and Astrophysics,5.4
+1647169,Annals of the New York Academy of Sciences,4.1
+1647181,Annals of Internal Medicine,19.6
+1647195,Sustainability,3.3
+1647198,Fertility and Sterility,6.6
+1647213,International Journal of Environmental Research and Public Health,
+1647240,Proceedings of the American Mathematical Society,0.8
+1647242,American Mathematical Monthly,0.4
+1647243,Nature Communications,14.7
+1647251,The Journal of Pediatrics,3.9
+1647255,Proceedings - Academy of Management,
+1647296,Alzheimers & Dementia,13.0
+1647305,Neurosurgery,3.9
+1647309,Obstetrics & Gynecology,5.7
+1647327,Science News,
+1647337,Annals of Surgery,7.5
+1647370,Journal of Cleaner Production,9.7
+1647371,Transportation Research Record,1.6
+1647395,MPRA Paper,
+1647405,Frontiers in Psychology,2.6
+1647410,American Political Science Review,5.9
+1647434,Annals of The American Academy of Political and Social Science,2.5
+1647461,Transactions of the American Mathematical Society,1.2
+1647474,Journal of Vision,2.0
+1647486,Physica A: Statistical Mechanics and its Applications,2.8
+1647487,The Astronomical Journal,5.1
+1647506,BMJ Open,2.4
+1647543,Journal of the American Statistical Association,3.0
+1647555,American Journal of Sociology,4.4
+1647607,Cell,45.5
+1647618,Academic Medicine,5.3
+1647629,Journal of Neurosurgery,3.5
+1647650,Bulletin of the American Meteorological Society,6.9
+1647666,American Journal of Public Health,9.6
+1647693,Journal of The American College of Surgeons,3.8
+1647709,Social Forces,3.3
+1647716,European Journal of Operational Research,6.0
+1647718,American Journal of Epidemiology,5.0
+1647792,American Psychologist,12.3
+1647803,Water Resources Research,4.6
+1647805,BMC Public Health,3.5
+1647819,PsycEXTRA Dataset,
+1647839,Social Science & Medicine,4.9
+1647845,Foreign Affairs,6.3
+1647863,Harvard Law Review,3.5
+1647874,The Economic Journal,3.8
+1647893,The Journal of Higher Education,2.6
+1647989,Nature Biotechnology,33.1
+1648023,Journal of Environmental Management,8.0
+1648039,Yale Law Journal,5.2
+1648077,Political Science Quarterly,0.8
+1648093,Journal of Personality and Social Psychology,6.4
+1648096,Child Development,3.9
+1648191,Communications of The ACM,11.1
+1648193,Journal of Finance,7.6
+1648203,Journal of Political Economy,6.9
+1648217,Teachers College Record,1.3
+1648218,Energy Policy,9.3
+1648226,Journal of Southern History,0.8
+1648280,Industrial and Labor Relations Review,2.9
+1648308,The Economic History Review,1.4
+1648390,Proceedings of The Royal Society B: Biological Sciences,3.8
+1648413,The Journal of Economic History,2.5
+1648420,Environmental Research,7.7
+1648434,American Journal of Agricultural Economics,4.2
+1648458,International Journal of Epidemiology,6.4
+1648459,Economics Letters,2.1
+1648465,National Bureau of Economic Research,
+1648473,Columbia Law Review,3.4
+1648479,Mathematische Annalen,1.3
+1648501,Palgrave Macmillan Books,
+1648514,Communications in Statistics,0.6
+1648518,Biometrika,2.4
+1648524,American Sociological Review,7.1
+1648535,Chapters,
+1648613,Management Science,4.6
+1648708,IEEE Communications Magazine,8.3
+1648713,Journal of Educational Psychology,5.6
+1648721,Technometrics,2.3
+1648737,The Journal of Politics,3.5
+1648801,Proceedings of the AAAI Conference on Artificial Intelligence,
+1648851,PS Political Science & Politics,2.2
+1648890,Psychological Bulletin,17.3
+1648928,Health Affairs,8.6
+1648932,Economica,1.6
+1648970,Southern Economic Journal,1.8
+1648971,Annual Meeting of the Association for Computational Linguistics (ACL),
+1648972,Developmental Psychology,3.1
+1648986,Applied Economics,1.8
+1649012,Biometrics,1.4
+1649056,The American Economic Review,10.5
+1649183,Proceedings of the Royal Society of London,
+1649185,Urban Studies,4.2
+1649252,Preventive Medicine,4.3
+1649355,Journal of Business Ethics,5.9
+1649369,Statistics & Probability Letters,0.9
+1649464,Economic Geography,7.2
+1649506,IEEE Journal on Selected Areas in Communications,13.8
+1649604,Frontiers in Medicine,3.1
+1649646,World Development,5.4
+1649704,Educational and Psychological Measurement,2.1
+1649768,Journal of Interdisciplinary History,0.3
+1649798,Neural Computing and Applications,4.5
+1649827,Proceedings of The London Mathematical Society,1.5
+1649832,Public Administration Review,6.1
+1649944,Jahrbucher Fur Nationalokonomie Und Statistik,1.1
+1649995,IMF working paper,
+1650010,Agricultural Water Management,5.9
+1650079,Applied Economics Letters,1.2
+1650086,Ecological Economics,6.6
+1650113,Journal of experimental psychology,
+1650182,Operations Research,2.2
+1650206,Computational Statistics & Data Analysis,1.5
+1650214,NBER Chapters,
+1650229,Journal of Marketing Research,5.1
+1650235,The Review of Economics and Statistics,7.6
+1650256,Children and Youth Services Review,2.4
+1650304,Environment and Planning A,4.6
+1650343,Econometrica,6.6
+1650344,Conference on Empirical Methods in Natural Language Processing (EMNLP),
+1650354,Psychological Review,5.1
+1650368,Land Use Policy,6.0
+1650511,Journal of Travel Research,8.0
+1650545,Journal of Banking and Finance,3.6
+1650632,Environmental Research Letters,5.8
+1650681,Quarterly Journal of Economics,11.1
+1650714,World Bank policy research working paper,
+1650876,Journal of Economic Behavior and Organization,2.3
+1650987,Journal of Interpersonal Violence,2.6
+1651054,BMC Pregnancy and Childbirth,2.8
+1651094,Energy Economics,13.6
+1651122,Annals of Statistics,3.2
+1651169,Educational Researcher,5.4
+1651262,Journal of Econometrics,9.9
+1651281,Psychological Science,4.8
+1651282,Journal of Economic Theory,1.4
+1651301,Risk Analysis,3.0
+1651303,Business Horizons,5.8
+1651386,Social Indicators Research,2.8
+1651435,Review of Educational Research,8.3
+1651469,Journal of Economic Issues,1.0
+1651529,"Journal of Combinatorial Theory, Series A",0.9
+1651533,Computers & education,8.9
+1651613,Financial Analysts Journal,3.4
+1651635,Economic Modelling,4.2
+1651636,European Economic Review,2.8
+1651684,Archives of Sexual Behavior,2.9
+1651712,Public Choice,1.6
+1651728,Regional Studies,4.4
+1651732,Journal of Statistical Computation and Simulation,1.1
+1651804,Personality and Social Psychology Bulletin,3.4
+1651811,Journal of Policy Analysis and Management,2.3
+1651823,Health Services Research,3.1
+1651834,The American Journal of Economics and Sociology,0.9
+1651909,Economics Bulletin,
+1652059,Population Studies-a Journal of Demography,2.5
+1652322,Journal of Public Economics,4.8
+1652324,Annals of Mathematical Statistics,
+1652374,Journal of education for business,1.3
+1652464,Population and Development Review,4.6
+1652476,Economic Development and Cultural Change,2.0
+1652518,Research Policy,7.5
+1652533,The World Economy,2.6
+1652569,IEEE Micro,2.8
+1652642,National Tax Journal,1.8
+1652761,Journal of Experimental Social Psychology,3.2
+1652768,Journal of Financial Economics,10.4
+1652878,"Journal of Money, Credit and Banking",1.2
+1652958,Land Economics,1.3
+1653027,Canadian Journal of Economics,1.3
+1653057,Journal of Economic Dynamics and Control,1.9
+1653111,Administrative Science Quarterly,8.3
+1653127,Journal of the Royal Society Interface,3.7
+1653200,Resources Policy,
+1653213,American Educational Research Journal,3.5
+1653261,Journal of Development Economics,5.1
+1653271,"Work, Employment & Society",2.7
+1653279,Economic Inquiry,1.7
+1653316,Strategic Management Journal,6.5
+1653339,The Review of Economic Studies,5.9
+1653450,Journal of Development Studies,1.8
+1653481,International Journal of Human Resource Management,4.9
+1653499,Journal of the American Society for Information Science,
+1653503,Health Economics,2.0
+1653524,Journal of Biosocial Science,1.5
+1653699,Agricultural Economics,4.5
+1653709,Papers in Regional Science,2.4
+1653733,Journal of International Economics,3.8
+1653758,Psychometrika,2.9
+1653858,Games and Economic Behavior,1.0
+1653909,Demography,3.6
+1653926,Telecommunications Policy,5.9
+1653963,Journal of Risk and Insurance,2.1
+1654001,Journal of Monetary Economics,4.3
+1654005,Journal of Financial and Quantitative Analysis,3.7
+1654026,Journal of Industrial Relations,2.2
+1654053,International Journal of Drug Policy,4.4
+1654207,The Journal of Business,
+1654364,Journal of Business & Economic Statistics,2.9
+1654392,Journal of Macroeconomics,1.3
+1654527,International Economic Review,1.5
+1654535,Journal of Regional Science,3.2
+1654545,History of Political Economy,1.2
+1654566,International Journal of Forecasting,6.9
+1654688,Kyklos,1.5
+1654727,Empirical Economics,1.9
+1654760,Managerial and Decision Economics,2.5
+1655113,Journal of Economic Education,1.7
+1655121,Journal of International Money and Finance,2.8
+1655205,Social Science Quarterly,1.8
+1655320,Finance Research Letters,7.4
+1655387,American Journal of Political Science,5.0
+1655409,California Management Review,6.3
+1655499,Economics of Education Review,1.8
+1655568,Review of Financial Studies,6.8
+1655655,Journal of Comparative Economics,2.8
+1655697,IEEE Annals of the History of Computing,0.5
+1655738,Journal of Human Resources,5.3
+1655888,British Journal of Industrial Relations,1.3
+1656046,Review of Social Economy,1.6
+1656063,Economic Theory,1.2
+1656405,Forest Policy and Economics,4.0
+1656433,Journal of Health Economics,3.4
+1656445,Journal of Mathematical Economics,1.0
+1656474,Environmental and Resource Economics,3.2
+1656517,Atlantic Economic Journal,0.5
+1656586,The Energy Journal,1.9
+1656773,Social Science History,0.5
+1656836,Journal of Environmental Economics and Management,5.5
+1656916,Journal of Economic Psychology,2.5
+1656966,Journal of Urban Economics,5.7
+1656990,Small Business Economics,6.5
+1657014,First Monday,
+1657084,Econometric Theory,1.0
+1657165,Journal of Economics,1.6
+1657173,Regional Science and Urban Economics,3.5
+1657203,Socio-economic Planning Sciences,6.2
+1657371,Annals of Regional Science,2.2
+1657408,International Journal of Industrial Organization,1.7
+1657572,Review of Income and Wealth,1.9
+1657589,Organization Science,4.9
+1657617,Cambridge Journal of Economics,2.0
+1657683,International Studies Quarterly,2.4
+1657726,Journal of Economic Literature,11.5
+1657773,Management Information Systems Quarterly,7.0
+1657968,Journal of Applied Econometrics,2.3
+1658068,Business Ethics Quarterly,3.4
+1658095,Journal of the royal statistical society series b-methodological,
+1658123,Applied Financial Economics,
+1658165,Journal of Corporate Finance,7.2
+1658190,Journal of Economic Perspectives,6.9
+1658315,Research in Higher Education,1.9
+1658327,Social Choice and Welfare,0.5
+1658431,Educational Evaluation and Policy Analysis,2.4
+1658465,Industrial Relations,2.4
+1658508,Industrial Relations Journal,1.6
+1658633,Theory and Decision,0.9
+1658964,Oxford Bulletin of Economics and Statistics,1.5
+1659110,The Quarterly Review of Economics and Finance,2.9
+1659245,The Review of Higher Education,2.9
+1659275,International Journal of Wildland Fire,2.9
+1659334,Labour Economics,2.2
+1659406,Journal of Industrial Economics,1.7
+1659539,Contemporary Economic Policy,1.7
+1659589,The Journal of Law and Economics,2.2
+1659654,China Economic Review,5.2
+1659878,Leadership Quarterly,9.1
+1659918,Metroeconomica,1.0
+1659919,The American economist,
+1660079,Journal of Labor Economics,3.9
+1660310,Review of International Economics,1.0
+1660637,Economic & Industrial Democracy,1.7
+1660699,International Journal of Game Theory,0.6
+1660833,Macroeconomic Dynamics,0.7
+1660887,The RAND Journal of Economics,2.8
+1660978,Review of Industrial Organization,0.8
+1661087,Demographic Research,2.1
+1661273,The Journal of Legal Studies,0.9
+1661334,Journal of the history of economic thought,1.2
+1661766,Labor Studies Journal,
+1661981,Journal of Accounting and Economics,5.4
+1662051,Explorations in Economic History,2.6
+1662112,European Journal of The History of Economic Thought,0.6
+1662231,The Journal of Investing,0.6
+1662260,Review of Development Economics,2.0
+1662270,Real Estate Economics,2.0
+1662531,Industrial and Corporate Change,2.8
+1662612,Structural Change and Economic Dynamics,5.0
+1662679,International Review of Law and Economics,0.9
+1662707,Journal of Empirical Finance,2.1
+1662723,The World Bank Economic Review,2.3
+1662929,Review of Political Economy,1.2
+1662970,Journal of the European Economic Association,3.9
+1662981,Sociology Of Education,3.3
+1663097,Journal of Population Economics,3.3
+1663132,Public Budgeting & Finance,0.9
+1663158,Journal of Labor Research,1.0
+1663247,Civil war book review,
+1663267,Utilitas,1.2
+1663286,Journal of The Royal Statistical Society Series B-statistical Methodology,3.1
+1663446,Economic Policy,4.5
+1663448,Nber Macroeconomics Annual,7.5
+1663567,Journal of Economics and Management Strategy,1.2
+1663605,Research in Transportation Economics,4.6
+1663643,Work And Occupations,4.4
+1663820,"Proceedings of the National Academy of Sciences, India, Section B: biological sciences",
+1663848,Journal of Public Policy,1.9
+1664030,Review of World Economics,1.5
+1664051,Journal of Economic Surveys,5.9
+1664286,Annual Review of Sociology,8.9
+1664828,Journal of Evolutionary Economics,1.3
+1664955,Working paper,
+1665014,Econometric reviews,
+1665289,Journal of Public Economic Theory,1.1
+1665510,Manufacturing & Service Operations Management,4.8
+1665584,Review of Economic Dynamics,2.3
+1665823,International Tax and Public Finance,1.0
+1665884,Economic Development Quarterly,1.7
+1666132,Journal of family and economic issues,2.3
+1666167,Brookings papers on economic activity,2.7
+1666319,B E Journal of Economic Analysis & Policy,1.1
+1666431,Education Next,
+1666606,Journal of population studies,
+1666939,Cambridge Books,
+1667232,Labour,0.7
+1667735,Journal of Economic Geography,3.1
+1667817,World Trade Review,2.2
+1668090,Economic Systems,2.8
+1668097,Resource and Energy Economics,2.6
+1669070,"The journal of law, economics, & organization",1.3
+1669213,Education Economics,
+1669495,Journal of Sports Economics,1.8
+1669694,Journal of Educational and Behavioral Statistics,1.9
+1669730,Journal of Risk and Uncertainty,1.3
+1670032,The Independent Review,0.3
+1670384,Journal of Financial Intermediation,3.1
+1670393,Journal of Education Finance,0.2
+1670603,Journal of Housing Economics,1.4
+1670930,Journal of behavioral and experimental economics,1.6
+1671024,Election Law Journal,1.3
+1671152,Public Finance Review,0.5
+1671322,Research in Economics,1.2
+1671351,Information Systems Review,
+1671616,Experimental Economics,1.7
+1671786,Journal of Derivatives,0.4
+1672159,Journal of Institutional Economics,2.4
+1672534,International Journal of Central Banking,1.4
+1672877,Journal of Agricultural and Resource Economics,1.2
+1673785,Indian economic review,
+1673814,Constitutional Political Economy,0.8
+1674139,The Indian Economic Journal,
+1674961,AEA papers and proceedings,
+1675367,New York Review of Books,
+1675811,American Economic Journal: Economic Policy,5.6
+1675890,Journal of Empirical Legal Studies,1.2
+1676660,American Economic Journal: Microeconomics,2.2
+1677031,American Economic Journal: Applied Economics,5.5
+1677173,Games,0.6
+1677174,Federal Reserve Bank of St Louis Review,2.9
+1677366,Journal of Forest Economics,0.7
+1678620,Review of Finance,5.6
+1678961,Theoretical Economics,1.2
+1679999,AERA Open,3.5
+1680197,European Review of Economic History,1.2
+1680266,Research in labor economics,
+1680289,American Economic Journal: Macroeconomics,6.3
+1680485,Economic Perspectives,
+1680489,Decision Analysis,2.5
+1680783,CESifo Economic Studies,0.8
+1681188,Review of Economic Design,0.3
+1681215,Journal of Income Distribution,
+1682612,Journal of Behavioral Economics,
+1682803,Quantitative Economics,1.9
+1682828,Frontiers of Economics in China,1.5
+1683818,The Bell Journal of Economics,
+1683928,Education Finance and Policy,1.7
+1684210,Econometric Society World Congress 2000 Contributed Papers,
+1684321,International Review of Economics Education,1.3
+1684814,American Law and Economics Review,1.0
+1685080,Annual Review of Economics,6.8
+1687490,Journal of Economic Growth,2.3
+1688966,Journal of the Association of Environmental and Resource Economists,
+1689190,Environmental and Resource Economics Review,
+1689341,Annual Review of Resource Economics,4.2
+1690397,Journal of international finance and economics,
+1691365,International Journal of Sport Finance,0.9
+1693038,China Economic Journal,3.7
+1693880,Journal of Human Capital,1.6
+1694339,Quarterly Journal of Political Science,1.5
+1694592,Journal of Environmental Economics and Policy,1.9
+1694747,Quantitative marketing and economics,1.3
+1696171,Journal of Entrepreneurship and Public Policy,1.5
+1696513,2009 Meeting Papers,
+1696537,Cliometrica,1.5
+1697014,Survey research methods,0.9
+1698591,ACM transactions on economics and computation,1.1
+1699443,Journal of demographic economics,1.3
+1699608,2015 Meeting Papers,
+1700903,The Review of Asset Pricing Studies,2.2
+1701734,Energies (Web),
+1702828,American journal of health economics,3.1
+1703861,Strategy science,2.9
+1704483,Geneva Risk and Insurance Review,0.7
+1705300,Review of behavioral economics,0.6
+1706935,Antitrust Law Journal,
+1707376,Critical finance review,1.6
+1709162,IZA Journal of Labor Economics,
+1709300,The IUP Journal of Monetary Economics,
+1709377,Oxford Economic Papers,
+1709635,Handbook of Econometrics,
+1710543,Journal of The Royal Statistical Society Series A-statistics in Society,
+1711883,Journal of Law Economics & Organization,
+1712938,Journal of public economics plus,
+1713005,Journal of Law and Courts,0.8

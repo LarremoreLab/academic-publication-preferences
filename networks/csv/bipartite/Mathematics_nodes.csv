@@ -1,0 +1,871 @@
+node_type,node_id,field,career_stage,gender,institution_bin_3,institution_bin_10,academia_prestige_bin_3,academia_prestige_bin_10,name,jcr_jif
+respondent,147662,Mathematics,Full Professor,gm,2,5,2,5,,
+respondent,147552,Mathematics,Full Professor,gm,2,5,1,4,,
+respondent,150337,Mathematics,Associate Professor,gf,2,6,2,6,,
+respondent,147704,Mathematics,Associate Professor,gm,3,10,3,9,,
+respondent,153796,Mathematics,Other,gm,2,6,2,5,,
+respondent,149243,Mathematics,Associate Professor,gf,2,6,2,6,,
+respondent,148300,Mathematics,Full Professor,gm,3,8,2,7,,
+respondent,153497,Mathematics,Full Professor,gm,1,2,1,2,,
+respondent,151569,Mathematics,Full Professor,gm,2,5,2,5,,
+respondent,151860,Mathematics,Full Professor,gm,2,7,2,6,,
+respondent,147916,Mathematics,Full Professor,gm,2,5,1,3,,
+respondent,150813,Mathematics,Full Professor,gm,3,10,3,10,,
+respondent,149809,Mathematics,Full Professor,gf,3,10,3,10,,
+respondent,152710,Mathematics,Associate Professor,gm,3,8,3,9,,
+respondent,154625,Mathematics,Full Professor,gm,1,2,1,3,,
+respondent,155148,Mathematics,Associate Professor,gm,1,3,1,2,,
+respondent,149737,Mathematics,Full Professor,gm,2,4,2,5,,
+respondent,155063,Mathematics,Associate Professor,gm,3,10,3,9,,
+respondent,159136,Mathematics,Full Professor,gm,1,3,1,3,,
+respondent,158853,Mathematics,Associate Professor,gm,2,6,2,7,,
+respondent,163179,Mathematics,Full Professor,gm,2,4,2,5,,
+respondent,192807,Mathematics,Full Professor,gm,2,5,2,5,,
+respondent,156863,Mathematics,Full Professor,gm,1,2,1,2,,
+respondent,161476,Mathematics,Full Professor,gf,2,7,2,6,,
+respondent,159137,Mathematics,Associate Professor,gm,2,6,2,6,,
+respondent,158747,Mathematics,Associate Professor,gm,1,3,1,2,,
+respondent,161384,Mathematics,Full Professor,gm,,,3,9,,
+respondent,165216,Mathematics,Full Professor,gm,2,6,2,6,,
+respondent,174720,Mathematics,Full Professor,gf,3,9,3,8,,
+respondent,164815,Mathematics,Assistant Professor,gm,3,9,2,7,,
+respondent,182337,Mathematics,Associate Professor,gm,2,7,2,6,,
+respondent,194563,Mathematics,Full Professor,gm,3,9,3,9,,
+respondent,203636,Mathematics,Assistant Professor,gm,3,7,3,7,,
+respondent,190698,Mathematics,Other,gm,1,2,1,2,,
+respondent,193253,Mathematics,Associate Professor,gm,2,6,2,6,,
+respondent,195940,Mathematics,Full Professor,gm,1,3,1,4,,
+respondent,192689,Mathematics,Full Professor,gm,2,6,2,6,,
+respondent,195078,Mathematics,Full Professor,gf,2,6,2,7,,
+respondent,194749,Mathematics,Full Professor,gm,2,5,2,4,,
+respondent,196131,Mathematics,Assistant Professor,gm,1,4,1,3,,
+respondent,206816,Mathematics,Full Professor,gm,3,7,3,8,,
+respondent,196784,Mathematics,Full Professor,gm,,,,,,
+respondent,190372,Mathematics,Full Professor,gm,1,3,1,4,,
+respondent,195306,Mathematics,Associate Professor,gm,1,4,2,4,,
+respondent,164569,Mathematics,Full Professor,gm,2,4,2,5,,
+respondent,180318,Mathematics,Full Professor,gf,1,1,1,1,,
+respondent,174143,Mathematics,Associate Professor,gm,1,3,2,4,,
+respondent,178331,Mathematics,Full Professor,gm,,,,,,
+respondent,170587,Mathematics,Full Professor,gm,3,10,3,10,,
+respondent,186055,Mathematics,Full Professor,gm,1,1,1,1,,
+respondent,182499,Mathematics,Full Professor,gf,1,2,1,2,,
+respondent,157127,Mathematics,Associate Professor,gm,3,10,3,10,,
+respondent,162363,Mathematics,Full Professor,gm,2,5,2,4,,
+respondent,172854,Mathematics,Full Professor,gm,1,2,1,3,,
+respondent,168889,Mathematics,Other,gm,2,5,1,3,,
+respondent,192988,Mathematics,Full Professor,gm,3,8,2,7,,
+respondent,158404,Mathematics,Associate Professor,gm,2,4,1,3,,
+respondent,159734,Mathematics,Full Professor,gm,2,6,2,6,,
+respondent,159911,Mathematics,Full Professor,gf,1,3,2,4,,
+respondent,160293,Mathematics,Full Professor,gm,1,4,1,3,,
+respondent,195969,Mathematics,Associate Professor,gm,3,10,3,10,,
+respondent,192204,Mathematics,Full Professor,gm,,,3,8,,
+respondent,179215,Mathematics,Associate Professor,gm,1,2,1,2,,
+respondent,148311,Mathematics,Associate Professor,gf,2,4,1,4,,
+respondent,189454,Mathematics,Associate Professor,gm,2,5,2,6,,
+respondent,195360,Mathematics,Full Professor,gm,3,9,3,9,,
+respondent,158009,Mathematics,Associate Professor,gm,2,7,2,7,,
+respondent,159604,Mathematics,Full Professor,gm,,,,,,
+respondent,156264,Mathematics,Full Professor,gm,2,5,2,6,,
+respondent,164389,Mathematics,Full Professor,gm,3,10,3,9,,
+respondent,169744,Mathematics,Full Professor,gm,1,1,1,2,,
+respondent,155809,Mathematics,Full Professor,gm,2,6,2,6,,
+respondent,203322,Mathematics,Full Professor,gm,2,7,3,8,,
+respondent,196745,Mathematics,Full Professor,gm,2,7,2,6,,
+respondent,162083,Mathematics,Full Professor,gm,2,6,2,6,,
+respondent,169947,Mathematics,Full Professor,gm,3,9,3,9,,
+respondent,161602,Mathematics,Associate Professor,gm,1,3,2,4,,
+respondent,186466,Mathematics,Full Professor,gm,2,7,2,6,,
+respondent,187343,Mathematics,Associate Professor,gm,3,9,3,9,,
+respondent,186571,Mathematics,Full Professor,gm,3,8,2,7,,
+respondent,187648,Mathematics,Associate Professor,-,2,4,1,3,,
+respondent,174212,Mathematics,Full Professor,gm,2,5,2,5,,
+respondent,187725,Mathematics,Full Professor,gm,3,10,3,9,,
+respondent,177054,Mathematics,Full Professor,gm,2,7,2,4,,
+respondent,190389,Mathematics,Full Professor,gm,1,2,1,2,,
+respondent,182929,Mathematics,Full Professor,-,1,3,1,3,,
+respondent,177782,Mathematics,Associate Professor,gm,2,6,2,5,,
+respondent,189349,Mathematics,Full Professor,gm,,,,,,
+respondent,188042,Mathematics,Full Professor,-,1,1,1,1,,
+respondent,162803,Mathematics,Associate Professor,gm,3,9,3,9,,
+respondent,192226,Mathematics,Other,gf,3,9,3,9,,
+respondent,198278,Mathematics,Full Professor,gm,2,4,2,4,,
+respondent,198213,Mathematics,Full Professor,gm,1,2,1,3,,
+respondent,198316,Mathematics,Full Professor,gm,1,4,1,3,,
+respondent,203161,Mathematics,Associate Professor,gm,3,9,3,10,,
+respondent,207169,Mathematics,Full Professor,gm,3,8,3,7,,
+respondent,197709,Mathematics,Other,gm,2,6,2,7,,
+respondent,200635,Mathematics,Full Professor,gm,1,3,1,3,,
+respondent,200512,Mathematics,Associate Professor,gm,1,3,1,3,,
+respondent,202837,Mathematics,Associate Professor,gm,2,6,2,6,,
+respondent,202830,Mathematics,Associate Professor,gm,1,1,1,2,,
+respondent,207124,Mathematics,Associate Professor,gm,1,2,1,2,,
+respondent,205484,Mathematics,Full Professor,gm,2,5,2,5,,
+respondent,203330,Mathematics,Full Professor,gm,3,8,2,7,,
+respondent,210490,Mathematics,Full Professor,gf,2,6,2,7,,
+respondent,207267,Mathematics,Full Professor,gm,,,,,,
+respondent,207503,Mathematics,Full Professor,gf,1,3,1,1,,
+respondent,210168,Mathematics,Full Professor,gm,3,9,3,9,,
+respondent,204239,Mathematics,Full Professor,gm,2,4,2,5,,
+respondent,211247,Mathematics,Assistant Professor,gm,,,,,,
+respondent,205789,Mathematics,Associate Professor,gm,2,6,2,7,,
+respondent,206625,Mathematics,Full Professor,gm,1,1,1,1,,
+respondent,205984,Mathematics,Full Professor,gf,2,6,2,6,,
+respondent,203638,Mathematics,Full Professor,gm,1,3,1,2,,
+respondent,205364,Mathematics,Associate Professor,gm,1,2,1,2,,
+respondent,204948,Mathematics,Associate Professor,-,2,6,2,6,,
+respondent,211248,Mathematics,Full Professor,gf,3,7,3,8,,
+respondent,218061,Mathematics,Associate Professor,gm,1,2,1,2,,
+respondent,204420,Mathematics,Associate Professor,gm,,,,,,
+respondent,215236,Mathematics,Full Professor,gm,2,6,2,7,,
+respondent,212859,Mathematics,Full Professor,-,1,1,1,1,,
+respondent,213709,Mathematics,Full Professor,gm,3,9,3,8,,
+respondent,210877,Mathematics,Full Professor,gm,,,,,,
+respondent,188061,Mathematics,Associate Professor,gm,3,9,2,7,,
+respondent,217640,Mathematics,Full Professor,gm,1,3,1,4,,
+respondent,216314,Mathematics,Full Professor,gm,2,6,2,5,,
+respondent,217449,Mathematics,Associate Professor,-,2,5,2,5,,
+respondent,217121,Mathematics,Full Professor,gm,1,2,1,3,,
+respondent,219210,Mathematics,Full Professor,gm,1,1,1,1,,
+respondent,216762,Mathematics,Associate Professor,gm,1,1,1,1,,
+respondent,210111,Mathematics,Full Professor,gm,3,9,3,9,,
+respondent,189274,Mathematics,Associate Professor,gm,1,2,1,3,,
+respondent,208375,Mathematics,Associate Professor,gm,1,4,1,2,,
+respondent,218009,Mathematics,Associate Professor,gf,2,6,2,6,,
+respondent,168477,Mathematics,Full Professor,gm,,,,,,
+respondent,216397,Mathematics,Full Professor,gm,1,3,1,2,,
+respondent,217942,Mathematics,Full Professor,gm,1,3,1,2,,
+respondent,215582,Mathematics,Associate Professor,gm,3,8,3,8,,
+respondent,158465,Mathematics,Full Professor,gm,1,1,1,1,,
+respondent,208962,Mathematics,Full Professor,gm,1,3,1,2,,
+respondent,212102,Mathematics,Associate Professor,gm,3,9,3,9,,
+respondent,187167,Mathematics,Other,gm,1,3,1,2,,
+respondent,166467,Mathematics,Full Professor,gm,1,4,1,3,,
+respondent,216663,Mathematics,Associate Professor,gm,3,10,3,10,,
+respondent,210199,Mathematics,Associate Professor,gm,2,5,1,3,,
+respondent,208385,Mathematics,Full Professor,gm,1,1,1,1,,
+respondent,188757,Mathematics,Full Professor,gm,2,7,3,8,,
+respondent,209673,Mathematics,Full Professor,gm,2,7,2,6,,
+respondent,172775,Mathematics,Associate Professor,-,2,5,2,4,,
+respondent,154954,Mathematics,Other,gm,2,6,2,6,,
+respondent,201901,Mathematics,Full Professor,gm,2,6,2,5,,
+respondent,168850,Mathematics,Associate Professor,gm,1,3,2,4,,
+respondent,201302,Mathematics,Full Professor,gm,3,8,2,7,,
+respondent,217338,Mathematics,Associate Professor,gm,2,4,2,5,,
+respondent,212458,Mathematics,Full Professor,gm,2,5,2,5,,
+respondent,201493,Mathematics,Full Professor,gf,1,1,1,1,,
+respondent,170646,Mathematics,Full Professor,gm,1,2,1,2,,
+respondent,151805,Mathematics,Full Professor,gm,2,5,2,4,,
+respondent,195767,Mathematics,Full Professor,gm,3,9,3,9,,
+respondent,221685,Mathematics,Postdoctoral Researcher,gm,,,,,,
+respondent,210060,Mathematics,Full Professor,gm,1,3,1,2,,
+respondent,201232,Mathematics,Associate Professor,gm,3,8,3,9,,
+respondent,206167,Mathematics,Associate Professor,gm,1,4,1,3,,
+respondent,183690,Mathematics,Associate Professor,gm,3,8,3,8,,
+respondent,189822,Mathematics,Associate Professor,gm,1,4,1,3,,
+respondent,188196,Mathematics,Full Professor,gm,1,3,1,2,,
+respondent,151662,Mathematics,Full Professor,gm,3,10,3,10,,
+respondent,178310,Mathematics,Full Professor,gm,3,9,2,5,,
+respondent,209307,Mathematics,Full Professor,gm,1,1,1,2,,
+respondent,156800,Mathematics,Full Professor,gm,1,3,1,3,,
+respondent,202495,Mathematics,Full Professor,gm,2,6,3,7,,
+respondent,161445,Mathematics,Assistant Professor,gf,3,8,3,9,,
+respondent,150728,Mathematics,Full Professor,gm,2,6,2,5,,
+respondent,195999,Mathematics,Full Professor,gm,1,4,1,3,,
+respondent,169049,Mathematics,Associate Professor,-,1,3,1,2,,
+respondent,173262,Mathematics,Associate Professor,gm,2,5,2,5,,
+respondent,182708,Mathematics,Full Professor,gm,1,2,1,2,,
+respondent,220864,Mathematics,Other,gm,,,,,,
+respondent,185612,Mathematics,Full Professor,gf,3,9,3,8,,
+respondent,163757,Mathematics,Full Professor,gm,,,,,,
+respondent,166601,Mathematics,Associate Professor,gm,3,9,3,9,,
+respondent,173073,Mathematics,Full Professor,gm,,,2,4,,
+respondent,156539,Mathematics,Full Professor,gf,3,9,3,9,,
+respondent,166964,Mathematics,Full Professor,gm,3,9,3,8,,
+respondent,205834,Mathematics,Full Professor,gm,,,,,,
+respondent,214277,Mathematics,Associate Professor,gf,3,7,3,8,,
+respondent,156120,Mathematics,Full Professor,gm,2,4,1,3,,
+respondent,149099,Mathematics,Full Professor,gm,1,3,2,4,,
+respondent,165258,Mathematics,Full Professor,-,3,7,3,8,,
+respondent,209476,Mathematics,Full Professor,gm,1,1,1,1,,
+respondent,149291,Mathematics,Associate Professor,gf,1,4,1,2,,
+respondent,209407,Mathematics,Full Professor,gm,3,9,3,10,,
+respondent,214188,Mathematics,Full Professor,gm,1,2,1,2,,
+respondent,204287,Mathematics,Other,gf,,,,,,
+respondent,195195,Mathematics,Associate Professor,gf,2,5,2,4,,
+respondent,153064,Mathematics,Full Professor,gm,2,7,2,7,,
+respondent,181942,Mathematics,Full Professor,gm,1,2,1,2,,
+respondent,209887,Mathematics,Full Professor,-,2,6,2,6,,
+respondent,185567,Mathematics,Full Professor,gm,2,5,1,4,,
+respondent,217559,Mathematics,Full Professor,gm,1,1,1,1,,
+respondent,195089,Mathematics,Full Professor,gm,1,2,1,2,,
+respondent,155671,Mathematics,Full Professor,gm,3,8,3,8,,
+respondent,180497,Mathematics,Full Professor,gm,1,2,1,3,,
+respondent,155198,Mathematics,Full Professor,gm,2,7,2,6,,
+respondent,166316,Mathematics,Associate Professor,gm,3,10,3,9,,
+respondent,219384,Mathematics,Associate Professor,gm,1,4,1,3,,
+respondent,207213,Mathematics,Full Professor,gm,1,2,1,1,,
+respondent,191418,Mathematics,Other,gm,2,6,2,5,,
+respondent,165053,Mathematics,Full Professor,gm,1,3,2,4,,
+respondent,183397,Mathematics,Full Professor,gm,1,1,1,1,,
+respondent,148256,Mathematics,Full Professor,-,1,1,1,1,,
+respondent,189566,Mathematics,Associate Professor,gm,1,1,1,2,,
+respondent,213174,Mathematics,Full Professor,gm,3,8,2,7,,
+respondent,201708,Mathematics,Associate Professor,gm,3,9,3,9,,
+respondent,164490,Mathematics,Other,gm,2,5,2,6,,
+venue,1647091,,,,,,,,The Lancet,98.4
+venue,1647092,,,,,,,,Nature,50.5
+venue,1647093,,,,,,,,British Medical Journal (BMJ),93.6
+venue,1647094,,,,,,,,Science,44.7
+venue,1647095,,,,,,,,Notes and Queries,0.1
+venue,1647096,,,,,,,,PLOS ONE,2.9
+venue,1647097,,,,,,,,JAMA,63.1
+venue,1647098,,,,,,,,Bulletin of the American Physical Society,
+venue,1647101,,,,,,,,Journal of Biological Chemistry,4.0
+venue,1647102,,,,,,,,AGU Fall Meeting Abstracts,
+venue,1647103,,,,,,,,Blood,21.0
+venue,1647105,,,,,,,,Scientific Reports,3.8
+venue,1647108,,,,,,,,PNAS,9.4
+venue,1647109,,,,,,,,The Medical Journal of Australia,6.7
+venue,1647110,,,,,,,,Cancer Research,12.5
+venue,1647112,,,,,,,,Journal of Applied Physics,2.7
+venue,1647113,,,,,,,,Journal of Chemical Physics,3.1
+venue,1647114,,,,,,,,The Journal of Urology,5.9
+venue,1647116,,,,,,,,Gastroenterology,25.7
+venue,1647117,,,,,,,,Journal of Clinical Oncology,42.1
+venue,1647118,,,,,,,,Physical Review Letters,8.1
+venue,1647119,,,,,,,,Proceedings of SPIE,
+venue,1647121,,,,,,,,Applied Physics Letters,3.5
+venue,1647125,,,,,,,,The New England Journal of Medicine,96.2
+venue,1647128,,,,,,,,Circulation,35.5
+venue,1647129,,,,,,,,The Astrophysical Journal,4.8
+venue,1647143,,,,,,,,American Journal of Obstetrics and Gynecology,8.7
+venue,1647144,,,,,,,,Journal of Geophysical Research,
+venue,1647145,,,,,,,,Medicine and Science in Sports and Exercise,4.1
+venue,1647150,,,,,,,,Monthly Notices of the Royal Astronomical Society,4.7
+venue,1647157,,,,,,,,International Journal of Radiation Oncology Biology Physics,6.4
+venue,1647159,,,,,,,,Biophysical Journal,3.2
+venue,1647161,,,,,,,,Neurology,7.7
+venue,1647163,,,,,,,,Chest,9.5
+venue,1647169,,,,,,,,Annals of the New York Academy of Sciences,4.1
+venue,1647174,,,,,,,,IFAC Proceedings Volumes,
+venue,1647177,,,,,,,,Chemical Physics Letters,2.8
+venue,1647179,,,,,,,,Physics Letters B,4.3
+venue,1647181,,,,,,,,Annals of Internal Medicine,19.6
+venue,1647183,,,,,,,,IEEE Access,3.4
+venue,1647186,,,,,,,,Science of The Total Environment,8.2
+venue,1647188,,,,,,,,Annals of the Rheumatic Diseases,20.3
+venue,1647192,,,,,,,,Value in Health,4.9
+venue,1647195,,,,,,,,Sustainability,3.3
+venue,1647200,,,,,,,,Journal of The Franklin Institute-engineering and Applied Mathematics,3.7
+venue,1647201,,,,,,,,Communications in computer and information science,
+venue,1647203,,,,,,,,Physical Review A,2.6
+venue,1647212,,,,,,,,Optics Express,3.2
+venue,1647213,,,,,,,,International Journal of Environmental Research and Public Health,
+venue,1647216,,,,,,,,Physics Today,2.8
+venue,1647217,,,,,,,,Annals of Oncology,56.7
+venue,1647226,,,,,,,,Cancer,6.1
+venue,1647227,,,,,,,,The Journal of Physiology,4.7
+venue,1647230,,,,,,,,The Journal of Allergy and Clinical Immunology,11.4
+venue,1647233,,,,,,,,Langmuir,3.7
+venue,1647235,,,,,,,,Nucleic Acids Research,16.6
+venue,1647236,,,,,,,,Physics Letters,
+venue,1647238,,,,,,,,Methods in molecular biology,
+venue,1647240,,,,,,,,Proceedings of the American Mathematical Society,0.8
+venue,1647242,,,,,,,,American Mathematical Monthly,0.4
+venue,1647243,,,,,,,,Nature Communications,14.7
+venue,1647245,,,,,,,,Physical Review,
+venue,1647246,,,,,,,,Sensors,3.4
+venue,1647248,,,,,,,,Journal of Virology,4.0
+venue,1647253,,,,,,,,American Journal of Ophthalmology,4.1
+venue,1647266,,,,,,,,Pediatric Research,3.1
+venue,1647267,,,,,,,,Radiotherapy and Oncology,4.9
+venue,1647273,,,,,,,,Geophysical Research Letters,4.6
+venue,1647287,,,,,,,,Stroke,7.8
+venue,1647290,,,,,,,,Applied sciences,2.5
+venue,1647293,,,,,,,,"International Conference on Acoustics, Speech, and Signal Processing",
+venue,1647295,,,,,,,,Journal of Materials Science,3.5
+venue,1647296,,,,,,,,Alzheimers & Dementia,13.0
+venue,1647297,,,,,,,,Medical Physics,3.2
+venue,1647320,,,,,,,,The Journal of Neuroscience,4.4
+venue,1647328,,,,,,,,Optics Letters,3.1
+venue,1647329,,,,,,,,European Journal of Cancer,7.6
+venue,1647336,,,,,,,,Journal of Physics: Condensed Matter,2.3
+venue,1647350,,,,,,,,Journal of High Energy Physics,5.0
+venue,1647361,,,,,,,,Conference on Decision and Control,
+venue,1647362,,,,,,,,Urology,2.1
+venue,1647366,,,,,,,,Applied and Environmental Microbiology,3.9
+venue,1647367,,,,,,,,Physical Review C,3.2
+venue,1647371,,,,,,,,Transportation Research Record,1.6
+venue,1647373,,,,,,,,Journal of Molecular Biology,4.7
+venue,1647376,,,,,,,,Physical Review B,3.2
+venue,1647377,,,,,,,,Journal of the Neurological Sciences,3.6
+venue,1647393,,,,,,,,Journal of Hypertension,3.3
+venue,1647402,,,,,,,,Annalen der Physik,2.2
+venue,1647438,,,,,,,,Journal of the National Cancer Institute,9.9
+venue,1647439,,,,,,,,Journal of Physics D,3.1
+venue,1647443,,,,,,,,Journal of Mathematical Analysis and Applications,1.2
+venue,1647456,,,,,,,,Molecular and Cellular Biology,3.2
+venue,1647461,,,,,,,,Transactions of the American Mathematical Society,1.2
+venue,1647475,,,,,,,,American Journal of Clinical Pathology,2.3
+venue,1647486,,,,,,,,Physica A: Statistical Mechanics and its Applications,2.8
+venue,1647496,,,,,,,,Physical Review E,2.2
+venue,1647500,,,,,,,,Nuclear Physics B,2.5
+venue,1647506,,,,,,,,BMJ Open,2.4
+venue,1647523,,,,,,,,Industrial & engineering chemistry,
+venue,1647539,,,,,,,,Lecture Notes in Mathematics,
+venue,1647542,,,,,,,,Journal of Cell Biology,7.4
+venue,1647543,,,,,,,,Journal of the American Statistical Association,3.0
+venue,1647544,,,,,,,,Journal of Fluid Mechanics,3.6
+venue,1647554,,,,,,,,Journal of Sound and Vibration,4.3
+venue,1647557,,,,,,,,British Journal of Cancer,6.4
+venue,1647560,,,,,,,,eLife,6.4
+venue,1647565,,,,,,,,AIAA Journal,2.1
+venue,1647576,,,,,,,,Clinica Chimica Acta,3.2
+venue,1647596,,,,,,,,Journal of Nutrition,3.7
+venue,1647606,,,,,,,,The American Journal of Clinical Nutrition,6.5
+venue,1647607,,,,,,,,Cell,45.5
+venue,1647612,,,,,,,,Physics of Plasmas,2.0
+venue,1647614,,,,,,,,arXiv: Combinatorics,
+venue,1647628,,,,,,,,Journal of Mathematical Physics,1.2
+venue,1647638,,,,,,,,Ecology,4.4
+venue,1647647,,,,,,,,IEEE Transactions on Automatic Control,6.2
+venue,1647649,,,,,,,,The American Naturalist,2.4
+venue,1647668,,,,,,,,IEEE Transactions on Microwave Theory and Techniques,4.1
+venue,1647690,,,,,,,,Applied Mathematics and Computation,3.5
+venue,1647697,,,,,,,,School Science and Mathematics,0.8
+venue,1647707,,,,,,,,Journal of Biomechanics,2.4
+venue,1647718,,,,,,,,American Journal of Epidemiology,5.0
+venue,1647732,,,,,,,,Procedia Computer Science,
+venue,1647733,,,,,,,,Journal of Neurophysiology,2.1
+venue,1647775,,,,,,,,Journal of Physics A: Mathematical and General,
+venue,1647803,,,,,,,,Water Resources Research,4.6
+venue,1647807,,,,,,,,The EMBO Journal,9.4
+venue,1647837,,,,,,,,Neurocomputing,5.5
+venue,1647846,,,,,,,,IFAC-PapersOnLine,
+venue,1647858,,,,,,,,Proceedings of the IEEE,23.2
+venue,1647871,,,,,,,,World Neurosurgery,1.9
+venue,1647878,,,,,,,,Journal of Symbolic Logic,0.5
+venue,1647887,,,,,,,,Journal of Algebra,0.8
+venue,1647904,,,,,,,,arXiv: Probability,
+venue,1647927,,,,,,,,Physics of Fluids,4.1
+venue,1647937,,,,,,,,IEEE Transactions on Information Theory,2.2
+venue,1647941,,,,,,,,Journal of Computational Physics,3.8
+venue,1647945,,,,,,,,Geophysical Journal International,2.8
+venue,1647989,,,,,,,,Nature Biotechnology,33.1
+venue,1647996,,,,,,,,Transfusion,2.5
+venue,1648002,,,,,,,,American Journal of Human Genetics,8.1
+venue,1648013,,,,,,,,Quarterly Journal of the Royal Meteorological Society,3.0
+venue,1648032,,,,,,,,Journal of Theoretical Biology,1.9
+venue,1648047,,,,,,,,Computer Vision and Pattern Recognition (CVPR),
+venue,1648048,,,,,,,,Discrete Mathematics,0.7
+venue,1648057,,,,,,,,IEEE Transactions on Geoscience and Remote Sensing,7.5
+venue,1648089,,,,,,,,Physics in Medicine and Biology,3.3
+venue,1648090,,,,,,,,Linear Algebra and its Applications,1.0
+venue,1648117,,,,,,,,IEEE Transactions on Signal Processing,4.6
+venue,1648145,,,,,,,,Theoretical Computer Science,0.9
+venue,1648193,,,,,,,,Journal of Finance,7.6
+venue,1648203,,,,,,,,Journal of Political Economy,6.9
+venue,1648209,,,,,,,,Vision Research,1.5
+venue,1648217,,,,,,,,Teachers College Record,1.3
+venue,1648241,,,,,,,,BMC Genomics,3.5
+venue,1648243,,,,,,,,Journal of Computational and Applied Mathematics,2.1
+venue,1648271,,,,,,,,European Physical Journal C,4.2
+venue,1648294,,,,,,,,Computers & mathematics with applications,2.9
+venue,1648301,,,,,,,,European Journal of Neuroscience,2.7
+venue,1648303,,,,,,,,Bioinformatics,4.4
+venue,1648311,,,,,,,,Nonlinear Analysis-theory Methods & Applications,1.3
+venue,1648326,,,,,,,,IEEE Transactions on Communications,7.2
+venue,1648339,,,,,,,,Classical and Quantum Gravity,3.6
+venue,1648341,,,,,,,,IEEE Transactions on Biomedical Engineering,4.4
+venue,1648372,,,,,,,,International Symposium on Information Theory,
+venue,1648390,,,,,,,,Proceedings of The Royal Society B: Biological Sciences,3.8
+venue,1648392,,,,,,,,Computer Methods in Applied Mechanics and Engineering,6.9
+venue,1648393,,,,,,,,Oecologia,2.3
+venue,1648396,,,,,,,,International Journal for Numerical Methods in Engineering,2.7
+venue,1648435,,,,,,,,Mathematics of Computation,2.2
+venue,1648440,,,,,,,,Contemporary mathematics,
+venue,1648448,,,,,,,,Automatica,4.8
+venue,1648479,,,,,,,,Mathematische Annalen,1.3
+venue,1648480,,,,,,,,Statistics in Medicine,1.8
+venue,1648487,,,,,,,,Conference on Neural Information Processing Systems (NeurIPS),
+venue,1648489,,,,,,,,Communications in Algebra,0.6
+venue,1648514,,,,,,,,Communications in Statistics,0.6
+venue,1648518,,,,,,,,Biometrika,2.4
+venue,1648536,,,,,,,,Neuron,14.7
+venue,1648537,,,,,,,,Journal of Forensic Sciences,1.5
+venue,1648553,,,,,,,,New Journal of Physics,2.8
+venue,1648557,,,,,,,,Chaos Solitons & Fractals,5.3
+venue,1648574,,,,,,,,The Journal of Philosophy,1.6
+venue,1648597,,,,,,,,Science Education,3.1
+venue,1648634,,,,,,,,Forensic Science International,2.2
+venue,1648637,,,,,,,,Mathematische Zeitschrift,1.0
+venue,1648640,,,,,,,,Journal of Physics A,2.0
+venue,1648644,,,,,,,,Journal of Differential Equations,2.4
+venue,1648669,,,,,,,,Annals of Physics,3.0
+venue,1648694,,,,,,,,Nuclear Fusion,3.5
+venue,1648713,,,,,,,,Journal of Educational Psychology,5.6
+venue,1648716,,,,,,,,Crelle's Journal,1.2
+venue,1648721,,,,,,,,Technometrics,2.3
+venue,1648806,,,,,,,,BMC Bioinformatics,2.9
+venue,1648813,,,,,,,,Pacific Journal of Mathematics,0.7
+venue,1648820,,,,,,,,Communications in Mathematical Physics,2.2
+venue,1648825,,,,,,,,"Cancer Epidemiology, Biomarkers & Prevention",3.7
+venue,1648833,,,,,,,,IEEE Communications Letters,3.7
+venue,1648860,,,,,,,,IEEE Transactions on Wireless Communications,8.9
+venue,1648898,,,,,,,,Canadian Journal of Forest Research,1.7
+venue,1648916,,,,,,,,Journal of Applied Probability,0.7
+venue,1648922,,,,,,,,Journal of the London Mathematical Society,1.0
+venue,1648934,,,,,,,,International Journal of Control,1.6
+venue,1648942,,,,,,,,Applied Mathematical Modelling,4.4
+venue,1648954,,,,,,,,Journal of Statistical Physics,1.3
+venue,1648984,,,,,,,,IEEE transactions on image processing,10.8
+venue,1648986,,,,,,,,Applied Economics,1.8
+venue,1649012,,,,,,,,Biometrics,1.4
+venue,1649031,,,,,,,,Ecological Modelling,2.6
+venue,1649053,,,,,,,,PLOS Computational Biology,3.8
+venue,1649056,,,,,,,,The American Economic Review,10.5
+venue,1649094,,,,,,,,Elementary School Journal,1.2
+venue,1649124,,,,,,,,Advances in Mathematics,1.5
+venue,1649148,,,,,,,,Discrete Applied Mathematics,1.0
+venue,1649149,,,,,,,,Nature Genetics,31.7
+venue,1649160,,,,,,,,Oikos,3.1
+venue,1649168,,,,,,,,Nonlinear Dynamics,5.2
+venue,1649183,,,,,,,,Proceedings of the Royal Society of London,
+venue,1649239,,,,,,,,Entropy,2.1
+venue,1649250,,,,,,,,Physica D: Nonlinear Phenomena,2.7
+venue,1649258,,,,,,,,Science Advances,11.7
+venue,1649262,,,,,,,,Monatshefte für Mathematik,0.8
+venue,1649318,,,,,,,,Synthese,1.3
+venue,1649331,,,,,,,,Journal of Computational Chemistry,3.4
+venue,1649369,,,,,,,,Statistics & Probability Letters,0.9
+venue,1649376,,,,,,,,Journal of Functional Analysis,1.7
+venue,1649407,,,,,,,,Archiv der Mathematik,0.5
+venue,1649424,,,,,,,,Mathematische Nachrichten,0.8
+venue,1649447,,,,,,,,IEEE Transactions on Pattern Analysis and Machine Intelligence,20.8
+venue,1649451,,,,,,,,Mathematical proceedings of the Cambridge Philosophical Society,0.6
+venue,1649538,,,,,,,,Topology and its Applications,0.6
+venue,1649569,,,,,,,,Lancet Infectious Diseases,36.4
+venue,1649594,,,,,,,,Mathematics Magazine,
+venue,1649614,,,,,,,,Journal of Optimization Theory and Applications,1.6
+venue,1649623,,,,,,,,The American Statistician,1.8
+venue,1649636,,,,,,,,International Conference on Machine Learning (ICML),
+venue,1649663,,,,,,,,Mechanical Systems and Signal Processing,7.9
+venue,1649695,,,,,,,,Plasma Physics and Controlled Fusion,2.1
+venue,1649713,,,,,,,,IEEE International Conference on Computer Vision (ICCV),
+venue,1649741,,,,,,,,Information Processing Letters,0.7
+venue,1649751,,,,,,,,Mathematics and Computers in Simulation,4.4
+venue,1649761,,,,,,,,Journal of Pure and Applied Algebra,0.7
+venue,1649766,,,,,,,,Journal of Animal Ecology,3.5
+venue,1649821,,,,,,,,IEEE Signal Processing Letters,3.2
+venue,1649827,,,,,,,,Proceedings of The London Mathematical Society,1.5
+venue,1649937,,,,,,,,Journal of Statistical Planning and Inference,0.8
+venue,1649950,,,,,,,,Processes,2.8
+venue,1649981,,,,,,,,Springer proceedings in mathematics & statistics,
+venue,1649996,,,,,,,,General Relativity and Gravitation,2.1
+venue,1650005,,,,,,,,Reliability Engineering & System Safety,9.4
+venue,1650022,,,,,,,,Bulletin of The London Mathematical Society,0.8
+venue,1650028,,,,,,,,The Computer Journal,1.5
+venue,1650055,,,,,,,,Natural Hazards,3.3
+venue,1650107,,,,,,,,Philosophical Transactions of the Royal Society A,4.3
+venue,1650126,,,,,,,,Trends in Ecology and Evolution,16.7
+venue,1650206,,,,,,,,Computational Statistics & Data Analysis,1.5
+venue,1650248,,,,,,,,Journal of Number Theory,0.6
+venue,1650279,,,,,,,,IEEE Transactions on Medical Imaging,8.9
+venue,1650308,,,,,,,,Zeitschrift für Angewandte Mathematik und Physik,1.7
+venue,1650318,,,,,,,,Multiple Sclerosis Journal,4.8
+venue,1650343,,,,,,,,Econometrica,6.6
+venue,1650361,,,,,,,,IEEE Transactions on Electromagnetic Compatibility,2.0
+venue,1650375,,,,,,,,Computers in Biology and Medicine,7.0
+venue,1650407,,,,,,,,Trends in Neurosciences,14.6
+venue,1650431,,,,,,,,Mathematical and Computer Modelling,
+venue,1650477,,,,,,,,Nature Neuroscience,21.2
+venue,1650525,,,,,,,,Nature Methods,36.1
+venue,1650527,,,,,,,,Chaos,2.7
+venue,1650656,,,,,,,,Bulletin of The Australian Mathematical Society,0.6
+venue,1650692,,,,,,,,Duke Mathematical Journal,2.3
+venue,1650790,,,,,,,,Neural Networks,6.0
+venue,1650868,,,,,,,,Electronic Notes in Theoretical Computer Science,
+venue,1650877,,,,,,,,American Journal of Mathematics,1.7
+venue,1650891,,,,,,,,Communications in Statistics - Simulation and Computation,0.8
+venue,1650905,,,,,,,,Siam Review,10.8
+venue,1650953,,,,,,,,Annals of Mathematics,5.7
+venue,1651011,,,,,,,,International Mathematics Research Notices,0.9
+venue,1651122,,,,,,,,Annals of Statistics,3.2
+venue,1651135,,,,,,,,Israel Journal of Mathematics,0.8
+venue,1651138,,,,,,,,"Proceedings of The Royal Society A: Mathematical, Physical and Engineering Sciences",2.9
+venue,1651147,,,,,,,,Siam Journal on Applied Mathematics,1.9
+venue,1651169,,,,,,,,Educational Researcher,5.4
+venue,1651173,,,,,,,,Information & Computation,0.8
+venue,1651182,,,,,,,,Journal of Approximation Theory,0.9
+venue,1651223,,,,,,,,SIAM Journal on Numerical Analysis,2.8
+venue,1651228,,,,,,,,Indiana University Mathematics Journal,1.2
+venue,1651231,,,,,,,,Bulletin of the American Mathematical Society,2.0
+venue,1651246,,,,,,,,Canadian Journal of Mathematics,0.6
+venue,1651262,,,,,,,,Journal of Econometrics,9.9
+venue,1651282,,,,,,,,Journal of Economic Theory,1.4
+venue,1651300,,,,,,,,Stochastic Processes and their Applications,1.1
+venue,1651330,,,,,,,,Mathematical biosciences,1.9
+venue,1651350,,,,,,,,Annali di Matematica Pura ed Applicata,1.0
+venue,1651351,,,,,,,,Nature Cell Biology,17.3
+venue,1651393,,,,,,,,Genome Research,6.2
+venue,1651403,,,,,,,,Siam Journal on Mathematical Analysis,2.2
+venue,1651412,,,,,,,,Comptes Rendus Mathematique,0.8
+venue,1651424,,,,,,,,Journal of Teacher Education,3.1
+venue,1651425,,,,,,,,Systems & Control Letters,2.1
+venue,1651426,,,,,,,,Physics Reports,23.9
+venue,1651427,,,,,,,,Canadian mathematical bulletin,0.5
+venue,1651435,,,,,,,,Review of Educational Research,8.3
+venue,1651446,,,,,,,,Acta Mathematica Hungarica,0.6
+venue,1651506,,,,,,,,iScience,4.6
+venue,1651529,,,,,,,,"Journal of Combinatorial Theory, Series A",0.9
+venue,1651591,,,,,,,,Fundamenta Mathematicae,0.5
+venue,1651693,,,,,,,,IEEE transactions on cybernetics,9.4
+venue,1651711,,,,,,,,Mathematical Programming,2.2
+venue,1651725,,,,,,,,Bulletin of Mathematical Biology,2.0
+venue,1651732,,,,,,,,Journal of Statistical Computation and Simulation,1.1
+venue,1651789,,,,,,,,Applicable Analysis,1.1
+venue,1651822,,,,,,,,Journal of Plasma Physics,2.1
+venue,1651830,,,,,,,,Acta Arithmetica,0.5
+venue,1651874,,,,,,,,International Journal of Mathematical Education in Science and Technology,0.7
+venue,1651880,,,,,,,,Studia Mathematica,0.7
+venue,1651889,,,,,,,,SIAM Journal on Scientific Computing,3.0
+venue,1651925,,,,,,,,Journal of Multivariate Analysis,1.4
+venue,1651966,,,,,,,,Archive for Rational Mechanics and Analysis,2.6
+venue,1651978,,,,,,,,European Journal of Combinatorics,1.0
+venue,1651997,,,,,,,,Siam Journal on Control and Optimization,2.2
+venue,1652012,,,,,,,,Royal Society Open Science,2.9
+venue,1652156,,,,,,,,Journal of Research in Science Teaching,3.6
+venue,1652253,,,,,,,,Bell System Technical Journal,
+venue,1652263,,,,,,,,Discrete and Continuous Dynamical Systems,1.1
+venue,1652289,,,,,,,,Numerische Mathematik,2.1
+venue,1652317,,,,,,,,Proceedings of the Edinburgh Mathematical Society,0.7
+venue,1652319,,,,,,,,Journal of Graph Theory,0.9
+venue,1652324,,,,,,,,Annals of Mathematical Statistics,
+venue,1652329,,,,,,,,Applied Numerical Mathematics,2.2
+venue,1652351,,,,,,,,Inverse Problems,2.0
+venue,1652405,,,,,,,,Manuscripta Mathematica,0.5
+venue,1652412,,,,,,,,Journal of Applied Statistics,1.2
+venue,1652430,,,,,,,,Rocky Mountain Journal of Mathematics,0.7
+venue,1652462,,,,,,,,Journal of Geometry and Physics,1.6
+venue,1652471,,,,,,,,College Mathematics Journal,
+venue,1652495,,,,,,,,Annals of Probability,2.1
+venue,1652508,,,,,,,,Fundamenta Informaticae,0.4
+venue,1652536,,,,,,,,Nonlinearity,1.6
+venue,1652563,,,,,,,,Inventiones Mathematicae,2.6
+venue,1652575,,,,,,,,Rendiconti Del Circolo Matematico Di Palermo,0.9
+venue,1652615,,,,,,,,Parallel Computing,2.0
+venue,1652626,,,,,,,,Electronic Journal of Combinatorics,0.7
+venue,1652636,,,,,,,,Linear & Multilinear Algebra,0.9
+venue,1652768,,,,,,,,Journal of Financial Economics,10.4
+venue,1652815,,,,,,,,Geometriae Dedicata,0.5
+venue,1652843,,,,,,,,Community Mental Health Journal,1.8
+venue,1652846,,,,,,,,Journal of the American Medical Informatics Association,4.7
+venue,1652949,,,,,,,,Letters in Mathematical Physics,1.3
+venue,1653000,,,,,,,,Teaching and Teacher Education,4.0
+venue,1653020,,,,,,,,Applied statistics,1.0
+venue,1653057,,,,,,,,Journal of Economic Dynamics and Control,1.9
+venue,1653112,,,,,,,,Ecology Letters,7.6
+venue,1653127,,,,,,,,Journal of the Royal Society Interface,3.7
+venue,1653213,,,,,,,,American Educational Research Journal,3.5
+venue,1653263,,,,,,,,Communications on Pure and Applied Mathematics,3.1
+venue,1653321,,,,,,,,Quarterly of Applied Mathematics,0.9
+venue,1653327,,,,,,,,Frontiers in Ecology and Evolution,2.4
+venue,1653339,,,,,,,,The Review of Economic Studies,5.9
+venue,1653412,,,,,,,,Journal of Electronic Imaging,1.0
+venue,1653453,,,,,,,,Quarterly Journal of Mathematics,0.6
+venue,1653548,,,,,,,,Ergodic Theory and Dynamical Systems,0.8
+venue,1653673,,,,,,,,Graduate texts in mathematics,
+venue,1653692,,,,,,,,Compositio Mathematica,1.3
+venue,1653770,,,,,,,,"Journal of Combinatorial Theory, Series B",1.2
+venue,1653808,,,,,,,,Journal of Computer and System Sciences,1.1
+venue,1653919,,,,,,,,SIAM Journal on Computing,1.2
+venue,1654005,,,,,,,,Journal of Financial and Quantitative Analysis,3.7
+venue,1654050,,,,,,,,Aequationes Mathematicae,0.9
+venue,1654134,,,,,,,,Illinois Journal of Mathematics,0.6
+venue,1654154,,,,,,,,Journal of the Royal Statistical Society,1.5
+venue,1654192,,,,,,,,Annales de l'Institut Fourier,0.8
+venue,1654204,,,,,,,,Journal of Scientific Computing,2.8
+venue,1654210,,,,,,,,Neural Computation,2.7
+venue,1654270,,,,,,,,Reviews of Modern Physics,45.9
+venue,1654300,,,,,,,,Physical review fluids,2.5
+venue,1654346,,,,,,,,Bit Numerical Mathematics,
+venue,1654390,,,,,,,,International Journal of Science Education,2.2
+venue,1654440,,,,,,,,Numerical Algorithms,1.7
+venue,1654448,,,,,,,,Journal of Machine Learning Research,4.3
+venue,1654474,,,,,,,,Algorithmica,0.9
+venue,1654486,,,,,,,,Discrete and Continuous Dynamical Systems-series B,1.3
+venue,1654488,,,,,,,,Journal of Mathematical Biology,2.2
+venue,1654521,,,,,,,,Proceedings of symposia in pure mathematics,
+venue,1654558,,,,,,,,Ars Combinatoria,
+venue,1654750,,,,,,,,Studia Logica,0.6
+venue,1654770,,,,,,,,"IEEE Transactions on Acoustics, Speech, and Signal Processing",
+venue,1654827,,,,,,,,Annals of the Institute of Statistical Mathematics,0.8
+venue,1654957,,,,,,,,The Mathematical Intelligencer,0.4
+venue,1655037,,,,,,,,Communications in Partial Differential Equations,2.1
+venue,1655039,,,,,,,,Studies in logic and the foundations of mathematics,
+venue,1655119,,,,,,,,Journal of the ACM,2.3
+venue,1655129,,,,,,,,Journal of Algebra and Its Applications,0.5
+venue,1655145,,,,,,,,Nagoya Mathematical Journal,0.8
+venue,1655176,,,,,,,,International Conference on Learning Representations (ICLR),
+venue,1655225,,,,,,,,The Journal of Portfolio Management,1.1
+venue,1655298,,,,,,,,Journal of Symbolic Computation,0.6
+venue,1655336,,,,,,,,Mathematika,0.8
+venue,1655443,,,,,,,,Annals of Pure and Applied Logic,0.6
+venue,1655499,,,,,,,,Economics of Education Review,1.8
+venue,1655568,,,,,,,,Review of Financial Studies,6.8
+venue,1655579,,,,,,,,Integral Equations and Operator Theory,0.8
+venue,1655600,,,,,,,,SIAM Journal on Discrete Mathematics,0.9
+venue,1655616,,,,,,,,Contemporary Clinical Trials,2.0
+venue,1655747,,,,,,,,BMC Medical Research Methodology,3.9
+venue,1655770,,,,,,,,Calculus of Variations and Partial Differential Equations,2.1
+venue,1655828,,,,,,,,Michigan Mathematical Journal,0.8
+venue,1655831,,,,,,,,Algebra Universalis,0.6
+venue,1655843,,,,,,,,Probability Theory and Related Fields,1.5
+venue,1655893,,,,,,,,Theoretical Population Biology,1.2
+venue,1655897,,,,,,,,Mathematical Biosciences and Engineering,
+venue,1655915,,,,,,,,Numerical Methods for Partial Differential Equations,2.1
+venue,1655966,,,,,,,,Journal for Research in Mathematics Education,3.5
+venue,1656041,,,,,,,,Discrete and Computational Geometry,0.6
+venue,1656043,,,,,,,,Graphs and Combinatorics,0.6
+venue,1656068,,,,,,,,Mathematica Scandinavica,0.3
+venue,1656079,,,,,,,,Journal of Engineering Mathematics,1.4
+venue,1656098,,,,,,,,Commentarii Mathematici Helvetici,1.1
+venue,1656205,,,,,,,,Banach Center Publications,
+venue,1656240,,,,,,,,International Statistical Review,1.7
+venue,1656264,,,,,,,,Frontiers in Education,1.9
+venue,1656275,,,,,,,,Educational Studies in Mathematics,3.4
+venue,1656415,,,,,,,,International Journal of Computer Vision,11.6
+venue,1656426,,,,,,,,Bulletin of The Korean Mathematical Society,0.6
+venue,1656522,,,,,,,,Notre Dame Journal of Formal Logic,0.6
+venue,1656534,,,,,,,,Statistical Methods in Medical Research,1.6
+venue,1656599,,,,,,,,European Journal of Communication,1.8
+venue,1656644,,,,,,,,Frontiers in Computational Neuroscience,2.1
+venue,1656673,,,,,,,,Quantitative Finance,1.5
+venue,1656794,,,,,,,,Creative Education,
+venue,1656802,,,,,,,,Journal of clinical and translational science,2.1
+venue,1656846,,,,,,,,Machine Learning,4.3
+venue,1656883,,,,,,,,Numerical Functional Analysis and Optimization,1.4
+venue,1656904,,,,,,,,SIAM Journal on Matrix Analysis and Applications,1.5
+venue,1656905,,,,,,,,International Journal of Mathematics,0.6
+venue,1656918,,,,,,,,Journal of Geometric Analysis,1.2
+venue,1657109,,,,,,,,Journal of Differential Geometry,1.3
+venue,1657150,,,,,,,,Annales Scientifiques De L Ecole Normale Superieure,1.3
+venue,1657187,,,,,,,,Siam Journal on Optimization,2.6
+venue,1657208,,,,,,,,Urban Education,1.7
+venue,1657312,,,,,,,,Commentationes Mathematicae Universitatis Carolinae,0.2
+venue,1657431,,,,,,,,Algebra and Logic,0.4
+venue,1657502,,,,,,,,Advances in Applied Mathematics,1.0
+venue,1657649,,,,,,,,Journal de Mathématiques Pures et Appliquées,2.1
+venue,1657689,,,,,,,,Journal of Elasticity,1.8
+venue,1657873,,,,,,,,Physical Review X,11.6
+venue,1657877,,,,,,,,Annals of Applied Probability,1.4
+venue,1657963,,,,,,,,Notices of the American Mathematical Society,
+venue,1658095,,,,,,,,Journal of the royal statistical society series b-methodological,
+venue,1658269,,,,,,,,Acta Mathematica,4.9
+venue,1658379,,,,,,,,Uspehi matematičeskih nauk,
+venue,1658381,,,,,,,,Journal of Computational and Graphical Statistics,1.4
+venue,1658387,,,,,,,,Mathematical Research Letters,0.6
+venue,1658431,,,,,,,,Educational Evaluation and Policy Analysis,2.4
+venue,1658497,,,,,,,,Journal of Biopharmaceutical Statistics,1.2
+venue,1658531,,,,,,,,Journal of Geometry,0.7
+venue,1658553,,,,,,,,Zeitschrift für mathematische Logik und Grundlagen der Mathematik,
+venue,1658588,,,,,,,,Random Structures and Algorithms,0.9
+venue,1658639,,,,,,,,Environmetrics,1.5
+venue,1658663,,,,,,,,Journal D Analyse Mathematique,0.8
+venue,1658721,,,,,,,,Rendiconti del Seminario Matematico della Università di Padova,0.5
+venue,1658733,,,,,,,,Clinical Trials,2.2
+venue,1658873,,,,,,,,Topology,
+venue,1659084,,,,,,,,Frontiers,1.8
+venue,1659223,,,,,,,,Journal of Logic and Computation,0.7
+venue,1659319,,,,,,,,International Journal of Number Theory,0.5
+venue,1659368,,,,,,,,Algebraic & Geometric Topology,0.6
+venue,1659383,,,,,,,,Electronic Journal of Probability,1.3
+venue,1659436,,,,,,,,Journal of Theoretical Probability,0.8
+venue,1659479,,,,,,,,Mathematical Modelling and Numerical Analysis,
+venue,1659541,,,,,,,,Journal of The Korean Mathematical Society,0.7
+venue,1659545,,,,,,,,Statistical Science,3.9
+venue,1659652,,,,,,,,Plasma Physics,
+venue,1659681,,,,,,,,Ramanujan Journal,0.6
+venue,1659714,,,,,,,,Mathematical Logic Quarterly,0.4
+venue,1659730,,,,,,,,Bernoulli,1.5
+venue,1659859,,,,,,,,The Journal of Information and Computational Science,
+venue,1660181,,,,,,,,Teaching Statistics,1.2
+venue,1660361,,,,,,,,Archive for Mathematical Logic,0.4
+venue,1660455,,,,,,,,Scandinavian Journal of Statistics,0.8
+venue,1660469,,,,,,,,Harvard Educational Review,2.6
+venue,1660486,,,,,,,,Studies in Educational Evaluation,2.6
+venue,1660701,,,,,,,,ACM Transactions on Mathematical Software,2.7
+venue,1660736,,,,,,,,"Annales de l'Institut Henri Poincaré C, Analyse non linéaire",1.8
+venue,1660747,,,,,,,,Numerical Linear Algebra With Applications,1.8
+venue,1660780,,,,,,,,Significance,
+venue,1660869,,,,,,,,American Journal of Education,2.0
+venue,1661029,,,,,,,,Annales Henri Poincaré,1.4
+venue,1661137,,,,,,,,Hokkaido Mathematical Journal,0.6
+venue,1661248,,,,,,,,Statistics and Computing,1.6
+venue,1661255,,,,,,,,Combinatorica,1.0
+venue,1661484,,,,,,,,Communications in Computational Physics,2.6
+venue,1661494,,,,,,,,Electronic Journal of Statistics,1.0
+venue,1661746,,,,,,,,Computational Statistics,1.0
+venue,1661794,,,,,,,,Optimization Methods & Software,1.4
+venue,1661902,,,,,,,,Analysis Mathematica,0.6
+venue,1661903,,,,,,,,Journal of Algebraic Combinatorics,0.6
+venue,1661977,,,,,,,,Journal of Philosophical Logic,0.7
+venue,1662046,,,,,,,,Izvestiya: Mathematics,0.8
+venue,1662072,,,,,,,,"Combinatorics, Probability & Computing",0.9
+venue,1662116,,,,,,,,PRIMUS,
+venue,1662125,,,,,,,,Social Networks,2.9
+venue,1662250,,,,,,,,Publicacions Matematiques,0.8
+venue,1662289,,,,,,,,Potential Analysis,1.0
+venue,1662395,,,,,,,,The Annals of Applied Statistics,1.3
+venue,1662477,,,,,,,,Applied and Computational Harmonic Analysis,2.6
+venue,1662575,,,,,,,,Advances in Computational Mathematics,1.7
+venue,1662652,,,,,,,,Operator theory,
+venue,1662727,,,,,,,,Annals of Global Analysis and Geometry,0.6
+venue,1663061,,,,,,,,Zdm – Mathematics Education,2.0
+venue,1663221,,,,,,,,Journal of Science Education and Technology,3.3
+venue,1663286,,,,,,,,Journal of The Royal Statistical Society Series B-statistical Methodology,3.1
+venue,1663368,,,,,,,,Nature Human Behaviour,21.4
+venue,1663425,,,,,,,,Educational Policy,1.6
+venue,1663519,,,,,,,,Journal of Group Theory,0.4
+venue,1663541,,,,,,,,Journal of Fourier Analysis and Applications,1.2
+venue,1663740,,,,,,,,Geometry & Topology,1.7
+venue,1663821,,,,,,,,Journal of the American Mathematical Society,3.5
+venue,1663871,,,,,,,,Educational Psychologist,14.3
+venue,1664126,,,,,,,,Revista Matematica Iberoamericana,1.3
+venue,1664277,,,,,,,,Order,0.6
+venue,1664340,,,,,,,,Journal of the European Mathematical Society,2.5
+venue,1664397,,,,,,,,Algebras and Representation Theory,0.5
+venue,1664430,,,,,,,,Electronic Communications in Probability,0.5
+venue,1664622,,,,,,,,Communications in Mathematical Sciences,1.2
+venue,1664636,,,,,,,,Constructive Approximation,2.3
+venue,1664709,,,,,,,,Biostatistics,1.8
+venue,1664760,,,,,,,,Logical Methods in Computer Science,0.6
+venue,1664787,,,,,,,,Geometric and Functional Analysis,2.4
+venue,1664905,,,,,,,,DIMACS series in discrete mathematics and theoretical computer science,
+venue,1665310,,,,,,,,The Journal of Mathematical Behavior,1.0
+venue,1665650,,,,,,,,Progress in mathematics,
+venue,1665842,,,,,,,,Nonlinear Differential Equations And Applications Nodea,1.1
+venue,1665876,,,,,,,,Journal of Nonlinear Science,2.6
+venue,1665925,,,,,,,,Journal of Computational Neuroscience,1.5
+venue,1666244,,,,,,,,Siam Journal on Applied Dynamical Systems,1.7
+venue,1666334,,,,,,,,Electronic Journal of Linear Algebra,0.6
+venue,1666837,,,,,,,,Multiscale Modeling & Simulation,1.9
+venue,1667162,,,,,,,,Journal de Theorie des Nombres de Bordeaux,0.3
+venue,1667283,,,,,,,,Journal of Fixed Point Theory and Applications,1.4
+venue,1667386,,,,,,,,Sequential Analysis,0.6
+venue,1667544,,,,,,,,Integers,
+venue,1667939,,,,,,,,Algebra & Number Theory,0.9
+venue,1668014,,,,,,,,Selecta Mathematica-new Series,1.2
+venue,1668549,,,,,,,,Transformation Groups,0.4
+venue,1668766,,,,,,,,Siam Journal on Imaging Sciences,2.1
+venue,1669236,,,,,,,,Annals of Combinatorics,0.6
+venue,1669295,,,,,,,,Journal of Agricultural Biological and Environmental Statistics,1.4
+venue,1669819,,,,,,,,Cell systems,9.0
+venue,1670454,,,,,,,,Journal of Classification,1.8
+venue,1670650,,,,,,,,Annali della Scuola normale superiore di Pisa. Classe di scienze,1.2
+venue,1670896,,,,,,,,Journal of Official Statistics,0.5
+venue,1671271,,,,,,,,Monte Carlo Methods and Applications,0.8
+venue,1671511,,,,,,,,SIAM journal on scientific and statistical computing,
+venue,1671636,,,,,,,,Bayesian Analysis,4.9
+venue,1671807,,,,,,,,Theory and Applications of Categories,0.4
+venue,1671885,,,,,,,,Mathematics Education Research Journal,1.4
+venue,1671975,,,,,,,,Academia letters,
+venue,1672003,,,,,,,,Advances in Theoretical and Mathematical Physics,1.0
+venue,1672319,,,,,,,,Journal of The Institute of Mathematics of Jussieu,1.1
+venue,1672769,,,,,,,,The Mathematics Enthusiast,0.3
+venue,1673134,,,,,,,,The Journal of the Learning Sciences,3.0
+venue,1673313,,,,,,,,Moscow Mathematical Journal,0.6
+venue,1673382,,,,,,,,"Homology, Homotopy and Applications",0.8
+venue,1673427,,,,,,,,"Journal of Logic, Language and Information",0.7
+venue,1673453,,,,,,,,Journal of Topology,0.8
+venue,1673683,,,,,,,,Journal of Statistics Education,
+venue,1674120,,,,,,,,Ars Mathematica Contemporanea,0.6
+venue,1674169,,,,,,,,ICME-13 monographs,
+venue,1674178,,,,,,,,The Journal of Computers in Mathematics and Science Teaching,
+venue,1674569,,,,,,,,Foundations of Computational Mathematics,2.5
+venue,1674602,,,,,,,,Journal of Mathematics Teacher Education,2.1
+venue,1674819,,,,,,,,Finance and Stochastics,1.1
+venue,1675947,,,,,,,,Research Synthesis Methods,5.0
+venue,1676101,,,,,,,,Expositiones Mathematicae,0.8
+venue,1676265,,,,,,,,Beiträge Zur Algebra Und Geometrie / Contributions To Algebra And Geometry,0.4
+venue,1676793,,,,,,,,"Groups, Geometry, and Dynamics",0.6
+venue,1676888,,,,,,,,Publications Mathématiques de l'IHÉS,6.0
+venue,1676962,,,,,,,,spatial statistics,2.1
+venue,1677537,,,,,,,,Journal of Algebraic Geometry,0.9
+venue,1677699,,,,,,,,Cognition and Instruction,2.3
+venue,1678272,,,,,,,,Research in Mathematics Education,1.3
+venue,1679677,,,,,,,,European journal of mathematics,0.5
+venue,1679999,,,,,,,,AERA Open,3.5
+venue,1680399,,,,,,,,Stat,0.7
+venue,1681559,,,,,,,,Advances in Nonlinear Analysis,3.2
+venue,1682225,,,,,,,,Siam Journal on Financial Mathematics,1.4
+venue,1682359,,,,,,,,Statistics Education Research Journal,
+venue,1682863,,,,,,,,Mathematical thinking and learning,
+venue,1682870,,,,,,,,SIAM/ASA Journal on Uncertainty Quantification,2.1
+venue,1682879,,,,,,,,Journal of Symplectic Geometry,0.6
+venue,1682908,,,,,,,,PRX quantum,9.3
+venue,1683379,,,,,,,,Journal of Topology and Analysis,0.5
+venue,1684937,,,,,,,,Journal of combinatorial theory,
+venue,1685472,,,,,,,,Journal of curriculum and teaching,
+venue,1685991,,,,,,,,Advances in Calculus of Variations,1.3
+venue,1686009,,,,,,,,Documenta Mathematica,0.9
+venue,1686166,,,,,,,,Journal of survey statistics and methodology,1.6
+venue,1686578,,,,,,,,Research in number theory,0.6
+venue,1687045,,,,,,,,Journal of Integer Sequences,0.3
+venue,1688077,,,,,,,,Health Services and Outcomes Research Methodology,1.6
+venue,1688445,,,,,,,,The Journal of Combinatorics,0.4
+venue,1688457,,,,,,,,EPJ Data Science,3.0
+venue,1688851,,,,,,,,Astérisque,1.0
+venue,1689104,,,,,,,,Nature Computational Science,12.0
+venue,1689375,,,,,,,,Association for Women in Mathematics series,
+venue,1689685,,,,,,,,Journal of K-theory,
+venue,1690588,,,,,,,,Journal of Homotopy and Related Structures,0.7
+venue,1690646,,,,,,,,The Australasian Journal of Combinatorics,
+venue,1693466,,,,,,,,L'enseignement mathématique,0.4
+venue,1693679,,,,,,,,New ICMI studies series,
+venue,1694742,,,,,,,,Journal of Mathematical Logic,0.9
+venue,1694981,,,,,,,,Random matrices : theory and applications,0.9
+venue,1695509,,,,,,,,Inverse Problems in Engineering,
+venue,1695886,,,,,,,,Annals of Mathematical Logic,
+venue,1695926,,,,,,,,PNAS nexus,2.2
+venue,1696071,,,,,,,,Algebraic geometry,1.2
+venue,1697155,,,,,,,,JOSAB,
+venue,1698119,,,,,,,,EdWorkingPapers.com,
+venue,1699702,,,,,,,,Bolyai Society mathematical studies,
+venue,1701103,,,,,,,,Harvard Data Science Review,
+venue,1702008,,,,,,,,Algebraic combinatorics,
+venue,1702672,,,,,,,,Journal of biostatistics and epidemiology,
+venue,1702936,,,,,,,,ETNA. Electronic Transactions on Numerical Analysis [electronic only],
+venue,1703186,,,,,,,,International journal of research in undergraduate mathematics education,1.2
+venue,1704060,,,,,,,,Results in applied mathematics,1.4
+venue,1704215,,,,,,,,The art of discrete and applied mathematics,
+venue,1705010,,,,,,,,Quantum Topology,1.0
+venue,1705311,,,,,,,,Computability,0.3
+venue,1705347,,,,,,,,Physics Letters A,2.3
+venue,1705428,,,,,,,,The New York Journal of Mathematics,0.4
+venue,1705520,,,,,,,,Annals of K-theory,0.5
+venue,1706480,,,,,,,,International Journal of Numerical Analysis and Modeling,1.3
+venue,1706567,,,,,,,,IEEE Trans.,
+venue,1706777,,,,,,,,Annals of PDE,2.4
+venue,1706903,,,,,,,,Analysis and Geometry in Metric Spaces,0.9
+venue,1707052,,,,,,,,Discrete analysis,1.0
+venue,1707298,,,,,,,,Annales Fennici Mathematici,0.9
+venue,1707367,,,,,,,,Journal of the Ramanujan Mathematical Society,0.3
+venue,1708696,,,,,,,,Journal of applied and numerical optimization,
+venue,1709109,,,,,,,,Journal of Statistics and Data Science Education,1.5
+venue,1709233,,,,,,,,Annales Academiae Scientiarum Fennicae. Series A1. Mathematica,
+venue,1709831,,,,,,,,Enumerative combinatorics and applications,
+venue,1709906,,,,,,,,Tunisian journal of mathematics,0.8
+venue,1709984,,,,,,,,Foundations of data science,1.7
+venue,1710396,,,,,,,,The SMAI journal of computational mathematics,
+venue,1710543,,,,,,,,Journal of The Royal Statistical Society Series A-statistics in Society,
+venue,1710911,,,,,,,,Combinatorial theory,
+venue,1712009,,,,,,,,Nordic Journal of Philosophical Logic,
+venue,1712656,,,,,,,,"Journal of data science, statistics, and visualisation",
+venue,1712742,,,,,,,,Matematicheskii Sbornik,
+venue,1712766,,,,,,,,Compositionality,
+venue,1712934,,,,,,,,Memoir /,
+venue,1713015,,,,,,,,"Forum of Mathematics, Sigma",1.2
+venue,1713032,,,,,,,,"Forum of Mathematics, Pi",2.8

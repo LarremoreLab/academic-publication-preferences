@@ -1,0 +1,722 @@
+node_type,node_id,field,career_stage,gender,institution_bin_3,institution_bin_10,academia_prestige_bin_3,academia_prestige_bin_10,name,jcr_jif
+respondent,148419,Physics,Associate Professor,gf,1,3,1,1,,
+respondent,147995,Physics,Full Professor,gm,3,8,2,6,,
+respondent,147897,Physics,Associate Professor,gf,2,5,2,6,,
+respondent,150972,Physics,Full Professor,gm,2,5,1,4,,
+respondent,150700,Physics,Associate Professor,gf,2,6,3,7,,
+respondent,147827,Physics,Full Professor,gm,2,6,2,5,,
+respondent,151184,Physics,Full Professor,gm,1,3,1,2,,
+respondent,151229,Physics,Associate Professor,gm,1,3,1,1,,
+respondent,149673,Physics,Full Professor,gm,2,6,3,8,,
+respondent,151112,Physics,Associate Professor,gf,1,3,2,4,,
+respondent,150204,Physics,Full Professor,gm,2,6,2,5,,
+respondent,152726,Physics,Full Professor,gm,1,1,1,1,,
+respondent,152505,Physics,Associate Professor,gm,2,4,2,6,,
+respondent,153505,Physics,Full Professor,gm,1,1,1,1,,
+respondent,152615,Physics,Full Professor,gm,2,4,2,4,,
+respondent,152824,Physics,Full Professor,gm,2,6,2,5,,
+respondent,155174,Physics,Other,gm,3,8,2,5,,
+respondent,152042,Physics,Associate Professor,gf,1,2,1,1,,
+respondent,154282,Physics,Full Professor,gf,2,5,1,4,,
+respondent,154561,Physics,Full Professor,gm,1,2,1,2,,
+respondent,155068,Physics,Full Professor,gm,1,1,1,3,,
+respondent,153673,Physics,Full Professor,gm,3,8,3,9,,
+respondent,149375,Physics,Associate Professor,gf,2,6,3,9,,
+respondent,159059,Physics,Full Professor,gm,2,6,3,9,,
+respondent,161475,Physics,Full Professor,gm,1,3,1,2,,
+respondent,160978,Physics,Full Professor,gm,3,8,2,6,,
+respondent,159012,Physics,Full Professor,gm,1,3,1,3,,
+respondent,159410,Physics,Associate Professor,gm,2,6,3,7,,
+respondent,159333,Physics,Associate Professor,gf,1,2,1,2,,
+respondent,164380,Physics,Associate Professor,gm,3,9,3,8,,
+respondent,165407,Physics,Associate Professor,gm,1,1,1,1,,
+respondent,165896,Physics,Associate Professor,gf,1,1,1,1,,
+respondent,169202,Physics,Full Professor,-,3,8,2,5,,
+respondent,169699,Physics,Other,gm,2,7,2,7,,
+respondent,178866,Physics,Associate Professor,-,2,5,1,4,,
+respondent,185761,Physics,Associate Professor,gm,,,3,8,,
+respondent,191781,Physics,Full Professor,gm,2,5,2,6,,
+respondent,162134,Physics,Associate Professor,gm,1,1,1,1,,
+respondent,163515,Physics,Full Professor,gf,2,7,3,7,,
+respondent,180616,Physics,Associate Professor,gm,3,9,2,7,,
+respondent,166078,Physics,Full Professor,gm,3,10,3,9,,
+respondent,181547,Physics,Full Professor,gf,1,3,1,3,,
+respondent,190724,Physics,Full Professor,gm,2,4,2,4,,
+respondent,192257,Physics,Full Professor,gm,,,,,,
+respondent,194226,Physics,Full Professor,gm,2,4,2,5,,
+respondent,193465,Physics,Full Professor,gm,2,4,2,5,,
+respondent,194697,Physics,Full Professor,gm,1,4,1,3,,
+respondent,194502,Physics,Full Professor,gm,,,,,,
+respondent,195939,Physics,Full Professor,gm,1,3,1,2,,
+respondent,196713,Physics,Full Professor,gm,1,1,1,1,,
+respondent,192433,Physics,Full Professor,gf,2,5,1,3,,
+respondent,189412,Physics,Full Professor,gm,3,9,3,10,,
+respondent,191797,Physics,Assistant Professor,gm,1,3,1,3,,
+respondent,193731,Physics,Full Professor,gf,1,1,1,1,,
+respondent,196764,Physics,Other,-,1,2,1,1,,
+respondent,176084,Physics,Associate Professor,gm,3,9,2,7,,
+respondent,175422,Physics,Associate Professor,gm,3,8,3,9,,
+respondent,169484,Physics,Associate Professor,gm,2,6,3,8,,
+respondent,184517,Physics,Full Professor,gm,3,9,3,10,,
+respondent,173248,Physics,Other,gm,2,6,2,4,,
+respondent,184654,Physics,Full Professor,gm,,,,,,
+respondent,184185,Physics,Full Professor,gm,1,3,1,3,,
+respondent,183233,Physics,Associate Professor,gm,2,4,2,4,,
+respondent,172559,Physics,Associate Professor,gm,2,7,2,6,,
+respondent,203424,Physics,Full Professor,gm,1,3,1,3,,
+respondent,174758,Physics,Associate Professor,gm,,,3,9,,
+respondent,181051,Physics,Associate Professor,gm,,,,,,
+respondent,169075,Physics,Associate Professor,gf,2,5,1,3,,
+respondent,156995,Physics,Assistant Professor,gm,1,1,1,2,,
+respondent,164157,Physics,Associate Professor,gm,2,6,3,7,,
+respondent,163613,Physics,Full Professor,gf,1,1,1,1,,
+respondent,184919,Physics,Full Professor,gf,2,7,2,6,,
+respondent,171846,Physics,Full Professor,gm,1,2,1,1,,
+respondent,165812,Physics,Associate Professor,gm,2,5,1,3,,
+respondent,185399,Physics,Full Professor,gm,2,5,2,6,,
+respondent,162160,Physics,Full Professor,gm,1,1,1,1,,
+respondent,166354,Physics,Full Professor,gm,2,7,2,4,,
+respondent,157175,Physics,Full Professor,gm,2,4,2,5,,
+respondent,170136,Physics,Full Professor,gm,2,5,1,3,,
+respondent,193509,Physics,Full Professor,gm,1,3,1,3,,
+respondent,167307,Physics,Full Professor,gm,3,8,2,5,,
+respondent,187060,Physics,Full Professor,gm,1,4,2,5,,
+respondent,172975,Physics,Full Professor,-,2,7,3,10,,
+respondent,155901,Physics,Full Professor,gf,1,4,1,3,,
+respondent,156173,Physics,Full Professor,-,2,5,1,3,,
+respondent,155793,Physics,Assistant Professor,gm,2,7,2,6,,
+respondent,169578,Physics,Full Professor,gm,2,4,2,4,,
+respondent,166221,Physics,Full Professor,gm,1,2,1,2,,
+respondent,172562,Physics,Full Professor,gm,1,2,1,2,,
+respondent,190425,Physics,Associate Professor,gm,2,5,2,6,,
+respondent,171822,Physics,Full Professor,gm,2,4,2,5,,
+respondent,170226,Physics,Full Professor,-,1,3,1,2,,
+respondent,156419,Physics,Full Professor,gm,1,3,1,2,,
+respondent,166774,Physics,Full Professor,gm,2,7,2,7,,
+respondent,163711,Physics,Full Professor,gm,2,4,2,4,,
+respondent,156742,Physics,Full Professor,gm,2,6,2,5,,
+respondent,185642,Physics,Associate Professor,gm,3,9,3,10,,
+respondent,186823,Physics,Associate Professor,gm,2,5,1,4,,
+respondent,187827,Physics,Full Professor,gm,1,2,1,2,,
+respondent,187843,Physics,Associate Professor,gf,1,3,1,4,,
+respondent,175299,Physics,Full Professor,gm,,,3,9,,
+respondent,156980,Physics,Full Professor,gm,2,6,2,5,,
+respondent,189241,Physics,Full Professor,gm,2,7,3,10,,
+respondent,173866,Physics,Associate Professor,gm,2,5,1,3,,
+respondent,174721,Physics,Full Professor,gm,2,5,2,7,,
+respondent,175874,Physics,Assistant Professor,-,2,7,2,6,,
+respondent,184850,Physics,Full Professor,gm,1,4,1,3,,
+respondent,175762,Physics,Full Professor,gm,3,8,3,9,,
+respondent,180267,Physics,Associate Professor,-,1,3,1,3,,
+respondent,175974,Physics,Associate Professor,gm,2,5,2,5,,
+respondent,187604,Physics,Associate Professor,gm,3,8,3,9,,
+respondent,178388,Physics,Full Professor,gm,2,6,2,4,,
+respondent,180869,Physics,Full Professor,gm,1,3,1,3,,
+respondent,168939,Physics,Full Professor,gm,1,2,1,3,,
+respondent,191983,Physics,Assistant Professor,gf,1,2,1,2,,
+respondent,192377,Physics,Full Professor,gm,2,7,2,6,,
+respondent,197678,Physics,Other,gm,3,7,2,6,,
+respondent,198541,Physics,Full Professor,gm,2,5,2,6,,
+respondent,203073,Physics,Full Professor,gm,2,5,2,5,,
+respondent,205480,Physics,Full Professor,gm,1,3,1,3,,
+respondent,197548,Physics,Full Professor,gf,1,1,1,1,,
+respondent,190324,Physics,Full Professor,gm,1,3,1,4,,
+respondent,202968,Physics,Full Professor,-,2,5,1,3,,
+respondent,166644,Physics,Full Professor,gm,2,4,2,6,,
+respondent,199884,Physics,Associate Professor,gm,3,10,3,10,,
+respondent,203804,Physics,Full Professor,gm,3,8,3,9,,
+respondent,202528,Physics,Full Professor,gf,1,2,1,2,,
+respondent,201391,Physics,Full Professor,gm,1,3,1,3,,
+respondent,195278,Physics,Full Professor,gm,3,10,3,8,,
+respondent,200630,Physics,Full Professor,gm,2,5,1,4,,
+respondent,195275,Physics,Full Professor,-,3,10,3,9,,
+respondent,206998,Physics,Other,gm,1,1,1,2,,
+respondent,179217,Physics,Associate Professor,gm,3,9,3,10,,
+respondent,198084,Physics,Full Professor,gm,3,8,2,6,,
+respondent,198623,Physics,Associate Professor,gf,2,6,2,7,,
+respondent,199809,Physics,Full Professor,gm,1,3,1,3,,
+respondent,204788,Physics,Full Professor,gm,2,6,3,9,,
+respondent,210624,Physics,Full Professor,gm,2,5,2,6,,
+respondent,192355,Physics,Associate Professor,gf,3,10,3,9,,
+respondent,207502,Physics,Full Professor,gf,3,8,2,5,,
+respondent,200236,Physics,Associate Professor,gm,2,6,2,5,,
+respondent,209866,Physics,Associate Professor,gm,2,7,2,6,,
+respondent,196560,Physics,Full Professor,gm,1,1,1,1,,
+respondent,200527,Physics,Full Professor,gf,1,3,1,4,,
+respondent,204410,Physics,Full Professor,gm,1,3,1,3,,
+respondent,209169,Physics,Full Professor,gm,3,10,3,8,,
+respondent,208793,Physics,Other,gf,1,1,1,1,,
+respondent,210999,Physics,Full Professor,gm,2,6,3,7,,
+respondent,201890,Physics,Associate Professor,-,3,9,3,9,,
+respondent,206559,Physics,Associate Professor,gm,2,5,2,6,,
+respondent,212209,Physics,Assistant Professor,gm,,,,,,
+respondent,217164,Physics,Full Professor,gm,1,3,1,4,,
+respondent,211681,Physics,Full Professor,gm,2,5,2,5,,
+respondent,201385,Physics,Full Professor,gm,,,,,,
+respondent,211877,Physics,Full Professor,gm,1,2,1,1,,
+respondent,211872,Physics,Full Professor,gm,1,2,1,3,,
+respondent,220433,Physics,Full Professor,gm,2,6,2,4,,
+respondent,219865,Physics,Full Professor,gm,1,2,1,3,,
+respondent,214746,Physics,Full Professor,gm,3,8,3,9,,
+respondent,212488,Physics,Full Professor,gm,1,3,1,3,,
+respondent,214590,Physics,Full Professor,gm,2,7,2,7,,
+respondent,211512,Physics,Full Professor,gf,2,7,3,7,,
+respondent,196651,Physics,Associate Professor,gm,3,9,3,10,,
+respondent,219936,Physics,Full Professor,gm,2,5,2,4,,
+respondent,216837,Physics,Associate Professor,gm,1,1,1,1,,
+respondent,220649,Physics,Full Professor,gm,3,8,2,5,,
+respondent,218295,Physics,Full Professor,gf,2,7,3,8,,
+respondent,216380,Physics,Other,gm,2,6,2,5,,
+respondent,203723,Physics,Full Professor,gf,3,10,3,8,,
+respondent,209855,Physics,Associate Professor,gm,2,6,2,7,,
+respondent,220405,Physics,Full Professor,gm,3,9,2,7,,
+respondent,217019,Physics,Full Professor,gm,,,,,,
+respondent,190917,Physics,Full Professor,gm,1,2,1,1,,
+respondent,217569,Physics,Full Professor,gm,1,2,1,3,,
+respondent,219424,Physics,Full Professor,gm,3,8,2,5,,
+respondent,216543,Physics,Associate Professor,gf,3,8,2,7,,
+respondent,217847,Physics,Other,-,2,6,3,7,,
+respondent,219447,Physics,Associate Professor,gm,1,1,1,1,,
+respondent,194456,Physics,Full Professor,gm,1,1,1,1,,
+respondent,197649,Physics,Associate Professor,gf,3,9,2,6,,
+respondent,213621,Physics,Full Professor,gm,1,1,1,2,,
+respondent,218041,Physics,Associate Professor,gm,3,8,3,8,,
+respondent,198062,Physics,Associate Professor,gf,1,4,1,4,,
+respondent,206469,Physics,Full Professor,gm,3,9,3,9,,
+respondent,193643,Physics,Full Professor,gf,1,2,1,1,,
+respondent,157247,Physics,Full Professor,gm,3,7,3,9,,
+respondent,214479,Physics,Full Professor,gm,1,1,1,1,,
+respondent,189969,Physics,Associate Professor,gm,2,7,3,7,,
+respondent,221124,Physics,Assistant Professor,gm,,,,,,
+respondent,200348,Physics,Full Professor,gm,2,6,2,6,,
+respondent,184255,Physics,Full Professor,gm,1,3,1,3,,
+respondent,215296,Physics,Full Professor,-,3,7,2,6,,
+respondent,175975,Physics,Full Professor,gm,2,5,1,4,,
+respondent,187447,Physics,Full Professor,gm,1,3,2,4,,
+respondent,151815,Physics,Full Professor,gm,3,9,3,7,,
+respondent,149581,Physics,Associate Professor,gm,2,4,2,4,,
+respondent,180795,Physics,Full Professor,gm,3,8,3,9,,
+respondent,182918,Physics,Full Professor,gm,1,4,1,3,,
+respondent,154151,Physics,Full Professor,gm,1,1,1,2,,
+respondent,188459,Physics,Full Professor,gm,2,4,2,5,,
+respondent,210686,Physics,Associate Professor,gm,1,2,1,4,,
+respondent,181245,Physics,Full Professor,gm,1,1,1,1,,
+respondent,216300,Physics,Full Professor,gm,3,8,3,9,,
+respondent,186228,Physics,Other,gm,2,6,3,9,,
+respondent,161471,Physics,Full Professor,gf,2,6,3,8,,
+respondent,180300,Physics,Full Professor,gm,3,10,3,9,,
+respondent,157566,Physics,Full Professor,gm,1,3,2,7,,
+respondent,218854,Physics,Full Professor,gm,2,7,3,7,,
+respondent,207567,Physics,Associate Professor,gf,3,8,3,9,,
+respondent,212649,Physics,Full Professor,gm,3,8,2,7,,
+respondent,207926,Physics,Full Professor,gm,2,6,2,5,,
+respondent,210198,Physics,Full Professor,gm,1,2,1,2,,
+respondent,154014,Physics,Full Professor,gm,1,3,1,4,,
+respondent,148529,Physics,Associate Professor,gm,3,10,3,9,,
+respondent,150164,Physics,Full Professor,gm,1,3,1,4,,
+respondent,220615,Physics,Full Professor,gm,1,3,2,4,,
+respondent,218715,Physics,Full Professor,gm,1,3,1,2,,
+respondent,195771,Physics,Full Professor,gf,2,4,2,5,,
+respondent,176800,Physics,Full Professor,gm,1,1,1,2,,
+respondent,208786,Physics,Full Professor,-,1,3,1,4,,
+respondent,158447,Physics,Associate Professor,gm,2,7,2,5,,
+respondent,157970,Physics,Full Professor,gm,1,2,1,1,,
+respondent,193535,Physics,Full Professor,gm,2,7,2,5,,
+respondent,199848,Physics,Full Professor,gm,1,3,2,4,,
+respondent,191251,Physics,Full Professor,gm,3,10,3,7,,
+respondent,187149,Physics,Associate Professor,gm,2,7,3,7,,
+respondent,170166,Physics,Full Professor,gm,2,7,3,7,,
+respondent,204126,Physics,Full Professor,gf,3,9,2,7,,
+respondent,163075,Physics,Full Professor,gm,1,2,1,1,,
+respondent,148450,Physics,Full Professor,gm,2,7,2,4,,
+respondent,155358,Physics,Full Professor,gm,,,,,,
+respondent,182638,Physics,Full Professor,gm,2,7,2,4,,
+respondent,190885,Physics,Full Professor,gm,1,2,1,2,,
+respondent,178499,Physics,Full Professor,gm,2,7,3,8,,
+respondent,170397,Physics,Full Professor,gm,3,8,3,9,,
+respondent,163682,Physics,Full Professor,gm,2,7,3,9,,
+respondent,188393,Physics,Full Professor,gm,1,2,1,2,,
+respondent,183633,Physics,Associate Professor,gm,2,6,2,7,,
+respondent,168638,Physics,Full Professor,gm,1,1,1,1,,
+respondent,220860,Physics,Postdoctoral Researcher,gm,,,,,,
+respondent,220800,Physics,Assistant Professor,gm,,,,,,
+respondent,183036,Physics,Full Professor,gf,3,9,2,7,,
+respondent,179528,Physics,Full Professor,gf,2,7,2,7,,
+respondent,203557,Physics,Full Professor,gm,1,4,1,2,,
+respondent,173008,Physics,Full Professor,gm,3,7,2,6,,
+respondent,170118,Physics,Full Professor,gm,2,5,1,3,,
+respondent,198780,Physics,Full Professor,gm,1,3,2,4,,
+respondent,181040,Physics,Full Professor,gm,2,5,2,5,,
+respondent,175029,Physics,Full Professor,gm,2,7,2,5,,
+respondent,210428,Physics,Full Professor,gm,2,5,1,4,,
+respondent,148843,Physics,Full Professor,gm,1,3,1,4,,
+respondent,194449,Physics,Full Professor,gm,1,1,1,1,,
+respondent,179611,Physics,Full Professor,gm,3,8,2,7,,
+respondent,188775,Physics,Associate Professor,gm,3,8,3,8,,
+respondent,167721,Physics,Full Professor,-,1,3,1,4,,
+respondent,151961,Physics,Full Professor,gm,2,6,3,7,,
+respondent,200042,Physics,Full Professor,gm,1,2,1,1,,
+respondent,173517,Physics,Full Professor,gm,2,5,2,5,,
+respondent,199819,Physics,Full Professor,gm,1,2,1,2,,
+respondent,186420,Physics,Full Professor,gm,1,3,1,3,,
+respondent,153167,Physics,Associate Professor,gm,3,8,3,9,,
+respondent,170669,Physics,Full Professor,-,1,1,1,1,,
+respondent,191833,Physics,Full Professor,gm,1,1,1,2,,
+respondent,183531,Physics,Full Professor,-,1,2,1,1,,
+respondent,193720,Physics,Full Professor,gm,3,9,2,7,,
+respondent,188184,Physics,Associate Professor,gm,3,9,2,7,,
+respondent,192022,Physics,Assistant Professor,gm,1,1,1,2,,
+respondent,220187,Physics,Associate Professor,gf,1,3,1,3,,
+respondent,165210,Physics,Full Professor,gm,1,3,1,3,,
+respondent,190844,Physics,Assistant Professor,gm,3,8,2,6,,
+respondent,180976,Physics,Full Professor,gm,1,3,1,3,,
+respondent,183928,Physics,Full Professor,gm,1,1,1,1,,
+respondent,149825,Physics,Full Professor,gm,1,3,1,4,,
+respondent,214355,Physics,Full Professor,gm,1,3,1,2,,
+respondent,177386,Physics,Full Professor,gm,3,7,2,6,,
+respondent,180551,Physics,Full Professor,gm,2,4,2,5,,
+respondent,151895,Physics,Full Professor,gm,1,2,1,3,,
+respondent,193130,Physics,Full Professor,gm,3,8,3,9,,
+respondent,207349,Physics,Full Professor,gm,1,3,1,2,,
+respondent,182017,Physics,Full Professor,gm,2,4,2,4,,
+respondent,167454,Physics,Full Professor,gm,2,6,2,5,,
+respondent,161815,Physics,Full Professor,-,1,1,1,1,,
+respondent,199431,Physics,Full Professor,gf,2,4,2,5,,
+respondent,153224,Physics,Full Professor,gf,1,4,1,2,,
+respondent,169380,Physics,Full Professor,gm,,,,,,
+respondent,203955,Physics,Full Professor,gm,1,2,1,3,,
+respondent,215267,Physics,Full Professor,gm,1,1,1,1,,
+respondent,190623,Physics,Associate Professor,gm,2,4,2,5,,
+respondent,189720,Physics,Associate Professor,gf,2,6,2,7,,
+respondent,218283,Physics,Full Professor,gm,1,2,1,2,,
+respondent,212881,Physics,Associate Professor,gm,2,6,2,6,,
+respondent,189142,Physics,Full Professor,gm,2,5,1,3,,
+respondent,154334,Physics,Full Professor,gm,2,5,2,5,,
+respondent,153617,Physics,Associate Professor,gm,2,7,2,6,,
+respondent,181173,Physics,Full Professor,gm,2,6,2,5,,
+respondent,189203,Physics,Full Professor,gm,2,7,3,9,,
+respondent,149151,Physics,Full Professor,gm,2,5,1,3,,
+respondent,171340,Physics,Full Professor,gm,1,1,1,2,,
+respondent,149319,Physics,Full Professor,gm,3,8,3,8,,
+respondent,221652,Physics,Postdoctoral Researcher,gm,,,,,,
+respondent,171336,Physics,Full Professor,gm,3,8,3,8,,
+venue,1647091,,,,,,,,The Lancet,98.4
+venue,1647092,,,,,,,,Nature,50.5
+venue,1647094,,,,,,,,Science,44.7
+venue,1647096,,,,,,,,PLOS ONE,2.9
+venue,1647097,,,,,,,,JAMA,63.1
+venue,1647098,,,,,,,,Bulletin of the American Physical Society,
+venue,1647100,,,,,,,,Journal of the American Chemical Society,14.4
+venue,1647101,,,,,,,,Journal of Biological Chemistry,4.0
+venue,1647102,,,,,,,,AGU Fall Meeting Abstracts,
+venue,1647104,,,,,,,,Journal of Physics: Conference Series,
+venue,1647105,,,,,,,,Scientific Reports,3.8
+venue,1647107,,,,,,,,Journal of the Acoustical Society of America,2.1
+venue,1647108,,,,,,,,PNAS,9.4
+venue,1647110,,,,,,,,Cancer Research,12.5
+venue,1647112,,,,,,,,Journal of Applied Physics,2.7
+venue,1647113,,,,,,,,Journal of Chemical Physics,3.1
+venue,1647116,,,,,,,,Gastroenterology,25.7
+venue,1647118,,,,,,,,Physical Review Letters,8.1
+venue,1647119,,,,,,,,Proceedings of SPIE,
+venue,1647121,,,,,,,,Applied Physics Letters,3.5
+venue,1647122,,,,,,,,Analytical Chemistry,6.7
+venue,1647123,,,,,,,,The FASEB Journal,4.4
+venue,1647125,,,,,,,,The New England Journal of Medicine,96.2
+venue,1647127,,,,,,,,Angewandte Chemie,
+venue,1647129,,,,,,,,The Astrophysical Journal,4.8
+venue,1647130,,,,,,,,AGUFM,
+venue,1647138,,,,,,,,EGU General Assembly Conference Abstracts,
+venue,1647140,,,,,,,,Biochemical and Biophysical Research Communications,2.5
+venue,1647144,,,,,,,,Journal of Geophysical Research,
+venue,1647149,,,,,,,,Japanese Journal of Applied Physics,1.5
+venue,1647150,,,,,,,,Monthly Notices of the Royal Astronomical Society,4.7
+venue,1647152,,,,,,,,Angewandte Chemie International Edition,16.1
+venue,1647159,,,,,,,,Biophysical Journal,3.2
+venue,1647164,,,,,,,,Biochemistry,2.9
+venue,1647165,,,,,,,,MRS Proceedings,
+venue,1647166,,,,,,,,Astronomy and Astrophysics,5.4
+venue,1647169,,,,,,,,Annals of the New York Academy of Sciences,4.1
+venue,1647172,,,,,,,,Inorganic Chemistry,4.3
+venue,1647173,,,,,,,,Chemical Communications,4.3
+venue,1647177,,,,,,,,Chemical Physics Letters,2.8
+venue,1647179,,,,,,,,Physics Letters B,4.3
+venue,1647183,,,,,,,,IEEE Access,3.4
+venue,1647185,,,,,,,,Environmental Science & Technology,10.8
+venue,1647186,,,,,,,,Science of The Total Environment,8.2
+venue,1647191,,,,,,,,Conference on Lasers and Electro-Optics,
+venue,1647193,,,,,,,,EGUGA,
+venue,1647196,,,,,,,,FEBS Letters,3.0
+venue,1647197,,,,,,,,Applied Surface Science,6.3
+venue,1647203,,,,,,,,Physical Review A,2.6
+venue,1647204,,,,,,,,Astronomische Nachrichten,1.1
+venue,1647209,,,,,,,,Journal of Bacteriology,2.7
+venue,1647210,,,,,,,,Review of Scientific Instruments,1.3
+venue,1647212,,,,,,,,Optics Express,3.2
+venue,1647216,,,,,,,,Physics Today,2.8
+venue,1647218,,,,,,,,Electronics Letters,0.7
+venue,1647223,,,,,,,,Nuclear Instruments and Methods in Physics Research,1.5
+venue,1647224,,,,,,,,New Scientist,
+venue,1647231,,,,,,,,The Journal of Physical Chemistry,
+venue,1647233,,,,,,,,Langmuir,3.7
+venue,1647235,,,,,,,,Nucleic Acids Research,16.6
+venue,1647236,,,,,,,,Physics Letters,
+venue,1647237,,,,,,,,Journal of Physical Chemistry C,3.3
+venue,1647240,,,,,,,,Proceedings of the American Mathematical Society,0.8
+venue,1647242,,,,,,,,American Mathematical Monthly,0.4
+venue,1647243,,,,,,,,Nature Communications,14.7
+venue,1647245,,,,,,,,Physical Review,
+venue,1647248,,,,,,,,Journal of Virology,4.0
+venue,1647249,,,,,,,,Vacuum,3.8
+venue,1647251,,,,,,,,The Journal of Pediatrics,3.9
+venue,1647258,,,,,,,,Macromolecules,5.1
+venue,1647261,,,,,,,,Physical Chemistry Chemical Physics,2.9
+venue,1647262,,,,,,,,ACS Applied Materials & Interfaces,8.3
+venue,1647264,,,,,,,,Journal of Physical Chemistry B,2.8
+venue,1647273,,,,,,,,Geophysical Research Letters,4.6
+venue,1647274,,,,,,,,Thin Solid Films,2.0
+venue,1647275,,,,,,,,Journal of Magnetism and Magnetic Materials,2.5
+venue,1647278,,,,,,,,IEEE Transactions on Magnetics,2.1
+venue,1647285,,,,,,,,Applied optics,
+venue,1647288,,,,,,,,Journal of the Physical Society of Japan,1.5
+venue,1647291,,,,,,,,Solid State Communications,2.1
+venue,1647303,,,,,,,,Nuclear Instruments & Methods in Physics Research Section B-beam Interactions With Materials and Atoms,1.4
+venue,1647306,,,,,,,,Monthly Weather Review,2.8
+venue,1647313,,,,,,,,Journal of Colloid and Interface Science,9.4
+venue,1647314,,,,,,,,Materials Science and Engineering A-structural Materials Properties Microstructure and Processing,6.1
+venue,1647315,,,,,,,,Journal of Crystal Growth,1.7
+venue,1647320,,,,,,,,The Journal of Neuroscience,4.4
+venue,1647326,,,,,,,,Journal of Dairy Science,3.7
+venue,1647328,,,,,,,,Optics Letters,3.1
+venue,1647336,,,,,,,,Journal of Physics: Condensed Matter,2.3
+venue,1647340,,,,,,,,Nuclear Physics A,1.7
+venue,1647346,,,,,,,,Journal of Physical Chemistry A,2.7
+venue,1647350,,,,,,,,Journal of High Energy Physics,5.0
+venue,1647351,,,,,,,,Physica Status Solidi B-basic Solid State Physics,1.5
+venue,1647352,,,,,,,,Journal of Molecular Structure,4.0
+venue,1647367,,,,,,,,Physical Review C,3.2
+venue,1647369,,,,,,,,Optics Communications,2.2
+venue,1647373,,,,,,,,Journal of Molecular Biology,4.7
+venue,1647376,,,,,,,,Physical Review B,3.2
+venue,1647405,,,,,,,,Frontiers in Psychology,2.6
+venue,1647431,,,,,,,,Dalton Transactions,3.5
+venue,1647432,,,,,,,,Acta Physica Sinica,0.8
+venue,1647456,,,,,,,,Molecular and Cellular Biology,3.2
+venue,1647459,,,,,,,,Advanced Materials,27.4
+venue,1647461,,,,,,,,Transactions of the American Mathematical Society,1.2
+venue,1647462,,,,,,,,IEEE Transactions on Nuclear Science,1.9
+venue,1647465,,,,,,,,Bulletin of the American Astronomical Society,
+venue,1647481,,,,,,,,Biochemical Society Transactions,3.8
+venue,1647486,,,,,,,,Physica A: Statistical Mechanics and its Applications,2.8
+venue,1647487,,,,,,,,The Astronomical Journal,5.1
+venue,1647496,,,,,,,,Physical Review E,2.2
+venue,1647500,,,,,,,,Nuclear Physics B,2.5
+venue,1647501,,,,,,,,arXiv: High Energy Physics - Phenomenology,
+venue,1647507,,,,,,,,Microscopy and Microanalysis,2.9
+venue,1647510,,,,,,,,"Eos, Transactions American Geophysical Union",
+venue,1647511,,,,,,,,APS March Meeting Abstracts,
+venue,1647518,,,,,,,,Virology,2.8
+venue,1647542,,,,,,,,Journal of Cell Biology,7.4
+venue,1647544,,,,,,,,Journal of Fluid Mechanics,3.6
+venue,1647560,,,,,,,,eLife,6.4
+venue,1647567,,,,,,,,Lunar and Planetary Science Conference,
+venue,1647588,,,,,,,,AAS,
+venue,1647595,,,,,,,,Physical Review D,4.6
+venue,1647607,,,,,,,,Cell,45.5
+venue,1647609,,,,,,,,American Journal of Physics,0.8
+venue,1647610,,,,,,,,Nanoscale,5.8
+venue,1647612,,,,,,,,Physics of Plasmas,2.0
+venue,1647620,,,,,,,,Geochimica et Cosmochimica Acta,4.5
+venue,1647624,,,,,,,,Experimental Cell Research,3.3
+venue,1647628,,,,,,,,Journal of Mathematical Physics,1.2
+venue,1647650,,,,,,,,Bulletin of the American Meteorological Society,6.9
+venue,1647657,,,,,,,,Advances in Space Research,2.8
+venue,1647704,,,,,,,,Advanced Functional Materials,18.5
+venue,1647722,,,,,,,,Current Biology,8.1
+venue,1647723,,,,,,,,Physica Scripta,2.6
+venue,1647736,,,,,,,,Nanotechnology,2.9
+venue,1647751,,,,,,,,arXiv: Astrophysics,
+venue,1647757,,,,,,,,IEEE Photonics Technology Letters,2.3
+venue,1647774,,,,,,,,Genetics,3.3
+venue,1647775,,,,,,,,Journal of Physics A: Mathematical and General,
+venue,1647789,,,,,,,,EPL,1.8
+venue,1647796,,,,,,,,Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy,4.3
+venue,1647807,,,,,,,,The EMBO Journal,9.4
+venue,1647810,,,,,,,,Astrophysics and Space Science,1.8
+venue,1647843,,,,,,,,Journal of Lightwave Technology,4.1
+venue,1647852,,,,,,,,Earth and Planetary Science Letters,4.8
+venue,1647854,,,,,,,,Iau Symposia,
+venue,1647867,,,,,,,,Epj Web of Conferences,
+venue,1647872,,,,,,,,Nano Letters,9.6
+venue,1647873,,,,,,,,Biochimica Et Biophysica Acta - Biomembranes,2.8
+venue,1647875,,,,,,,,Journal of Physics and Chemistry of Solids,4.3
+venue,1647896,,,,,,,,arXiv: High Energy Physics - Theory,
+venue,1647905,,,,,,,,Chemical Physics,2.0
+venue,1647908,,,,,,,,ACS Nano,15.8
+venue,1647914,,,,,,,,Nuclear Physics B: Proceedings Supplements,
+venue,1647927,,,,,,,,Physics of Fluids,4.1
+venue,1647936,,,,,,,,The European Physical Journal A,2.6
+venue,1647941,,,,,,,,Journal of Computational Physics,3.8
+venue,1647945,,,,,,,,Geophysical Journal International,2.8
+venue,1647966,,,,,,,,Acta Materialia,8.3
+venue,1647977,,,,,,,,Publications of the Astronomical Society of the Pacific,3.3
+venue,1648013,,,,,,,,Quarterly Journal of the Royal Meteorological Society,3.0
+venue,1648025,,,,,,,,Soft Matter,2.9
+venue,1648032,,,,,,,,Journal of Theoretical Biology,1.9
+venue,1648036,,,,,,,,ACS omega,3.7
+venue,1648037,,,,,,,,LPI,
+venue,1648043,,,,,,,,Journal of Materials Chemistry C,5.7
+venue,1648051,,,,,,,,Journal of the Optical Society of America,1.4
+venue,1648057,,,,,,,,IEEE Transactions on Geoscience and Remote Sensing,7.5
+venue,1648076,,,,,,,,IEEE Journal of Quantum Electronics,2.2
+venue,1648085,,,,,,,,Small,13.0
+venue,1648088,,,,,,,,Journal of Vacuum Science and Technology A,2.4
+venue,1648094,,,,,,,,Journal of Physics B,1.5
+venue,1648115,,,,,,,,The Physics Teacher,0.5
+venue,1648126,,,,,,,,Proceedings of the International Astronomical Union,
+venue,1648135,,,,,,,,IEEE Transactions on Plasma Science,1.3
+venue,1648194,,,,,,,,Atmospheric Chemistry and Physics,5.2
+venue,1648204,,,,,,,,Il Nuovo Cimento,
+venue,1648236,,,,,,,,Icarus,2.5
+venue,1648244,,,,,,,,Nuclear Instruments and Methods,
+venue,1648260,,,,,,,,Canadian Journal of Physics,1.1
+venue,1648271,,,,,,,,European Physical Journal C,4.2
+venue,1648306,,,,,,,,Scripta Materialia,5.3
+venue,1648317,,,,,,,,Journal of The Optical Society of America B-optical Physics,1.8
+venue,1648339,,,,,,,,Classical and Quantum Gravity,3.6
+venue,1648385,,,,,,,,International Journal of Solids and Structures,3.4
+venue,1648387,,,,,,,,Journal of Physics C: Solid State Physics,
+venue,1648416,,,,,,,,International Journal of Modern Physics B,2.6
+venue,1648425,,,,,,,,Biochimica Et Biophysica Acta - Bioenergetics,3.4
+venue,1648455,,,,,,,,arXiv: General Relativity and Quantum Cosmology,
+venue,1648460,,,,,,,,ASPC,
+venue,1648466,,,,,,,,Journal of the Atmospheric Sciences,3.0
+venue,1648474,,,,,,,,Journal of Physical Chemistry Letters,4.8
+venue,1648523,,,,,,,,Journal of Visualized Experiments,1.2
+venue,1648536,,,,,,,,Neuron,14.7
+venue,1648553,,,,,,,,New Journal of Physics,2.8
+venue,1648557,,,,,,,,Chaos Solitons & Fractals,5.3
+venue,1648576,,,,,,,,International Journal of Modern Physics,1.4
+venue,1648581,,,,,,,,Applied Spectroscopy,2.2
+venue,1648597,,,,,,,,Science Education,3.1
+venue,1648612,,,,,,,,Computer Physics Communications,7.2
+venue,1648625,,,,,,,,Acta Astronautica,3.1
+venue,1648640,,,,,,,,Journal of Physics A,2.0
+venue,1648651,,,,,,,,Journal of Climate,4.8
+venue,1648662,,,,,,,,The Physics of fluids,
+venue,1648669,,,,,,,,Annals of Physics,3.0
+venue,1648676,,,,,,,,Solar Physics,2.7
+venue,1648689,,,,,,,,Journal of Vacuum Science and Technology B,
+venue,1648694,,,,,,,,Nuclear Fusion,3.5
+venue,1648701,,,,,,,,Astrophysics and space science library,
+venue,1648720,,,,,,,,American Astronomical Society Meeting Abstracts,
+venue,1648820,,,,,,,,Communications in Mathematical Physics,2.2
+venue,1648866,,,,,,,,Modern Physics Letters A,1.5
+venue,1648874,,,,,,,,Planetary and Space Science,1.8
+venue,1648904,,,,,,,,PLOS Genetics,4.0
+venue,1648909,,,,,,,,Cognitive Science,2.3
+venue,1648954,,,,,,,,Journal of Statistical Physics,1.3
+venue,1649011,,,,,,,,Hyperfine Interactions,
+venue,1649014,,,,,,,,Journal of Low Temperature Physics,1.1
+venue,1649027,,,,,,,,Viruses,3.8
+venue,1649053,,,,,,,,PLOS Computational Biology,3.8
+venue,1649124,,,,,,,,Advances in Mathematics,1.5
+venue,1649149,,,,,,,,Nature Genetics,31.7
+venue,1649175,,,,,,,,Symmetry,2.2
+venue,1649183,,,,,,,,Proceedings of the Royal Society of London,
+venue,1649210,,,,,,,,Journal of Spacecraft and Rockets,1.3
+venue,1649239,,,,,,,,Entropy,2.1
+venue,1649243,,,,,,,,Journal of Cosmology and Astroparticle Physics,5.3
+venue,1649250,,,,,,,,Physica D: Nonlinear Phenomena,2.7
+venue,1649258,,,,,,,,Science Advances,11.7
+venue,1649348,,,,,,,,Journal of Instrumentation,1.3
+venue,1649349,,,,,,,,Modern Physics Letters B,1.8
+venue,1649368,,,,,,,,Chemical Reviews,51.4
+venue,1649476,,,,,,,,International Cosmic Ray Conference,
+venue,1649508,,,,,,,,Molecular Cell,14.5
+venue,1649589,,,,,,,,Journal of Physics B: Atomic and Molecular Physics,
+venue,1649695,,,,,,,,Plasma Physics and Controlled Fusion,2.1
+venue,1649748,,,,,,,,The Astrophysical Journal Letters,8.8
+venue,1649772,,,,,,,,Journal of Chemical Theory and Computation,5.7
+venue,1649773,,,,,,,,Genes & Development,7.5
+venue,1649776,,,,,,,,APS Division of Fluid Dynamics Meeting Abstracts,
+venue,1649800,,,,,,,,Journal Of Geophysical Research: Atmospheres,3.8
+venue,1649839,,,,,,,,Radio Science,1.6
+venue,1649842,,,,,,,,Journal of Physics G,3.4
+venue,1649856,,,,,,,,IEEE Antennas and Wireless Propagation Letters,3.7
+venue,1649868,,,,,,,,Virus Research,2.5
+venue,1649892,,,,,,,,Journal of Microscopy,1.5
+venue,1649996,,,,,,,,General Relativity and Gravitation,2.1
+venue,1650078,,,,,,,,Liquid Crystals,2.4
+venue,1650112,,,,,,,,Physics Education,
+venue,1650124,,,,,,,,Journal Of Geophysical Research: Space Physics,2.6
+venue,1650137,,,,,,,,Meteoritics & Planetary Science,2.2
+venue,1650158,,,,,,,,Atmosphere,2.5
+venue,1650203,,,,,,,,Acta Metallurgica,
+venue,1650283,,,,,,,,Annales Geophysicae,1.7
+venue,1650375,,,,,,,,Computers in Biology and Medicine,7.0
+venue,1650379,,,,,,,,International Journal of Fracture,2.2
+venue,1650393,,,,,,,,Astrophysical Journal Supplement Series,8.6
+venue,1650461,,,,,,,,Communications in Nonlinear Science and Numerical Simulation,3.4
+venue,1650468,,,,,,,,Journal of Physics E: Scientific Instruments,
+venue,1650477,,,,,,,,Nature Neuroscience,21.2
+venue,1650484,,,,,,,,Journal of atmospheric and terrestrial physics,
+venue,1650525,,,,,,,,Nature Methods,36.1
+venue,1650527,,,,,,,,Chaos,2.7
+venue,1650708,,,,,,,,International Journal of Mass Spectrometry,1.6
+venue,1650766,,,,,,,,Nuclear physics,
+venue,1650810,,,,,,,,Space Science Reviews,9.1
+venue,1650905,,,,,,,,Siam Review,10.8
+venue,1650914,,,,,,,,The Journal of Membrane Biology,2.3
+venue,1650953,,,,,,,,Annals of Mathematics,5.7
+venue,1651000,,,,,,,,arXiv e-prints,
+venue,1651168,,,,,,,,Nature Physics,17.6
+venue,1651169,,,,,,,,Educational Researcher,5.4
+venue,1651185,,,,,,,,Publications of the Astronomical Society of Japan,2.2
+venue,1651306,,,,,,,,HST Proposal,
+venue,1651330,,,,,,,,Mathematical biosciences,1.9
+venue,1651363,,,,,,,,Nature Materials,37.2
+venue,1651426,,,,,,,,Physics Reports,23.9
+venue,1651435,,,,,,,,Review of Educational Research,8.3
+venue,1651463,,,,,,,,Cognition,2.8
+venue,1651487,,,,,,,,Results in physics,4.4
+venue,1651507,,,,,,,,Advanced Optical Materials,8.0
+venue,1651563,,,,,,,,Journal of Statistical Mechanics: Theory and Experiment,2.2
+venue,1651580,,,,,,,,Zeitschrift Für Physik C Particles And Fields,
+venue,1651725,,,,,,,,Bulletin of Mathematical Biology,2.0
+venue,1651738,,,,,,,,European Journal of Physics,0.6
+venue,1651754,,,,,,,,Physical review applied,3.8
+venue,1651784,,,,,,,,Journal of Atmospheric and Oceanic Technology,1.9
+venue,1651795,,,,,,,,Journal of Atmospheric and Solar-Terrestrial Physics,1.8
+venue,1651822,,,,,,,,Journal of Plasma Physics,2.1
+venue,1651832,,,,,,,,Philosophical Magazine,1.5
+venue,1651889,,,,,,,,SIAM Journal on Scientific Computing,3.0
+venue,1652083,,,,,,,,Nature Nanotechnology,38.1
+venue,1652114,,,,,,,,Chinese Physics C,3.6
+venue,1652120,,,,,,,,International Journal of Modern Physics D,1.8
+venue,1652148,,,,,,,,arXiv: Astrophysics of Galaxies,
+venue,1652156,,,,,,,,Journal of Research in Science Teaching,3.6
+venue,1652395,,,,,,,,Progress of theoretical physics. Supplement,
+venue,1652423,,,,,,,,Physical review research,3.5
+venue,1652537,,,,,,,,Photosynthesis Research,2.9
+venue,1652563,,,,,,,,Inventiones Mathematicae,2.6
+venue,1652723,,,,,,,,Plasma Sources Science and Technology,3.3
+venue,1652803,,,,,,,,Nature Photonics,32.3
+venue,1652828,,,,,,,,Nature Chemical Biology,12.9
+venue,1652949,,,,,,,,Letters in Mathematical Physics,1.3
+venue,1653127,,,,,,,,Journal of the Royal Society Interface,3.7
+venue,1653449,,,,,,,,Physical Review Materials,3.1
+venue,1653470,,,,,,,,Nature Chemistry,19.2
+venue,1653903,,,,,,,,ACS Photonics,6.5
+venue,1653905,,,,,,,,"G3: Genes, Genomes, Genetics",2.1
+venue,1653919,,,,,,,,SIAM Journal on Computing,1.2
+venue,1654033,,,,,,,,APS Division of Nuclear Physics Meeting Abstracts,
+venue,1654260,,,,,,,,Vibrational Spectroscopy,2.7
+venue,1654270,,,,,,,,Reviews of Modern Physics,45.9
+venue,1654289,,,,,,,,Journal of Rheology,3.0
+venue,1654300,,,,,,,,Physical review fluids,2.5
+venue,1654390,,,,,,,,International Journal of Science Education,2.2
+venue,1654407,,,,,,,,Frontiers in Physics,1.9
+venue,1654432,,,,,,,,Law and contemporary problems,
+venue,1654577,,,,,,,,Monthly Notices of the Royal Astronomical Society: Letters,
+venue,1655204,,,,,,,,Publications of the Astronomical Society of Australia,4.5
+venue,1655713,,,,,,,,Europhysics News,
+venue,1656503,,,,,,,,Science China-earth Sciences,6.0
+venue,1656536,,,,,,,,Geoscientific Model Development,4.0
+venue,1656828,,,,,,,,Chandra Proposal,
+venue,1657067,,,,,,,,Astroparticle Physics,4.2
+venue,1657068,,,,,,,,Journal of Physics G: Nuclear Physics,
+venue,1657549,,,,,,,,Reviews of Geophysics,25.2
+venue,1657570,,,,,,,,Reports on Progress in Physics,19.0
+venue,1657823,,,,,,,,New Astronomy,1.9
+venue,1657873,,,,,,,,Physical Review X,11.6
+venue,1658820,,,,,,,,Progress in Particle and Nuclear Physics,14.5
+venue,1658979,,,,,,,,Research in Science Education,2.2
+venue,1659084,,,,,,,,Frontiers,1.8
+venue,1659120,,,,,,,,Space Weather-the International Journal of Research and Applications,3.8
+venue,1659145,,,,,,,,"Physics of fluids. B, Plasma physics",
+venue,1659204,,,,,,,,Chinese Journal of Chemical Physics,1.2
+venue,1659313,,,,,,,,Journal Of Geophysical Research: Planets,3.9
+venue,1659452,,,,,,,,Science & education,2.1
+venue,1659852,,,,,,,,Optica,8.4
+venue,1659927,,,,,,,,Astrobiology,3.5
+venue,1660020,,,,,,,,Universe,2.5
+venue,1660414,,,,,,,,Journal of the British Interplanetary Society,
+venue,1660528,,,,,,,,Ocean Modelling,3.1
+venue,1660531,,,,,,,,Journal of open source software,
+venue,1660597,,,,,,,,Nature Astronomy,12.9
+venue,1660690,,,,,,,,Journal of Advances in Modeling Earth Systems,4.4
+venue,1661029,,,,,,,,Annales Henri Poincaré,1.4
+venue,1661406,,,,,,,,New Astronomy Reviews,11.7
+venue,1661484,,,,,,,,Communications in Computational Physics,2.6
+venue,1662312,,,,,,,,Physical review accelerators and beams,1.5
+venue,1662459,,,,,,,,Astronomy & astrophysics. Supplement series,
+venue,1662995,,,,,,,,Nonlinear Processes in Geophysics,1.7
+venue,1663024,,,,,,,,Granular Matter,2.3
+venue,1663221,,,,,,,,Journal of Science Education and Technology,3.3
+venue,1663313,,,,,,,,Cognitive Psychology,3.0
+venue,1663368,,,,,,,,Nature Human Behaviour,21.4
+venue,1663830,,,,,,,,NOAO Proposal,
+venue,1663873,,,,,,,,Earth and Space Science,2.9
+venue,1664165,,,,,,,,Experimental Astronomy,2.7
+venue,1664529,,,,,,,,Journal of the American Association of Variable Star Observers (JAAVSO),
+venue,1664737,,,,,,,,Annual Review of Fluid Mechanics,25.4
+venue,1664745,,,,,,,,American Astronomical Society Meeting Abstracts #235,
+venue,1664954,,,,,,,,CBE- Life Sciences Education,4.6
+venue,1665245,,,,,,,,Annual Review of Astronomy and Astrophysics,26.3
+venue,1665385,,,,,,,,Research notes of the AAS,
+venue,1666244,,,,,,,,Siam Journal on Applied Dynamical Systems,1.7
+venue,1666520,,,,,,,,Matter,17.3
+venue,1667976,,,,,,,,SciPost physics,4.6
+venue,1669388,,,,,,,,Frontiers in Astronomy and Space Sciences,2.6
+venue,1669469,,,,,,,,Journal of Astronomy and Space Sciences,0.6
+venue,1669586,,,,,,,,European Physical Journal A,
+venue,1670664,,,,,,,,International Journal of Astrobiology,1.7
+venue,1670849,,,,,,,,noao,
+venue,1671642,,,,,,,,Quantum,5.1
+venue,1672728,,,,,,,,Physics of the Dark Universe,5.0
+venue,1673134,,,,,,,,The Journal of the Learning Sciences,3.0
+venue,1673704,,,,,,,,Interdisciplinary Sciences: Computational Life Sciences,3.9
+venue,1673842,,,,,,,,Solid state physics,
+venue,1674138,,,,,,,,"Journal of Astronomical Telescopes, Instruments, and Systems",1.7
+venue,1674341,,,,,,,,Proceedings of 36th International Cosmic Ray Conference — PoS(ICRC2019),
+venue,1675755,,,,,,,,Physical Review Physics Education Research,2.6
+venue,1675865,,,,,,,,American Astronomical Society Meeting Abstracts #229,
+venue,1676321,,,,,,,,Quantum science and technology,5.6
+venue,1677485,,,,,,,,Proc SPIE,
+venue,1677699,,,,,,,,Cognition and Instruction,2.3
+venue,1678559,,,,,,,,The planetary science journal,3.8
+venue,1680051,,,,,,,,Advanced quantum technologies,4.4
+venue,1680828,,,,,,,,JACS Au,8.5
+venue,1681751,,,,,,,,Applied Network Science,1.3
+venue,1681860,,,,,,,,Astronomy and Computing,1.9
+venue,1682459,,,,,,,,JHEP reports,9.5
+venue,1682908,,,,,,,,PRX quantum,9.3
+venue,1684730,,,,,,,,Journal of Complex Networks,2.2
+venue,1685137,,,,,,,,Journal of college science teaching,
+venue,1685680,,,,,,,,International Journal of Astronomy and Astrophysics,
+venue,1686720,,,,,,,,Structural Dynamics,2.3
+venue,1688233,,,,,,,,International Journal of STEM Education,5.6
+venue,1688457,,,,,,,,EPJ Data Science,3.0
+venue,1688865,,,,,,,,Physical Review Special Topics-physics Education Research,
+venue,1689104,,,,,,,,Nature Computational Science,12.0
+venue,1691039,,,,,,,,"Geoscientific instrumentation, methods and data systems",1.8
+venue,1693640,,,,,,,,"Physical Review. D. Covering Particles, Fields, Gravitation, and Cosmology",
+venue,1695926,,,,,,,,PNAS nexus,2.2
+venue,1696383,,,,,,,,CourseSource,
+venue,1696940,,,,,,,,Earth Moon and Planets,
+venue,1697155,,,,,,,,JOSAB,
+venue,1697694,,,,,,,,Nuclear Instruments & Methods in Physics Research Section A-accelerators Spectrometers Detectors and Associated Equipment,
+venue,1697976,,,,,,,,Journal of Astronomical Instrumentation,1.5
+venue,1700931,,,,,,,,Proc. SPIE,
+venue,1704966,,,,,,,,European Journal of Physics Education,
+venue,1706544,,,,,,,,PASP,
+venue,1707949,,,,,,,,AVS quantum science,4.2
+venue,1708323,,,,,,,,JVST,
+venue,1708460,,,,,,,,American Astronomical Society,
+venue,1708487,,,,,,,,Atmospheric Chemistry and Physics (Web),
+venue,1709292,,,,,,,,SciPost physics core,2.6
+venue,1709647,,,,,,,,The Open astronomy journal,
+venue,1710061,,,,,,,,International Journal of Modern Physics A,
+venue,1710962,,,,,,,,Biophysical reports,2.4
+venue,1711431,,,,,,,,Open Journal of Astrophysics,

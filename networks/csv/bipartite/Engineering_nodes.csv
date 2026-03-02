@@ -1,0 +1,1284 @@
+node_type,node_id,field,career_stage,gender,institution_bin_3,institution_bin_10,academia_prestige_bin_3,academia_prestige_bin_10,name,jcr_jif
+respondent,147798,Engineering,Associate Professor,gm,3,8,3,9,,
+respondent,148420,Engineering,Full Professor,gm,1,2,1,2,,
+respondent,150977,Engineering,Full Professor,gm,2,7,2,5,,
+respondent,151408,Engineering,Assistant Professor,gf,,,,,,
+respondent,149686,Engineering,Associate Professor,gm,2,7,2,7,,
+respondent,149690,Engineering,Associate Professor,gm,1,1,1,1,,
+respondent,150910,Engineering,Associate Professor,gm,2,5,1,3,,
+respondent,150240,Engineering,Full Professor,gm,1,2,1,2,,
+respondent,150453,Engineering,Associate Professor,gm,1,3,1,3,,
+respondent,153073,Engineering,Full Professor,gm,2,4,2,6,,
+respondent,154567,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,154730,Engineering,Associate Professor,gm,1,1,1,1,,
+respondent,155057,Engineering,Postdoctoral Researcher,gm,3,9,3,9,,
+respondent,154138,Engineering,Full Professor,gm,,,1,2,,
+respondent,153790,Engineering,Full Professor,gm,2,7,3,8,,
+respondent,155010,Engineering,Full Professor,gm,,,,,,
+respondent,154813,Engineering,Full Professor,gf,2,6,1,3,,
+respondent,153863,Engineering,Full Professor,gf,2,4,1,4,,
+respondent,157207,Engineering,Associate Professor,gm,2,5,2,5,,
+respondent,157334,Engineering,Full Professor,gm,,,2,4,,
+respondent,160137,Engineering,Full Professor,gm,1,3,2,4,,
+respondent,158619,Engineering,Associate Professor,gm,1,1,1,1,,
+respondent,163477,Engineering,Full Professor,gm,1,2,1,2,,
+respondent,150300,Engineering,Full Professor,gm,,,,,,
+respondent,154108,Engineering,Other,gm,1,2,1,2,,
+respondent,163135,Engineering,Associate Professor,gf,3,10,3,10,,
+respondent,157331,Engineering,Full Professor,gm,2,4,2,5,,
+respondent,155084,Engineering,Associate Professor,gm,1,3,1,3,,
+respondent,165701,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,173448,Engineering,Full Professor,gm,3,7,3,8,,
+respondent,165150,Engineering,Full Professor,gm,1,2,1,2,,
+respondent,166121,Engineering,Associate Professor,gm,1,1,1,1,,
+respondent,171004,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,183126,Engineering,Full Professor,gm,2,6,3,8,,
+respondent,160372,Engineering,Full Professor,gf,1,4,2,5,,
+respondent,191493,Engineering,Full Professor,gm,2,6,2,4,,
+respondent,178338,Engineering,Associate Professor,gm,3,9,3,9,,
+respondent,195829,Engineering,Associate Professor,gm,2,6,2,5,,
+respondent,195506,Engineering,Full Professor,gm,3,8,3,9,,
+respondent,194946,Engineering,Full Professor,gm,2,5,2,4,,
+respondent,199456,Engineering,Full Professor,gm,2,6,2,5,,
+respondent,193149,Engineering,Associate Professor,gm,1,3,1,4,,
+respondent,204104,Engineering,Associate Professor,gm,1,2,1,2,,
+respondent,191135,Engineering,Full Professor,gf,3,7,2,6,,
+respondent,191722,Engineering,Associate Professor,gm,3,8,3,9,,
+respondent,191758,Engineering,Associate Professor,-,1,1,1,1,,
+respondent,181221,Engineering,Full Professor,gm,1,2,1,2,,
+respondent,164886,Engineering,Full Professor,gm,2,7,2,7,,
+respondent,178414,Engineering,Other,gm,1,3,1,3,,
+respondent,183681,Engineering,Assistant Professor,gm,3,9,3,8,,
+respondent,177702,Engineering,Other,gm,3,9,3,8,,
+respondent,177331,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,170788,Engineering,Associate Professor,gm,2,5,2,4,,
+respondent,166783,Engineering,Associate Professor,gm,1,2,1,2,,
+respondent,160907,Engineering,Full Professor,gf,2,5,1,2,,
+respondent,157618,Engineering,Associate Professor,gm,1,2,1,2,,
+respondent,166308,Engineering,Full Professor,gm,2,4,1,4,,
+respondent,166540,Engineering,Associate Professor,gm,1,1,1,1,,
+respondent,158345,Engineering,Associate Professor,gm,3,10,3,10,,
+respondent,161114,Engineering,Full Professor,gf,1,2,1,2,,
+respondent,174950,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,147879,Engineering,Associate Professor,gm,1,2,1,1,,
+respondent,163939,Engineering,Associate Professor,-,1,3,2,4,,
+respondent,173586,Engineering,Full Professor,gm,3,8,2,6,,
+respondent,160135,Engineering,Full Professor,gm,3,8,2,7,,
+respondent,196685,Engineering,Full Professor,gm,,,1,1,,
+respondent,172199,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,168230,Engineering,Full Professor,gm,,,3,8,,
+respondent,163609,Engineering,Full Professor,gm,2,6,2,5,,
+respondent,171084,Engineering,Full Professor,gf,1,3,1,3,,
+respondent,167794,Engineering,Full Professor,gm,,,,,,
+respondent,157724,Engineering,Full Professor,gm,,,,,,
+respondent,159816,Engineering,Associate Professor,gm,3,7,2,6,,
+respondent,164345,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,169591,Engineering,Full Professor,gm,1,2,1,1,,
+respondent,163993,Engineering,Full Professor,gm,,,2,6,,
+respondent,158293,Engineering,Associate Professor,gf,3,10,3,10,,
+respondent,171724,Engineering,Full Professor,gf,3,8,3,9,,
+respondent,186871,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,186389,Engineering,Full Professor,gm,1,2,1,2,,
+respondent,167905,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,189347,Engineering,Assistant Professor,gm,,,,,,
+respondent,188202,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,188052,Engineering,Associate Professor,gm,3,8,3,9,,
+respondent,188247,Engineering,Full Professor,gm,3,7,2,6,,
+respondent,160096,Engineering,Full Professor,gf,,,,,,
+respondent,182972,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,182800,Engineering,Associate Professor,gm,3,10,3,10,,
+respondent,176846,Engineering,Full Professor,gm,3,8,2,6,,
+respondent,187513,Engineering,Full Professor,gm,2,6,2,4,,
+respondent,176966,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,198665,Engineering,Full Professor,gf,1,3,1,3,,
+respondent,204595,Engineering,Associate Professor,gm,2,7,3,8,,
+respondent,201200,Engineering,Full Professor,gm,2,5,2,6,,
+respondent,204987,Engineering,Associate Professor,gm,3,7,3,8,,
+respondent,198117,Engineering,Associate Professor,gm,2,4,1,4,,
+respondent,202708,Engineering,Full Professor,gf,1,1,1,1,,
+respondent,201734,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,196630,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,202703,Engineering,Associate Professor,-,3,8,3,9,,
+respondent,201436,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,208137,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,203004,Engineering,Full Professor,gm,1,2,1,2,,
+respondent,198163,Engineering,Full Professor,gm,3,8,3,9,,
+respondent,199856,Engineering,Full Professor,gm,3,8,3,9,,
+respondent,197998,Engineering,PhD Student,gm,1,1,1,1,,
+respondent,200900,Engineering,Associate Professor,gm,3,10,3,10,,
+respondent,205525,Engineering,Associate Professor,gm,2,4,2,5,,
+respondent,206755,Engineering,Full Professor,gm,3,9,3,9,,
+respondent,204814,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,210869,Engineering,Associate Professor,gm,2,5,2,4,,
+respondent,205490,Engineering,Full Professor,gm,2,7,2,5,,
+respondent,172877,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,205711,Engineering,Full Professor,gf,,,2,6,,
+respondent,210896,Engineering,Associate Professor,gf,2,7,2,6,,
+respondent,207485,Engineering,Full Professor,gm,1,3,1,2,,
+respondent,204154,Engineering,Associate Professor,gm,2,5,2,5,,
+respondent,204808,Engineering,Associate Professor,gm,3,9,2,5,,
+respondent,213501,Engineering,Associate Professor,gm,2,5,2,5,,
+respondent,214777,Engineering,Full Professor,gf,3,9,3,8,,
+respondent,211399,Engineering,Associate Professor,gm,3,9,3,10,,
+respondent,209748,Engineering,Full Professor,gm,3,8,3,9,,
+respondent,215040,Engineering,Full Professor,gm,3,8,3,8,,
+respondent,213085,Engineering,Assistant Professor,gf,3,7,2,6,,
+respondent,205713,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,216275,Engineering,Associate Professor,gm,2,6,3,8,,
+respondent,213379,Engineering,Full Professor,-,1,3,1,3,,
+respondent,212857,Engineering,Associate Professor,gf,3,10,3,10,,
+respondent,213988,Engineering,Full Professor,gm,1,4,2,5,,
+respondent,213980,Engineering,Full Professor,gm,1,2,2,4,,
+respondent,214174,Engineering,Full Professor,gm,3,9,3,10,,
+respondent,219477,Engineering,Full Professor,gm,2,6,2,6,,
+respondent,219456,Engineering,Full Professor,gm,2,6,2,5,,
+respondent,214386,Engineering,Full Professor,gm,1,2,1,2,,
+respondent,212531,Engineering,Other,gm,2,4,1,3,,
+respondent,213314,Engineering,Assistant Professor,gm,2,6,2,5,,
+respondent,220271,Engineering,Full Professor,gf,3,7,3,7,,
+respondent,216770,Engineering,Full Professor,-,1,2,1,2,,
+respondent,217663,Engineering,Associate Professor,gm,2,6,3,8,,
+respondent,220583,Engineering,Associate Professor,gm,2,5,2,5,,
+respondent,211804,Engineering,Full Professor,gm,2,7,3,8,,
+respondent,217475,Engineering,Associate Professor,gf,1,2,1,2,,
+respondent,215600,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,214173,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,212855,Engineering,Full Professor,gm,3,8,3,9,,
+respondent,215666,Engineering,Associate Professor,gm,2,6,2,6,,
+respondent,207692,Engineering,Associate Professor,gm,1,2,1,2,,
+respondent,220249,Engineering,Full Professor,gm,1,3,2,7,,
+respondent,218426,Engineering,Assistant Professor,gm,1,4,2,5,,
+respondent,210608,Engineering,Full Professor,gf,2,6,1,3,,
+respondent,209974,Engineering,Associate Professor,gm,3,8,3,9,,
+respondent,218007,Engineering,Associate Professor,gm,3,8,3,8,,
+respondent,220713,Engineering,Associate Professor,gm,,,,,,
+respondent,220714,Engineering,Full Professor,gm,,,,,,
+respondent,216159,Engineering,Full Professor,gm,3,8,3,9,,
+respondent,220381,Engineering,Full Professor,gm,2,6,2,6,,
+respondent,165670,Engineering,Full Professor,gm,3,8,3,8,,
+respondent,218754,Engineering,Associate Professor,-,3,7,3,8,,
+respondent,179385,Engineering,Full Professor,gm,3,9,3,8,,
+respondent,184218,Engineering,Associate Professor,gm,2,6,2,6,,
+respondent,152223,Engineering,Full Professor,gf,1,3,2,4,,
+respondent,196686,Engineering,Associate Professor,gm,3,8,3,8,,
+respondent,215614,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,190371,Engineering,Full Professor,gf,1,1,1,1,,
+respondent,174267,Engineering,Full Professor,gm,3,10,3,10,,
+respondent,219483,Engineering,Full Professor,gm,,,,,,
+respondent,148926,Engineering,Full Professor,gm,,,,,,
+respondent,194298,Engineering,Associate Professor,gf,1,3,1,3,,
+respondent,168507,Engineering,Associate Professor,gm,1,2,1,2,,
+respondent,181411,Engineering,Full Professor,gf,1,1,1,1,,
+respondent,175264,Engineering,Associate Professor,gm,1,3,1,2,,
+respondent,169747,Engineering,Full Professor,gm,2,6,1,3,,
+respondent,170352,Engineering,Full Professor,gm,1,3,2,4,,
+respondent,207722,Engineering,Associate Professor,gm,2,6,2,7,,
+respondent,161533,Engineering,Assistant Professor,gf,2,5,2,5,,
+respondent,169237,Engineering,Full Professor,gf,3,8,3,9,,
+respondent,156757,Engineering,Associate Professor,gm,,,,,,
+respondent,186834,Engineering,Associate Professor,gm,1,3,1,3,,
+respondent,170958,Engineering,Associate Professor,gm,2,4,2,4,,
+respondent,203683,Engineering,Full Professor,gm,3,7,2,6,,
+respondent,194741,Engineering,Associate Professor,gm,3,9,3,10,,
+respondent,166290,Engineering,Associate Professor,gm,1,2,1,2,,
+respondent,198461,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,203866,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,217188,Engineering,Associate Professor,gm,1,2,1,2,,
+respondent,188949,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,220813,Engineering,Full Professor,gm,,,,,,
+respondent,180778,Engineering,Full Professor,-,1,3,2,6,,
+respondent,195540,Engineering,Full Professor,gm,,,,,,
+respondent,173194,Engineering,Full Professor,gf,2,5,2,6,,
+respondent,217545,Engineering,Associate Professor,gm,1,3,1,2,,
+respondent,158240,Engineering,Full Professor,gm,1,3,1,2,,
+respondent,175120,Engineering,Full Professor,gm,3,9,3,9,,
+respondent,170406,Engineering,Full Professor,gm,2,4,1,3,,
+respondent,205095,Engineering,Full Professor,gm,1,3,2,7,,
+respondent,210327,Engineering,Full Professor,gf,2,5,2,6,,
+respondent,193108,Engineering,Associate Professor,gm,3,8,3,9,,
+respondent,166516,Engineering,Associate Professor,gf,1,2,1,2,,
+respondent,155416,Engineering,Full Professor,gf,1,1,1,1,,
+respondent,170500,Engineering,Full Professor,gm,1,1,1,2,,
+respondent,218330,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,170632,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,208562,Engineering,Full Professor,gm,3,7,3,7,,
+respondent,213128,Engineering,Other,gm,1,3,1,3,,
+respondent,181535,Engineering,Assistant Professor,gm,2,4,1,3,,
+respondent,171294,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,177803,Engineering,Full Professor,gm,3,8,3,9,,
+respondent,148175,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,199679,Engineering,Full Professor,gm,1,2,1,2,,
+respondent,171212,Engineering,Full Professor,gm,3,8,3,9,,
+respondent,183485,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,201541,Engineering,Full Professor,gm,2,5,2,5,,
+respondent,204258,Engineering,Full Professor,gm,,,2,6,,
+respondent,165143,Engineering,Full Professor,gm,2,5,1,4,,
+respondent,149931,Engineering,Full Professor,gm,1,1,1,1,,
+respondent,198954,Engineering,Full Professor,gf,1,3,1,3,,
+respondent,160944,Engineering,Associate Professor,gf,1,4,2,4,,
+respondent,156309,Engineering,Full Professor,gm,2,5,2,6,,
+respondent,183401,Engineering,Full Professor,-,1,3,1,3,,
+respondent,195784,Engineering,Associate Professor,gm,1,1,1,1,,
+respondent,166940,Engineering,Full Professor,gm,2,6,2,6,,
+respondent,191314,Engineering,Full Professor,gm,3,7,3,9,,
+respondent,170401,Engineering,Full Professor,gm,3,8,3,9,,
+respondent,211145,Engineering,Full Professor,gm,3,7,2,6,,
+respondent,158320,Engineering,Assistant Professor,gm,1,2,1,2,,
+respondent,148978,Engineering,Associate Professor,gm,2,6,3,8,,
+respondent,167615,Engineering,Full Professor,gm,2,7,2,7,,
+respondent,160331,Engineering,Full Professor,gm,,,2,5,,
+respondent,190084,Engineering,Full Professor,gm,2,7,2,4,,
+respondent,159163,Engineering,Full Professor,gm,1,4,1,2,,
+respondent,182546,Engineering,Associate Professor,gf,1,3,1,3,,
+respondent,177441,Engineering,Associate Professor,gf,2,5,3,7,,
+respondent,181569,Engineering,Full Professor,gf,2,7,2,7,,
+respondent,189919,Engineering,Associate Professor,gm,3,9,3,9,,
+respondent,203914,Engineering,Full Professor,gf,1,4,1,4,,
+respondent,212334,Engineering,Other,gm,2,6,3,8,,
+respondent,188958,Engineering,Full Professor,gm,1,3,2,4,,
+respondent,200474,Engineering,Other,gm,3,10,3,10,,
+respondent,192240,Engineering,Full Professor,gm,3,9,3,8,,
+respondent,203343,Engineering,Full Professor,gf,2,7,3,8,,
+respondent,148250,Engineering,Associate Professor,gm,3,8,3,9,,
+respondent,207429,Engineering,Associate Professor,gm,,,,,,
+respondent,185825,Engineering,Full Professor,gf,2,4,2,5,,
+respondent,203378,Engineering,Full Professor,gm,2,6,2,7,,
+respondent,181542,Engineering,Associate Professor,gm,3,7,3,7,,
+respondent,165122,Engineering,Associate Professor,gm,2,5,2,6,,
+respondent,161727,Engineering,Associate Professor,-,2,5,1,2,,
+respondent,178170,Engineering,Associate Professor,gf,1,4,1,4,,
+respondent,197639,Engineering,Full Professor,gm,3,7,3,8,,
+respondent,195733,Engineering,Full Professor,-,1,3,1,3,,
+respondent,157854,Engineering,Full Professor,gm,3,10,3,8,,
+respondent,183617,Engineering,Full Professor,gm,1,3,1,3,,
+respondent,199853,Engineering,Full Professor,gm,,,,,,
+respondent,165168,Engineering,Full Professor,gm,3,7,2,6,,
+respondent,219079,Engineering,Full Professor,gm,3,8,2,6,,
+venue,1647091,,,,,,,,The Lancet,98.4
+venue,1647092,,,,,,,,Nature,50.5
+venue,1647093,,,,,,,,British Medical Journal (BMJ),93.6
+venue,1647094,,,,,,,,Science,44.7
+venue,1647096,,,,,,,,PLOS ONE,2.9
+venue,1647097,,,,,,,,JAMA,63.1
+venue,1647098,,,,,,,,Bulletin of the American Physical Society,
+venue,1647100,,,,,,,,Journal of the American Chemical Society,14.4
+venue,1647101,,,,,,,,Journal of Biological Chemistry,4.0
+venue,1647102,,,,,,,,AGU Fall Meeting Abstracts,
+venue,1647103,,,,,,,,Blood,21.0
+venue,1647105,,,,,,,,Scientific Reports,3.8
+venue,1647107,,,,,,,,Journal of the Acoustical Society of America,2.1
+venue,1647108,,,,,,,,PNAS,9.4
+venue,1647110,,,,,,,,Cancer Research,12.5
+venue,1647112,,,,,,,,Journal of Applied Physics,2.7
+venue,1647113,,,,,,,,Journal of Chemical Physics,3.1
+venue,1647115,,,,,,,,Investigative Ophthalmology & Visual Science,5.0
+venue,1647116,,,,,,,,Gastroenterology,25.7
+venue,1647117,,,,,,,,Journal of Clinical Oncology,42.1
+venue,1647118,,,,,,,,Physical Review Letters,8.1
+venue,1647119,,,,,,,,Proceedings of SPIE,
+venue,1647121,,,,,,,,Applied Physics Letters,3.5
+venue,1647122,,,,,,,,Analytical Chemistry,6.7
+venue,1647123,,,,,,,,The FASEB Journal,4.4
+venue,1647125,,,,,,,,The New England Journal of Medicine,96.2
+venue,1647127,,,,,,,,Angewandte Chemie,
+venue,1647128,,,,,,,,Circulation,35.5
+venue,1647129,,,,,,,,The Astrophysical Journal,4.8
+venue,1647130,,,,,,,,AGUFM,
+venue,1647133,,,,,,,,Journal of the American College of Cardiology,21.7
+venue,1647138,,,,,,,,EGU General Assembly Conference Abstracts,
+venue,1647139,,,,,,,,Journal of Organic Chemistry,3.3
+venue,1647140,,,,,,,,Biochemical and Biophysical Research Communications,2.5
+venue,1647144,,,,,,,,Journal of Geophysical Research,
+venue,1647145,,,,,,,,Medicine and Science in Sports and Exercise,4.1
+venue,1647147,,,,,,,,Meeting abstracts,
+venue,1647150,,,,,,,,Monthly Notices of the Royal Astronomical Society,4.7
+venue,1647151,,,,,,,,Journal of Immunology,3.6
+venue,1647152,,,,,,,,Angewandte Chemie International Edition,16.1
+venue,1647158,,,,,,,,Acta horticulturae,
+venue,1647159,,,,,,,,Biophysical Journal,3.2
+venue,1647162,,,,,,,,Journal of Alloys and Compounds,5.8
+venue,1647163,,,,,,,,Chest,9.5
+venue,1647164,,,,,,,,Biochemistry,2.9
+venue,1647165,,,,,,,,MRS Proceedings,
+venue,1647166,,,,,,,,Astronomy and Astrophysics,5.4
+venue,1647169,,,,,,,,Annals of the New York Academy of Sciences,4.1
+venue,1647171,,,,,,,,RSC Advances,3.9
+venue,1647173,,,,,,,,Chemical Communications,4.3
+venue,1647174,,,,,,,,IFAC Proceedings Volumes,
+venue,1647177,,,,,,,,Chemical Physics Letters,2.8
+venue,1647181,,,,,,,,Annals of Internal Medicine,19.6
+venue,1647183,,,,,,,,IEEE Access,3.4
+venue,1647185,,,,,,,,Environmental Science & Technology,10.8
+venue,1647186,,,,,,,,Science of The Total Environment,8.2
+venue,1647187,,,,,,,,Journal of Applied Polymer Science,2.7
+venue,1647193,,,,,,,,EGUGA,
+venue,1647195,,,,,,,,Sustainability,3.3
+venue,1647196,,,,,,,,FEBS Letters,3.0
+venue,1647197,,,,,,,,Applied Surface Science,6.3
+venue,1647200,,,,,,,,Journal of The Franklin Institute-engineering and Applied Mathematics,3.7
+venue,1647203,,,,,,,,Physical Review A,2.6
+venue,1647207,,,,,,,,European Heart Journal,37.6
+venue,1647209,,,,,,,,Journal of Bacteriology,2.7
+venue,1647210,,,,,,,,Review of Scientific Instruments,1.3
+venue,1647211,,,,,,,,Journal of Chemical Education,2.5
+venue,1647212,,,,,,,,Optics Express,3.2
+venue,1647213,,,,,,,,International Journal of Environmental Research and Public Health,
+venue,1647218,,,,,,,,Electronics Letters,0.7
+venue,1647219,,,,,,,,American Journal of Cardiology,2.3
+venue,1647222,,,,,,,,International Journal of Rock Mechanics and Mining Sciences & Geomechanics Abstracts,
+venue,1647226,,,,,,,,Cancer,6.1
+venue,1647227,,,,,,,,The Journal of Physiology,4.7
+venue,1647228,,,,,,,,Journal of The Electrochemical Society,3.1
+venue,1647231,,,,,,,,The Journal of Physical Chemistry,
+venue,1647233,,,,,,,,Langmuir,3.7
+venue,1647235,,,,,,,,Nucleic Acids Research,16.6
+venue,1647237,,,,,,,,Journal of Physical Chemistry C,3.3
+venue,1647238,,,,,,,,Methods in molecular biology,
+venue,1647240,,,,,,,,Proceedings of the American Mathematical Society,0.8
+venue,1647243,,,,,,,,Nature Communications,14.7
+venue,1647245,,,,,,,,Physical Review,
+venue,1647246,,,,,,,,Sensors,3.4
+venue,1647253,,,,,,,,American Journal of Ophthalmology,4.1
+venue,1647258,,,,,,,,Macromolecules,5.1
+venue,1647261,,,,,,,,Physical Chemistry Chemical Physics,2.9
+venue,1647262,,,,,,,,ACS Applied Materials & Interfaces,8.3
+venue,1647264,,,,,,,,Journal of Physical Chemistry B,2.8
+venue,1647268,,,,,,,,Gastrointestinal Endoscopy,6.7
+venue,1647269,,,,,,,,Electrochimica Acta,5.5
+venue,1647271,,,,,,,,The Annals of Thoracic Surgery,3.6
+venue,1647273,,,,,,,,Geophysical Research Letters,4.6
+venue,1647275,,,,,,,,Journal of Magnetism and Magnetic Materials,2.5
+venue,1647277,,,,,,,,Archives of internal medicine,
+venue,1647278,,,,,,,,IEEE Transactions on Magnetics,2.1
+venue,1647283,,,,,,,,Chemistry: A European Journal,3.9
+venue,1647285,,,,,,,,Applied optics,
+venue,1647291,,,,,,,,Solid State Communications,2.1
+venue,1647292,,,,,,,,Chemosphere,8.1
+venue,1647293,,,,,,,,"International Conference on Acoustics, Speech, and Signal Processing",
+venue,1647295,,,,,,,,Journal of Materials Science,3.5
+venue,1647296,,,,,,,,Alzheimers & Dementia,13.0
+venue,1647297,,,,,,,,Medical Physics,3.2
+venue,1647304,,,,,,,,International Journal of Hydrogen Energy,8.1
+venue,1647306,,,,,,,,Monthly Weather Review,2.8
+venue,1647313,,,,,,,,Journal of Colloid and Interface Science,9.4
+venue,1647314,,,,,,,,Materials Science and Engineering A-structural Materials Properties Microstructure and Processing,6.1
+venue,1647315,,,,,,,,Journal of Crystal Growth,1.7
+venue,1647320,,,,,,,,The Journal of Neuroscience,4.4
+venue,1647322,,,,,,,,The Journal of Thoracic and Cardiovascular Surgery,4.9
+venue,1647325,,,,,,,,American Heart Journal,3.7
+venue,1647327,,,,,,,,Science News,
+venue,1647328,,,,,,,,Optics Letters,3.1
+venue,1647330,,,,,,,,Industrial & Engineering Chemistry Research,3.8
+venue,1647342,,,,,,,,Chemical Engineering Journal,13.3
+venue,1647343,,,,,,,,Energies,3.0
+venue,1647357,,,,,,,,International Conference on Communications,
+venue,1647358,,,,,,,,Polymer,4.1
+venue,1647361,,,,,,,,Conference on Decision and Control,
+venue,1647366,,,,,,,,Applied and Environmental Microbiology,3.9
+venue,1647370,,,,,,,,Journal of Cleaner Production,9.7
+venue,1647371,,,,,,,,Transportation Research Record,1.6
+venue,1647373,,,,,,,,Journal of Molecular Biology,4.7
+venue,1647374,,,,,,,,The Journal of Nuclear Medicine,9.1
+venue,1647376,,,,,,,,Physical Review B,3.2
+venue,1647380,,,,,,,,Journal of Clinical Investigation,13.3
+venue,1647387,,,,,,,,Journal of the American Dental Association,3.1
+venue,1647388,,,,,,,,Environmental Science and Pollution Research,
+venue,1647397,,,,,,,,Materials Letters,2.7
+venue,1647399,,,,,,,,Journal of Vascular Surgery,3.9
+venue,1647405,,,,,,,,Frontiers in Psychology,2.6
+venue,1647411,,,,,,,,Acs Symposium Series,
+venue,1647416,,,,,,,,Materials,3.1
+venue,1647419,,,,,,,,Journal of the American Ceramic Society,3.5
+venue,1647422,,,,,,,,Fuel,6.7
+venue,1647423,,,,,,,,Journal of Power Sources,8.1
+venue,1647429,,,,,,,,Journal of Applied Physiology,3.3
+venue,1647439,,,,,,,,Journal of Physics D,3.1
+venue,1647441,,,,,,,,"Journal of Bone and Joint Surgery, American Volume",4.4
+venue,1647452,,,,,,,,Sensors and Actuators B-chemical,8.0
+venue,1647456,,,,,,,,Molecular and Cellular Biology,3.2
+venue,1647459,,,,,,,,Advanced Materials,27.4
+venue,1647460,,,,,,,,Journal of Nuclear Materials,2.8
+venue,1647461,,,,,,,,Transactions of the American Mathematical Society,1.2
+venue,1647462,,,,,,,,IEEE Transactions on Nuclear Science,1.9
+venue,1647463,,,,,,,,Construction and Building Materials,7.4
+venue,1647469,,,,,,,,IEEE International Symposium on Circuits and Systems (ISCAS),
+venue,1647472,,,,,,,,International Journal of Heat and Mass Transfer,5.0
+venue,1647477,,,,,,,,Clinical Orthopaedics and Related Research,4.2
+venue,1647488,,,,,,,,Journal of Hazardous Materials,12.2
+venue,1647496,,,,,,,,Physical Review E,2.2
+venue,1647502,,,,,,,,Microelectronics Reliability,1.6
+venue,1647510,,,,,,,,"Eos, Transactions American Geophysical Union",
+venue,1647511,,,,,,,,APS March Meeting Abstracts,
+venue,1647512,,,,,,,,Procedia Engineering,
+venue,1647521,,,,,,,,Bioresource Technology,9.7
+venue,1647525,,,,,,,,Water Science and Technology,2.5
+venue,1647529,,,,,,,,IEEE Transactions on Electron Devices,2.9
+venue,1647531,,,,,,,,Energy,9.0
+venue,1647532,,,,,,,,Physica C-superconductivity and Its Applications,1.3
+venue,1647536,,,,,,,,Chemical Engineering Science,4.1
+venue,1647537,,,,,,,,Circulation Research,16.5
+venue,1647540,,,,,,,,Perceptual and Motor Skills,1.4
+venue,1647542,,,,,,,,Journal of Cell Biology,7.4
+venue,1647544,,,,,,,,Journal of Fluid Mechanics,3.6
+venue,1647550,,,,,,,,Remote Sensing,4.2
+venue,1647553,,,,,,,,"Journal of materials chemistry. A, Materials for energy and sustainability",10.7
+venue,1647554,,,,,,,,Journal of Sound and Vibration,4.3
+venue,1647560,,,,,,,,eLife,6.4
+venue,1647565,,,,,,,,AIAA Journal,2.1
+venue,1647569,,,,,,,,Heart,5.1
+venue,1647575,,,,,,,,Carbon,10.5
+venue,1647580,,,,,,,,Archives of Physical Medicine and Rehabilitation,3.6
+venue,1647582,,,,,,,,NeuroImage,4.7
+venue,1647587,,,,,,,,Journal of Pharmaceutical Sciences,3.7
+venue,1647592,,,,,,,,Journal American Water Works Association,0.7
+venue,1647597,,,,,,,,Environmental Health Perspectives,10.1
+venue,1647601,,,,,,,,Global Communications Conference,
+venue,1647603,,,,,,,,Methods in Enzymology,
+venue,1647607,,,,,,,,Cell,45.5
+venue,1647610,,,,,,,,Nanoscale,5.8
+venue,1647612,,,,,,,,Physics of Plasmas,2.0
+venue,1647620,,,,,,,,Geochimica et Cosmochimica Acta,4.5
+venue,1647621,,,,,,,,Journal of Experimental Medicine,12.6
+venue,1647624,,,,,,,,Experimental Cell Research,3.3
+venue,1647626,,,,,,,,American Control Conference,
+venue,1647632,,,,,,,,Water Research,11.4
+venue,1647633,,,,,,,,IEEE International Conference on Robotics and Automation (ICRA),
+venue,1647643,,,,,,,,International journal of computer applications,
+venue,1647644,,,,,,,,Agronomy Journal,2.0
+venue,1647646,,,,,,,,Chemistry of Materials,7.2
+venue,1647647,,,,,,,,IEEE Transactions on Automatic Control,6.2
+venue,1647650,,,,,,,,Bulletin of the American Meteorological Society,6.9
+venue,1647653,,,,,,,,American Journal of Tropical Medicine and Hygiene,1.9
+venue,1647657,,,,,,,,Advances in Space Research,2.8
+venue,1647666,,,,,,,,American Journal of Public Health,9.6
+venue,1647685,,,,,,,,Energy Procedia,
+venue,1647687,,,,,,,,International Journal of Pharmaceutics,5.3
+venue,1647690,,,,,,,,Applied Mathematics and Computation,3.5
+venue,1647700,,,,,,,,The International Journal of Advanced Manufacturing Technology,2.9
+venue,1647702,,,,,,,,Spine,2.6
+venue,1647703,,,,,,,,Journal of Hydrology,5.9
+venue,1647704,,,,,,,,Advanced Functional Materials,18.5
+venue,1647707,,,,,,,,Journal of Biomechanics,2.4
+venue,1647711,,,,,,,,Journal of Membrane Science,8.4
+venue,1647714,,,,,,,,Developmental Biology,2.5
+venue,1647716,,,,,,,,European Journal of Operational Research,6.0
+venue,1647732,,,,,,,,Procedia Computer Science,
+venue,1647733,,,,,,,,Journal of Neurophysiology,2.1
+venue,1647737,,,,,,,,Wear,5.3
+venue,1647747,,,,,,,,The Journal of Experimental Biology,2.8
+venue,1647752,,,,,,,,Frontiers in Plant Science,4.1
+venue,1647760,,,,,,,,Environmental Pollution,7.6
+venue,1647763,,,,,,,,Ophthalmology,13.1
+venue,1647771,,,,,,,,IEEE Transactions on Applied Superconductivity,1.7
+venue,1647776,,,,,,,,Applied Thermal Engineering,6.1
+venue,1647800,,,,,,,,Physical therapy,3.5
+venue,1647801,,,,,,,,Applied Energy,10.1
+venue,1647802,,,,,,,,Journal of Radioanalytical and Nuclear Chemistry,1.5
+venue,1647803,,,,,,,,Water Resources Research,4.6
+venue,1647807,,,,,,,,The EMBO Journal,9.4
+venue,1647817,,,,,,,,Energy & Fuels,5.2
+venue,1647836,,,,,,,,Mathematical Problems in Engineering,
+venue,1647838,,,,,,,,Renewable Energy,9.0
+venue,1647841,,,,,,,,ACM Conference on Human Factors in Computing Systems (CHI),
+venue,1647843,,,,,,,,Journal of Lightwave Technology,4.1
+venue,1647847,,,,,,,,Biomaterials,12.8
+venue,1647851,,,,,,,,Development (The Company of Biologists),3.7
+venue,1647852,,,,,,,,Earth and Planetary Science Letters,4.8
+venue,1647858,,,,,,,,Proceedings of the IEEE,23.2
+venue,1647868,,,,,,,,Atmospheric Environment,4.2
+venue,1647870,,,,,,,,Optical Engineering,1.1
+venue,1647872,,,,,,,,Nano Letters,9.6
+venue,1647873,,,,,,,,Biochimica Et Biophysica Acta - Biomembranes,2.8
+venue,1647876,,,,,,,,Cancers,4.5
+venue,1647877,,,,,,,,IEEE Spectrum,2.6
+venue,1647894,,,,,,,,IEEE/RJS International Conference on Intelligent RObots and Systems (IROS),
+venue,1647895,,,,,,,,IEEE Transactions on Power Electronics,6.6
+venue,1647902,,,,,,,,Applied Microbiology and Biotechnology,3.9
+venue,1647908,,,,,,,,ACS Nano,15.8
+venue,1647921,,,,,,,,Plant and Soil,3.9
+venue,1647922,,,,,,,,Aiche Journal,3.5
+venue,1647924,,,,,,,,Journal of Materials Chemistry,
+venue,1647927,,,,,,,,Physics of Fluids,4.1
+venue,1647931,,,,,,,,Journal of Chemical & Engineering Data,2.0
+venue,1647937,,,,,,,,IEEE Transactions on Information Theory,2.2
+venue,1647938,,,,,,,,Powder Technology,4.5
+venue,1647941,,,,,,,,Journal of Computational Physics,3.8
+venue,1647945,,,,,,,,Geophysical Journal International,2.8
+venue,1647947,,,,,,,,Expert Systems With Applications,7.5
+venue,1647949,,,,,,,,Biotechnology and Bioengineering,3.5
+venue,1647950,,,,,,,,Water,3.0
+venue,1647952,,,,,,,,Proceedings of the Water Environment Federation,
+venue,1647954,,,,,,,,Bone,3.5
+venue,1647958,,,,,,,,IEEE Sensors Journal,4.3
+venue,1647963,,,,,,,,Brain,10.6
+venue,1647966,,,,,,,,Acta Materialia,8.3
+venue,1647971,,,,,,,,Polymers,4.7
+venue,1647982,,,,,,,,Materials Research Bulletin,5.3
+venue,1647989,,,,,,,,Nature Biotechnology,33.1
+venue,1648013,,,,,,,,Quarterly Journal of the Royal Meteorological Society,3.0
+venue,1648017,,,,,,,,Energy Conversion and Management,9.9
+venue,1648022,,,,,,,,Journal of the Operational Research Society,2.7
+venue,1648023,,,,,,,,Journal of Environmental Management,8.0
+venue,1648025,,,,,,,,Soft Matter,2.9
+venue,1648030,,,,,,,,Desalination,8.3
+venue,1648032,,,,,,,,Journal of Theoretical Biology,1.9
+venue,1648034,,,,,,,,Journal of Materials Processing Technology,6.7
+venue,1648047,,,,,,,,Computer Vision and Pattern Recognition (CVPR),
+venue,1648048,,,,,,,,Discrete Mathematics,0.7
+venue,1648051,,,,,,,,Journal of the Optical Society of America,1.4
+venue,1648055,,,,,,,,Environmental Toxicology and Chemistry,3.6
+venue,1648057,,,,,,,,IEEE Transactions on Geoscience and Remote Sensing,7.5
+venue,1648070,,,,,,,,Solar Energy,6.0
+venue,1648079,,,,,,,,IEEE Transactions on Industrial Electronics,7.5
+venue,1648085,,,,,,,,Small,13.0
+venue,1648087,,,,,,,,Ultrasound in Medicine and Biology,2.4
+venue,1648089,,,,,,,,Physics in Medicine and Biology,3.3
+venue,1648095,,,,,,,,Textile Research Journal,1.6
+venue,1648104,,,,,,,,Nuclear Engineering and Design,1.9
+venue,1648114,,,,,,,,Surgical Endoscopy and Other Interventional Techniques,2.4
+venue,1648117,,,,,,,,IEEE Transactions on Signal Processing,4.6
+venue,1648132,,,,,,,,IEEE Computer,2.0
+venue,1648135,,,,,,,,IEEE Transactions on Plasma Science,1.3
+venue,1648153,,,,,,,,Composite Structures,6.3
+venue,1648157,,,,,,,,Behavioral and Brain Sciences,16.6
+venue,1648168,,,,,,,,Arthroscopy,4.4
+venue,1648172,,,,,,,,Notes,1.1
+venue,1648181,,,,,,,,Applied Catalysis B-environmental,20.2
+venue,1648189,,,,,,,,Experimental Brain Research,1.7
+venue,1648191,,,,,,,,Communications of The ACM,11.1
+venue,1648194,,,,,,,,Atmospheric Chemistry and Physics,5.2
+venue,1648200,,,,,,,,Separation and Purification Technology,8.1
+venue,1648202,,,,,,,,Engineering Structures,5.6
+venue,1648218,,,,,,,,Energy Policy,9.3
+venue,1648221,,,,,,,,Journal of Biotechnology,4.1
+venue,1648222,,,,,,,,Journal of Applied Mechanics,2.6
+venue,1648224,,,,,,,,Society for Information Technology & Teacher Education International Conference,
+venue,1648233,,,,,,,,Desalination and Water Treatment,1.0
+venue,1648243,,,,,,,,Journal of Computational and Applied Mathematics,2.1
+venue,1648246,,,,,,,,IACR Cryptology ePrint Archive,
+venue,1648261,,,,,,,,The journal of bone and joint surgery,
+venue,1648273,,,,,,,,Journal of Materials Research,2.7
+venue,1648294,,,,,,,,Computers & mathematics with applications,2.9
+venue,1648297,,,,,,,,IEEE Journal of Solid-state Circuits,4.6
+venue,1648299,,,,,,,,Sensors and Actuators A-physical,4.1
+venue,1648306,,,,,,,,Scripta Materialia,5.3
+venue,1648307,,,,,,,,Lecture notes in civil engineering,
+venue,1648309,,,,,,,,Conference on Computer Graphics and Interactive Techniques (SIGGRAPH),
+venue,1648311,,,,,,,,Nonlinear Analysis-theory Methods & Applications,1.3
+venue,1648317,,,,,,,,Journal of The Optical Society of America B-optical Physics,1.8
+venue,1648324,,,,,,,,IEEE Electron Device Letters,4.1
+venue,1648326,,,,,,,,IEEE Transactions on Communications,7.2
+venue,1648341,,,,,,,,IEEE Transactions on Biomedical Engineering,4.4
+venue,1648348,,,,,,,,IEEE Transactions on Industry Applications,4.2
+venue,1648356,,,,,,,,Ocean Engineering,4.6
+venue,1648383,,,,,,,,Nanomaterials,4.4
+venue,1648385,,,,,,,,International Journal of Solids and Structures,3.4
+venue,1648390,,,,,,,,Proceedings of The Royal Society B: Biological Sciences,3.8
+venue,1648392,,,,,,,,Computer Methods in Applied Mechanics and Engineering,6.9
+venue,1648396,,,,,,,,International Journal for Numerical Methods in Engineering,2.7
+venue,1648398,,,,,,,,Frontiers in Neuroscience,3.2
+venue,1648420,,,,,,,,Environmental Research,7.7
+venue,1648435,,,,,,,,Mathematics of Computation,2.2
+venue,1648442,,,,,,,,Scientia Horticulturae,3.9
+venue,1648448,,,,,,,,Automatica,4.8
+venue,1648453,,,,,,,,IEEE Transactions on Computers,3.6
+venue,1648454,,,,,,,,Journal of Arthroplasty,3.4
+venue,1648462,,,,,,,,Emerging Infectious Diseases,7.2
+venue,1648466,,,,,,,,Journal of the Atmospheric Sciences,3.0
+venue,1648472,,,,,,,,Materials Science and Engineering: C,8.1
+venue,1648482,,,,,,,,SAE transactions,
+venue,1648487,,,,,,,,Conference on Neural Information Processing Systems (NeurIPS),
+venue,1648503,,,,,,,,Geological Society of America Bulletin,3.9
+venue,1648504,,,,,,,,Renewable & Sustainable Energy Reviews,16.3
+venue,1648523,,,,,,,,Journal of Visualized Experiments,1.2
+venue,1648525,,,,,,,,Energy and Buildings,6.6
+venue,1648528,,,,,,,,Measurement Science and Technology,2.7
+venue,1648536,,,,,,,,Neuron,14.7
+venue,1648539,,,,,,,,Polymer Engineering and Science,3.2
+venue,1648540,,,,,,,,Bulletin of the Seismological Society of America,2.6
+venue,1648548,,,,,,,,Asaio Journal,3.1
+venue,1648564,,,,,,,,AIP Advances,1.4
+venue,1648569,,,,,,,,Engineering Fracture Mechanics,4.7
+venue,1648574,,,,,,,,The Journal of Philosophy,1.6
+venue,1648575,,,,,,,,International Journal of Production Research,7.0
+venue,1648581,,,,,,,,Applied Spectroscopy,2.2
+venue,1648597,,,,,,,,Science Education,3.1
+venue,1648599,,,,,,,,ACS Sustainable Chemistry & Engineering,7.1
+venue,1648602,,,,,,,,International Journal of Fatigue,5.7
+venue,1648608,,,,,,,,Journal of Quantitative Spectroscopy & Radiative Transfer,2.3
+venue,1648612,,,,,,,,Computer Physics Communications,7.2
+venue,1648613,,,,,,,,Management Science,4.6
+venue,1648625,,,,,,,,Acta Astronautica,3.1
+venue,1648636,,,,,,,,Combustion and Flame,5.8
+venue,1648643,,,,,,,,Industrial Crops and Products,5.6
+venue,1648651,,,,,,,,Journal of Climate,4.8
+venue,1648661,,,,,,,,Limnology and Oceanography,3.8
+venue,1648662,,,,,,,,The Physics of fluids,
+venue,1648666,,,,,,,,Computers & Structures,4.4
+venue,1648682,,,,,,,,International Symposium on Electromagnetic Compatibility,
+venue,1648683,,,,,,,,IEEE Transactions on Power Systems,6.5
+venue,1648708,,,,,,,,IEEE Communications Magazine,8.3
+venue,1648713,,,,,,,,Journal of Educational Psychology,5.6
+venue,1648721,,,,,,,,Technometrics,2.3
+venue,1648722,,,,,,,,Environment International,10.3
+venue,1648726,,,,,,,,Soil Biology & Biochemistry,9.8
+venue,1648734,,,,,,,,SAE technical paper series,
+venue,1648754,,,,,,,,International Electron Devices Meeting,
+venue,1648761,,,,,,,,Gait & Posture,2.2
+venue,1648769,,,,,,,,AAAI Conference on Artificial Intelligence (AAAI),
+venue,1648821,,,,,,,,Computational Materials Science,3.1
+venue,1648834,,,,,,,,Journal of Bone and Mineral Research,5.1
+venue,1648842,,,,,,,,Transactions of the ASAE,
+venue,1648863,,,,,,,,Journal of Materials Science Letters,
+venue,1648876,,,,,,,,Annals of Nuclear Energy,1.9
+venue,1648880,,,,,,,,American Journal of Sports Medicine,4.2
+venue,1648909,,,,,,,,Cognitive Science,2.3
+venue,1648910,,,,,,,,Ultrasonics,3.8
+venue,1648912,,,,,,,,IEEE Transactions on Power Delivery,3.8
+venue,1648918,,,,,,,,Journal of Hydraulic Engineering,2.1
+venue,1648921,,,,,,,,ACS Catalysis,11.3
+venue,1648934,,,,,,,,International Journal of Control,1.6
+venue,1648939,,,,,,,,IEEE Transactions on Aerospace and Electronic Systems,5.1
+venue,1648953,,,,,,,,Procedia CIRP,
+venue,1648961,,,,,,,,Journal of Petroleum Science and Engineering,
+venue,1648988,,,,,,,,Journal of heat transfer,2.8
+venue,1648990,,,,,,,,Green Chemistry,9.3
+venue,1648992,,,,,,,,Journal of Structural Engineering-asce,3.7
+venue,1649006,,,,,,,,Tribology International,6.1
+venue,1649031,,,,,,,,Ecological Modelling,2.6
+venue,1649042,,,,,,,,Composites Science and Technology,8.3
+venue,1649048,,,,,,,,Transport Topics,
+venue,1649049,,,,,,,,Journal of Aircraft,1.5
+venue,1649053,,,,,,,,PLOS Computational Biology,3.8
+venue,1649054,,,,,,,,Pure and Applied Chemistry,2.0
+venue,1649069,,,,,,,,Building and Environment,7.1
+venue,1649077,,,,,,,,International Journal of Mechanical Sciences,7.1
+venue,1649078,,,,,,,,Journal of Business Research,10.5
+venue,1649092,,,,,,,,Composites Part B-engineering,12.7
+venue,1649104,,,,,,,,Mrs Bulletin,4.1
+venue,1649105,,,,,,,,The Journal of Chemical Thermodynamics,2.2
+venue,1649113,,,,,,,,Journal of Neuroscience Methods,2.7
+venue,1649118,,,,,,,,The Scientific World Journal,
+venue,1649121,,,,,,,,Journal of Environmental Quality,2.2
+venue,1649128,,,,,,,,International Conference on Computer Communications (INFOCOM),
+venue,1649131,,,,,,,,Computers & Industrial Engineering,6.7
+venue,1649142,,,,,,,,Frontiers in Public Health,3.0
+venue,1649148,,,,,,,,Discrete Applied Mathematics,1.0
+venue,1649154,,,,,,,,Journal of Materials Engineering and Performance,2.2
+venue,1649156,,,,,,,,Nuclear Science and Engineering,1.2
+venue,1649168,,,,,,,,Nonlinear Dynamics,5.2
+venue,1649173,,,,,,,,Journal of Coastal Research,
+venue,1649183,,,,,,,,Proceedings of the Royal Society of London,
+venue,1649184,,,,,,,,Polymer Degradation and Stability,6.3
+venue,1649186,,,,,,,,Pharmaceutical Research,3.5
+venue,1649201,,,,,,,,Remote Sensing of Environment,11.1
+venue,1649203,,,,,,,,Waste Management,7.1
+venue,1649210,,,,,,,,Journal of Spacecraft and Rockets,1.3
+venue,1649219,,,,,,,,ChemBioChem,2.6
+venue,1649220,,,,,,,,Hydrological Processes,2.8
+venue,1649225,,,,,,,,Cement and Concrete Research,10.9
+venue,1649258,,,,,,,,Science Advances,11.7
+venue,1649261,,,,,,,,Cryogenics,1.8
+venue,1649271,,,,,,,,Frontiers in Education Conference,
+venue,1649276,,,,,,,,Computers & Chemical Engineering,3.9
+venue,1649284,,,,,,,,Osteoporosis International,4.2
+venue,1649312,,,,,,,,Lab on a Chip,6.1
+venue,1649318,,,,,,,,Synthese,1.3
+venue,1649368,,,,,,,,Chemical Reviews,51.4
+venue,1649420,,,,,,,,Materials in engineering,
+venue,1649423,,,,,,,,Journal of Shoulder and Elbow Surgery,2.9
+venue,1649427,,,,,,,,Metals,2.6
+venue,1649439,,,,,,,,Materials & Design,7.6
+venue,1649447,,,,,,,,IEEE Transactions on Pattern Analysis and Machine Intelligence,20.8
+venue,1649477,,,,,,,,IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control,3.0
+venue,1649505,,,,,,,,NDT & E international,4.1
+venue,1649506,,,,,,,,IEEE Journal on Selected Areas in Communications,13.8
+venue,1649508,,,,,,,,Molecular Cell,14.5
+venue,1649537,,,,,,,,Transactions of the American Institute of Electrical Engineers,
+venue,1649544,,,,,,,,Computer Aided Design,3.0
+venue,1649604,,,,,,,,Frontiers in Medicine,3.1
+venue,1649606,,,,,,,,International Solid-State Circuits Conference,
+venue,1649614,,,,,,,,Journal of Optimization Theory and Applications,1.6
+venue,1649622,,,,,,,,Nuclear Technology,1.5
+venue,1649633,,,,,,,,Superconductor Science and Technology,3.7
+venue,1649634,,,,,,,,Data in Brief,1.0
+venue,1649636,,,,,,,,International Conference on Machine Learning (ICML),
+venue,1649646,,,,,,,,World Development,5.4
+venue,1649656,,,,,,,,Accident Analysis & Prevention,5.7
+venue,1649663,,,,,,,,Mechanical Systems and Signal Processing,7.9
+venue,1649680,,,,,,,,Marine Geology,2.6
+venue,1649690,,,,,,,,Acta Biomaterialia,9.4
+venue,1649695,,,,,,,,Plasma Physics and Controlled Fusion,2.1
+venue,1649713,,,,,,,,IEEE International Conference on Computer Vision (ICCV),
+venue,1649717,,,,,,,,European Journal of Pharmaceutical Sciences,4.3
+venue,1649756,,,,,,,,Chemical Engineering & Technology,1.8
+venue,1649770,,,,,,,,Minerals Engineering,4.9
+venue,1649773,,,,,,,,Genes & Development,7.5
+venue,1649789,,,,,,,,Environmental Technology,2.2
+venue,1649791,,,,,,,,Smart Materials and Structures,3.7
+venue,1649803,,,,,,,,Ergonomics,2.0
+venue,1649814,,,,,,,,Journal of Physical Oceanography,2.8
+venue,1649815,,,,,,,,Polymer Composites,4.8
+venue,1649844,,,,,,,,"Knee Surgery, Sports Traumatology, Arthroscopy",3.3
+venue,1649846,,,,,,,,Applied Acoustics,3.4
+venue,1649849,,,,,,,,Journal of The American Water Resources Association,2.6
+venue,1649852,,,,,,,,Applied Mathematics Letters,2.9
+venue,1649860,,,,,,,,Journal of Orthopaedic Research,2.1
+venue,1649879,,,,,,,,International Journal of Production Economics,9.8
+venue,1649909,,,,,,,,International Journal of Refrigeration-revue Internationale Du Froid,3.5
+venue,1649913,,,,,,,,Agricultural and Forest Meteorology,5.6
+venue,1649932,,,,,,,,Journal of Guidance Control and Dynamics,2.3
+venue,1649941,,,,,,,,IEEE Geoscience and Remote Sensing Letters,4.0
+venue,1649964,,,,,,,,Advanced Energy Materials,24.4
+venue,1649970,,,,,,,,Chemical Society Reviews,40.4
+venue,1649977,,,,,,,,Composites Part A-applied Science and Manufacturing,8.1
+venue,1650004,,,,,,,,Accounts of Chemical Research,16.4
+venue,1650008,,,,,,,,Computers in Human Behavior,9.0
+venue,1650009,,,,,,,,Materials Today,21.1
+venue,1650010,,,,,,,,Agricultural Water Management,5.9
+venue,1650017,,,,,,,,Technical Symposium on Computer Science Education (SIGCSE),
+venue,1650025,,,,,,,,Cerebral Cortex,2.9
+venue,1650036,,,,,,,,Journal of Biomedical Materials Research,
+venue,1650055,,,,,,,,Natural Hazards,3.3
+venue,1650079,,,,,,,,Applied Economics Letters,1.2
+venue,1650080,,,,,,,,Journal of Wind Engineering and Industrial Aerodynamics,4.2
+venue,1650101,,,,,,,,ACM Multimedia,
+venue,1650105,,,,,,,,IEEE Industry Applications Society Annual Meeting,
+venue,1650123,,,,,,,,Climate Dynamics,3.8
+venue,1650130,,,,,,,,Injury Prevention,2.5
+venue,1650136,,,,,,,,Journal of Composite Materials,2.3
+venue,1650141,,,,,,,,International Communications in Heat and Mass Transfer,6.4
+venue,1650146,,,,,,,,IEEE Transactions on Power Apparatus and Systems,
+venue,1650161,,,,,,,,Annals of Operations Research,4.4
+venue,1650171,,,,,,,,Ground Water,2.0
+venue,1650182,,,,,,,,Operations Research,2.2
+venue,1650184,,,,,,,,Chemical engineering research & design,
+venue,1650203,,,,,,,,Acta Metallurgica,
+venue,1650216,,,,,,,,Journal of Fluids Engineering-transactions of The Asme,1.8
+venue,1650231,,,,,,,,JAMA network open,10.5
+venue,1650267,,,,,,,,Tunnelling and Underground Space Technology,6.7
+venue,1650271,,,,,,,,Thin-walled Structures,5.7
+venue,1650279,,,,,,,,IEEE Transactions on Medical Imaging,8.9
+venue,1650292,,,,,,,,SIGCSE bulletin,
+venue,1650304,,,,,,,,Environment and Planning A,4.6
+venue,1650306,,,,,,,,PLOS Biology,7.8
+venue,1650334,,,,,,,,Journal of Constructional Steel Research,4.0
+venue,1650337,,,,,,,,Complexity,1.7
+venue,1650361,,,,,,,,IEEE Transactions on Electromagnetic Compatibility,2.0
+venue,1650376,,,,,,,,Computers & Operations Research,4.1
+venue,1650379,,,,,,,,International Journal of Fracture,2.2
+venue,1650386,,,,,,,,International Journal of Engineering Science,5.7
+venue,1650393,,,,,,,,Astrophysical Journal Supplement Series,8.6
+venue,1650397,,,,,,,,Journal of Micromechanics and Microengineering,2.4
+venue,1650441,,,,,,,,Advanced Engineering Materials,3.4
+venue,1650442,,,,,,,,Engineering Geology,6.9
+venue,1650450,,,,,,,,Journal of Engineering Mechanics-asce,3.3
+venue,1650470,,,,,,,,Journal of Biomedical Materials Research Part A,3.9
+venue,1650504,,,,,,,,Annals of Biomedical Engineering,3.0
+venue,1650512,,,,,,,,Applied Clay Science,5.3
+venue,1650525,,,,,,,,Nature Methods,36.1
+venue,1650527,,,,,,,,Chaos,2.7
+venue,1650541,,,,,,,,IEEE Transactions on Intelligent Transportation Systems,7.9
+venue,1650542,,,,,,,,Engineering Failure Analysis,4.4
+venue,1650553,,,,,,,,Canadian Geotechnical Journal,3.0
+venue,1650571,,,,,,,,International Journal of Electrochemical Science,1.3
+venue,1650581,,,,,,,,Journal of engineering for gas turbines and power,1.4
+venue,1650582,,,,,,,,Scripta Metallurgica,
+venue,1650587,,,,,,,,Proceedings of the Institution of Civil Engineers,
+venue,1650591,,,,,,,,Mechanism and Machine Theory,4.5
+venue,1650594,,,,,,,,Journal of the Society of Dyers and Colourists,
+venue,1650611,,,,,,,,Aquatic Toxicology,4.1
+venue,1650618,,,,,,,,Cortex,3.2
+venue,1650629,,,,,,,,Computers and Electronics in Agriculture,7.7
+venue,1650632,,,,,,,,Environmental Research Letters,5.8
+venue,1650634,,,,,,,,International Journal of Multiphase Flow,3.6
+venue,1650689,,,,,,,,Journal of Environmental Engineering,1.6
+venue,1650719,,,,,,,,International Journal of Thermal Sciences,4.9
+venue,1650749,,,,,,,,Environmental Management,2.7
+venue,1650782,,,,,,,,Human Brain Mapping,3.5
+venue,1650818,,,,,,,,Canadian Journal of Civil Engineering,1.1
+venue,1650820,,,,,,,,IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing,4.7
+venue,1650821,,,,,,,,Crystals,2.4
+venue,1650839,,,,,,,,Journal of The Mechanics and Physics of Solids,5.0
+venue,1650872,,,,,,,,Biotechnology Progress,2.5
+venue,1650905,,,,,,,,Siam Review,10.8
+venue,1650919,,,,,,,,ACS applied nano materials,5.3
+venue,1650953,,,,,,,,Annals of Mathematics,5.7
+venue,1650958,,,,,,,,Power Electronics Specialists Conference,
+venue,1650968,,,,,,,,Experiments in Fluids,2.3
+venue,1650981,,,,,,,,Aerospace Science and Technology,5.0
+venue,1650984,,,,,,,,Seismological Research Letters,2.6
+venue,1650989,,,,,,,,Computers & Fluids,2.5
+venue,1650999,,,,,,,,Intermetallics,4.3
+venue,1651021,,,,,,,,Ultrasonics Sonochemistry,8.7
+venue,1651036,,,,,,,,Science Translational Medicine,15.8
+venue,1651043,,,,,,,,Journal of the Textile Institute,
+venue,1651071,,,,,,,,Conference proceedings of the Society for Experimental Mechanics,
+venue,1651094,,,,,,,,Energy Economics,13.6
+venue,1651103,,,,,,,,Combustion Science and Technology,1.7
+venue,1651120,,,,,,,,Chemical Engineering Communications,1.9
+venue,1651123,,,,,,,,Journal of Materials in Civil Engineering,3.1
+venue,1651138,,,,,,,,"Proceedings of The Royal Society A: Mathematical, Physical and Engineering Sciences",2.9
+venue,1651147,,,,,,,,Siam Journal on Applied Mathematics,1.9
+venue,1651168,,,,,,,,Nature Physics,17.6
+venue,1651199,,,,,,,,Proceedings of the Combustion Institute,5.3
+venue,1651223,,,,,,,,SIAM Journal on Numerical Analysis,2.8
+venue,1651226,,,,,,,,Experimental Thermal and Fluid Science,2.8
+venue,1651238,,,,,,,,Journal of Propulsion and Power,1.7
+venue,1651239,,,,,,,,CIRP Annals,3.2
+venue,1651243,,,,,,,,Journal of Geotechnical and Geoenvironmental Engineering,3.9
+venue,1651261,,,,,,,,IEEE Transactions on Parallel and Distributed Systems,5.6
+venue,1651284,,,,,,,,Advanced Science,14.3
+venue,1651287,,,,,,,,Earthquake Engineering & Structural Dynamics,4.3
+venue,1651293,,,,,,,,Proceedings of the Institution of Electrical Engineers,
+venue,1651335,,,,,,,,Soil Dynamics and Earthquake Engineering,4.2
+venue,1651363,,,,,,,,Nature Materials,37.2
+venue,1651366,,,,,,,,Biochemical Engineering Journal,3.7
+venue,1651387,,,,,,,,Journal of The Mechanical Behavior of Biomedical Materials,3.3
+venue,1651405,,,,,,,,Journal of energy storage,8.9
+venue,1651425,,,,,,,,Systems & Control Letters,2.1
+venue,1651429,,,,,,,,Energy and Environmental Science,32.4
+venue,1651435,,,,,,,,Review of Educational Research,8.3
+venue,1651438,,,,,,,,Artificial Intelligence,5.1
+venue,1651460,,,,,,,,Transportation research procedia,
+venue,1651477,,,,,,,,Journal of building engineering,6.7
+venue,1651507,,,,,,,,Advanced Optical Materials,8.0
+venue,1651513,,,,,,,,IEEE Transactions on Software Engineering,6.5
+venue,1651523,,,,,,,,Journal of Dynamic Systems Measurement and Control-transactions of The Asme,1.7
+venue,1651533,,,,,,,,Computers & education,8.9
+venue,1651593,,,,,,,,Safety Science,4.7
+venue,1651599,,,,,,,,Geotechnique,4.2
+venue,1651653,,,,,,,,International Journal of Pressure Vessels and Piping,3.0
+venue,1651657,,,,,,,,Energy Reports,4.7
+venue,1651680,,,,,,,,IEEE robotics & automation letters,
+venue,1651711,,,,,,,,Mathematical Programming,2.2
+venue,1651754,,,,,,,,Physical review applied,3.8
+venue,1651767,,,,,,,,Journal of Marine Science and Engineering,2.7
+venue,1651781,,,,,,,,Journal Of Geophysical Research: Oceans,3.3
+venue,1651797,,,,,,,,Journal of Non-newtonian Fluid Mechanics,2.7
+venue,1651810,,,,,,,,International Journal of Impact Engineering,5.1
+venue,1651889,,,,,,,,SIAM Journal on Scientific Computing,3.0
+venue,1651898,,,,,,,,Journal of tribology,2.2
+venue,1651902,,,,,,,,IEEE Transactions on Smart Grid,8.6
+venue,1651913,,,,,,,,Water Environment Research,2.5
+venue,1651936,,,,,,,,Hydrology and Earth System Sciences,5.7
+venue,1651962,,,,,,,,Progress in Nuclear Energy,3.3
+venue,1651963,,,,,,,,Journal of biomechanical engineering,1.7
+venue,1651997,,,,,,,,Siam Journal on Control and Optimization,2.2
+venue,1652043,,,,,,,,Rheologica Acta,2.3
+venue,1652083,,,,,,,,Nature Nanotechnology,38.1
+venue,1652136,,,,,,,,Advances in Water Resources,4.0
+venue,1652137,,,,,,,,Journal of Parallel and Distributed Computing,3.4
+venue,1652156,,,,,,,,Journal of Research in Science Teaching,3.6
+venue,1652178,,,,,,,,International Journal of Rock Mechanics and Mining Sciences,7.0
+venue,1652224,,,,,,,,IEEE Transactions on Control Systems and Technology,4.9
+venue,1652230,,,,,,,,Materials and Structures,3.4
+venue,1652233,,,,,,,,IEEE-ASME Transactions on Mechatronics,6.1
+venue,1652236,,,,,,,,Cement & Concrete Composites,10.8
+venue,1652247,,,,,,,,Custom Integrated Circuits Conference,
+venue,1652251,,,,,,,,Advanced Healthcare Materials,10.0
+venue,1652289,,,,,,,,Numerische Mathematik,2.1
+venue,1652338,,,,,,,,Journal of Mechanical Design,2.9
+venue,1652378,,,,,,,,Computers and Geotechnics,5.3
+venue,1652387,,,,,,,,Automation in Construction,9.6
+venue,1652392,,,,,,,,Journal of Intelligent Material Systems and Structures,2.4
+venue,1652400,,,,,,,,Environmental Modelling and Software,4.8
+venue,1652427,,,,,,,,Journal of Great Lakes Research,2.4
+venue,1652434,,,,,,,,IEEE ACM Transactions on Networking,3.0
+venue,1652439,,,,,,,,International Conference on Advanced Intelligent Mechatronics,
+venue,1652476,,,,,,,,Economic Development and Cultural Change,2.0
+venue,1652512,,,,,,,,Ksce Journal of Civil Engineering,1.9
+venue,1652541,,,,,,,,Meccanica,1.9
+venue,1652544,,,,,,,,Human Factors,2.9
+venue,1652559,,,,,,,,IEEE Transactions on Engineering Management,4.6
+venue,1652592,,,,,,,,International Journal of Machine Tools & Manufacture,14.0
+venue,1652601,,,,,,,,Robotica,1.9
+venue,1652611,,,,,,,,Omega,6.7
+venue,1652639,,,,,,,,IEEE Transactions on Education,2.1
+venue,1652643,,,,,,,,Journal of Pressure Vessel Technology-transactions of The Asme,1.0
+venue,1652649,,,,,,,,Quality and Reliability Engineering International,2.2
+venue,1652669,,,,,,,,Journal of the Construction Division and Management,4.1
+venue,1652696,,,,,,,,Hydrological Sciences Journal-journal Des Sciences Hydrologiques,2.8
+venue,1652700,,,,,,,,IEEE Transactions on Mobile Computing,7.7
+venue,1652722,,,,,,,,Coastal Engineering,4.2
+venue,1652723,,,,,,,,Plasma Sources Science and Technology,3.3
+venue,1652745,,,,,,,,Journal of Reinforced Plastics and Composites,2.3
+venue,1652763,,,,,,,,Robotics and Autonomous Systems,4.3
+venue,1652774,,,,,,,,Analog Integrated Circuits and Signal Processing,1.2
+venue,1652810,,,,,,,,Heat and Mass Transfer,1.7
+venue,1652826,,,,,,,,Mechanics of Materials,3.4
+venue,1652857,,,,,,,,International Journal of Heat and Fluid Flow,2.6
+venue,1652872,,,,,,,,Journal of Vibration and Control,2.3
+venue,1652899,,,,,,,,Systems Engineering,1.6
+venue,1652904,,,,,,,,IRE transactions on communications systems,
+venue,1652907,,,,,,,,Symposium (International) on Combustion,
+venue,1652911,,,,,,,,Transport in Porous Media,2.7
+venue,1652942,,,,,,,,International Journal for Quality in Health Care,2.7
+venue,1652952,,,,,,,,"IEEE Transactions on Systems, Man, and Cybernetics",
+venue,1652953,,,,,,,,Transportation Research Part A-policy and Practice,6.3
+venue,1652971,,,,,,,,Journal of Manufacturing Processes,6.1
+venue,1653022,,,,,,,,ISPRS international journal of geo-information,2.8
+venue,1653046,,,,,,,,Computers in Industry,8.2
+venue,1653062,,,,,,,,IEEE Systems Journal,4.0
+venue,1653094,,,,,,,,International Journal for Numerical and Analytical Methods in Geomechanics,3.4
+venue,1653116,,,,,,,,INCOSE International Symposium,
+venue,1653120,,,,,,,,Biotechnology Journal,3.2
+venue,1653127,,,,,,,,Journal of the Royal Society Interface,3.7
+venue,1653134,,,,,,,,Eurasip Journal on Wireless Communications and Networking,2.3
+venue,1653148,,,,,,,,Journal of microelectromechanical systems,2.5
+venue,1653159,,,,,,,,Image and Vision Computing,4.2
+venue,1653198,,,,,,,,Quality Engineering,1.3
+venue,1653221,,,,,,,,Journal of American Concrete Institute,
+venue,1653266,,,,,,,,Journal of turbomachinery,1.9
+venue,1653276,,,,,,,,Journal of Irrigation and Drainage Engineering-asce,1.6
+venue,1653297,,,,,,,,Computational Mechanics,3.7
+venue,1653305,,,,,,,,Biosystems Engineering,4.4
+venue,1653365,,,,,,,,Annual ACM Conference on Computer and Communications Security (CCS),
+venue,1653367,,,,,,,,Nature Geoscience,15.7
+venue,1653376,,,,,,,,Structural and Multidisciplinary Optimization,3.6
+venue,1653470,,,,,,,,Nature Chemistry,19.2
+venue,1653484,,,,,,,,IEEE Network,6.8
+venue,1653496,,,,,,,,Operations Research Letters,0.8
+venue,1653504,,,,,,,,Journal of Hydraulic Research,1.7
+venue,1653639,,,,,,,,Concrete international,
+venue,1653658,,,,,,,,Fire Safety Journal,3.4
+venue,1653659,,,,,,,,Cold Regions Science and Technology,3.8
+venue,1653672,,,,,,,,Journal of Vibration and Acoustics-transactions of The Asme,
+venue,1653726,,,,,,,,Transportation Research Part C-emerging Technologies,7.6
+venue,1653755,,,,,,,,Journal of Fluids and Structures,3.4
+venue,1653756,,,,,,,,Buildings,3.1
+venue,1653795,,,,,,,,Rock Mechanics and Rock Engineering,5.5
+venue,1653817,,,,,,,,Geotechnical and Geological Engineering,1.7
+venue,1653832,,,,,,,,Structures,3.9
+venue,1653835,,,,,,,,Soils and Foundations,3.3
+venue,1653842,,,,,,,,Journal of Manufacturing Science and Engineering-transactions of The Asme,2.4
+venue,1653843,,,,,,,,Journal of Contaminant Hydrology,3.5
+venue,1653857,,,,,,,,Advances in Engineering Software,4.0
+venue,1653879,,,,,,,,Robot and Human Interactive Communication,
+venue,1653897,,,,,,,,Journal of Energy Resources Technology-transactions of The Asme,2.6
+venue,1653903,,,,,,,,ACS Photonics,6.5
+venue,1653964,,,,,,,,Applied Ocean Research,4.3
+venue,1653984,,,,,,,,IEEE Transactions on Neural Systems and Rehabilitation Engineering,4.8
+venue,1653996,,,,,,,,Transportation Research Part B-methodological,5.8
+venue,1654027,,,,,,,,Journal of Industrial Microbiology & Biotechnology,3.2
+venue,1654028,,,,,,,,Integrative and Comparative Biology,2.2
+venue,1654040,,,,,,,,International Journal of Plasticity,9.4
+venue,1654083,,,,,,,,ISPRS journal of photogrammetry and remote sensing,
+venue,1654153,,,,,,,,Colloids and Surfaces,
+venue,1654177,,,,,,,,Aci Structural Journal,1.3
+venue,1654189,,,,,,,,Journal of Transport Geography,5.7
+venue,1654201,,,,,,,,"Proceedings Of The Institution Of Mechanical Engineers, Part G: Journal Of Aerospace Engineering",1.0
+venue,1654210,,,,,,,,Neural Computation,2.7
+venue,1654223,,,,,,,,Tissue Engineering Part A,3.5
+venue,1654229,,,,,,,,Human-Robot Interaction,
+venue,1654259,,,,,,,,Biomass Conversion and Biorefinery,3.5
+venue,1654270,,,,,,,,Reviews of Modern Physics,45.9
+venue,1654278,,,,,,,,Iie Transactions,
+venue,1654289,,,,,,,,Journal of Rheology,3.0
+venue,1654300,,,,,,,,Physical review fluids,2.5
+venue,1654344,,,,,,,,Journal of Geotechnical Engineering,
+venue,1654370,,,,,,,,Symposium on VLSI Circuits,
+venue,1654380,,,,,,,,Transportation Research Part D-transport and Environment,7.3
+venue,1654390,,,,,,,,International Journal of Science Education,2.2
+venue,1654409,,,,,,,,Heat Transfer Engineering,1.6
+venue,1654482,,,,,,,,Journal of Safety Research,3.9
+venue,1654525,,,,,,,,International Journal of Precision Engineering and Manufacturing,2.6
+venue,1654570,,,,,,,,Biogeochemistry,3.9
+venue,1654645,,,,,,,,Journal of Quality Technology,2.6
+venue,1654661,,,,,,,,SAE International Congress and Exposition,
+venue,1654667,,,,,,,,Numerical Heat Transfer Part A-applications,2.8
+venue,1654670,,,,,,,,Networks,1.6
+venue,1654682,,,,,,,,Tribology transactions,
+venue,1654726,,,,,,,,Journal of Advanced Transportation,2.0
+venue,1654766,,,,,,,,International journal of disaster risk reduction,4.2
+venue,1654770,,,,,,,,"IEEE Transactions on Acoustics, Speech, and Signal Processing",
+venue,1654843,,,,,,,,International Journal of Project Management,7.4
+venue,1654888,,,,,,,,SAE World Congress & Exhibition,
+venue,1654944,,,,,,,,International Journal of Life Cycle Assessment,4.9
+venue,1654962,,,,,,,,Journal of Hydrologic Engineering,2.2
+venue,1654998,,,,,,,,Journal of Engineering Materials and Technology-transactions of The Asme,1.5
+venue,1655029,,,,,,,,Journal of Manufacturing Systems,12.2
+venue,1655030,,,,,,,,Computer Communication Review,2.2
+venue,1655082,,,,,,,,Transactions of the ASABE,1.4
+venue,1655172,,,,,,,,Highway Research Record,
+venue,1655176,,,,,,,,International Conference on Learning Representations (ICLR),
+venue,1655284,,,,,,,,Construction Management and Economics,3.0
+venue,1655333,,,,,,,,ACS energy letters,19.3
+venue,1655358,,,,,,,,IEEE Transactions on Robotics,9.4
+venue,1655371,,,,,,,,Production and Operations Management,4.8
+venue,1655378,,,,,,,,Human Movement Science,1.6
+venue,1655439,,,,,,,,Journal of The American Planning Association,3.3
+venue,1655453,,,,,,,,Fire Technology,2.3
+venue,1655543,,,,,,,,Additive manufacturing,10.3
+venue,1655627,,,,,,,,International Journal of Geomechanics,3.3
+venue,1655674,,,,,,,,Waste and Biomass Valorization,2.6
+venue,1655782,,,,,,,,Journal of transportation engineering,
+venue,1655834,,,,,,,,Journal of Bridge Engineering,3.1
+venue,1655896,,,,,,,,Structural Engineering International,1.1
+venue,1655909,,,,,,,,Calphad-computer Coupling of Phase Diagrams and Thermochemistry,1.9
+venue,1655960,,,,,,,,International Journal of Engineering Education,0.7
+venue,1656066,,,,,,,,The International Journal of Robotics Research,7.5
+venue,1656080,,,,,,,,Earthquake Spectra,3.1
+venue,1656189,,,,,,,,Geotechnical Testing Journal,1.3
+venue,1656199,,,,,,,,ACS Synthetic Biology,3.7
+venue,1656227,,,,,,,,Transport Policy,6.3
+venue,1656235,,,,,,,,Transportation Research Part E-logistics and Transportation Review,8.3
+venue,1656243,,,,,,,,Journal of Intelligent Manufacturing,5.9
+venue,1656297,,,,,,,,ACM Special Interest Group on Data Communication,
+venue,1656415,,,,,,,,International Journal of Computer Vision,11.6
+venue,1656416,,,,,,,,Journal of Performance of Constructed Facilities,2.3
+venue,1656422,,,,,,,,Celestial Mechanics and Dynamical Astronomy,1.6
+venue,1656456,,,,,,,,Ciência e Natura,
+venue,1656500,,,,,,,,Mathematics of Operations Research,1.4
+venue,1656508,,,,,,,,"American Concrete Institute, Journal of",1.9
+venue,1656578,,,,,,,,Clean Technologies and Environmental Policy,4.2
+venue,1656592,,,,,,,,Environmental Engineering Science,1.8
+venue,1656612,,,,,,,,Energy research and social science,6.9
+venue,1656739,,,,,,,,Journal of Industrial Ecology,4.9
+venue,1656744,,,,,,,,Journal of Management in Engineering,5.3
+venue,1656770,,,,,,,,Engineering Optimization,2.2
+venue,1656821,,,,,,,,BMJ Quality & Safety,5.6
+venue,1656846,,,,,,,,Machine Learning,4.3
+venue,1656882,,,,,,,,Bulletin of Earthquake Engineering,3.8
+venue,1656901,,,,,,,,Journal of Hydrometeorology,3.1
+venue,1656932,,,,,,,,Fems Yeast Research,2.4
+venue,1657004,,,,,,,,Transportation Research Part F-traffic Psychology and Behaviour,3.5
+venue,1657014,,,,,,,,First Monday,
+venue,1657113,,,,,,,,IEEE Robotics & Automation Magazine,5.4
+venue,1657187,,,,,,,,Siam Journal on Optimization,2.6
+venue,1657242,,,,,,,,Journal of Cultural Heritage,3.5
+venue,1657293,,,,,,,,Fire and Materials,2.0
+venue,1657310,,,,,,,,Water SA,1.0
+venue,1657394,,,,,,,,Microprocessors,
+venue,1657419,,,,,,,,Traffic Injury Prevention,1.6
+venue,1657647,,,,,,,,Transportation Science,4.4
+venue,1657663,,,,,,,,Maritime Policy & Management,3.7
+venue,1657676,,,,,,,,Industrial Engineering Journal,
+venue,1657689,,,,,,,,Journal of Elasticity,1.8
+venue,1657732,,,,,,,,IEEE Transactions on Sustainable Energy,8.6
+venue,1657889,,,,,,,,APS Annual Gaseous Electronics Meeting Abstracts,
+venue,1657891,,,,,,,,Structural Concrete,3.0
+venue,1658039,,,,,,,,Journal of Earthquake Engineering,2.5
+venue,1658078,,,,,,,,Computer-aided Civil and Infrastructure Engineering,8.5
+venue,1658086,,,,,,,,ENeuro,2.7
+venue,1658145,,,,,,,,Machine design,
+venue,1658218,,,,,,,,Environmental Science: Processes & Impacts,4.3
+venue,1658322,,,,,,,,Beilstein Journal of Nanotechnology,2.6
+venue,1658362,,,,,,,,AIAA Scitech 2019 Forum,
+venue,1658436,,,,,,,,Journal of Astm International,
+venue,1658452,,,,,,,,"Journal of waterway, port, coastal, and ocean engineering",1.4
+venue,1658456,,,,,,,,Transportation,3.5
+venue,1658470,,,,,,,,Pci Journal,0.9
+venue,1658563,,,,,,,,Algorithms,1.8
+venue,1658568,,,,,,,,"Engineering, Construction and Architectural Management",3.6
+venue,1658580,,,,,,,,AIAA Scitech 2020 Forum,
+venue,1658586,,,,,,,,Journal of Operations Management,6.5
+venue,1658731,,,,,,,,Design Studies,3.2
+venue,1658739,,,,,,,,Tissue Engineering,
+venue,1658923,,,,,,,,Metabolic Engineering,6.8
+venue,1659005,,,,,,,,Journal of Aerospace Engineering,1.5
+venue,1659097,,,,,,,,Springer US,
+venue,1659146,,,,,,,,Landslides,5.8
+venue,1659176,,,,,,,,Journal of Engineering Education,3.9
+venue,1659299,,,,,,,,Journal of the Textile Institute transactions,
+venue,1659511,,,,,,,,Journal of Computing in Civil Engineering,4.7
+venue,1659532,,,,,,,,Microbial biotechnology,4.8
+venue,1659537,,,,,,,,The journal of transport history,0.8
+venue,1659550,,,,,,,,Computational Optimization and Applications,1.6
+venue,1659591,,,,,,,,Ite Journal-institute of Transportation Engineers,0.3
+venue,1659873,,,,,,,,Bipolar/BiCMOS Circuits and Technology Meeting,
+venue,1660041,,,,,,,,Journal of Composites for Construction,2.9
+venue,1660134,,,,,,,,Matériaux et constructions,
+venue,1660275,,,,,,,,Biocycle,
+venue,1660319,,,,,,,,Rapid Prototyping Journal,3.4
+venue,1660473,,,,,,,,Machines,2.1
+venue,1660492,,,,,,,,Proceedings of the ... CEEA Conference,
+venue,1660495,,,,,,,,"IEEE Symposium on Security and Privacy (SP, S&P, Oakland)",
+venue,1660496,,,,,,,,IEEE-RAS International Conference on Humanoid Robots,
+venue,1660611,,,,,,,,AIAA Scitech 2021 Forum,
+venue,1660629,,,,,,,,Journal of Neuroengineering and Rehabilitation,5.2
+venue,1660669,,,,,,,,ACS central science,12.7
+venue,1660957,,,,,,,,Aerospace,2.1
+venue,1660979,,,,,,,,Journal of Medical Devices-transactions of The Asme,0.8
+venue,1661041,,,,,,,,Journal of Engineering Design,2.5
+venue,1661105,,,,,,,,Advanced Engineering Informatics,8.0
+venue,1661150,,,,,,,,IEEE Transactions on Network and Service Management,4.7
+venue,1661180,,,,,,,,Journal of Professional Issues in Engineering Education and Practice,
+venue,1661276,,,,,,,,Biomechanics and Modeling in Mechanobiology,3.0
+venue,1661374,,,,,,,,Journal of disaster research,0.7
+venue,1661377,,,,,,,,Transport Reviews,9.5
+venue,1661511,,,,,,,,Transportation Research Board 94th Annual MeetingTransportation Research Board,
+venue,1661543,,,,,,,,USENIX Security Symposium (UsenixSec),
+venue,1661642,,,,,,,,Transportation Research Board 97th Annual MeetingTransportation Research Board,
+venue,1661722,,,,,,,,Journal of Soil Science and Plant Nutrition,3.4
+venue,1661770,,,,,,,,Water Policy,1.5
+venue,1661794,,,,,,,,Optimization Methods & Software,1.4
+venue,1661900,,,,,,,,International Conference on Mobile Computing and Networking (MobiCom),
+venue,1662226,,,,,,,,Journal of Patient Safety,1.7
+venue,1662322,,,,,,,,Project Management Journal,5.1
+venue,1662329,,,,,,,,Environmental engineering,
+venue,1662482,,,,,,,,Journal of Applied Biomechanics,1.1
+venue,1662484,,,,,,,,Nature Energy,49.7
+venue,1662592,,,,,,,,Autonomous Robots,3.7
+venue,1662739,,,,,,,,Journal of Water and Health,2.5
+venue,1662748,,,,,,,,Noise Control Engineering Journal,0.3
+venue,1662754,,,,,,,,Fluids,1.8
+venue,1662816,,,,,,,,IEEE Transactions on Robotics and Automation,
+venue,1662919,,,,,,,,IEEE Transactions on Components and Packaging Technologies,
+venue,1662998,,,,,,,,International Conference on Unmanned Aircraft Systems,
+venue,1663276,,,,,,,,Atmospheric Environment. Part A. General Topics,
+venue,1663341,,,,,,,,Journal of Mechanisms and Robotics,2.2
+venue,1663389,,,,,,,,Transportation Research Part A: General,
+venue,1663622,,,,,,,,Irrigation Science,3.1
+venue,1663871,,,,,,,,Educational Psychologist,14.3
+venue,1663930,,,,,,,,ACS earth and space chemistry,2.9
+venue,1664044,,,,,,,,Bioinspiration & Biomimetics,3.1
+venue,1664394,,,,,,,,Transportation Research,
+venue,1664439,,,,,,,,Journal of Thermal Science and Engineering Applications,1.6
+venue,1664623,,,,,,,,A S L E Transactions,
+venue,1664737,,,,,,,,Annual Review of Fluid Mechanics,25.4
+venue,1664841,,,,,,,,Journal of Bionic Engineering,4.9
+venue,1665130,,,,,,,,Practice Periodical on Structural Design and Construction,1.6
+venue,1665488,,,,,,,,Environmental Science and Technology Letters,8.9
+venue,1665516,,,,,,,,Journal of Fire Sciences,1.9
+venue,1665533,,,,,,,,Journal of Field Robotics,4.2
+venue,1665547,,,,,,,,Journal of Manufacturing Technology Management,7.3
+venue,1665583,,,,,,,,Journal of The Astronautical Sciences,1.2
+venue,1666144,,,,,,,,Geo-Strata —Geo Institute of ASCE,
+venue,1666154,,,,,,,,Extreme Mechanics Letters,4.3
+venue,1666159,,,,,,,,Journal of Computing and Information Science in Engineering,2.6
+venue,1666418,,,,,,,,Journal of Infrastructure Systems,2.0
+venue,1666638,,,,,,,,Combustion Theory and Modelling,1.9
+venue,1666747,,,,,,,,Compost Science & Utilization,2.0
+venue,1667173,,,,,,,,Progress in Energy and Combustion Science,32.0
+venue,1667267,,,,,,,,Computers in the schools,1.2
+venue,1667315,,,,,,,,Current Opinion in Electrochemistry,7.9
+venue,1667406,,,,,,,,Progress in Aerospace Sciences,11.5
+venue,1667557,,,,,,,,Wind and Structures,1.3
+venue,1667619,,,,,,,,International Journal of Manufacturing Technology and Management,
+venue,1667776,,,,,,,,Biofabrication,8.2
+venue,1667814,,,,,,,,Journal of composites science,3.0
+venue,1667823,,,,,,,,Transportation Engineering Journal of ASCE,
+venue,1667916,,,,,,,,International Journal of Architectural Heritage,2.3
+venue,1668064,,,,,,,,"International Journal of Reliability, Quality and Safety Engineering",0.9
+venue,1668275,,,,,,,,Frontiers in Built Environment,2.2
+venue,1668383,,,,,,,,Journal of Turbulence,1.5
+venue,1668629,,,,,,,,Nature sustainability,25.7
+venue,1668681,,,,,,,,Earthquakes and Structures,1.4
+venue,1668748,,,,,,,,Journal of Architectural Engineering,1.5
+venue,1668970,,,,,,,,Environmental Fluid Mechanics,1.7
+venue,1669137,,,,,,,,IEEE Transactions on Haptics,2.4
+venue,1669155,,,,,,,,Proceedings of the American Control Conference (ACC),
+venue,1669443,,,,,,,,Research in Nondestructive Evaluation,1.0
+venue,1669545,,,,,,,,Concurrent Engineering,
+venue,1669793,,,,,,,,Nature Biomedical Engineering,26.8
+venue,1669828,,,,,,,,Robotics: Science and Systems Conference (RSS),
+venue,1669915,,,,,,,,Journal of Water Science,
+venue,1670931,,,,,,,,Nature Catalysis,42.8
+venue,1671100,,,,,,,,Transportation Research Board 85th Annual MeetingTransportation Research Board,
+venue,1671103,,,,,,,,IEEE Transactions on Affective Computing,9.6
+venue,1671260,,,,,,,,Nature electronics,33.7
+venue,1671493,,,,,,,,Journal of Water Resources Research,
+venue,1671523,,,,,,,,Natural Hazards Review,1.8
+venue,1672154,,,,,,,,ACS materials letters,9.6
+venue,1673134,,,,,,,,The Journal of the Learning Sciences,3.0
+venue,1673331,,,,,,,,Trends in Applied and Computational Mathematics,
+venue,1673509,,,,,,,,Journal of Flow Visualization and Image Processing,0.8
+venue,1673531,,,,,,,,IEEE Symposium on Ultrasonics,
+venue,1674044,,,,,,,,Progress in Superconductivity and Cryogenics,0.2
+venue,1674123,,,,,,,,Mechanics of Time-dependent Materials,2.1
+venue,1674138,,,,,,,,"Journal of Astronomical Telescopes, Instruments, and Systems",1.7
+venue,1674216,,,,,,,,Cellular and Molecular Bioengineering,2.3
+venue,1674358,,,,,,,,Rubber world,
+venue,1674724,,,,,,,,Iise Transactions,
+venue,1674863,,,,,,,,Journal of Environmental Science and Technology,
+venue,1674946,,,,,,,,npj digital medicine,12.4
+venue,1675408,,,,,,,,Research in Engineering Design,2.3
+venue,1675983,,,,,,,,Transportation research interdisciplinary perspectives,3.9
+venue,1676251,,,,,,,,"Weather, Climate, and Society",1.9
+venue,1676711,,,,,,,,Discrete Event Dynamic Systems,1.4
+venue,1676776,,,,,,,,Journal of Civil Structural Health Monitoring,3.6
+venue,1676823,,,,,,,,Cardiovascular Engineering and Technology,1.6
+venue,1677415,,,,,,,,International Journal of Interactive Multimedia and Artificial Intelligence,3.4
+venue,1677670,,,,,,,,Infrastructures,2.7
+venue,1678497,,,,,,,,Geomechanics and Geoengineering,1.7
+venue,1678672,,,,,,,,ACS ES&T water,4.8
+venue,1679017,,,,,,,,Frontiers in Heat and Mass Transfer,1.1
+venue,1679051,,,,,,,,SPIE proceedings series,
+venue,1679116,,,,,,,,Maritime economics and logistics,4.1
+venue,1679193,,,,,,,,Travel behaviour and society,5.1
+venue,1679302,,,,,,,,Nature Machine Intelligence,18.8
+venue,1679746,,,,,,,,Journal of Transportation Safety & Security,2.4
+venue,1680076,,,,,,,,International journal of fluid power,0.7
+venue,1680563,,,,,,,,"Cement, concrete and aggregates",
+venue,1680588,,,,,,,,Journal of aerospace information systems,1.3
+venue,1681356,,,,,,,,Soft robotics,6.4
+venue,1681432,,,,,,,,International Journal of Disaster Risk Science,2.9
+venue,1681590,,,,,,,,Science robotics,26.1
+venue,1682757,,,,,,,,Advances in transportation studies,
+venue,1682801,,,,,,,,"ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering",2.3
+venue,1684082,,,,,,,,"IEEE Systems, Man, and Cybernetics Magazine",1.9
+venue,1684716,,,,,,,,"Conference title not supplied, Conference location not supplied, Conference dates not supplied",
+venue,1685497,,,,,,,,Journal of electrochemical energy conversion and storage,2.7
+venue,1686399,,,,,,,,Journal of design research,
+venue,1686583,,,,,,,,ACS ES&T engineering,7.4
+venue,1686628,,,,,,,,Proceedings of the ... International Conference on Engineering Design,
+venue,1686647,,,,,,,,Transactions of the American Nuclear Society - Volume 121,
+venue,1688506,,,,,,,,Geo-Congress 2020,
+venue,1688831,,,,,,,,Progress in additive manufacturing,4.4
+venue,1689649,,,,,,,,Environmental science and technology library,
+venue,1689686,,,,,,,,The Journal of Intelligence History,
+venue,1691835,,,,,,,,Conference on Robot Learning,
+venue,1692538,,,,,,,,Plastics and rubber processing and applications,
+venue,1692640,,,,,,,,Conference Publications,
+venue,1692833,,,,,,,,The Journal of aviation/aerospace education & research,
+venue,1692898,,,,,,,,Journal of Mechanisms,
+venue,1695110,,,,,,,,Smart cities,7.0
+venue,1695567,,,,,,,,PubMed,
+venue,1695811,,,,,,,,Journal of Chemical Engineering,
+venue,1696002,,,,,,,,Structural Engineering in Natural Hazards Mitigation,
+venue,1697853,,,,,,,,The Royal Society of Chemistry,
+venue,1698084,,,,,,,,Journal of integrated design & process science,0.4
+venue,1700657,,,,,,,,AWWA water science,
+venue,1701734,,,,,,,,Energies (Web),
+venue,1701864,,,,,,,,Journal of computational and theoretical transport,0.7
+venue,1701942,,,,,,,,Publication of: Elsevier Applied Science Publishers Limited,
+venue,1702060,,,,,,,,Analytic Methods in Accident Research,12.5
+venue,1702541,,,,,,,,npj clean water,10.4
+venue,1702853,,,,,,,,Others,
+venue,1703293,,,,,,,,ACM transactions on human-robot interaction,4.2
+venue,1703884,,,,,,,,Integrative organismal biology,2.2
+venue,1704031,,,,,,,,SAE International journal of transportation safety,0.7
+venue,1704056,,,,,,,,Journal of Transportation Engineering-asce,
+venue,1704169,,,,,,,,Clean technologies,4.0
+venue,1704654,,,,,,,,Design science,1.8
+venue,1704975,,,,,,,,GeoCongress 2012: State of the Art and Practice in Geotechnical Engineering,
+venue,1705067,,,,,,,,The Journal of environmental sciences,
+venue,1705359,,,,,,,,Aci Materials Journal,
+venue,1705629,,,,,,,,Journal of materials,
+venue,1705857,,,,,,,,Learning for Dynamics and Control,
+venue,1705914,,,,,,,,Structures Congress 2012,
+venue,1706153,,,,,,,,Journal of Waterway Port Coastal and Ocean Engineering-asce,
+venue,1706223,,,,,,,,Smart and sustainable manufacturing systems,0.8
+venue,1706308,,,,,,,,Journal of Construction Engineering and Management-asce,
+venue,1706405,,,,,,,,ASEE Annual Conference Proceedings,
+venue,1706567,,,,,,,,IEEE Trans.,
+venue,1706758,,,,,,,,International Interactive Symposium on Ultra-High Performance Concrete,
+venue,1707107,,,,,,,,Water Research X,7.2
+venue,1708179,,,,,,,,"ASME 2012 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE 2012",
+venue,1708258,,,,,,,,International journal of sustainable manufacturing,
+venue,1708323,,,,,,,,JVST,
+venue,1708788,,,,,,,,Energy research journal,
+venue,1709315,,,,,,,,Open Water Journal,
+venue,1709860,,,,,,,,ASME letters in dynamic systems and control,
+venue,1710132,,,,,,,,Journal of the ASABE,1.2
+venue,1710196,,,,,,,,"International journal of gas turbine, propulsion and power systems",
+venue,1710646,,,,,,,,Journal of civil engineering education,1.2
+venue,1711057,,,,,,,,Journal of Heat Transfer-transactions of The Asme,
+venue,1711454,,,,,,,,Journal of Composites,
+venue,1711675,,,,,,,,Wearable technologies,3.4
+venue,1711876,,,,,,,,PLOS water,
+venue,1711956,,,,,,,,IEEE/ASME Journal of Microelectromechanical Systems,
+venue,1712846,,,,,,,,The Journal of Public Transportation,
+venue,1712858,,,,,,,,Journal of Vibration and Acoustics,1.9
+venue,1713035,,,,,,,,IEEE robotics and automation letters,4.6
