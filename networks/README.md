@@ -2,8 +2,10 @@
 
 This directory contains network representations of the survey data described in
 **"Consensus and Fragmentation in Academic Publication Preferences"** (Van Buskirk et al.).
-Each network is provided in two formats: **GraphML** (single-file, attributes embedded)
-and **CSV** (edge list + node attribute table, two files per network).
+Each network is provided in two formats: **GraphML** (single-file, attributes embedded,
+gzip-compressed as `.graphml.gz`) and **CSV** (edge list + node attribute table, two
+files per network). Both NetworkX and graph-tool read `.graphml.gz` files transparently —
+no manual decompression needed.
 
 ---
 
@@ -14,12 +16,12 @@ networks/
 ├── README.md
 ├── graphml/
 │   ├── comparison/          ← directed venue comparison multigraphs
-│   │   ├── all.graphml
-│   │   ├── Biology.graphml
+│   │   ├── all.graphml.gz
+│   │   ├── Biology.graphml.gz
 │   │   └── ...              (one per field, 13 total)
 │   └── bipartite/           ← undirected respondent × venue bipartite graphs
-│       ├── all.graphml
-│       ├── Biology.graphml
+│       ├── all.graphml.gz
+│       ├── Biology.graphml.gz
 │       └── ...              (one per field, 13 total)
 └── csv/
     ├── comparison/
@@ -152,11 +154,11 @@ all files in this directory.
 import networkx as nx
 
 # Global network
-G = nx.read_graphml("networks/graphml/comparison/all.graphml", node_type=int)
+G = nx.read_graphml("networks/graphml/comparison/all.graphml.gz", node_type=int)
 # G is a MultiDiGraph: 5686 nodes, 166136 edges
 
 # Per-field
-G_bio = nx.read_graphml("networks/graphml/comparison/Biology.graphml", node_type=int)
+G_bio = nx.read_graphml("networks/graphml/comparison/Biology.graphml.gz", node_type=int)
 
 # Access node attributes
 print(G.nodes[1647094])        # {'name': 'Science', 'jcr_jif': 44.7}
@@ -175,7 +177,7 @@ agg = edges.groupby(["source", "target"])["weight"].sum().reset_index()
 ```python
 import graph_tool.all as gt
 
-g = gt.load_graph("networks/graphml/comparison/all.graphml")
+g = gt.load_graph("networks/graphml/comparison/all.graphml.gz")
 
 # Vertex properties
 name    = g.vp["name"]        # StringPropertyMap
@@ -191,7 +193,7 @@ resp_field   = g.ep["respondent_field"]
 non_tie_view = gt.GraphView(g, efilt=lambda e: not is_tie[e])
 
 # Per-field
-g_econ = gt.load_graph("networks/graphml/comparison/Economics.graphml")
+g_econ = gt.load_graph("networks/graphml/comparison/Economics.graphml.gz")
 ```
 
 #### pandas (from CSV)
@@ -222,7 +224,7 @@ agg = (edges.groupby(["source", "target"])["weight"]
 import networkx as nx
 from networkx.algorithms import bipartite
 
-G = nx.read_graphml("networks/graphml/bipartite/all.graphml", node_type=int)
+G = nx.read_graphml("networks/graphml/bipartite/all.graphml.gz", node_type=int)
 
 # Separate node sets
 respondents = {n for n, d in G.nodes(data=True) if d.get("node_type") == "respondent"}
@@ -235,7 +237,7 @@ resp_degree = {n: G.degree(n) for n in respondents}
 venue_proj = bipartite.weighted_projected_graph(G, venues)
 
 # Per-field
-G_cs = nx.read_graphml("networks/graphml/bipartite/Computer_science.graphml", node_type=int)
+G_cs = nx.read_graphml("networks/graphml/bipartite/Computer_science.graphml.gz", node_type=int)
 ```
 
 #### graph-tool (from GraphML)
@@ -243,7 +245,7 @@ G_cs = nx.read_graphml("networks/graphml/bipartite/Computer_science.graphml", no
 ```python
 import graph_tool.all as gt
 
-g = gt.load_graph("networks/graphml/bipartite/all.graphml")
+g = gt.load_graph("networks/graphml/bipartite/all.graphml.gz")
 
 node_type = g.vp["node_type"]   # "respondent" or "venue"
 bipartite  = g.vp["bipartite"]  # 0 = respondent, 1 = venue
