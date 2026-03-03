@@ -2,6 +2,8 @@
 
 **Ian Van Buskirk, Marilena Hohmann, Ekaterina Landgren, Johan Ugander, Aaron Clauset, Daniel B. Larremore**
 
+[https://arxiv.org/abs/2603.00807](https://arxiv.org/abs/2603.00807)
+
 This repository includes deidentified data and code to reproduce the figures and analyses of the manuscript. See installation instructions below.
 
 ---
@@ -274,7 +276,7 @@ Rankings are computed using [SpringRank](https://github.com/LarremoreLab/SpringR
 ### Tie handling
 Indifferent responses (`is_tie=True`) constitute 8.1% of all comparisons (N=12,482). In the SpringRank adjacency matrix, each tie counts as a half-win for each venue: `A[i,j] += 0.5` and `A[j,i] += 0.5`.
 
-<!-- ---
+---
 
 ## Citation
 
@@ -285,10 +287,10 @@ If you use this data or code, please cite:
   title   = {Consensus and fragmentation in academic publication preferences},
   author  = {Van Buskirk, Ian and Hohmann, Marilena and Landgren, Ekaterina and
              Ugander, Johan and Clauset, Aaron and Larremore, Daniel B.},
-  journal = {},
+  journal = {arXiv:2603.00807},
   year    = {2026},
 }
-``` -->
+```
 
 ---
 
