@@ -91,7 +91,7 @@ One row per survey respondent (US tenure-track faculty, fields with ≥ 100 part
 | `academia_prestige_bin_10` | Academia-wide prestige decile (used in regressions) |
 
 ### `comparisons.csv` — 153,654 rows × 5 columns
-One row per pairwise comparison made during the survey.
+One row per pairwise comparison made during the survey. Rows provided only for fields with ≥ 100 respondents.
 
 | Column | Description |
 |--------|-------------|
@@ -102,7 +102,7 @@ One row per pairwise comparison made during the survey.
 | `field` | Field in which the comparison was made |
 
 ### `venue_selections.csv` — 84,246 rows × 4 columns
-All venues presented to each respondent during their initial ranking pass.
+All venues presented to each respondent during their initial ranking pass. Venues provided only for fields with ≥ 100 respondents.
 
 | Column | Description |
 |--------|-------------|
@@ -112,7 +112,7 @@ All venues presented to each respondent during their initial ranking pass.
 | `field` | Field context |
 
 ### `venues.csv` — 6,363 rows × 13 columns
-Metadata for all venues that appeared in the survey.
+Metadata for all venues that appeared in the survey, for fields with ≥ 100 respondents.
 
 | Column | Description |
 |--------|-------------|
