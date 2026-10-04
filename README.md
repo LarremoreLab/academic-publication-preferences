@@ -2,304 +2,220 @@
 
 **Ian Van Buskirk, Marilena Hohmann, Ekaterina Landgren, Johan Ugander, Aaron Clauset, Daniel B. Larremore**
 
-[https://arxiv.org/abs/2603.00807](https://arxiv.org/abs/2603.00807)
+*Science Advances* (2026) · preprint [arXiv:2603.00807](https://arxiv.org/abs/2603.00807)
 
-This repository includes deidentified data and code to reproduce the figures and analyses of the manuscript. See installation instructions below.
+This repository contains the de-identified survey data and the code that reproduce every figure, supplementary table and in-text number of the paper that can be computed from shareable data. Start with [`public_data/`](#data) and [`reproducibility/run_all.py`](#reproducing-the-paper).
 
 ---
 
 ## Overview
 
-Academic publishing requires solving a collective coordination problem: among thousands of possible venues, which deserve a community's attention? This repository contains the data and code to reproduce the figures in our paper, which surveys 3,510 US tenure-track faculty to understand how publication preferences vary across fields, institutions, and individuals.
+Academic publishing requires solving a collective coordination problem: among thousands of possible venues, which deserve a community's attention? We surveyed 3,510 US tenure-track faculty in 13 fields, eliciting the venues they would consider publishing in, their top aspirations, and 153,654 pairwise comparisons between venues, and linked respondents to their publication records and to the prestige of their institutions.
 
-**Key findings:**
-- Fields occupy a wide spectrum of consensus — Economics and Chemistry show strong agreement on elite venues; Computer Science and Engineering show fragmented preferences across hundreds of outlets.
-- Within fields, faculty at more prestigious institutions and men prefer higher-ranked venues.
-- Researchers publish more successfully in their personal favorite venues than in their field's consensus favorites.
-- Journal Impact Factors explain only ~64% of pairwise preference choices, systematically undervaluing what fields actually prefer.
-
----
-## AI Disclosure Note
-
-This public-facing repository was improved for reproducibility, readability, and clarity, by AI tools. All original analyses and writing from which this repository was derived, including original research notebooks and code, were written by humans. 
+**Key findings**
+- Fields occupy a wide spectrum of consensus: Economics and Chemistry agree strongly on a few elite venues; Computer Science and Engineering spread their preferences across hundreds of outlets. Subfields are more consensual than their fields, but the ordering of fields is preserved.
+- Within fields, faculty at more prestigious institutions and men prefer and aspire to higher-ranked venues. The associations hold with institution-clustered standard errors, field fixed effects, alternative prestige measures, and reweighting to the faculty population.
+- Faculty publish more in their own favourite venues than in their field's consensus favourites, at every level of institutional prestige.
+- Journal Impact Factors predict about 65% of pairwise choices, versus 72% for the survey consensus ranking on the same comparisons, and systematically undervalue what each field prefers most.
 
 ---
 
-## Repository Structure
+## AI disclosure
+
+This public repository was prepared for reproducibility, readability and clarity with the help of AI tools. The original analyses and writing, including the research notebooks and code from which this repository was derived, were written by humans.
+
+---
+
+## Repository structure
 
 ```
 .
-├── public_data/                   ← Shareable dataset (start here)
-│   ├── respondents.csv            ← One row per survey respondent
-│   ├── comparisons.csv            ← One row per pairwise comparison
-│   ├── venue_selections.csv       ← Venues shown per respondent in initial pass
-│   ├── venues.csv                 ← Venue metadata (OpenAlex + JIF)
-│   ├── publication_counts.csv     ← Publication counts by venue per respondent
-│   └── field_jif_rankings.csv     ← Field-level consensus + JIF ordinal ranks
+├── public_data/                      shareable dataset (start here)
+│   ├── respondents.csv               one row per respondent
+│   ├── comparisons.csv               one row per pairwise comparison
+│   ├── venue_selections.csv          venues shown to each respondent and whether they would publish there
+│   ├── venues.csv                    venue metadata (OpenAlex) and JCR 2023 citation metrics
+│   ├── publication_counts.csv        publication-record measures per respondent (Fig. 5)
+│   ├── field_top5.csv                each field's five most-voted venues (Fig. 2, Fig. 5)
+│   ├── field_jif_rankings.csv        field-level consensus scores and citation-metric ranks per venue
+│   └── aarc_field_margins.csv        faculty-population aggregates per field (SI Table S11)
 │
-├── reproducibility/               ← Figure scripts
-│   ├── run_all.py                 ← Run everything (start here)
-│   ├── compute_rankings.py        ← Produces derived/ from public_data/
-│   ├── fig1.py  …  fig5.py        ← Main paper figures
-│   ├── si_fig1.py  …  si_fig4.py  ← Supplementary figures
-│   └── derived/                   ← Intermediate outputs (generated by compute_rankings.py)
-│       ├── individual_rankings.csv
-│       ├── field_rankings_per_user.csv
-│       ├── field_consensus_rankings.csv
-│       └── global_rankings_per_user.csv  ← Global LOO SpringRank (all fields)
+├── reproducibility/
+│   ├── run_all.py                    runs everything below, in order
+│   ├── compute_rankings.py           SpringRank rankings -> derived/ (run once, ~10-15 min)
+│   ├── common.py                     shared loaders, the Eq. S1 sample, clustered-OLS helpers
+│   ├── fig1.py ... fig5.py           main-text figures
+│   ├── si_fig1_subfields.py ... si_fig7_jif_ranks.py        supplementary figures
+│   ├── si_table1_subfields.py ... si_tables8_10_composition.py   supplementary tables
+│   ├── si_inference_numbers.py, si_prestige_measures.py       numbers quoted in SI text
+│   ├── bootstrap_consensus.py        respondent bootstrap behind SI Fig. S2 (slow; summary cached)
+│   ├── compute_numbers.py            every number quoted in the paper -> output/numbers.tex
+│   ├── cache/                        committed summary of the bootstrap
+│   ├── derived/                      generated by compute_rankings.py (not committed)
+│   └── output/                       figures/, tables/, results/, numbers.tex (not committed)
 │
-├── networks/                      ← Pre-built network datasets (GraphML + CSV)
-│   ├── README.md                  ← Schema, attribute tables, and Python examples
-│   ├── graphml/
-│   │   ├── comparison/            ← Directed venue comparison multigraphs (all + 13 fields)
-│   │   └── bipartite/             ← Respondent × venue bipartite graphs (all + 13 fields)
-│   └── csv/
-│       ├── comparison/            ← Edge list + node attributes (all + 13 fields)
-│       └── bipartite/             ← Edge list + node attributes (all + 13 fields)
-│
-├── utils/                         ← Shared plotting utilities
-│   ├── field_colors.py            ← Per-field color palette (tab20)
-│   └── short_venue_names.py       ← Abbreviated venue name lookup
-│
-└── README.md                      ← This file
+├── paper_numbers/numbers.tex         the macros used by the paper's LaTeX, as shipped
+├── networks/                         pre-built venue-comparison and respondent-venue network files (see networks/README.md)
+├── utils/                            field colours and short venue names
+├── LICENSE                           MIT (code); public_data/LICENSE is CC BY 4.0 (data)
+└── README.md
 ```
 
 ---
 
-## Data Description
+## Data
 
-All data files are in `public_data/`. Survey responses are de-identified: names, institution names, email addresses, and timestamps have been removed.
+All files are in `public_data/`. Responses are de-identified: names, email addresses, timestamps, institution names and identifiers, and raw prestige ranks have been removed. Only fields with at least 100 respondents are included (13 fields, 3,510 respondents).
+
+**What is and is not shared about institutions.** Institutional prestige comes from the Academic Analytics Research Center (AARC) faculty census and the hiring-network ranking of Wapman et al. (2022). The census cannot be redistributed. The data therefore carry only derivations of it: each respondent's prestige **decile** and **tercile**, an **anonymous institution index** (so that standard errors can be clustered by institution), and the per-field population aggregates that the paper itself prints in SI Table S11. Researchers who need the underlying census should request it from Academic Analytics.
 
 ### `respondents.csv` — 3,510 rows × 17 columns
-One row per survey respondent (US tenure-track faculty, fields with ≥ 100 participants).
 
 | Column | Description |
-|--------|-------------|
-| `user_db_id` | Anonymous respondent ID |
-| `field` | Academic field (13 fields) |
-| `subfield` | Subfield within field |
-| `career_stage` | Assistant / Associate / Full Professor |
-| `top_init_venue_db_id` | Top-ranked aspiration venue ID |
-| `mid_init_venue_db_id` | Mid-ranked aspiration venue ID |
-| `low_init_venue_db_id` | Low-ranked aspiration venue ID |
-| `venue_bug` | True if Science was not displayed correctly (exclude from analyses) |
-| `gender` | `gm` (men) / `gf` (women) / NaN (not reported) |
-| `aa_area` | Academic area from affiliation database |
-| `clusters_20` | Field cluster assignment (k=20) |
-| `clusters_40` | Field cluster assignment (k=40) |
-| `institution_bin_3` | Institution prestige tercile (1=most prestigious) |
-| `institution_bin_10` | Institution prestige decile (1=most prestigious) |
-| `academia_prestige_bin_3` | Academia-wide prestige tercile |
-| `academia_prestige_bin_10` | Academia-wide prestige decile (used in regressions) |
+|---|---|
+| `user_db_id` | anonymous respondent id (links all tables) |
+| `field` | field the respondent chose in the survey (13 fields) |
+| `subfield` | subfield chosen in the survey |
+| `career_stage` | Assistant / Associate / Full Professor, or other self-reported titles |
+| `top_init_venue_db_id`, `mid_init_venue_db_id`, `low_init_venue_db_id` | the three aspiration venues named at the start of the survey (top, middle, lower tier) |
+| `venue_bug` | True if a database error restricted the aspiration menu for this respondent (excluded from aspiration analyses) |
+| `gender` | `gm` (man), `gf` (woman), `-` (unknown or other) |
+| `aa_area` | area of the respondent's primary appointment in the AARC taxonomy |
+| `clusters_20`, `clusters_40` | field-cluster assignments used for exploratory grouping |
+| `prestige_decile` | institutional prestige decile, 10 = most prestigious; deciles contain equal numbers of 2023 faculty; NaN if the institution is unknown or unranked |
+| `institution_id` | anonymous institution index (1–266); NaN if unknown |
+| `prestige_tercile` | institutional prestige tercile, 3 = most prestigious |
+| `carnegie_2021` | Carnegie Classification 2021: `R1`, `R2` or `Other`; NaN if unknown |
+| `the_2024_decile` | decile of the institution's Times Higher Education World University Rankings 2024 position among ranked institutions, 10 = highest; NaN if unranked or unknown |
 
 ### `comparisons.csv` — 153,654 rows × 5 columns
-One row per pairwise comparison made during the survey. Rows provided only for fields with ≥ 100 respondents.
-
-| Column | Description |
-|--------|-------------|
-| `user_db_id` | Respondent ID |
-| `is_tie` | True if respondent indicated no preference |
-| `pref_venue_db_id` | ID of the preferred venue (if not a tie) |
-| `other_venue_db_id` | ID of the non-preferred venue (if not a tie) |
-| `field` | Field in which the comparison was made |
+One row per pairwise comparison: `user_db_id`, `is_tie`, `pref_venue_db_id`, `other_venue_db_id`, `field`.
 
 ### `venue_selections.csv` — 84,246 rows × 4 columns
-All venues presented to each respondent during their initial ranking pass. Venues provided only for fields with ≥ 100 respondents.
+Every venue shown to a respondent during the venue-discovery stage: `user_db_id`, `would_publish`, `venue_db_id`, `field`. A respondent's *consideration set* is the set of venues with `would_publish = True`.
+
+### `venues.csv` — 6,363 rows × 15 columns
+| Column | Description |
+|---|---|
+| `venue_db_id`, `venue_oa_id`, `name`, `display_name` | venue identifiers and names (OpenAlex) |
+| `users_selected` | number of respondents who selected the venue |
+| `2yr_mean_citedness`, `works_count`, `cited_by_count`, `issn_l`, `first_topic`, `db_concept` | OpenAlex metadata |
+| `jcr_name` | matched journal name in Journal Citation Reports 2023 |
+| `jcr_jif` | 2-year Journal Impact Factor (JCR 2023); 4,959 venues |
+| `jcr_jif_5yr` | 5-year Journal Impact Factor (JCR 2023) |
+| `jcr_article_influence` | Article Influence Score (JCR 2023) |
+
+### `publication_counts.csv` — 2,275 rows × 15 columns
+One row per respondent whose publication record could be retrieved (professors in the 13 fields with an individual ranking).
 
 | Column | Description |
-|--------|-------------|
-| `user_db_id` | Respondent ID |
-| `would_publish` | True if respondent rated this venue positively |
-| `venue_db_id` | Venue ID |
-| `field` | Field context |
+|---|---|
+| `user_db_id`, `field`, `career_stage`, `gender`, `institution_id`, `prestige_decile` | as in `respondents.csv` |
+| `in_final_sample` | True for the 1,872 respondents with a prestige decile and an institution index (the Fig. 5 sample) |
+| `indiv_count` | number of the respondent's own top-5 venues (from their individual ranking) that appear in their publication record |
+| `field_count` | same for the field's top-5 venues (`field_top5.csv`) |
+| `n_own_ranked` | number of venues in the respondent's own top-5 list (5 unless they ranked fewer venues) |
+| `published_in_top_aspiration`, `..._mid_...`, `..._low_...` | whether the respondent had published in each aspiration venue |
+| `n_consideration_set`, `n_consideration_published` | size of the consideration set and how many of its venues appear in the publication record |
 
-### `venues.csv` — 6,363 rows × 13 columns
-Metadata for all venues that appeared in the survey, for fields with ≥ 100 respondents.
+### `field_top5.csv` — 65 rows × 7 columns
+For each field, the five venues appearing most often in respondents' individual top-5 lists (the field top-5 of Fig. 2 and Fig. 5): `field`, `rank`, `venue_db_id`, `name`, `votes`, `n_respondents`, `share_in_consideration_sets`.
 
-| Column | Description |
-|--------|-------------|
-| `venue_db_id` | Venue ID (links to other tables) |
-| `venue_oa_id` | OpenAlex venue ID |
-| `name` | Full venue name |
-| `users_selected` | Number of respondents who selected this venue |
-| `display_name` | Display name used in survey |
-| `2yr_mean_citedness` | 2-year mean citedness (OpenAlex) |
-| `works_count` | Number of works indexed (OpenAlex) |
-| `cited_by_count` | Total citation count (OpenAlex) |
-| `issn_l` | Linking ISSN |
-| `first_topic` | Primary topic (OpenAlex) |
-| `db_concept` | Concept/field label |
-| `jcr_jif` | Journal Citation Reports Impact Factor (2023) |
-| `jcr_name` | JCR journal name |
+### `field_jif_rankings.csv` — 8,794 rows × 50 columns
+One row per (field, venue): the field's consensus SpringRank score (`unscaled_rank`, `scaled_rank`, `normed_rank`), selection counts and shares, the 2-year JIF used in SI Tables S4–S5 and Fig. S7 (`jif`) with ordinal ranks (`ordinal_porc`, `ordinal_jif`, and `subset_*` ranks computed within the venues selected by at least 10% of the field), and the same ordinal ranks for the other JCR 2023 metrics (`jif_5yr`, `jci`, `article_influence_score`, `eigenfactor`, `normalized_eigenfactor`, `immediacy_index`, `jif_percentile`) and OpenAlex citedness. Aggregate statistics only.
 
-### `publication_counts.csv` — 2,275 rows × 13 columns
-Number of publications per respondent in each of their nominated venues, drawn from OpenAlex. Used in Figure 5 (preference realization).
-
-### `field_jif_rankings.csv` — 8,794 rows × 13 columns
-Field-level consensus SpringRank scores (alpha=20) alongside JIF ordinal ranks and selection fractions. One row per (field, venue) pair. All aggregate statistics — no individual-level data.
-
-Key columns: `field`, `venue_db_id`, `ordinal_porc` (consensus rank), `ordinal_jif` (JIF rank), `subset_ordinal_porc`, `subset_ordinal_jif`, `frac_selected`.
-
-### `derived/global_rankings_per_user.csv` — 52,965 rows × 3 columns
-Leave-one-out global SpringRank(alpha=20) scores: for each respondent, scores are computed from all comparisons (across all fields) except that respondent's own, restricted to venues they actually compared. Generated by `compute_rankings.py`. Used in SI Figure 3.
-
----
-
-## Network Datasets
-
-Pre-built network files are in `networks/`. Two network types are provided, each
-in GraphML and CSV formats, for the global dataset and separately for each of the
-13 fields.
-
-| Network type | Nodes | Edges | Global size |
-|---|---|---|---|
-| Venue comparison multigraph (directed) | Academic venues | One directed edge per pairwise comparison; ties produce two edges (A→B and B→A) at weight 0.5 | 5,686 nodes · 166,136 edges |
-| Respondent × venue bipartite (undirected) | Respondents + venues | Edge if venue was in respondent's consideration set | 9,196 nodes · 55,455 edges |
-
-See [`networks/README.md`](networks/README.md) for full attribute schemas and
-Python read-in examples (NetworkX, graph-tool, pandas).
+### `aarc_field_margins.csv` — 14 rows × 10 columns
+The AARC 2023 faculty population per field (and all fields): `aarc_n_2023`, `pct_men`, `pct_women`, `pct_gender_unknown`, `pct_assistant`, `pct_associate`, `pct_full`, `prestige_percentile_mean`, `prestige_percentile_sd`. These are the values printed in SI Table S11 and are used for the reweighting analyses (SI Tables S9, S10).
 
 ---
 
 ## Requirements
 
-- Python 3.9 or later
-- [uv](https://github.com/astral-sh/uv) (recommended) or pip
+Python 3.9 or later with `pandas`, `numpy`, `scipy`, `statsmodels`, `matplotlib`, `seaborn`, `springrank`, `pyprojroot`.
 
-### Python packages
-```
-matplotlib
-seaborn
-scipy
-numpy
-pandas
-statsmodels
-springrank
-pyprojroot
-```
-
----
-
-## Setup
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/<org>/<repo>.git
-cd <repo>
-```
-
-### 2. Create the virtual environment
-Using `uv` (recommended):
-```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh   # install uv if needed
-~/.local/bin/uv venv .venv
-~/.local/bin/uv pip install matplotlib seaborn scipy numpy pandas statsmodels springrank pyprojroot
-```
-
-Or using standard pip:
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install matplotlib seaborn scipy numpy pandas statsmodels springrank pyprojroot
+.venv/bin/python -c "import pandas, statsmodels, springrank; print('OK')"
 ```
-
-### 3. Verify the setup
-```bash
-.venv/bin/python -c "import pandas, matplotlib, seaborn, springrank; print('OK')"
-```
+(or `uv venv .venv && uv pip install ...`).
 
 ---
 
-## Reproducing the Figures
+## Reproducing the paper
 
-### Quick start — run everything
 ```bash
 .venv/bin/python reproducibility/run_all.py
 ```
+runs every script in order and writes to `reproducibility/output/`. The first stage, `compute_rankings.py`, fits the SpringRank rankings (~10–15 minutes); pass `--skip-rankings` on later runs. The respondent bootstrap behind SI Fig. S2 (`bootstrap_consensus.py`) is slow and its summary is committed in `reproducibility/cache/`; pass `--bootstrap` to rerun it.
 
-Expected total runtime: **~15–25 minutes** on a modern laptop.
+Every script can also be run on its own from the repository root, e.g. `.venv/bin/python reproducibility/fig4.py`.
 
-| Stage | Script | Time |
-|-------|--------|------|
-| Compute rankings | `compute_rankings.py` | ~10–15 min |
-| Figures 1–5, SI 1–3 | `fig1.py` … `si_fig3.py` | < 1 min each |
-| SI Figure 4 (permutation test) | `si_fig4.py` | ~3 min |
+The whole pipeline after the ranking stage takes about a minute. Two outputs are statistically rather than bit-for-bit reproducible: the prestige panels of SI Fig. S5 (the permutation test shuffles institutions, whose anonymous indices are not in the same order as the identifiers used for the paper, so the same seed draws a different permutation; the gender panels and all reported p-values and medians reproduce) and, if rerun, the bootstrap behind SI Fig. S2, which reproduces exactly with the default seed but takes about 13 minutes on 16 cores. Every other figure renders identically to the published files, every table cell matches, and `compute_numbers.py` regenerates all 905 macros of the paper's LaTeX string for string.
 
-If `reproducibility/derived/` already exists (e.g. on a second run), skip the ranking step:
-```bash
-.venv/bin/python reproducibility/run_all.py --skip-rankings
-```
+### Index
 
-### Step-by-step
+| Paper item | Script | Output |
+|---|---|---|
+| Fig. 1 | `fig1.py` | `output/figures/fig1.pdf` |
+| Fig. 2 | `fig2.py` | `output/figures/fig2.pdf` |
+| Fig. 3 | `fig3.py` | `output/figures/fig3/<field>.html` (13 network panels, composed by hand into the figure) |
+| Fig. 4 | `fig4.py` | `output/figures/fig4.pdf`; `output/results/eqs1_coefficients.csv`, `fig4_group_means.csv` |
+| Fig. 5 | `fig5.py` | `output/figures/fig5.pdf`; `output/results/fig5_models.csv` |
+| SI Fig. S1, Table S1 | `si_table1_subfields.py`, `si_fig1_subfields.py` | `output/tables/si_table1.tex`, `output/figures/si_fig1.pdf`; `si_table1_subfields.py --include-catch-alls` gives the sensitivity analysis in which catch-all subfield answers count as subfields |
+| SI Fig. S2 | `bootstrap_consensus.py` (cached), `si_fig2_bootstrap.py` | `cache/`, `output/figures/si_fig2.pdf` |
+| SI Fig. S3 | — | network panels for all fields, composed by hand from `fig3.py` output |
+| SI Fig. S4 | `si_fig4_regressions.py` | `output/figures/si_fig4.pdf` |
+| SI Fig. S5 | `si_fig5_permutation.py` | `output/figures/si_fig5.pdf`; `output/results/permutation_test.csv` |
+| SI Fig. S6 | `si_fig6_jif_accuracy.py` | `output/figures/si_fig6.pdf`; `output/results/jif_accuracy_by_field.csv` |
+| SI Fig. S7 | `si_fig7_jif_ranks.py` | `output/figures/si_fig7.pdf` |
+| SI Table S2 | `si_table2_fig5_models.py` | `output/tables/si_table2.tex` |
+| SI Table S3 | `si_table3_alt_metrics.py` | `output/tables/si_table3.tex` |
+| SI Tables S4, S5 | `si_tables4_5_jif_ranks.py` | `output/tables/si_table4.tex`, `si_table5.tex` |
+| SI Tables S8, S9, S10 | `si_tables8_10_composition.py` | `output/tables/si_table8.tex` … `si_table10.tex` |
+| SI "Statistical inference" numbers | `si_inference_numbers.py` | `output/results/inference_checks.csv` |
+| SI "Alternative prestige measures" numbers | `si_prestige_measures.py` | `output/results/prestige_measures.csv` |
+| All numbers in the text and tables | `compute_numbers.py` | `output/numbers.tex`; `--check` compares it with the committed `paper_numbers/numbers.tex` |
 
-**Step 1 — Generate intermediate ranking files** (run once; takes ~10–15 min):
-```bash
-.venv/bin/python reproducibility/compute_rankings.py
-```
-This reads `public_data/comparisons.csv` and produces four files in `reproducibility/derived/`:
-- `individual_rankings.csv` — per-user SpringRank(alpha=0) scores
-- `field_rankings_per_user.csv` — leave-one-out field SpringRank(alpha=20) scores
-- `field_consensus_rankings.csv` — field-level consensus SpringRank(alpha=20) scores
-- `global_rankings_per_user.csv` — leave-one-out global SpringRank(alpha=20) scores (all fields pooled)
+### Numbers
 
-**Step 2 — Produce each figure**:
-```bash
-.venv/bin/python reproducibility/fig1.py      # Fig 1: field structure + heatmap
-.venv/bin/python reproducibility/fig2.py      # Fig 2: preference agreement scatter
-.venv/bin/python reproducibility/fig3.py      # Fig 3: network visualizations (HTML)
-.venv/bin/python reproducibility/fig4.py      # Fig 4: aspiration/preference regressions
-.venv/bin/python reproducibility/fig5.py      # Fig 5: preference realization
-.venv/bin/python reproducibility/si_fig1.py   # SI Fig 1: full regression forest plot
-.venv/bin/python reproducibility/si_fig2.py   # SI Fig 2: JIF vs consensus rankings
-.venv/bin/python reproducibility/si_fig3.py   # SI Fig 3: comparison accuracy
-.venv/bin/python reproducibility/si_fig4.py   # SI Fig 4: permutation robustness check
-```
+`compute_numbers.py` writes one file, `output/numbers.tex`, with one `\newcommand` per number quoted in the paper, grouped by topic. Most values are read from the result files of the other scripts, so the figures, tables and text come from one computation. Values whose sources are not in this repository are gathered in the last section of the file with a comment naming the source: the email records of the survey (sample frame, response and completion counts), the Academic Analytics census (respondents' mean prestige percentiles, which need raw institution ranks), totals of the full survey database before the restriction to fields with 100 or more respondents, the adaptive-pairing simulation of the survey software, and counts from the institution-name crosswalks behind the Carnegie and THE robustness checks. The committed copy `paper_numbers/numbers.tex` is the file the paper was compiled with.
 
-All scripts are run from the **project root** and write their output PDF to `reproducibility/`.
+### What cannot be reproduced from the public data
 
----
-
-**Note on Figure 3:** `fig3.py` produces 13 HTML files (one per field) containing D3.js force-directed network graphs. These were imported into Keynote as images to compose the final Figure 3 panel.
-
-**Note on SI Figure 4:** The permutation test is stochastic. Each run produces a statistically equivalent figure, but it will not be pixel-identical to the published version.
+- **SI Table S6** (survey completion by field) and **SI Table S7** (response by institutional prestige) are computed from the email sample frame and the AARC person records, which are not shareable. Their values are included as constants in `compute_numbers.py` and marked as such.
+- **SI Table S11**: the AARC population columns are shipped as aggregates (`aarc_field_margins.csv`); the sample's mean prestige *percentiles* require raw institution ranks and are included as constants. Gender and rank shares of the sample are recomputed.
+- The Carnegie and THE crosswalks were built from institution names; only the resulting per-respondent tier and decile are shared, so counts of institutions matched by name and national totals are constants.
+- **SI Fig. S3** and the composition of **Fig. 3** are manual assemblies of the HTML network panels produced by `fig3.py`.
 
 ---
 
-## Notes on Rankings
+## Methods notes
 
-Rankings are computed using [SpringRank](https://github.com/LarremoreLab/SpringRank), a physics-inspired hierarchical ranking algorithm. The key parameters:
+**Rankings.** Rankings use [SpringRank](https://github.com/LarremoreLab/SpringRank). Individual rankings use each respondent's own comparisons (α = 0); field consensus rankings pool all comparisons within a field (α = 20) and, where a respondent is scored against their field, are refit leaving that respondent out. Indifferent responses (`is_tie`, 8.1% of comparisons) count as half a win for each venue.
 
-- **alpha=0**: Individual user rankings (no regularization); used in Figure 2.
-- **alpha=20**: Field-level consensus rankings (regularization toward a neutral prior); used in Figures 4–5 and SI figures.
-- **Leave-one-out (LOO)**: For fairness analyses, each user's ranking is computed from the field's comparisons *excluding their own*, preventing circularity.
+**Prestige.** Prestige deciles and terciles are Academia-wide bins of the hiring-network prestige rank containing equal numbers of 2023 faculty, coded so that 10 (or 3) is the most prestigious. All regressions use `prestige_decile`; standard errors are clustered by `institution_id`; pooled models include field fixed effects.
 
-### Tie handling
-Indifferent responses (`is_tie=True`) constitute 8.1% of all comparisons (N=12,482). In the SpringRank adjacency matrix, each tie counts as a half-win for each venue: `A[i,j] += 0.5` and `A[j,i] += 0.5`.
+**Fig. 5 sample.** Respondents with a publication record, a prestige decile and an institution index (`in_final_sample`, N = 1,872 at 241 institutions). The field top-5 used throughout is the vote-count list in `field_top5.csv`.
 
 ---
 
 ## Citation
-
-If you use this data or code, please cite:
 
 ```bibtex
 @article{vanbuskirk2026consensus,
   title   = {Consensus and fragmentation in academic publication preferences},
   author  = {Van Buskirk, Ian and Hohmann, Marilena and Landgren, Ekaterina and
              Ugander, Johan and Clauset, Aaron and Larremore, Daniel B.},
-  journal = {arXiv:2603.00807},
+  journal = {Science Advances},
   year    = {2026},
 }
 ```
 
----
-
 ## License
 
-Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-Code: [MIT License](https://opensource.org/licenses/MIT)
-
----
+Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (`public_data/LICENSE`). Code: [MIT](LICENSE).
 
 ## Contact
 

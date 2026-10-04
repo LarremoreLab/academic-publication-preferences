@@ -125,6 +125,12 @@ In GraphML, venue nodes additionally carry `bipartite=1` and `node_type="venue"`
 
 ## Notes
 
+**Prestige attributes.** The `institution_bin_*` and `academia_prestige_bin_*` attributes in these
+network files are the prestige bins of the first public release of the data (based on the 2020
+faculty census, coded 1 = most prestigious). The paper's analyses use the bins in
+`public_data/respondents.csv` (`prestige_decile`, `prestige_tercile`; 2023 census, 10 or 3 = most
+prestigious), which can be joined to the respondent nodes and edges by `user_db_id`.
+
 **Missing attributes.** Prestige bins, gender, and JIF are absent for some nodes/edges
 because they were not available in the source data. In GraphML, absent attributes are
 simply omitted (the attribute key will not be present on that element). In CSV, absent
