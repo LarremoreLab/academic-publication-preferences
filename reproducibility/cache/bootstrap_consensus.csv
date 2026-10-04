@@ -1,0 +1,79 @@
+field,measure,point,lo,hi,boot_median,method,n,x
+Biology,prediction_accuracy,77.19899264159965,75.09144799861174,78.74557229413121,76.92836859422462,"respondent bootstrap, 1000 replicates, 95% percentile",516,
+Business,prediction_accuracy,70.53750787553604,67.79566566063045,72.5525471259756,70.26333256319211,"respondent bootstrap, 1000 replicates, 95% percentile",357,
+Chemistry,prediction_accuracy,76.21073961499494,72.32737748362747,78.2843477289906,75.40671149181787,"respondent bootstrap, 1000 replicates, 95% percentile",235,
+Computer science,prediction_accuracy,66.54248209547748,61.25346346417512,69.60139695304333,65.66364817890981,"respondent bootstrap, 1000 replicates, 95% percentile",219,
+Economics,prediction_accuracy,79.15519040519041,75.0196519020708,81.30854520592294,78.31070787694387,"respondent bootstrap, 1000 replicates, 95% percentile",224,
+Engineering,prediction_accuracy,72.04317838246409,66.79240068189762,74.46361774371034,70.61875869263315,"respondent bootstrap, 1000 replicates, 95% percentile",255,
+History,prediction_accuracy,69.13317847464188,63.36677863325282,72.6487493987494,68.2034102884592,"respondent bootstrap, 1000 replicates, 95% percentile",210,
+Mathematics,prediction_accuracy,73.05160931921496,68.51528013526126,76.09157914659676,72.36758673826839,"respondent bootstrap, 1000 replicates, 95% percentile",215,
+Medicine,prediction_accuracy,72.67526455026456,66.21041283988757,77.06591767761236,71.86917714575762,"respondent bootstrap, 1000 replicates, 95% percentile",122,
+Philosophy,prediction_accuracy,73.07498305266164,68.76628920264241,78.71237013647726,73.9829057222513,"respondent bootstrap, 1000 replicates, 95% percentile",115,
+Physics,prediction_accuracy,75.2562885619364,72.22962453911826,77.35689678584612,74.77510777055772,"respondent bootstrap, 1000 replicates, 95% percentile",301,
+Psychology,prediction_accuracy,71.27420236424976,68.10010561915848,72.93930078880618,70.61530508899608,"respondent bootstrap, 1000 replicates, 95% percentile",428,
+Sociology,prediction_accuracy,70.3212986222695,66.59432088962265,72.70992807993508,69.786721075891,"respondent bootstrap, 1000 replicates, 95% percentile",313,
+Biology,top5_agreement,55.17642497091896,53.50866121634699,56.96061440632716,55.253974408685536,"respondent bootstrap, 1000 replicates, 95% percentile",516,
+Business,top5_agreement,25.15406162464986,23.361344537815125,27.450980392156865,25.210084033613445,"respondent bootstrap, 1000 replicates, 95% percentile",357,
+Chemistry,top5_agreement,63.03236797274276,60.05025589970822,65.95885135380043,63.06382978723404,"respondent bootstrap, 1000 replicates, 95% percentile",235,
+Computer science,top5_agreement,16.36197440585009,14.351005484460694,18.82998171846435,16.552358284646687,"respondent bootstrap, 1000 replicates, 95% percentile",219,
+Economics,top5_agreement,71.33928571428572,68.03571428571429,74.28571428571429,71.25,"respondent bootstrap, 1000 replicates, 95% percentile",224,
+Engineering,top5_agreement,30.58823529411765,27.52941176470588,34.11764705882353,30.823529411764707,"respondent bootstrap, 1000 replicates, 95% percentile",255,
+History,top5_agreement,26.33587786259542,24.330834111774408,28.57142857142857,26.52671755725191,"respondent bootstrap, 1000 replicates, 95% percentile",210,
+Mathematics,top5_agreement,32.27906976744186,28.837209302325583,36.46511627906976,32.372093023255815,"respondent bootstrap, 1000 replicates, 95% percentile",215,
+Medicine,top5_agreement,52.459016393442624,47.53688524590164,57.213114754098356,52.29508196721312,"respondent bootstrap, 1000 replicates, 95% percentile",122,
+Philosophy,top5_agreement,40.34782608695652,34.95652173913044,46.26086956521739,40.34782608695652,"respondent bootstrap, 1000 replicates, 95% percentile",115,
+Physics,top5_agreement,53.825681969394545,51.82961319885147,56.35395874916833,54.030646235842774,"respondent bootstrap, 1000 replicates, 95% percentile",301,
+Psychology,top5_agreement,40.42056074766355,38.03621495327103,42.757009345794394,40.560747663551396,"respondent bootstrap, 1000 replicates, 95% percentile",428,
+Sociology,top5_agreement,39.7444089456869,37.12460063897763,43.00319488817891,39.87220447284345,"respondent bootstrap, 1000 replicates, 95% percentile",313,
+Biology,overlap,28.026165929650976,27.02986481059518,29.015823918897105,28.009550900600992,"respondent bootstrap, 1000 replicates, 95% percentile",516,
+Business,overlap,22.147439147345402,20.82856305339522,23.48546630340275,22.14448247125597,"respondent bootstrap, 1000 replicates, 95% percentile",357,
+Chemistry,overlap,35.390245825028416,33.413092209648916,37.429717078658044,35.420243576505754,"respondent bootstrap, 1000 replicates, 95% percentile",235,
+Computer science,overlap,7.857600940239514,7.0226719571926335,8.690497522248002,7.8231037877240315,"respondent bootstrap, 1000 replicates, 95% percentile",219,
+Economics,overlap,44.40334051833992,41.75106380927745,46.68454355739951,44.319039023405594,"respondent bootstrap, 1000 replicates, 95% percentile",224,
+Engineering,overlap,10.744609847588793,9.306172725890576,12.271608123328818,10.687054311336146,"respondent bootstrap, 1000 replicates, 95% percentile",255,
+History,overlap,9.507402875015098,8.523276336886372,10.602041064009839,9.490789217433619,"respondent bootstrap, 1000 replicates, 95% percentile",210,
+Mathematics,overlap,18.885346104004732,16.155083160685653,21.93057016660954,18.805552338544608,"respondent bootstrap, 1000 replicates, 95% percentile",215,
+Medicine,overlap,27.181852474194976,23.759635910310518,30.45996275260195,27.015717290691263,"respondent bootstrap, 1000 replicates, 95% percentile",122,
+Philosophy,overlap,31.182389597777103,26.258913220121865,37.04566064393549,31.32338686777862,"respondent bootstrap, 1000 replicates, 95% percentile",115,
+Physics,overlap,32.21897226884042,30.62529814809978,33.88277478011285,32.182870744353124,"respondent bootstrap, 1000 replicates, 95% percentile",301,
+Psychology,overlap,19.933951432951034,18.482708663737956,21.35916473754529,19.980424689202728,"respondent bootstrap, 1000 replicates, 95% percentile",428,
+Sociology,overlap,21.64319604280236,19.576516489397346,23.842768037447843,21.6658577174912,"respondent bootstrap, 1000 replicates, 95% percentile",313,
+Biology,accumulation_at_100,373.5375499175832,353.8464578125975,393.09127055914837,,"half-sample (floor(n/2) = 258), 1000, 95% percentile; point = exact expected curve",516,100.0
+Biology,accumulation_at_57,269.90374314338396,256.7380592009819,282.77298742431606,,"half-sample (floor(n/2) = 258), 1000, 95% percentile; point = exact expected curve",516,57.0
+Biology,accumulation_endpoint,871.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),516,516.0
+Business,accumulation_at_100,283.7754578918292,261.1017515152152,305.2835835170984,,"half-sample (floor(n/2) = 178), 1000, 95% percentile; point = exact expected curve",357,100.0
+Business,accumulation_at_57,212.4850708780182,198.08665593243046,225.73563765326526,,"half-sample (floor(n/2) = 178), 1000, 95% percentile; point = exact expected curve",357,57.0
+Business,accumulation_endpoint,539.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),357,357.0
+Chemistry,accumulation_at_100,275.02088272833095,251.33481885651528,299.2340791019373,,"half-sample (floor(n/2) = 117), 1000, 95% percentile; point = exact expected curve",235,100.0
+Chemistry,accumulation_at_57,203.4608844110822,186.86119788555519,219.44743813079435,,"half-sample (floor(n/2) = 117), 1000, 95% percentile; point = exact expected curve",235,57.0
+Chemistry,accumulation_endpoint,428.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),235,235.0
+Computer science,accumulation_at_100,563.444989564569,524.7293657769668,600.6873614984802,,"half-sample (floor(n/2) = 109), 1000, 95% percentile; point = exact expected curve",219,100.0
+Computer science,accumulation_at_57,401.9839891102213,377.91719188746646,425.1483372348925,,"half-sample (floor(n/2) = 109), 1000, 95% percentile; point = exact expected curve",219,57.0
+Computer science,accumulation_endpoint,877.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),219,219.0
+Economics,accumulation_at_100,269.0135384103574,240.12537635824683,300.047670427017,,"half-sample (floor(n/2) = 112), 1000, 95% percentile; point = exact expected curve",224,100.0
+Economics,accumulation_at_57,196.29609264541205,178.32264028807222,215.6347374962113,,"half-sample (floor(n/2) = 112), 1000, 95% percentile; point = exact expected curve",224,57.0
+Economics,accumulation_endpoint,428.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),224,224.0
+Engineering,accumulation_at_100,600.629988252783,564.1040943707927,635.0183820162807,,"half-sample (floor(n/2) = 127), 1000, 95% percentile; point = exact expected curve",255,100.0
+Engineering,accumulation_at_57,418.661017007239,395.3903474560015,440.926733516876,,"half-sample (floor(n/2) = 127), 1000, 95% percentile; point = exact expected curve",255,57.0
+Engineering,accumulation_endpoint,1028.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),255,255.0
+History,accumulation_at_100,483.5156784233113,447.646165066564,518.4325408207712,,"half-sample (floor(n/2) = 105), 1000, 95% percentile; point = exact expected curve",210,100.0
+History,accumulation_at_57,341.95366903578235,318.5873934360706,364.5071291686328,,"half-sample (floor(n/2) = 105), 1000, 95% percentile; point = exact expected curve",210,57.0
+History,accumulation_endpoint,730.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),210,210.0
+Mathematics,accumulation_at_100,434.43189317289665,398.94280940622923,468.22727792944335,,"half-sample (floor(n/2) = 107), 1000, 95% percentile; point = exact expected curve",215,100.0
+Mathematics,accumulation_at_57,317.30267842522005,294.2965972327094,338.3634891814767,,"half-sample (floor(n/2) = 107), 1000, 95% percentile; point = exact expected curve",215,57.0
+Mathematics,accumulation_endpoint,655.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),215,215.0
+Medicine,accumulation_at_100,,,,,not defined: x = 100 > floor(n/2) = 61,122,100.0
+Medicine,accumulation_at_57,283.0788220265097,255.93591304097865,310.0403126826415,,"half-sample (floor(n/2) = 61), 1000, 95% percentile; point = exact expected curve",122,57.0
+Medicine,accumulation_endpoint,449.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),122,122.0
+Philosophy,accumulation_at_100,,,,,not defined: x = 100 > floor(n/2) = 57,115,100.0
+Philosophy,accumulation_at_57,256.3654749357339,221.0,290.0,,"half-sample (floor(n/2) = 57), 1000, 95% percentile; point = exact expected curve",115,57.0
+Philosophy,accumulation_endpoint,394.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),115,115.0
+Physics,accumulation_at_100,244.76098682187987,223.74086785665213,264.9769276594101,,"half-sample (floor(n/2) = 150), 1000, 95% percentile; point = exact expected curve",301,100.0
+Physics,accumulation_at_57,182.72704635815361,168.65008884724645,196.28439654611492,,"half-sample (floor(n/2) = 150), 1000, 95% percentile; point = exact expected curve",301,57.0
+Physics,accumulation_endpoint,420.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),301,301.0
+Psychology,accumulation_at_100,464.0657142534493,439.10367171956113,492.1628860122196,,"half-sample (floor(n/2) = 214), 1000, 95% percentile; point = exact expected curve",428,100.0
+Psychology,accumulation_at_57,328.8568966763752,312.8521475247535,346.9640200479948,,"half-sample (floor(n/2) = 214), 1000, 95% percentile; point = exact expected curve",428,57.0
+Psychology,accumulation_endpoint,1018.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),428,428.0
+Sociology,accumulation_at_100,478.5977754965041,443.73847796372473,512.8415036593009,,"half-sample (floor(n/2) = 156), 1000, 95% percentile; point = exact expected curve",313,100.0
+Sociology,accumulation_at_57,331.40313653494013,309.5158519833859,353.6066270576862,,"half-sample (floor(n/2) = 156), 1000, 95% percentile; point = exact expected curve",313,57.0
+Sociology,accumulation_endpoint,957.0,,,,no interval: evaluated at x = n > floor(n/2) (Fig. 1A circle and label),313,313.0

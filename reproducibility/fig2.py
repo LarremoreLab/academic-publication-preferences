@@ -8,7 +8,7 @@ Inputs:
   - reproducibility/derived/field_rankings_per_user.csv (from compute_rankings.py)
 
 Output:
-  - reproducibility/fig2.pdf
+  - reproducibility/output/figures/fig2.pdf
 
 Usage:
   cd <repo_root>
@@ -29,6 +29,8 @@ import pandas as pd
 # Paths
 # ---------------------------------------------------------------------------
 HERE = Path(__file__).parent
+sys.path.insert(0, str(HERE))
+import common  # noqa: E402
 PUBLIC = HERE.parent / "public_data"
 DERIVED = HERE / "derived"
 
@@ -194,6 +196,6 @@ plt.tight_layout()
 # ---------------------------------------------------------------------------
 # Save
 # ---------------------------------------------------------------------------
-out_path = HERE / "fig2.pdf"
+out_path = common.FIGURES / "fig2.pdf"
 plt.savefig(out_path, bbox_inches="tight")
 print(f"Saved: {out_path}")

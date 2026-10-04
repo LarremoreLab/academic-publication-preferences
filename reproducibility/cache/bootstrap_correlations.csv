@@ -1,0 +1,3 @@
+correlation,point,lo,hi,method
+"Pearson r, top-5 agreement vs prediction accuracy (13 fields; Fig. 2)",0.9104244994471946,0.6110438358084803,0.92343067940578,"respondent bootstrap, 1000 replicates, 95% percentile"
+"Spearman r, top-3 selection shares vs mean overlap (39 pooled points, 3 per field; Fig. 1)",0.8476163273818654,0.8035667634054073,0.8807438525832616,"respondent bootstrap, 1000 replicates, 95% percentile"

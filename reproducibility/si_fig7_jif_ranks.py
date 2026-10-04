@@ -1,23 +1,27 @@
-"""Generate the JIF vs. consensus preference rankings SI figure (per-field colors).
+"""SI Fig. S7: difference between the JIF-based ordinal ranking and the field consensus ranking
+for the general-interest venues (Nature, Science, PNAS) and the field flagship venues.
 
-Source: 06_jif/03_most_selected_jif_porc_differences.ipynb
-        (cell 3fc0646f — the final per-field colored version)
+Within each field, the venues chosen by more than 10% of the field's respondents and carrying a
+2-year JIF are ranked twice: by the field consensus score (subset_ordinal_porc) and by the JIF
+(subset_ordinal_jif; 1 = best, ties averaged). The figure plots Rank (JIF) - Rank (Pref.) for
+each venue in every field in which it appears, colored by field: a positive value means the JIF
+ranks the venue lower than the field's respondents do. For the general-interest venues, colored
+x's mark the fields in which 25% or fewer of respondents selected the venue; for the flagship
+venues, the x marks the field for which the venue is the flagship (the most common top
+aspiration).
 
-Target: _LATEX SOURCE/si_figs/field_pref_jif_rank_diffs_field.pdf
+Inputs
+  public_data/venues.csv              venue name / id lookup
+  public_data/field_jif_rankings.csv  per field x venue: jif, subset_ordinal_porc,
+                                      subset_ordinal_jif, frac_selected
 
-Produces:
-  - reproducibility/si_fig2.pdf
+Output
+  output/figures/si_fig7.pdf
 
-Data:
-  - public_data/venues.csv              → venue name / id lookup
-  - public_data/field_jif_rankings.csv  → ordinal porc/jif ranks + frac_selected
-
-Run from the project root:
-  .venv/bin/python reproducibility/si_fig2.py
+Run from the project root:  .venv/bin/python reproducibility/si_fig7_jif_ranks.py
 """
 
 import sys
-from collections import defaultdict
 from pathlib import Path
 
 import matplotlib.patches as patches
@@ -27,22 +31,21 @@ import pandas as pd
 import seaborn as sns
 from matplotlib.lines import Line2D
 
-HERE = Path(__file__).parent
-ROOT = HERE.parent
-PUBLIC = ROOT / "public_data"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import common  # noqa: E402
 
-sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(common.ROOT))
 from utils.field_colors import field_color_map          # noqa: E402
 from utils.short_venue_names import short_venue_names   # noqa: E402
 
 # ── Load data ─────────────────────────────────────────────────────────────────
-venues_df = pd.read_csv(PUBLIC / "venues.csv")
+venues_df = pd.read_csv(common.PUBLIC / "venues.csv")
 venue_names = dict(zip(venues_df["venue_db_id"], venues_df["name"]))
 venue_ids   = {v: k for k, v in venue_names.items()}
 
-field_rankings = pd.read_csv(PUBLIC / "field_jif_rankings.csv")
+field_rankings = pd.read_csv(common.PUBLIC / "field_jif_rankings.csv")
 
-# ── Constants (from notebook setup cells) ────────────────────────────────────
+# ── Constants ─────────────────────────────────────────────────────────────────
 top_venues = [
     "Nature",
     "Science",
@@ -54,7 +57,6 @@ top_venues = [
     "Journal of the American Chemical Society",
     "Physical Review Letters",
     "Annals of Mathematics",
-    # "USENIX Security Symposium (UsenixSec)",  # commented out in source
     "The American Historical Review",
     "The Philosophical Review",
 ]
@@ -126,7 +128,13 @@ fields_seen     = {}
 
 for field in field_order:
     field_color = field_color_map[field]
-    field_df    = field_rankings.loc[field_rankings["field"] == field].dropna()
+    # Restrict dropna() to the columns this figure needs: the alternative-metric
+    # columns of field_jif_rankings.csv are missing for some venues that do have a
+    # JIF (e.g. jif_percentile for AHCI-indexed Philosophy venues), and a bare
+    # .dropna() would drop those rows.
+    field_df    = field_rankings.loc[field_rankings["field"] == field].dropna(
+        subset=["jif", "ordinal_jif", "subset_ordinal_porc", "subset_ordinal_jif"]
+    )
     field_venues = set(field_df["venue_db_id"].values)
 
     for venue_name in top_venues[::-1]:
@@ -245,6 +253,6 @@ ax.legend(
     labelspacing=0.3,
 )
 
-out = HERE / "si_fig2.pdf"
+out = common.FIGURES / "si_fig7.pdf"
 plt.savefig(out, bbox_inches="tight")
 print(f"Saved: {out}")

@@ -1,144 +1,115 @@
-"""Run all reproducibility scripts in order.
+"""Run every reproducibility script in order.
 
-Usage (from the project root):
-    .venv/bin/python reproducibility/run_all.py
+Usage (from the repository root):
+    .venv/bin/python reproducibility/run_all.py                  # everything except the bootstrap
+    .venv/bin/python reproducibility/run_all.py --skip-rankings  # reuse reproducibility/derived/
+    .venv/bin/python reproducibility/run_all.py --bootstrap      # also rerun the respondent bootstrap
 
-This script:
-  1. Runs compute_rankings.py to produce reproducibility/derived/ from public_data/.
-     Skip with --skip-rankings if derived/ already exists and is up to date.
-  2. Runs all figure scripts (fig1–fig5, si_fig1–si_fig4) in order.
+Stages
+  1. compute_rankings.py          SpringRank rankings -> reproducibility/derived/   (~10-15 min)
+  2. main-text figures            fig1.py ... fig5.py
+  3. supplementary figures        si_fig1_subfields.py ... si_fig7_jif_ranks.py
+  4. supplementary tables         si_table1_subfields.py ... si_tables8_10_composition.py
+  5. supplementary numbers        si_inference_numbers.py, si_prestige_measures.py
+  6. compute_numbers.py           every number quoted in the paper -> reproducibility/output/numbers.tex
 
-Expected total runtime: ~15–25 minutes.
-  - compute_rankings.py : ~10–15 min (SpringRank, leave-one-out × 3,508 users)
-  - fig1–fig5, si_fig1–si_fig3: < 1 min each
-  - si_fig4: ~3 min (10,000 permutations × 4 combinations)
+The respondent bootstrap behind SI Fig. S2 (bootstrap_consensus.py) refits 1,000 x 13 leave-one-out
+SpringRank models and takes ~15 min on 16 cores (hours on a laptop); its summary is committed in
+reproducibility/cache/, so it is skipped unless --bootstrap is given. The permutation test behind
+SI Fig. S5 (a few seconds) always runs.
 
-Outputs: one PDF per script, written to reproducibility/.
+All outputs are written under reproducibility/output/ (figures/, tables/, results/, numbers.tex).
 """
-
 import argparse
 import subprocess
 import sys
 import time
 from pathlib import Path
 
-HERE = Path(__file__).parent
+HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
-
-# ── Resolve Python interpreter ────────────────────────────────────────────────
 VENV_PYTHON = ROOT / ".venv" / "bin" / "python"
 PYTHON = str(VENV_PYTHON) if VENV_PYTHON.exists() else sys.executable
 
-# ── Script execution order ────────────────────────────────────────────────────
 RANKING_SCRIPT = HERE / "compute_rankings.py"
+BOOTSTRAP_SCRIPT = HERE / "bootstrap_consensus.py"
 
-FIGURE_SCRIPTS = [
-    HERE / "fig1.py",
-    HERE / "fig2.py",
-    HERE / "fig3.py",
-    HERE / "fig4.py",
-    HERE / "fig5.py",
-    HERE / "si_fig1.py",
-    HERE / "si_fig2.py",
-    HERE / "si_fig3.py",
-    HERE / "si_fig4.py",   # ~3 min
+SCRIPTS = [
+    # main-text figures
+    ("Fig. 1", "fig1.py"),
+    ("Fig. 2", "fig2.py"),
+    ("Fig. 3 (13 HTML network panels)", "fig3.py"),
+    ("Fig. 4", "fig4.py"),
+    ("Fig. 5", "fig5.py"),
+    # supplementary tables that other scripts read
+    ("SI Table S1 (field vs subfield consensus)", "si_table1_subfields.py"),
+    ("SI subfield sensitivity (catch-all answers as subfields)", "si_table1_subfields.py --include-catch-alls"),
+    ("SI Table S2 (Fig. 5 regression table)", "si_table2_fig5_models.py"),
+    ("SI Table S3 (alternative citation metrics)", "si_table3_alt_metrics.py"),
+    ("SI Tables S4, S5 (preference vs JIF ranks)", "si_tables4_5_jif_ranks.py"),
+    ("SI Tables S8-S10 (sample composition)", "si_tables8_10_composition.py"),
+    # supplementary figures
+    ("SI Fig. S1 (field vs subfield consensus)", "si_fig1_subfields.py"),
+    ("SI Fig. S2 (bootstrap intervals; from cache)", "si_fig2_bootstrap.py"),
+    ("SI Fig. S4 (full Eq. S1 estimates)", "si_fig4_regressions.py"),
+    ("SI Fig. S5 (permutation test)", "si_fig5_permutation.py"),
+    ("SI Fig. S6 (JIF vs consensus accuracy)", "si_fig6_jif_accuracy.py"),
+    ("SI Fig. S7 (JIF vs consensus ranks)", "si_fig7_jif_ranks.py"),
+    # supplementary numbers
+    ("SI inference checks", "si_inference_numbers.py"),
+    ("SI prestige-measure robustness", "si_prestige_measures.py"),
+    # every number in the paper
+    ("numbers.tex", "compute_numbers.py"),
 ]
 
+REQUIRED_PUBLIC = ["respondents.csv", "comparisons.csv", "venue_selections.csv", "venues.csv",
+                   "publication_counts.csv", "field_jif_rankings.csv", "field_top5.csv", "aarc_field_margins.csv"]
+DERIVED_FILES = ["individual_rankings.csv", "field_rankings_per_user.csv",
+                 "field_consensus_rankings.csv", "global_rankings_per_user.csv"]
 
-def run(script: Path, label: str) -> bool:
-    """Run a script, print timing, return True on success."""
-    print(f"\n{'='*60}")
-    print(f"  {label}")
-    print(f"  {script.relative_to(ROOT)}")
-    print(f"{'='*60}")
+
+def run(script: Path, label: str, extra=()) -> bool:
+    print(f"\n{'=' * 60}\n  {label}\n  {script.relative_to(ROOT)}\n{'=' * 60}")
     t0 = time.time()
-    result = subprocess.run([PYTHON, str(script)], cwd=str(ROOT))
-    elapsed = time.time() - t0
+    result = subprocess.run([PYTHON, str(script), *extra], cwd=str(ROOT))
     if result.returncode != 0:
         print(f"\n[FAILED] {label} (exit code {result.returncode})")
         return False
-    print(f"\n[OK] {label} completed in {elapsed:.1f}s")
+    print(f"\n[OK] {label} in {time.time() - t0:.1f}s")
     return True
 
 
-def check_public_data():
-    """Verify that public_data/ exists and has expected files."""
-    pub = ROOT / "public_data"
-    required = [
-        "respondents.csv",
-        "comparisons.csv",
-        "venue_selections.csv",
-        "venues.csv",
-        "publication_counts.csv",
-        "field_jif_rankings.csv",
-    ]
-    missing = [f for f in required if not (pub / f).exists()]
-    if missing:
-        print("ERROR: The following public_data/ files are missing:")
-        for f in missing:
-            print(f"  public_data/{f}")
-        print("\nMake sure you have cloned the full repository, including public_data/.")
-        sys.exit(1)
-
-
 def main():
-    parser = argparse.ArgumentParser(description=__doc__,
-                                     formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument(
-        "--skip-rankings", action="store_true",
-        help="Skip compute_rankings.py (use if derived/ already exists)",
-    )
-    args = parser.parse_args()
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--skip-rankings", action="store_true", help="do not rerun compute_rankings.py")
+    ap.add_argument("--bootstrap", action="store_true", help="rerun bootstrap_consensus.py (slow)")
+    ap.add_argument("--replicates", type=int, default=1000, help="bootstrap replicates (with --bootstrap)")
+    args = ap.parse_args()
 
-    print(f"Python: {PYTHON}")
-    print(f"Root:   {ROOT}")
+    missing = [f for f in REQUIRED_PUBLIC if not (ROOT / "public_data" / f).exists()]
+    if missing:
+        sys.exit(f"Missing public data files: {missing}")
 
-    # Check public_data/ is populated
-    check_public_data()
-
-    overall_start = time.time()
-    failures = []
-
-    # ── Step 1: Rankings ──────────────────────────────────────────────────────
-    if args.skip_rankings:
-        print("\n[Skipping compute_rankings.py  (--skip-rankings)]")
-        derived = HERE / "derived"
-        needed = ["individual_rankings.csv", "field_rankings_per_user.csv",
-                  "field_consensus_rankings.csv", "global_rankings_per_user.csv"]
-        missing = [f for f in needed if not (derived / f).exists()]
-        if missing:
-            print("ERROR: --skip-rankings was set but these derived files are missing:")
-            for f in missing:
-                print(f"  reproducibility/derived/{f}")
-            print("Run without --skip-rankings to generate them.")
-            sys.exit(1)
-    else:
-        ok = run(RANKING_SCRIPT, "compute_rankings.py  (SpringRank, ~10-15 min)")
-        if not ok:
-            print("\nAborting: compute_rankings.py failed.")
-            sys.exit(1)
-
-    # ── Step 2: Figures ───────────────────────────────────────────────────────
-    for script in FIGURE_SCRIPTS:
-        label = script.name
-        if label == "si_fig4.py":
-            label += "  (~3 min, permutation test)"
-        ok = run(script, label)
-        if not ok:
-            failures.append(script.name)
-
-    # ── Summary ───────────────────────────────────────────────────────────────
-    total = time.time() - overall_start
-    print(f"\n{'='*60}")
-    print(f"  Finished in {total/60:.1f} min")
-    if failures:
-        print(f"  FAILED: {', '.join(failures)}")
+    t_start = time.time()
+    derived_ok = all((HERE / "derived" / f).exists() for f in DERIVED_FILES)
+    if args.skip_rankings and derived_ok:
+        print("Skipping compute_rankings.py (reproducibility/derived/ present)")
+    elif not run(RANKING_SCRIPT, "Compute SpringRank rankings"):
         sys.exit(1)
-    else:
-        n = len(FIGURE_SCRIPTS)
-        print(f"  All {n} figure scripts completed successfully.")
-        print(f"  PDFs written to: reproducibility/")
-    print(f"{'='*60}\n")
+
+    if args.bootstrap and not run(BOOTSTRAP_SCRIPT, "Respondent bootstrap", ["--replicates", str(args.replicates)]):
+        sys.exit(1)
+
+    failed = []
+    for label, entry in SCRIPTS:
+        name, *extra = entry.split()
+        if not run(HERE / name, label, extra):
+            failed.append(label)
+    print(f"\n{'=' * 60}\n  Total time: {(time.time() - t_start) / 60:.1f} min")
+    if failed:
+        print("  Failed:", ", ".join(failed))
+        sys.exit(1)
+    print(f"  All outputs are in {HERE / 'output'}\n{'=' * 60}")
 
 
 if __name__ == "__main__":

@@ -1,20 +1,46 @@
-"""Generate preference realization figure (Fig 5).
+"""Fig. 5: alignment between stated preferences and publication records, by institutional prestige.
 
-Source: 05_publication_histories/04_plot_rankings DBL.ipynb  (cell 4, the 2-panel version)
+Paper items produced
+  Fig. 5 (output/figures/fig5.pdf)
+    A  Observed mean fraction of the five reference venues found in respondents' publication
+       records, by prestige decile (10 = most prestigious), for the respondent's own top 5
+       (solid markers) and the field's top 5 (open markers). Lines are predictions from the
+       pooled model, averaged over respondents' fields.
+    B  Per-field model predictions at decile 10 with 95% confidence intervals. A bracket and
+       asterisk mark fields where the own-minus-field difference at decile 10 is significant
+       after Benjamini-Hochberg adjustment across the 13 fields at alpha = 0.01; "n.s." otherwise.
+  SI Table S2 is built from output/results/fig5_models.csv by si_table2_fig5_models.py.
 
-Produces:
-  - reproducibility/fig5.pdf  (main figure, panels A and B)
+Inputs
+  public_data/publication_counts.csv, through common.fig5_long(): respondents in the final
+  sample (publication history, prestige decile and institution; N = 1,872). indiv_count is the
+  number of the respondent's own top-5 venues ever published in; field_count is the same for
+  the field's top 5 (public_data/field_top5.csv: the five venues appearing most often in
+  respondents' individual top-5 lists, as in Fig. 2).
 
-Data:
-  - public_data/publication_counts.csv
-      Per-user counts of how many of each respondent's top-5 venues
-      (by personal preference and by field consensus) appear in their
-      actual publication record.
+Model
+  Each respondent contributes two observations, y = count / 5 for ref in {own, field}:
+    per field:  y ~ C(ref) * prestige
+    pooled:     y ~ C(ref) * (prestige + C(field))
+  Ordinary least squares with standard errors clustered by institution and a t reference
+  distribution (common.fit_clustered). Every reported quantity is a linear contrast of the
+  coefficients, evaluated with the fitted model's t_test so the clustered covariance carries
+  through:
+    slope(ref)   change in y per one-decile increase in prestige for that reference group
+    pred10(ref)  predicted y at prestige decile 10 (pooled model: averaged over respondents' fields)
+    diff10       pred10(own) - pred10(field)
+  The 13 per-field diff10 p-values are Benjamini-Hochberg adjusted (alpha = 0.01); the pooled
+  (Academia) diff10 is reported outside that family.
 
-Usage:
-  .venv/bin/python reproducibility/fig5.py
+Outputs
+  output/figures/fig5.pdf
+  output/results/fig5_models.csv        slope, pred10 and diff10 per field and pooled, with
+                                        clustered SEs, 95% CIs, p-values and BH-adjusted p-values
+  output/results/fig5_lines.csv         pooled-model predictions by decile and ref (panel A lines)
+  output/results/fig5_decile_means.csv  observed decile means and SEMs (panel A markers)
+
+Usage (from the repository root): .venv/bin/python reproducibility/fig5.py
 """
-
 import sys
 from pathlib import Path
 
@@ -22,139 +48,107 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import seaborn as sns
-from scipy import stats
+from patsy import build_design_matrices
 from statsmodels.stats.multitest import multipletests
 
-ROOT = Path(__file__).parent.parent
-PUBLIC = ROOT / "public_data"
-OUT = Path(__file__).parent
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import common  # noqa: E402
 
-# ── field color map (mirrors utils/field_colors.py) ───────────────────────────
-_FIELDS_ORDERED = [
-    "Biology", "Business", "Sociology", "Computer science",
-    "Economics", "Engineering", "History", "Mathematics",
-    "Medicine", "Philosophy", "Physics", "Psychology", "Chemistry",
-]
-_N = len(_FIELDS_ORDERED)
-field_color_map = {
-    field: plt.get_cmap("tab20")(i / _N)
-    for i, field in enumerate(_FIELDS_ORDERED)
-}
+ALPHA_BH = 0.01
+POOLED = "Academia"
 
-# ── x-axis label abbreviations ────────────────────────────────────────────────
-names_abbrev = {
-    "Academia":        "All Resp.",
-    "Biology":         "Biology",
-    "Business":        "Business",
-    "Chemistry":       "Chemistry",
-    "Computer science": "Comp. Sci.",
-    "Economics":       "Economics",
-    "Engineering":     "Engineering",
-    "History":         "History",
-    "Mathematics":     "Math",
-    "Medicine":        "Medicine",
-    "Philosophy":      "Philosophy",
-    "Physics":         "Physics",
-    "Psychology":      "Psychology",
-    "Sociology":       "Sociology",
+NAMES_ABBREV = {
+    "Biology": "Biology", "Business": "Business", "Chemistry": "Chemistry",
+    "Computer science": "Comp. Sci.", "Economics": "Economics", "Engineering": "Engineering",
+    "History": "History", "Mathematics": "Math", "Medicine": "Medicine",
+    "Philosophy": "Philosophy", "Physics": "Physics", "Psychology": "Psychology",
+    "Sociology": "Sociology",
 }
 
 
-# ── helpers ───────────────────────────────────────────────────────────────────
+# ── contrasts ─────────────────────────────────────────────────────────────────
 
-def load_data():
-    path = PUBLIC / "publication_counts.csv"
-    if not path.exists():
-        sys.exit(
-            "ERROR: public_data/publication_counts.csv not found.\n"
-            "Re-run assemble_public_data.py to produce it."
-        )
-    return pd.read_csv(path)
+def design_row(m, resp, ref, prestige):
+    """Mean design-matrix row of model `m` over respondents `resp` with ref and prestige fixed.
 
-
-def compute_means_sems(df):
-    """Mean and SEM of field_count and indiv_count by field × prestige decile."""
-    df = df.copy()
-    df["prestige"] = 11 - df["institution_bin_10"]
-
-    def _stats(col):
-        mean = (
-            df.groupby("field")[col]
-            .apply(lambda x: df.loc[x.index].groupby("prestige")[col].mean())
-            .unstack(fill_value=np.nan)
-        )
-        mean.loc["Academia"] = df.groupby("prestige")[col].mean()
-        sem = (
-            df.groupby("field")[col]
-            .apply(lambda x: df.loc[x.index].groupby("prestige")[col].sem())
-            .unstack(fill_value=np.nan)
-        )
-        sem.loc["Academia"] = df.groupby("prestige")[col].sem()
-        cols = [i for i in range(1, 11) if i in mean.columns]
-        return mean[cols], sem[cols]
-
-    fc_mean, fc_sem = _stats("field_count")
-    ic_mean, ic_sem = _stats("indiv_count")
-    return fc_mean, fc_sem, ic_mean, ic_sem
+    For the per-field model every respondent gives the same row; for the pooled model the mean
+    averages the field intercepts over the respondents' own fields."""
+    nd = resp.assign(ref=ref, prestige=float(prestige))
+    X = np.asarray(build_design_matrices([m.model.data.design_info], nd)[0])
+    return X.mean(axis=0)
 
 
-def fit_regressions(fc_mean, ic_mean):
-    """Linear regression per field; predictions at prestige=10 and slopes."""
-    fields = fc_mean.index.tolist()
-    # 'All Academia' was old name; filter it out defensively
-    fields_to_plot = sorted([f for f in fields if f != "All Academia"])
-
-    fc_pred10, ic_pred10 = {}, {}
-    fc_pred10_se, ic_pred10_se = {}, {}
-
-    x_all = fc_mean.columns.values
-
-    for field in fields_to_plot:
-        # field count
-        y = fc_mean.loc[field].values
-        mask = ~np.isnan(y)
-        xf, yf = x_all[mask], y[mask]
-        slope_f, intercept_f, _, _, se_f = stats.linregress(xf, yf)
-        fc_pred10[field] = (slope_f * 10 + intercept_f) / 5
-        n, xm = len(xf), np.mean(xf)
-        sxx = np.sum((xf - xm) ** 2)
-        mse = np.sum((yf - (slope_f * xf + intercept_f)) ** 2) / (n - 2)
-        fc_pred10_se[field] = np.sqrt(mse * (1 / n + (10 - xm) ** 2 / sxx)) / 5
-
-        # individual count
-        y = ic_mean.loc[field].values
-        mask = ~np.isnan(y)
-        xi, yi = x_all[mask], y[mask]
-        slope_i, intercept_i, _, _, se_i = stats.linregress(xi, yi)
-        ic_pred10[field] = (slope_i * 10 + intercept_i) / 5
-        mse_i = np.sum((yi - (slope_i * xi + intercept_i)) ** 2) / (n - 2)
-        ic_pred10_se[field] = np.sqrt(mse_i * (1 / n + (10 - xm) ** 2 / sxx)) / 5
-
-    return fields_to_plot, fc_pred10, ic_pred10, fc_pred10_se, ic_pred10_se
+def contrast(m, L):
+    """L . beta with its clustered standard error, 95% CI and t-test p-value."""
+    t = m.t_test(L.reshape(1, -1))
+    lo, hi = np.asarray(t.conf_int(alpha=0.05)).ravel()
+    return {"estimate": float(np.ravel(t.effect)[0]), "se": float(np.ravel(t.sd)[0]),
+            "ci_lower": lo, "ci_upper": hi, "p": float(np.ravel(t.pvalue)[0]), "df": float(t.df_denom)}
 
 
-def significance_tests(fields_to_plot, fc_pred10, ic_pred10, fc_pred10_se, ic_pred10_se):
-    """BH-corrected significance tests of (indiv − field) at prestige=10."""
-    fields_no_acad = [f for f in fields_to_plot if f != "Academia"]
-    p_values = []
-    for field in fields_no_acad:
-        diff = ic_pred10[field] - fc_pred10[field]
-        se_diff = np.sqrt(fc_pred10_se[field] ** 2 + ic_pred10_se[field] ** 2)
-        t_stat = diff / se_diff
-        p_values.append(2 * (1 - stats.norm.cdf(abs(t_stat))))
-    reject, pvals_corrected, _, _ = multipletests(p_values, alpha=0.05, method="fdr_bh")
-    return {
-        field: {
-            "significant_05": reject[i],
-            "significant_01": pvals_corrected[i] < 0.01,
-        }
-        for i, field in enumerate(fields_no_acad)
-    }
+def quantities(m, d, level):
+    """slope(own), pred10(own), slope(field), pred10(field) and diff10 for one fitted model."""
+    resp = d[d["ref"] == "own"][["field", "prestige", common.CLUSTER]]  # one row per respondent
+    top = resp["prestige"] == 10
+    base = {"level": level, "n_respondents": len(resp), "n_clusters": resp[common.CLUSTER].nunique(),
+            "n_decile10": int(top.sum()), "n_clusters_decile10": resp.loc[top, common.CLUSTER].nunique()}
+    L = {}
+    for ref in ("own", "field"):
+        L[("slope", ref)] = design_row(m, resp, ref, 1) - design_row(m, resp, ref, 0)
+        L[("pred10", ref)] = design_row(m, resp, ref, 10)
+    L[("diff10", "own-field")] = L[("pred10", "own")] - L[("pred10", "field")]
+    return [{**base, "quantity": q, "ref": r, **contrast(m, vec)} for (q, r), vec in L.items()]
 
 
-def make_figure(fc_mean, fc_sem, ic_mean, ic_sem,
-                fields_to_plot, fc_pred10, ic_pred10,
-                fc_pred10_se, ic_pred10_se, corrected):
+def fit_models(long):
+    """Per-field and pooled models; returns (results table, pooled predictions by decile)."""
+    rows = []
+    for field in common.FIELDS:
+        d = long[long["field"] == field]
+        rows += quantities(common.fit_clustered("y ~ C(ref) * prestige", d), d, field)
+    m_pooled = common.fit_clustered("y ~ C(ref) * (prestige + C(field))", long)
+    rows += quantities(m_pooled, long, POOLED)
+    res = pd.DataFrame(rows)
+
+    # Check: per-field slopes and predictions equal those of a separate line fit per reference group
+    for field in common.FIELDS:
+        d = long[long["field"] == field]
+        for ref in ("own", "field"):
+            b = np.polyfit(d.loc[d.ref == ref, "prestige"], d.loc[d.ref == ref, "y"], 1)
+            r = res[(res.level == field) & (res.ref == ref)].set_index("quantity")["estimate"]
+            assert np.isclose(r["slope"], b[0]) and np.isclose(r["pred10"], b[0] * 10 + b[1])
+
+    # Benjamini-Hochberg across the 13 per-field diff10 tests; the pooled diff10 is outside the family
+    is_fam = (res["quantity"] == "diff10") & (res["level"] != POOLED)
+    assert is_fam.sum() == len(common.FIELDS)
+    reject, p_bh, _, _ = multipletests(res.loc[is_fam, "p"], alpha=ALPHA_BH, method="fdr_bh")
+    res["p_bh"] = np.nan
+    res.loc[is_fam, "p_bh"] = p_bh
+    res["sig_bh_01"] = pd.NA
+    res.loc[is_fam, "sig_bh_01"] = reject
+
+    # Panel A lines: pooled-model prediction at each decile, averaged over respondents' fields
+    resp = long[long["ref"] == "own"][["field", "prestige", common.CLUSTER]]
+    lines = pd.DataFrame([{"ref": ref, "prestige": p, **contrast(m_pooled, design_row(m_pooled, resp, ref, p))}
+                          for ref in ("own", "field") for p in range(1, 11)])
+    return res, lines
+
+
+def decile_means(long):
+    """Observed mean, SEM and n of y by prestige decile and reference group (panel A markers)."""
+    g = long.groupby(["prestige", "ref"])["y"].agg(["mean", "sem", "count"]).reset_index()
+    g["prestige"] = g["prestige"].astype(int)
+    return g.rename(columns={"count": "n"}).sort_values(["ref", "prestige"], ascending=[False, True])
+
+
+# ── figure ────────────────────────────────────────────────────────────────────
+
+def make_figure(res, lines, means):
+    field_color_map = common.field_colors()
+    pred = res[res["quantity"] == "pred10"].set_index(["level", "ref"])
+    diff = res[res["quantity"] == "diff10"].set_index("level")
+    dec = means.pivot(index="prestige", columns="ref", values="mean")
+
     plt.rcParams["axes.labelsize"] = 12
     plt.rcParams["xtick.labelsize"] = 12
     plt.rcParams["ytick.labelsize"] = 12
@@ -163,27 +157,21 @@ def make_figure(fc_mean, fc_sem, ic_mean, ic_sem,
 
     fig, axs = plt.subplots(ncols=2, figsize=(13, 4.5))
 
-    # ── Panel A: Academia-wide line plot ──────────────────────────────────────
+    # ── Panel A: observed decile means (markers) and pooled-model predictions (lines) ──
     ax = axs[0]
-    cols = ic_mean.columns.tolist()
-
-    # respondent's top 5 (filled markers)
-    for i, col in enumerate(cols):
-        marker = "D" if i == len(cols) - 1 else "o"
-        ax.plot(col, ic_mean.loc["Academia", col] / 5,
-                marker=marker, linewidth=1 if i == 0 else 0, markersize=8,
-                color="k", markerfacecolor="k", markeredgecolor="w",
-                label="respondent's top 5" if i == 0 else "")
-    ax.plot(cols, ic_mean.loc["Academia"] / 5, linewidth=1, color="k", zorder=0)
-
-    # field's top 5 (open markers)
-    for i, col in enumerate(cols):
-        marker = "D" if i == len(cols) - 1 else "o"
-        ax.plot(col, fc_mean.loc["Academia", col] / 5,
-                marker=marker, linewidth=1 if i == 0 else 0, markersize=8,
-                color="k", markerfacecolor="w", markeredgecolor="k",
-                label="field's top 5" if i == 0 else "")
-    ax.plot(cols, fc_mean.loc["Academia"] / 5, linewidth=1, color="k", zorder=0)
+    cols = dec.index.tolist()
+    for ref, face, edge, label in [
+        ("own", "k", "w", "respondent's top 5"),
+        ("field", "w", "k", "field's top 5"),
+    ]:
+        for i, col in enumerate(cols):
+            marker = "D" if i == len(cols) - 1 else "o"
+            ax.plot(col, dec.loc[col, ref],
+                    marker=marker, linewidth=0, markersize=8,
+                    color="k", markerfacecolor=face, markeredgecolor=edge,
+                    label=label if i == 0 else "")
+        ln = lines[lines["ref"] == ref]
+        ax.plot(ln["prestige"], ln["estimate"], linewidth=1, color="k", zorder=0)
 
     ax.legend(fontsize=12, frameon=False)
     ax.set_xlabel("Prestige decile", fontsize=12)
@@ -195,51 +183,40 @@ def make_figure(fc_mean, fc_sem, ic_mean, ic_sem,
     ax.text(0.97, 0.02, "increasing prestige →",
             transform=ax.transAxes, ha="right", va="bottom", fontsize=12)
 
-    # ── Panel B: per-field predictions at prestige=10 ─────────────────────────
+    # ── Panel B: per-field predictions at prestige decile 10 ──────────────────
     ax = axs[1]
-    fields_panel_b = [f for f in fields_to_plot if f != "Academia"]
+    fields_panel_b = sorted(f for f in res["level"].unique() if f != POOLED)
     x_positions = np.arange(len(fields_panel_b))
 
-    max_y = max(
-        max(fc_pred10[f] + 1.96 * fc_pred10_se[f] for f in fields_panel_b),
-        max(ic_pred10[f] + 1.96 * ic_pred10_se[f] for f in fields_panel_b),
-    )
+    max_y = max(pred.loc[(f, r), "ci_upper"] for f in fields_panel_b for r in ("own", "field"))
     y_bar = max_y + 0.03
 
     for i, field in enumerate(fields_panel_b):
         color = field_color_map.get(field, "gray")
+        for ref, dx, face, edge in [("field", -0.15, "w", color), ("own", 0.15, color, "w")]:
+            p = pred.loc[(field, ref)]
+            ax.errorbar(i + dx, p["estimate"],
+                        yerr=[[p["estimate"] - p["ci_lower"]], [p["ci_upper"] - p["estimate"]]],
+                        fmt="D", markersize=8,
+                        color=color, markerfacecolor=face, markeredgecolor=edge,
+                        markeredgewidth=1.5, capsize=3, elinewidth=1)
 
-        fc_ci = 1.96 * fc_pred10_se[field]
-        ax.errorbar(i - 0.15, fc_pred10[field],
-                    yerr=fc_ci, fmt="D", markersize=8,
-                    color=color, markerfacecolor="w", markeredgecolor=color,
-                    markeredgewidth=1.5, capsize=3, elinewidth=1)
-
-        ic_ci = 1.96 * ic_pred10_se[field]
-        ax.errorbar(i + 0.15, ic_pred10[field],
-                    yerr=ic_ci, fmt="D", markersize=8,
-                    color=color, markerfacecolor=color, markeredgecolor="w",
-                    markeredgewidth=1.5, capsize=3, elinewidth=1)
-
-        if corrected[field]["significant_05"]:
-            sig_marker = "**" if corrected[field]["significant_01"] else "*"
+        if bool(diff.loc[field, "sig_bh_01"]):
             ax.plot([i - 0.15, i + 0.15], [y_bar, y_bar], "k-", linewidth=1)
             ax.plot([i - 0.15, i - 0.15], [y_bar - 0.015, y_bar], "k-", linewidth=1)
             ax.plot([i + 0.15, i + 0.15], [y_bar - 0.015, y_bar], "k-", linewidth=1)
-            ax.text(i, y_bar + 0.005, sig_marker,
+            ax.text(i, y_bar + 0.005, "*",
                     ha="center", va="bottom", fontsize=14, fontweight="bold")
         else:
             ax.text(i, y_bar, "n.s.", ha="center", va="bottom", fontsize=10)
 
     ax.set_xticks(x_positions)
-    ax.set_xticklabels([names_abbrev[f] for f in fields_panel_b],
-                       rotation=45, ha="right")
+    ax.set_xticklabels([NAMES_ABBREV[f] for f in fields_panel_b], rotation=45, ha="right")
     ax.set_ylabel("Fraction of top-5 venues\nin publication record", fontsize=12)
     ax.set_ylim([0, 1])
     ax.set_yticks([0, 0.2, 0.4, 0.6, 0.8, 1.0])
     ax.set_yticklabels(["0 of 5", "1 of 5", "2 of 5", "3 of 5", "4 of 5", "5 of 5"])
 
-    # panel labels
     axs[0].text(-0.15, 1.03, "A", transform=axs[0].transAxes,
                 fontsize=16, ha="left", va="top", weight="bold")
     axs[1].text(-0.13, 1.03, "B", transform=axs[1].transAxes,
@@ -253,22 +230,31 @@ def make_figure(fc_mean, fc_sem, ic_mean, ic_sem,
 
 
 def main():
-    df = load_data()
-    fc_mean, fc_sem, ic_mean, ic_sem = compute_means_sems(df)
-    fields_to_plot, fc_pred10, ic_pred10, fc_pred10_se, ic_pred10_se = fit_regressions(
-        fc_mean, ic_mean
-    )
-    corrected = significance_tests(
-        fields_to_plot, fc_pred10, ic_pred10, fc_pred10_se, ic_pred10_se
-    )
-    fig = make_figure(
-        fc_mean, fc_sem, ic_mean, ic_sem,
-        fields_to_plot, fc_pred10, ic_pred10,
-        fc_pred10_se, ic_pred10_se, corrected,
-    )
-    out_path = OUT / "fig5.pdf"
-    fig.savefig(out_path, bbox_inches="tight")
-    print(f"Saved {out_path}")
+    long = common.fig5_long()
+    assert set(long["field"]) == set(common.FIELDS)
+    res, lines = fit_models(long)
+    means = decile_means(long)
+
+    res.to_csv(common.RESULTS / "fig5_models.csv", index=False)
+    lines.to_csv(common.RESULTS / "fig5_lines.csv", index=False)
+    means.to_csv(common.RESULTS / "fig5_decile_means.csv", index=False)
+
+    fig = make_figure(res, lines, means)
+    out = common.FIGURES / "fig5.pdf"
+    fig.savefig(out, bbox_inches="tight")
+    print(f"Saved {out}")
+
+    pd.set_option("display.width", 200)
+    show = res.copy()
+    for c in ["estimate", "ci_lower", "ci_upper"]:
+        show[c] = show[c].round(3)
+    print(show[["level", "quantity", "ref", "estimate", "ci_lower", "ci_upper", "p", "p_bh", "sig_bh_01",
+                "n_respondents", "n_clusters"]].to_string(index=False))
+    d10 = res[(res.level == POOLED) & (res.quantity == "diff10")].iloc[0]
+    n_sig = int(res.loc[res.quantity == "diff10", "sig_bh_01"].eq(True).sum())
+    print(f"\nPooled own - field difference at decile 10: {5 * d10.estimate:.2f} venues "
+          f"(95% CI {5 * d10.ci_lower:.2f} to {5 * d10.ci_upper:.2f}, p = {d10.p:.2g}); "
+          f"{n_sig} of {len(common.FIELDS)} fields significant after BH at alpha = {ALPHA_BH}")
 
 
 if __name__ == "__main__":

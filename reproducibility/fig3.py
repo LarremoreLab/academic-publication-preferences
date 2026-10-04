@@ -37,9 +37,11 @@ import pandas as pd
 # Paths
 # ---------------------------------------------------------------------------
 HERE = Path(__file__).parent
+sys.path.insert(0, str(HERE))
+import common  # noqa: E402
 PUBLIC = HERE.parent / "public_data"
 DERIVED = HERE / "derived"
-OUT_DIR = HERE / "fig3"
+OUT_DIR = common.FIGURES / "fig3"
 OUT_DIR.mkdir(exist_ok=True)
 
 # ---------------------------------------------------------------------------

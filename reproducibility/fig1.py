@@ -6,13 +6,14 @@ Inputs (all from public_data/):
   - venues.csv            — venue metadata including 'name'
 
 Output:
-  - fig1_rev.pdf  (written to the same directory as this script)
+  - reproducibility/output/figures/fig1.pdf
 
 Usage:
   cd <repo_root>
   .venv/bin/python reproducibility/fig1.py
 """
 
+import sys
 from pathlib import Path
 import numpy as np
 import pandas as pd
@@ -25,6 +26,8 @@ import seaborn as sns
 # Paths
 # ---------------------------------------------------------------------------
 HERE = Path(__file__).parent
+sys.path.insert(0, str(HERE))
+import common  # noqa: E402
 PUBLIC = HERE.parent / "public_data"
 
 # ---------------------------------------------------------------------------
@@ -437,6 +440,6 @@ for idx, ax in enumerate([ax_a, ax_b, ax_c]):
 # ---------------------------------------------------------------------------
 # Save
 # ---------------------------------------------------------------------------
-out_path = HERE / "fig1.pdf"
+out_path = common.FIGURES / "fig1.pdf"
 plt.savefig(out_path, bbox_inches="tight")
 print(f"Saved: {out_path}")

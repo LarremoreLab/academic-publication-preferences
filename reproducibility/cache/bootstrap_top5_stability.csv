@@ -1,0 +1,131 @@
+field,venue_db_id,name,share_of_replicates,in_full_sample_top5
+Biology,1647094,Science,1.0,True
+Biology,1647092,Nature,1.0,True
+Biology,1647108,PNAS,1.0,True
+Biology,1647607,Cell,1.0,True
+Biology,1649508,Molecular Cell,0.726,True
+Biology,1647243,Nature Communications,0.133,False
+Biology,1647722,Current Biology,0.065,False
+Biology,1648536,Neuron,0.038,False
+Biology,1650126,Trends in Ecology and Evolution,0.014,False
+Biology,1647649,The American Naturalist,0.009,False
+Biology,1649149,Nature Genetics,0.006,False
+Biology,1648390,Proceedings of The Royal Society B: Biological Sciences,0.006,False
+Biology,1650477,Nature Neuroscience,0.002,False
+Biology,1653112,Ecology Letters,0.001,False
+Business,1650616,Academy of Management Journal,1.0,True
+Business,1648613,Management Science,0.999,True
+Business,1649056,The American Economic Review,0.998,True
+Business,1653111,Administrative Science Quarterly,0.981,True
+Business,1651560,Academy of Management Review,0.609,True
+Business,1648193,Journal of Finance,0.253,False
+Business,1648203,Journal of Political Economy,0.074,False
+Business,1658795,The Accounting Review,0.043,False
+Business,1647094,Science,0.02,False
+Business,1653316,Strategic Management Journal,0.013,False
+Business,1650681,Quarterly Journal of Economics,0.006,False
+Business,1647092,Nature,0.003,False
+Business,1661981,Journal of Accounting and Economics,0.001,False
+Chemistry,1647094,Science,1.0,True
+Chemistry,1647092,Nature,1.0,True
+Chemistry,1647100,Journal of the American Chemical Society,1.0,True
+Chemistry,1647108,PNAS,1.0,True
+Chemistry,1647152,Angewandte Chemie International Edition,1.0,True
+Computer science,1647094,Science,1.0,True
+Computer science,1647092,Nature,0.999,True
+Computer science,1647841,ACM Conference on Human Factors in Computing Systems (CHI),0.974,True
+Computer science,1648191,Communications of The ACM,0.967,True
+Computer science,1655119,Journal of the ACM,0.393,True
+Computer science,1647108,PNAS,0.208,False
+Computer science,1648309,Conference on Computer Graphics and Interactive Techniques (SIGGRAPH),0.122,False
+Computer science,1653681,IEEE Annual Symposium on Foundations of Computer Science (FOCS),0.094,False
+Computer science,1648487,Conference on Neural Information Processing Systems (NeurIPS),0.072,False
+Computer science,1648047,Computer Vision and Pattern Recognition (CVPR),0.046,False
+Computer science,1648582,International Conference on Software Engineering (ICSE),0.045,False
+Computer science,1653092,Symposium on the Theory of Computing (STOC),0.032,False
+Computer science,1649636,International Conference on Machine Learning (ICML),0.016,False
+Computer science,1660495,"IEEE Symposium on Security and Privacy (SP, S&P, Oakland)",0.008,False
+Computer science,1664934,ACM-SIGPLAN Symposium on Programming Language Design and Implementation (PLDI),0.007,False
+Computer science,1662461,Symposium on Principles of Programming Languages (POPL),0.004,False
+Computer science,1653365,Annual ACM Conference on Computer and Communications Security (CCS),0.004,False
+Computer science,1651568,ACM International Conference on Management of Data (SIGMOD),0.003,False
+Computer science,1682650,USENIX Symposium on Operating Systems Design and Implementation (OSDI),0.002,False
+Computer science,1648971,Annual Meeting of the Association for Computational Linguistics (ACL),0.002,False
+Computer science,1674521,Symposium on Operating Systems Principles (SOSP),0.002,False
+Economics,1649056,The American Economic Review,1.0,True
+Economics,1648203,Journal of Political Economy,1.0,True
+Economics,1650681,Quarterly Journal of Economics,1.0,True
+Economics,1650343,Econometrica,1.0,True
+Economics,1653339,The Review of Economic Studies,1.0,True
+Engineering,1647094,Science,1.0,True
+Engineering,1647092,Nature,1.0,True
+Engineering,1647108,PNAS,1.0,True
+Engineering,1647185,Environmental Science & Technology,0.863,True
+Engineering,1647544,Journal of Fluid Mechanics,0.459,True
+Engineering,1647118,Physical Review Letters,0.382,False
+Engineering,1647243,Nature Communications,0.089,False
+Engineering,1647632,Water Research,0.078,False
+Engineering,1647459,Advanced Materials,0.057,False
+Engineering,1648992,Journal of Structural Engineering-asce,0.027,False
+Engineering,1647607,Cell,0.026,False
+Engineering,1664737,Annual Review of Fluid Mechanics,0.008,False
+Engineering,1647100,Journal of the American Chemical Society,0.006,False
+Engineering,1647803,Water Resources Research,0.003,False
+Engineering,1651363,Nature Materials,0.001,False
+Engineering,1648202,Engineering Structures,0.001,False
+History,1647120,The American Historical Review,1.0,True
+History,1647407,The Journal of American History,1.0,True
+History,1654571,Comparative Studies in Society and History,0.986,True
+History,1647094,Science,0.864,True
+History,1647092,Nature,0.771,True
+History,1648033,The Journal of Modern History,0.237,False
+History,1647911,"Annales. Histoire, Sciences Sociales",0.114,False
+History,1656099,Past & Present,0.022,False
+History,1647727,Isis,0.003,False
+History,1647561,Speculum,0.001,False
+History,1648975,William and Mary Quarterly,0.001,False
+History,1647108,PNAS,0.001,False
+Mathematics,1650953,Annals of Mathematics,1.0,True
+Mathematics,1652563,Inventiones Mathematicae,1.0,True
+Mathematics,1650692,Duke Mathematical Journal,0.988,True
+Mathematics,1658269,Acta Mathematica,0.973,True
+Mathematics,1649124,Advances in Mathematics,0.589,True
+Mathematics,1647092,Nature,0.259,False
+Mathematics,1647461,Transactions of the American Mathematical Society,0.133,False
+Mathematics,1663821,Journal of the American Mathematical Society,0.03,False
+Mathematics,1647094,Science,0.025,False
+Mathematics,1647543,Journal of the American Statistical Association,0.003,False
+Medicine,1647092,Nature,1.0,True
+Medicine,1647094,Science,1.0,True
+Medicine,1647125,The New England Journal of Medicine,1.0,True
+Medicine,1647097,JAMA,1.0,True
+Medicine,1647091,The Lancet,1.0,True
+Philosophy,1649107,The Philosophical Review,1.0,True
+Philosophy,1648119,Mind,1.0,True
+Philosophy,1649884,Philosophy and Phenomenological Research,0.999,True
+Philosophy,1656065,Noûs,0.999,True
+Philosophy,1648927,Ethics,0.938,True
+Philosophy,1647092,Nature,0.034,False
+Philosophy,1647094,Science,0.03,False
+Physics,1647094,Science,1.0,True
+Physics,1647092,Nature,1.0,True
+Physics,1647118,Physical Review Letters,1.0,True
+Physics,1647108,PNAS,0.996,True
+Physics,1647129,The Astrophysical Journal,0.504,False
+Physics,1654270,Reviews of Modern Physics,0.496,True
+Physics,1649748,The Astrophysical Journal Letters,0.004,False
+Psychology,1647094,Science,1.0,True
+Psychology,1647092,Nature,1.0,True
+Psychology,1647108,PNAS,1.0,True
+Psychology,1648890,Psychological Bulletin,0.978,True
+Psychology,1650354,Psychological Review,0.865,True
+Psychology,1651281,Psychological Science,0.154,False
+Psychology,1647792,American Psychologist,0.003,False
+Sociology,1648524,American Sociological Review,1.0,True
+Sociology,1647555,American Journal of Sociology,1.0,True
+Sociology,1647094,Science,1.0,True
+Sociology,1647092,Nature,0.982,True
+Sociology,1647709,Social Forces,0.648,True
+Sociology,1664286,Annual Review of Sociology,0.33,False
+Sociology,1647108,PNAS,0.036,False
+Sociology,1650744,Social Problems,0.004,False
