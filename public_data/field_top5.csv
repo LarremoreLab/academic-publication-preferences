@@ -1,0 +1,66 @@
+field,rank,venue_db_id,name,votes,n_respondents,share_in_consideration_sets
+Biology,1,1647094,Science,445,516,0.9476744186046512
+Biology,2,1647092,Nature,432,516,0.9166666666666666
+Biology,3,1647108,PNAS,301,516,0.939922480620155
+Biology,4,1647607,Cell,197,516,0.5406976744186046
+Biology,5,1649508,Molecular Cell,48,516,0.1860465116279069
+Business,1,1648613,Management Science,100,357,0.7619047619047619
+Business,2,1650616,Academy of Management Journal,97,357,0.4453781512605042
+Business,3,1649056,The American Economic Review,92,357,0.3557422969187675
+Business,4,1653111,Administrative Science Quarterly,88,357,0.4201680672268907
+Business,5,1651560,Academy of Management Review,72,357,0.3949579831932773
+Chemistry,1,1647094,Science,210,235,0.9361702127659576
+Chemistry,2,1647092,Nature,193,235,0.9148936170212766
+Chemistry,3,1647100,Journal of the American Chemical Society,138,235,0.8680851063829788
+Chemistry,4,1647108,PNAS,116,235,0.8425531914893617
+Chemistry,5,1647152,Angewandte Chemie International Edition,83,235,0.6893617021276596
+Computer science,1,1647092,Nature,46,219,0.2237442922374429
+Computer science,2,1647094,Science,43,219,0.2374429223744292
+Computer science,3,1647841,ACM Conference on Human Factors in Computing Systems (CHI),34,219,0.2557077625570776
+Computer science,4,1648191,Communications of The ACM,33,219,0.502283105022831
+Computer science,5,1655119,Journal of the ACM,23,219,0.2191780821917808
+Economics,1,1649056,The American Economic Review,199,224,0.9598214285714286
+Economics,2,1650681,Quarterly Journal of Economics,173,224,0.9285714285714286
+Economics,3,1648203,Journal of Political Economy,170,224,0.9330357142857144
+Economics,4,1650343,Econometrica,158,224,0.8928571428571429
+Economics,5,1653339,The Review of Economic Studies,99,224,0.9017857142857144
+Engineering,1,1647094,Science,134,255,0.6
+Engineering,2,1647092,Nature,129,255,0.615686274509804
+Engineering,3,1647108,PNAS,80,255,0.5137254901960784
+Engineering,4,1647185,Environmental Science & Technology,26,255,0.1686274509803921
+Engineering,5,1647544,Journal of Fluid Mechanics,21,255,0.1450980392156863
+History,1,1647120,The American Historical Review,120,210,0.638095238095238
+History,2,1647407,The Journal of American History,57,210,0.3142857142857143
+History,3,1654571,Comparative Studies in Society and History,39,210,0.3238095238095238
+History,4,1647094,Science,31,210,0.2
+History,5,1647092,Nature,29,210,0.1857142857142857
+Mathematics,1,1650953,Annals of Mathematics,115,215,0.5674418604651162
+Mathematics,2,1652563,Inventiones Mathematicae,91,215,0.5255813953488372
+Mathematics,3,1650692,Duke Mathematical Journal,52,215,0.4558139534883721
+Mathematics,4,1658269,Acta Mathematica,50,215,0.3441860465116279
+Mathematics,5,1649124,Advances in Mathematics,39,215,0.4604651162790698
+Medicine,1,1647092,Nature,75,122,0.7786885245901639
+Medicine,2,1647094,Science,73,122,0.7540983606557377
+Medicine,3,1647125,The New England Journal of Medicine,70,122,0.7295081967213115
+Medicine,4,1647097,JAMA,54,122,0.6475409836065574
+Medicine,5,1647091,The Lancet,48,122,0.6639344262295082
+Philosophy,1,1649107,The Philosophical Review,65,115,0.7043478260869566
+Philosophy,2,1648119,Mind,52,115,0.7130434782608696
+Philosophy,3,1649884,Philosophy and Phenomenological Research,42,115,0.6608695652173913
+Philosophy,4,1656065,Noûs,41,115,0.6260869565217392
+Philosophy,5,1648927,Ethics,32,115,0.4695652173913043
+Physics,1,1647092,Nature,232,301,0.8737541528239202
+Physics,2,1647094,Science,232,301,0.8803986710963455
+Physics,3,1647118,Physical Review Letters,188,301,0.8471760797342193
+Physics,4,1647108,PNAS,88,301,0.5614617940199336
+Physics,5,1654270,Reviews of Modern Physics,69,301,0.53156146179402
+Psychology,1,1647094,Science,280,428,0.7546728971962616
+Psychology,2,1647092,Nature,253,428,0.7383177570093458
+Psychology,3,1647108,PNAS,152,428,0.6191588785046729
+Psychology,4,1648890,Psychological Bulletin,96,428,0.544392523364486
+Psychology,5,1650354,Psychological Review,84,428,0.4953271028037383
+Sociology,1,1648524,American Sociological Review,174,313,0.6996805111821086
+Sociology,2,1647555,American Journal of Sociology,162,313,0.6900958466453674
+Sociology,3,1647094,Science,115,313,0.4824281150159744
+Sociology,4,1647092,Nature,93,313,0.4313099041533546
+Sociology,5,1647709,Social Forces,78,313,0.645367412140575
