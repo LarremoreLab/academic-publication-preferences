@@ -2,6 +2,8 @@
 
 **Ian Van Buskirk, Marilena Hohmann, Ekaterina Landgren, Johan Ugander, Aaron Clauset, Daniel B. Larremore**
 
+[![DOI](https://zenodo.org/badge/1169402630.svg)](https://doi.org/10.5281/zenodo.23694095)
+
 Preprint [arXiv:2603.00807](https://arxiv.org/abs/2603.00807)
 
 This repository contains the de-identified survey data and the code that reproduce every figure, supplementary table and in-text number of the paper that can be computed from shareable data. Start with [`public_data/`](#data) and [`reproducibility/run_all.py`](#reproducing-the-paper).
