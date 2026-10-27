@@ -8,10 +8,11 @@ where y is the field-normalized rank of the respondent's top preference (panel r
 aspiration (panel row B). "Academia" is the pooled model over all respondents with field fixed
 effects; the other rows are estimated within each field. Error bars are 95% confidence intervals
 with standard errors clustered by institution (t reference distribution). Colored markers are
-significant at alpha = 0.05 and open gray markers are not. The per-field Associate and Full
+significant at alpha = 0.05 and open gray markers are not; as in Fig. 4, preference is dark blue
+and aspiration light blue. The per-field Associate and Full
 coefficients are drawn in gray without significance coloring because the reference category,
-assistant professors, has fewer than ten respondents in most fields. Gender is women relative
-to men (not negated, unlike Fig. 4E-F). Fig. 4C-F shows the prestige and gender columns.
+assistant professors, has fewer than ten respondents in most fields. Gender coefficients are
+plotted as men minus women, as in Fig. 4E-F. Fig. 4C-F shows the prestige and gender columns.
 
 Sample: the Eq. S1 sample (common.eqs1_sample; N = 2,196 professors at 258 institutions).
 
@@ -28,6 +29,7 @@ from pathlib import Path
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
+import numpy as np  # noqa: E402
 import pandas as pd  # noqa: E402
 from matplotlib.lines import Line2D  # noqa: E402
 from matplotlib.patches import ConnectionPatch  # noqa: E402
@@ -71,8 +73,8 @@ res = pd.DataFrame({"coefficient": coefs["estimate"].values, "p-value": coefs["p
 # ---------------------------------------------------------------------------
 # Colors and font settings
 # ---------------------------------------------------------------------------
-myblue   = "#1F3C88"
-myyellow = "#E4B700"
+C_LIGHT = np.array([107, 171, 250]) / 255   # light blue (aspirations), as in fig4.py
+C_DARK  = C_LIGHT * 0.55                     # dark blue  (preferences)
 
 plt.rcParams["font.family"]     = "Arial"
 plt.rcParams["font.size"]       = 16
@@ -108,6 +110,14 @@ def plot_full_regression_results(axes, result_df, venue_type, outcome_type,
         )
         to_plot = to_plot.sort_values("sort")
 
+        # Negate gender coefficients to show men − women (as in fig4.py)
+        if rank_index == "Gender":
+            to_plot["coefficient"] = -to_plot["coefficient"]
+            to_plot["ci_lower"], to_plot["ci_upper"] = (
+                -to_plot["ci_upper"].copy(),
+                -to_plot["ci_lower"].copy(),
+            )
+
         colors     = ["white" if p > 0.05 else custom_color for p in to_plot["p-value"]]
         edgecolors = ["grey"  if p > 0.05 else custom_color for p in to_plot["p-value"]]
         # Per-field career-stage coefficients in neutral gray, no significance coloring
@@ -140,7 +150,7 @@ def plot_full_regression_results(axes, result_df, venue_type, outcome_type,
             axes[i].set_xlim(-0.025, 0.051)  # 10 = most prestigious
 
     axes[0].set_title("Prestige",   fontsize="medium")
-    axes[1].set_title("Gender",     fontsize="medium")
+    axes[1].set_title("Gender (men − women)", fontsize="medium")
     axes[2].set_title("Associate",  fontsize="medium")
     axes[3].set_title("Full",       fontsize="medium")
 
@@ -199,9 +209,9 @@ fig_si, axs_si = plt.subplots(
 )
 
 plot_full_regression_results(axs_si[0], res, "top_ranked_venue", outcome,
-                              myblue,   "A: Top Preference")
+                              C_DARK,   "A: Top Preference")
 plot_full_regression_results(axs_si[1], res, "top_init",         outcome,
-                              myyellow, "B: Top Aspiration")
+                              C_LIGHT,  "B: Top Aspiration")
 
 fig_si.subplots_adjust(left=0.31, bottom=0.05)
 
